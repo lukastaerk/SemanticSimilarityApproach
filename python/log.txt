@@ -1,0 +1,323 @@
+Collecting guidedlda
+  Using cached https://files.pythonhosted.org/packages/f8/ee/6d6e2b3525388399e12a4482554c7529a5fcf5e99c50a60abaa02894b8bf/guidedlda-2.0.0.dev22.tar.gz
+Requirement already satisfied: numpy in /Users/lukastaerk/Library/Python/3.7/lib/python/site-packages (from guidedlda) (1.16.1)
+Building wheels for collected packages: guidedlda
+  Running setup.py bdist_wheel for guidedlda: started
+  Running setup.py bdist_wheel for guidedlda: finished with status 'error'
+  Complete output from command /usr/local/opt/python/bin/python3.7 -u -c "import setuptools, tokenize;__file__='/private/var/folders/b7/fjr_47_n3sgfv66r1mnhy9bscxt718/T/pip-install-ndw0j26e/guidedlda/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" bdist_wheel -d /private/var/folders/b7/fjr_47_n3sgfv66r1mnhy9bscxt718/T/pip-wheel-m448u8o4 --python-tag cp37:
+  running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build/lib.macosx-10.13-x86_64-3.7
+  creating build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  creating build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/__init__.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_datasets.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_guidedlda_nyt.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_lda.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_lda_reuters.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_lda_sparse.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_lda_transform.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/test_utils.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/__init__.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/_setup_hooks.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/datasets.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/guidedlda.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/utils.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  running egg_info
+  writing guidedlda.egg-info/PKG-INFO
+  writing dependency_links to guidedlda.egg-info/dependency_links.txt
+  writing requirements to guidedlda.egg-info/requires.txt
+  writing top-level names to guidedlda.egg-info/top_level.txt
+  [pbr] Reusing existing SOURCES.txt
+  copying guidedlda/tests/nyt.ldac -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/nyt.titles -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/nyt.tokens -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/reuters.ldac -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/reuters.titles -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/tests/reuters.tokens -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+  copying guidedlda/_guidedlda.c -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/_guidedlda.pyx -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/gamma.c -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  copying guidedlda/gamma.h -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+  running build_ext
+  building 'guidedlda._guidedlda' extension
+  creating build/temp.macosx-10.13-x86_64-3.7
+  creating build/temp.macosx-10.13-x86_64-3.7/guidedlda
+  clang -Wno-unused-result -Wsign-compare -Wunreachable-code -fno-common -dynamic -DNDEBUG -g -fwrapv -O3 -Wall -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Tk.framework/Versions/8.5/Headers -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m -c guidedlda/_guidedlda.c -o build/temp.macosx-10.13-x86_64-3.7/guidedlda/_guidedlda.o
+  guidedlda/_guidedlda.c:1944:13: warning: code will never be executed [-Wunreachable-code]
+    __pyx_r = 0;
+              ^
+  guidedlda/_guidedlda.c:18745:21: error: no member named 'exc_type' in 'struct _ts'
+      *type = tstate->exc_type;
+              ~~~~~~  ^
+  guidedlda/_guidedlda.c:18746:22: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+      *value = tstate->exc_value;
+                       ^~~~~~~~~
+                       curexc_value
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+      PyObject *curexc_value;
+                ^
+  guidedlda/_guidedlda.c:18747:19: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+      *tb = tstate->exc_traceback;
+                    ^~~~~~~~~~~~~
+                    curexc_traceback
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+      PyObject *curexc_traceback;
+                ^
+  guidedlda/_guidedlda.c:18754:24: error: no member named 'exc_type' in 'struct _ts'
+      tmp_type = tstate->exc_type;
+                 ~~~~~~  ^
+  guidedlda/_guidedlda.c:18755:25: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+      tmp_value = tstate->exc_value;
+                          ^~~~~~~~~
+                          curexc_value
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+      PyObject *curexc_value;
+                ^
+  guidedlda/_guidedlda.c:18756:22: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+      tmp_tb = tstate->exc_traceback;
+                       ^~~~~~~~~~~~~
+                       curexc_traceback
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+      PyObject *curexc_traceback;
+                ^
+  guidedlda/_guidedlda.c:18757:13: error: no member named 'exc_type' in 'struct _ts'
+      tstate->exc_type = type;
+      ~~~~~~  ^
+  guidedlda/_guidedlda.c:18758:13: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+      tstate->exc_value = value;
+              ^~~~~~~~~
+              curexc_value
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+      PyObject *curexc_value;
+                ^
+  guidedlda/_guidedlda.c:18759:13: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+      tstate->exc_traceback = tb;
+              ^~~~~~~~~~~~~
+              curexc_traceback
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+      PyObject *curexc_traceback;
+                ^
+  guidedlda/_guidedlda.c:18814:24: error: no member named 'exc_type' in 'struct _ts'
+      tmp_type = tstate->exc_type;
+                 ~~~~~~  ^
+  guidedlda/_guidedlda.c:18815:25: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+      tmp_value = tstate->exc_value;
+                          ^~~~~~~~~
+                          curexc_value
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+      PyObject *curexc_value;
+                ^
+  guidedlda/_guidedlda.c:18816:22: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+      tmp_tb = tstate->exc_traceback;
+                       ^~~~~~~~~~~~~
+                       curexc_traceback
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+      PyObject *curexc_traceback;
+                ^
+  guidedlda/_guidedlda.c:18817:13: error: no member named 'exc_type' in 'struct _ts'
+      tstate->exc_type = local_type;
+      ~~~~~~  ^
+  guidedlda/_guidedlda.c:18818:13: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+      tstate->exc_value = local_value;
+              ^~~~~~~~~
+              curexc_value
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+      PyObject *curexc_value;
+                ^
+  guidedlda/_guidedlda.c:18819:13: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+      tstate->exc_traceback = local_tb;
+              ^~~~~~~~~~~~~
+              curexc_traceback
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+      PyObject *curexc_traceback;
+                ^
+  guidedlda/_guidedlda.c:18841:24: error: no member named 'exc_type' in 'struct _ts'
+      tmp_type = tstate->exc_type;
+                 ~~~~~~  ^
+  guidedlda/_guidedlda.c:18842:25: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+      tmp_value = tstate->exc_value;
+                          ^~~~~~~~~
+                          curexc_value
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+      PyObject *curexc_value;
+                ^
+  guidedlda/_guidedlda.c:18843:22: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+      tmp_tb = tstate->exc_traceback;
+                       ^~~~~~~~~~~~~
+                       curexc_traceback
+  /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+      PyObject *curexc_traceback;
+                ^
+  guidedlda/_guidedlda.c:18844:13: error: no member named 'exc_type' in 'struct _ts'
+      tstate->exc_type = *type;
+      ~~~~~~  ^
+  fatal error: too many errors emitted, stopping now [-ferror-limit=]
+  1 warning and 20 errors generated.
+  error: command 'clang' failed with exit status 1
+  
+  ----------------------------------------
+  Running setup.py clean for guidedlda
+Failed to build guidedlda
+Installing collected packages: guidedlda
+  Running setup.py install for guidedlda: started
+    Running setup.py install for guidedlda: finished with status 'error'
+    Complete output from command /usr/local/opt/python/bin/python3.7 -u -c "import setuptools, tokenize;__file__='/private/var/folders/b7/fjr_47_n3sgfv66r1mnhy9bscxt718/T/pip-install-ndw0j26e/guidedlda/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" install --record /private/var/folders/b7/fjr_47_n3sgfv66r1mnhy9bscxt718/T/pip-record-5vq1fizl/install-record.txt --single-version-externally-managed --compile:
+    running install
+    [pbr] Generating AUTHORS
+    [pbr] AUTHORS complete (0.0s)
+    running build
+    running build_py
+    creating build
+    creating build/lib.macosx-10.13-x86_64-3.7
+    creating build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/__init__.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/_setup_hooks.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/datasets.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/guidedlda.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/utils.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    creating build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/__init__.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_datasets.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_guidedlda_nyt.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_lda.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_lda_reuters.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_lda_sparse.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_lda_transform.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/test_utils.py -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    running egg_info
+    writing guidedlda.egg-info/PKG-INFO
+    writing dependency_links to guidedlda.egg-info/dependency_links.txt
+    writing requirements to guidedlda.egg-info/requires.txt
+    writing top-level names to guidedlda.egg-info/top_level.txt
+    [pbr] Reusing existing SOURCES.txt
+    copying guidedlda/_guidedlda.c -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/_guidedlda.pyx -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/gamma.c -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/gamma.h -> build/lib.macosx-10.13-x86_64-3.7/guidedlda
+    copying guidedlda/tests/nyt.ldac -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/nyt.titles -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/nyt.tokens -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/reuters.ldac -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/reuters.titles -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    copying guidedlda/tests/reuters.tokens -> build/lib.macosx-10.13-x86_64-3.7/guidedlda/tests
+    running build_ext
+    building 'guidedlda._guidedlda' extension
+    creating build/temp.macosx-10.13-x86_64-3.7
+    creating build/temp.macosx-10.13-x86_64-3.7/guidedlda
+    clang -Wno-unused-result -Wsign-compare -Wunreachable-code -fno-common -dynamic -DNDEBUG -g -fwrapv -O3 -Wall -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Tk.framework/Versions/8.5/Headers -I/usr/local/include -I/usr/local/opt/openssl/include -I/usr/local/opt/sqlite/include -I/usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m -c guidedlda/_guidedlda.c -o build/temp.macosx-10.13-x86_64-3.7/guidedlda/_guidedlda.o
+    guidedlda/_guidedlda.c:1944:13: warning: code will never be executed [-Wunreachable-code]
+      __pyx_r = 0;
+                ^
+    guidedlda/_guidedlda.c:18745:21: error: no member named 'exc_type' in 'struct _ts'
+        *type = tstate->exc_type;
+                ~~~~~~  ^
+    guidedlda/_guidedlda.c:18746:22: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+        *value = tstate->exc_value;
+                         ^~~~~~~~~
+                         curexc_value
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+        PyObject *curexc_value;
+                  ^
+    guidedlda/_guidedlda.c:18747:19: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+        *tb = tstate->exc_traceback;
+                      ^~~~~~~~~~~~~
+                      curexc_traceback
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+        PyObject *curexc_traceback;
+                  ^
+    guidedlda/_guidedlda.c:18754:24: error: no member named 'exc_type' in 'struct _ts'
+        tmp_type = tstate->exc_type;
+                   ~~~~~~  ^
+    guidedlda/_guidedlda.c:18755:25: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+        tmp_value = tstate->exc_value;
+                            ^~~~~~~~~
+                            curexc_value
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+        PyObject *curexc_value;
+                  ^
+    guidedlda/_guidedlda.c:18756:22: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+        tmp_tb = tstate->exc_traceback;
+                         ^~~~~~~~~~~~~
+                         curexc_traceback
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+        PyObject *curexc_traceback;
+                  ^
+    guidedlda/_guidedlda.c:18757:13: error: no member named 'exc_type' in 'struct _ts'
+        tstate->exc_type = type;
+        ~~~~~~  ^
+    guidedlda/_guidedlda.c:18758:13: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+        tstate->exc_value = value;
+                ^~~~~~~~~
+                curexc_value
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+        PyObject *curexc_value;
+                  ^
+    guidedlda/_guidedlda.c:18759:13: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+        tstate->exc_traceback = tb;
+                ^~~~~~~~~~~~~
+                curexc_traceback
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+        PyObject *curexc_traceback;
+                  ^
+    guidedlda/_guidedlda.c:18814:24: error: no member named 'exc_type' in 'struct _ts'
+        tmp_type = tstate->exc_type;
+                   ~~~~~~  ^
+    guidedlda/_guidedlda.c:18815:25: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+        tmp_value = tstate->exc_value;
+                            ^~~~~~~~~
+                            curexc_value
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+        PyObject *curexc_value;
+                  ^
+    guidedlda/_guidedlda.c:18816:22: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+        tmp_tb = tstate->exc_traceback;
+                         ^~~~~~~~~~~~~
+                         curexc_traceback
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+        PyObject *curexc_traceback;
+                  ^
+    guidedlda/_guidedlda.c:18817:13: error: no member named 'exc_type' in 'struct _ts'
+        tstate->exc_type = local_type;
+        ~~~~~~  ^
+    guidedlda/_guidedlda.c:18818:13: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+        tstate->exc_value = local_value;
+                ^~~~~~~~~
+                curexc_value
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+        PyObject *curexc_value;
+                  ^
+    guidedlda/_guidedlda.c:18819:13: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+        tstate->exc_traceback = local_tb;
+                ^~~~~~~~~~~~~
+                curexc_traceback
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+        PyObject *curexc_traceback;
+                  ^
+    guidedlda/_guidedlda.c:18841:24: error: no member named 'exc_type' in 'struct _ts'
+        tmp_type = tstate->exc_type;
+                   ~~~~~~  ^
+    guidedlda/_guidedlda.c:18842:25: error: no member named 'exc_value' in 'struct _ts'; did you mean 'curexc_value'?
+        tmp_value = tstate->exc_value;
+                            ^~~~~~~~~
+                            curexc_value
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:237:15: note: 'curexc_value' declared here
+        PyObject *curexc_value;
+                  ^
+    guidedlda/_guidedlda.c:18843:22: error: no member named 'exc_traceback' in 'struct _ts'; did you mean 'curexc_traceback'?
+        tmp_tb = tstate->exc_traceback;
+                         ^~~~~~~~~~~~~
+                         curexc_traceback
+    /usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/include/python3.7m/pystate.h:238:15: note: 'curexc_traceback' declared here
+        PyObject *curexc_traceback;
+                  ^
+    guidedlda/_guidedlda.c:18844:13: error: no member named 'exc_type' in 'struct _ts'
+        tstate->exc_type = *type;
+        ~~~~~~  ^
+    fatal error: too many errors emitted, stopping now [-ferror-limit=]
+    1 warning and 20 errors generated.
+    error: command 'clang' failed with exit status 1
+    
+    ----------------------------------------
