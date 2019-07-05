@@ -1,0 +1,1989 @@
+[
+  {
+    "concepts": [
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 30,
+        "resource": "http://dbpedia.org/resource/Business",
+        "text": "businesses"
+      },
+      {
+        "offset": 44,
+        "resource": "http://dbpedia.org/resource/Self-employment",
+        "text": "self employed people"
+      },
+      {
+        "offset": 68,
+        "resource": "http://dbpedia.org/resource/Advertising",
+        "text": "advertise"
+      },
+      {
+        "offset": 81,
+        "resource": "http://dbpedia.org/resource/Real_estate_broker",
+        "text": "realtor"
+      },
+      {
+        "offset": 101,
+        "resource": "http://dbpedia.org/resource/Address",
+        "text": "house address"
+      },
+      {
+        "offset": 120,
+        "resource": "http://dbpedia.org/resource/Hairdresser",
+        "text": "hairdresser"
+      },
+      {
+        "offset": 135,
+        "resource": "http://dbpedia.org/resource/Restaurant",
+        "text": "restaurant"
+      },
+      {
+        "offset": 158,
+        "resource": "http://dbpedia.org/resource/Sales_promotion",
+        "text": "daily special"
+      },
+      {
+        "offset": 175,
+        "resource": "http://dbpedia.org/resource/Coupon",
+        "text": "coupon code"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 44,
+        "resource": "http://dbpedia.org/resource/Self-employment",
+        "text": "self employed"
+      },
+      {
+        "offset": 58,
+        "resource": "http://dbpedia.org/resource/People",
+        "text": "people"
+      },
+      {
+        "offset": 81,
+        "resource": "http://dbpedia.org/resource/Estate_agent",
+        "text": "realtor"
+      },
+      {
+        "offset": 101,
+        "resource": "http://dbpedia.org/resource/House",
+        "text": "house"
+      },
+      {
+        "offset": 158,
+        "resource": "http://dbpedia.org/resource/Menu",
+        "text": "daily special"
+      },
+      {
+        "offset": 175,
+        "resource": "http://dbpedia.org/resource/Coupon",
+        "text": "coupon"
+      }
+    ],
+    "text": "You could put it on a car for businesses or self employed people to advertise. A realtor could add a house address or a hairdresser or restaurant could put a daily special or coupon code."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 4,
+        "resource": "http://dbpedia.org/resource/Wall",
+        "text": "walls"
+      },
+      {
+        "offset": 13,
+        "resource": "http://dbpedia.org/resource/School",
+        "text": "schools"
+      },
+      {
+        "offset": 30,
+        "resource": "http://dbpedia.org/resource/Educational_technology",
+        "text": "interactive flashcards"
+      },
+      {
+        "offset": 42,
+        "resource": "http://dbpedia.org/resource/Flashcard",
+        "text": "flashcards"
+      }
+    ],
+    "text": "The walls of schools could be interactive flashcards."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Kitchen_stove",
+        "text": "stove"
+      },
+      {
+        "offset": 29,
+        "resource": "http://dbpedia.org/resource/Cooking",
+        "text": "making new recipes"
+      },
+      {
+        "offset": 40,
+        "resource": "http://dbpedia.org/resource/Recipe",
+        "text": "recipes"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 29,
+        "resource": "http://dbpedia.org/resource/Cooking",
+        "text": "making"
+      }
+    ],
+    "text": "Above the stove to help when making new recipes"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 25,
+        "resource": "http://dbpedia.org/resource/Car_glass",
+        "text": "car windows"
+      },
+      {
+        "offset": 29,
+        "resource": "http://dbpedia.org/resource/Smart_glass",
+        "text": "windows"
+      },
+      {
+        "offset": 72,
+        "resource": "http://dbpedia.org/resource/Privacy",
+        "text": "privacy"
+      },
+      {
+        "offset": 128,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 25,
+        "resource": "http://dbpedia.org/resource/Windshield",
+        "text": "car windows"
+      },
+      {
+        "offset": 107,
+        "resource": "http://dbpedia.org/resource/Sun_visor",
+        "text": "sun glare"
+      },
+      {
+        "offset": 111,
+        "resource": "http://dbpedia.org/resource/Glare_(vision)",
+        "text": "glare"
+      }
+    ],
+    "text": "You could put it on your car windows to make them darker or lighter for privacy, that would also help with sun glare, you could touch the spot where the sun is shining in your eyes."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "Touchscreen"
+      },
+      {
+        "offset": 32,
+        "resource": "http://dbpedia.org/resource/Smart_refrigerator",
+        "text": "refrigerator"
+      },
+      {
+        "offset": 50,
+        "resource": "http://dbpedia.org/resource/Personal_information_management",
+        "text": "automatically keeps track of contents"
+      },
+      {
+        "offset": 92,
+        "resource": "http://dbpedia.org/resource/Notification_system",
+        "text": "alerts"
+      },
+      {
+        "offset": 99,
+        "resource": "http://dbpedia.org/resource/Occupancy",
+        "text": "people in the home"
+      },
+      {
+        "offset": 113,
+        "resource": "http://dbpedia.org/resource/Home",
+        "text": "home"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 32,
+        "resource": "http://dbpedia.org/resource/Refrigerator",
+        "text": "refrigerator"
+      }
+    ],
+    "text": "Touchscreen on the outside of a refrigerator that automatically keeps track of contents and alerts people in the home when something is close to running out."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchsreen"
+      },
+      {
+        "offset": 32,
+        "resource": "http://dbpedia.org/resource/Wardrobe",
+        "text": "wardrobe"
+      },
+      {
+        "offset": 72,
+        "resource": "http://dbpedia.org/resource/Clothing",
+        "text": "outfits"
+      },
+      {
+        "offset": 94,
+        "resource": "http://dbpedia.org/resource/Clothing",
+        "text": "outfits"
+      },
+      {
+        "offset": 106,
+        "resource": "http://dbpedia.org/resource/Daily_wear",
+        "text": "daily wear"
+      },
+      {
+        "offset": 121,
+        "resource": "http://dbpedia.org/resource/Dress_code",
+        "text": "different occasions"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 41,
+        "resource": "http://dbpedia.org/resource/Door",
+        "text": "door"
+      }
+    ],
+    "text": "I would have a touchsreen on my wardrobe door that helps me co-ordinate outfits and different outfits for daily wear and different occasions."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchscreen"
+      },
+      {
+        "offset": 12,
+        "resource": "http://dbpedia.org/resource/Menu",
+        "text": "menu"
+      },
+      {
+        "offset": 20,
+        "resource": "http://dbpedia.org/resource/Restaurant",
+        "text": "restaurants"
+      }
+    ],
+    "text": "touchscreen menu in restaurants to show details on items"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 21,
+        "resource": "http://dbpedia.org/resource/Wallet",
+        "text": "wallet"
+      },
+      {
+        "offset": 21,
+        "resource": "http://dbpedia.org/resource/Wearable_technology",
+        "text": "wallet"
+      },
+      {
+        "offset": 44,
+        "resource": "http://dbpedia.org/resource/Money",
+        "text": "cash"
+      },
+      {
+        "discuss": true,
+        "offset": 31,
+        "resource": "http://dbpedia.org/resource/Quantified_self",
+        "text": "keep up"
+      }
+    ],
+    "text": "Use on front of your wallet to keep up with cash you've used while shopping"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coating"
+      },
+      {
+        "offset": 28,
+        "resource": "http://dbpedia.org/resource/Smartglasses",
+        "text": "eye-glasses"
+      },
+      {
+        "offset": 56,
+        "resource": "http://dbpedia.org/resource/Access_to_information",
+        "text": "access to information"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 28,
+        "resource": "http://dbpedia.org/resource/Wearable_technology",
+        "text": "eye-glasses"
+      },
+      {
+        "offset": 28,
+        "resource": "http://dbpedia.org/resource/Glasses",
+        "text": "eye-glasses"
+      }
+    ],
+    "text": "A coating can be applied to eye-glasses to provide easy access to information."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "Touchscreen"
+      },
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Educational_technology",
+        "text": "Touchscreen desk"
+      },
+      {
+        "offset": 12,
+        "resource": "http://dbpedia.org/resource/Desk",
+        "text": "desk"
+      },
+      {
+        "offset": 21,
+        "resource": "http://dbpedia.org/resource/School",
+        "text": "schools"
+      },
+      {
+        "offset": 34,
+        "resource": "http://dbpedia.org/resource/Student",
+        "text": "students"
+      }
+    ],
+    "text": "Touchscreen desk for schools that students can write on or answer questions"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 18,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coating"
+      },
+      {
+        "offset": 31,
+        "resource": "http://dbpedia.org/resource/Punching_bag",
+        "text": "boxing heavy bag"
+      },
+      {
+        "offset": 58,
+        "resource": "http://dbpedia.org/resource/Force_gauge",
+        "text": "measure the speed of the punch and power"
+      }
+    ],
+    "text": "I would place the coating on a boxing heavy bag. It would measure the speed of the punch and power of it as well. It would count the number of punches as well. It would give feedback in order to perfect your technique."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 4,
+        "resource": "http://dbpedia.org/resource/Picture_frame",
+        "text": "picture frames"
+      },
+      {
+        "offset": 56,
+        "resource": "http://dbpedia.org/resource/Digital_photo_frame",
+        "text": "smart photo frames"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 19,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coated"
+      },
+      {
+        "offset": 68,
+        "resource": "http://dbpedia.org/resource/Picture_frame",
+        "text": "photo frames"
+      }
+    ],
+    "text": "old picture frames coated in this material would become smart photo frames"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coating"
+      },
+      {
+        "offset": 13,
+        "resource": "http://dbpedia.org/resource/Floor",
+        "text": "flooring"
+      },
+      {
+        "offset": 61,
+        "resource": "http://dbpedia.org/resource/Sensing_floor",
+        "text": "interactive floor"
+      },
+      {
+        "offset": 61,
+        "resource": "http://dbpedia.org/resource/Interactive_visualization",
+        "text": "interactive floor images"
+      }
+    ],
+    "text": "A coating on flooring to allow for customizable and possibly interactive floor images that would be fun for others to play with."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 8,
+        "resource": "http://dbpedia.org/resource/Organic_user_interface",
+        "text": "coating on medicine bottles"
+      },
+      {
+        "offset": 8,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coating"
+      },
+      {
+        "offset": 19,
+        "resource": "http://dbpedia.org/resource/Drug_packaging",
+        "text": "medicine bottles"
+      },
+      {
+        "offset": 19,
+        "resource": "http://dbpedia.org/resource/Health_information_technology",
+        "text": "medicine bottles"
+      },
+      {
+        "offset": 74,
+        "resource": "http://dbpedia.org/resource/Medication",
+        "text": "medication"
+      },
+      {
+        "offset": 89,
+        "resource": "http://dbpedia.org/resource/Dosing",
+        "text": "dosing"
+      }
+    ],
+    "text": "Use the coating on medicine bottles to have all the information about the medication and dosing."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 9,
+        "resource": "http://dbpedia.org/resource/Virtual_assistant",
+        "text": "personal shopper"
+      },
+      {
+        "offset": 30,
+        "resource": "http://dbpedia.org/resource/Family",
+        "text": "family"
+      },
+      {
+        "offset": 41,
+        "resource": "http://dbpedia.org/resource/Friendship",
+        "text": "friends"
+      },
+      {
+        "offset": 65,
+        "resource": "http://dbpedia.org/resource/Clothing_sizes",
+        "text": "sizes"
+      },
+      {
+        "offset": 72,
+        "resource": "http://dbpedia.org/resource/Color_preferences",
+        "text": "favorite colors"
+      },
+      {
+        "offset": 101,
+        "resource": "http://dbpedia.org/resource/Preference",
+        "text": "preferences"
+      }
+    ],
+    "text": "Create a personal shopper for family and friends that would list sizes, favorite colors and personal preferences in items."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 21,
+        "resource": "http://dbpedia.org/resource/Road",
+        "text": "roads"
+      },
+      {
+        "offset": 40,
+        "resource": "http://dbpedia.org/resource/Speed_limit",
+        "text": "speed"
+      },
+      {
+        "offset": 118,
+        "resource": "http://dbpedia.org/resource/Haptic_technology",
+        "text": "feedback"
+      },
+      {
+        "offset": 161,
+        "resource": "http://dbpedia.org/resource/Driving",
+        "text": "drive"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 40,
+        "resource": "http://dbpedia.org/resource/Speed",
+        "text": "speed"
+      }
+    ],
+    "text": "It can be sprayed on roads where people speed . That way when they rollover that part of the road it will give them a feedback of how fast they are going and to drive slower"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch screen"
+      },
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Water_bottle",
+        "text": "water bottle"
+      },
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Wearable_technology",
+        "text": "touch screen water bottle"
+      },
+      {
+        "offset": 34,
+        "resource": "http://dbpedia.org/resource/Reminder_software",
+        "text": "reminds"
+      },
+      {
+        "offset": 49,
+        "resource": "http://dbpedia.org/resource/Fluid_balance",
+        "text": "drink more"
+      },
+      {
+        "offset": 71,
+        "resource": "http://dbpedia.org/resource/Weather_forecasting",
+        "text": "weather forecast"
+      },
+      {
+        "offset": 94,
+        "resource": "http://dbpedia.org/resource/Access_to_information",
+        "text": "showing"
+      }
+    ],
+    "text": "A touch screen water bottle, that reminds you to drink more, and shows weather forecast, also showing current water level and water temperature."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 25,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 38,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch display"
+      },
+      {
+        "offset": 82,
+        "resource": "http://dbpedia.org/resource/Car_seat",
+        "text": "seat"
+      },
+      {
+        "offset": 38,
+        "resource": "http://dbpedia.org/resource/Touch_switch",
+        "text": "touch"
+      },
+      {
+        "offset": 131,
+        "resource": "http://dbpedia.org/resource/Door",
+        "text": "doors"
+      },
+      {
+        "offset": 144,
+        "resource": "http://dbpedia.org/resource/Trunk_(car)",
+        "text": "hatch"
+      },
+      {
+        "offset": 38,
+        "resource": "http://dbpedia.org/resource/Touch_switch",
+        "text": "touch"
+      },
+      {
+        "offset": 190,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 38,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch display"
+      },
+      {
+        "offset": 227,
+        "resource": "http://dbpedia.org/resource/Car_controls",
+        "text": "pedals"
+      }
+    ],
+    "text": "You could make an entire car interior touch display, like if you want to move the seat backs it uses touch or if you want open the doors or the hatch it works with touch . Everything in the car will be a touch display even the pedals"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Gym",
+        "text": "gym"
+      },
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Exercise_equipment",
+        "text": "gym equipment"
+      },
+      {
+        "offset": 60,
+        "resource": "http://dbpedia.org/resource/Weight_training",
+        "text": "weight"
+      }
+    ],
+    "text": "This could be used on gym equipment to instantly change the weight being used."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 14,
+        "resource": "http://dbpedia.org/resource/Lumber",
+        "text": "board"
+      },
+      {
+        "offset": 33,
+        "resource": "http://dbpedia.org/resource/Outdoor_cinema",
+        "text": "outdoor theater"
+      }
+    ],
+    "text": "Paint a large board to use as an outdoor theater"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 20,
+        "resource": "http://dbpedia.org/resource/Desk",
+        "text": "desks"
+      },
+      {
+        "offset": 37,
+        "resource": "http://dbpedia.org/resource/Computer_monitor",
+        "text": "monitors"
+      }
+    ],
+    "text": "It could be used on desks instead of monitors."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "Coat"
+      },
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Computer",
+        "text": "computer"
+      },
+      {
+        "offset": 49,
+        "resource": "http://dbpedia.org/resource/Datasheet",
+        "text": "specs"
+      },
+      {
+        "offset": 62,
+        "resource": "http://dbpedia.org/resource/Computer",
+        "text": "machine"
+      },
+      {
+        "offset": 79,
+        "resource": "http://dbpedia.org/resource/Graphics_processing_unit",
+        "text": "graphics"
+      },
+      {
+        "offset": 89,
+        "resource": "http://dbpedia.org/resource/Central_processing_unit",
+        "text": "cpu"
+      },
+      {
+        "offset": 97,
+        "resource": "http://dbpedia.org/resource/Random-access_memory",
+        "text": "ram"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 79,
+        "resource": "http://dbpedia.org/resource/Video_card",
+        "text": "graphics"
+      }
+    ],
+    "text": "Coat some on a computer and it will tell you the specs of the machine like its graphics, cpu and ram"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 8,
+        "resource": "http://dbpedia.org/resource/Transparency_and_translucency",
+        "text": "transparent"
+      },
+      {
+        "offset": 20,
+        "resource": "http://dbpedia.org/resource/Computer_keyboard",
+        "text": "keyboard"
+      }
+    ],
+    "text": "A fully transparent keyboard that can be used to do anything."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "Coat"
+      },
+      {
+        "offset": 5,
+        "resource": "http://dbpedia.org/resource/Smartglasses",
+        "text": "glasses"
+      },
+      {
+        "offset": 27,
+        "resource": "http://dbpedia.org/resource/Opacity_(optics)",
+        "text": "darken"
+      },
+      {
+        "offset": 44,
+        "resource": "http://dbpedia.org/resource/Sunglasses",
+        "text": "sunglasses"
+      },
+      {
+        "offset": 60,
+        "resource": "http://dbpedia.org/resource/Message",
+        "text": "messages"
+      },
+      {
+        "offset": 75,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "displayed"
+      },
+      {
+        "offset": 88,
+        "resource": "http://dbpedia.org/resource/Personalization",
+        "text": "personalize"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 5,
+        "resource": "http://dbpedia.org/resource/Glasses",
+        "text": "glasses"
+      },
+      {
+        "offset": 5,
+        "resource": "http://dbpedia.org/resource/Smart_glass",
+        "text": "glasses"
+      },
+      {
+        "offset": 5,
+        "resource": "http://dbpedia.org/resource/Wearable_technology",
+        "text": "glasses"
+      }
+    ],
+    "text": "Coat glasses with it - can darken to become sunglasses, add messages to be displayed to personalize."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Headphones",
+        "text": "Earbud"
+      },
+      {
+        "offset": 11,
+        "resource": "http://dbpedia.org/resource/Headphones",
+        "text": "headphone"
+      },
+      {
+        "offset": 21,
+        "resource": "http://dbpedia.org/resource/Electrical_cable",
+        "text": "cables"
+      },
+      {
+        "offset": 44,
+        "resource": "http://dbpedia.org/resource/Gesture_recognition",
+        "text": "hand gestures"
+      },
+      {
+        "offset": 44,
+        "resource": "http://dbpedia.org/resource/Gesture-enhanced_single-touch",
+        "text": "hand gestures"
+      },
+      {
+        "offset": 62,
+        "resource": "http://dbpedia.org/resource/Loudness",
+        "text": "volume"
+      },
+      {
+        "offset": 69,
+        "resource": "http://dbpedia.org/resource/Remote_control",
+        "text": "control"
+      },
+      {
+        "offset": 91,
+        "resource": "http://dbpedia.org/resource/Song",
+        "text": "songs"
+      }
+    ],
+    "text": "Earbud and headphone cables that respond to hand gestures for volume control and switching songs."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch screen"
+      },
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Clothes_dryer",
+        "text": "dryer"
+      },
+      {
+        "offset": 42,
+        "resource": "http://dbpedia.org/resource/Clothing",
+        "text": "clothes"
+      },
+      {
+        "offset": 70,
+        "resource": "http://dbpedia.org/resource/Buzzer",
+        "text": "buzzer"
+      }
+    ],
+    "text": "a touch screen on the dryer to see if the clothes are done before the buzzer goes off"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Pet",
+        "text": "Pet"
+      },
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Collar_(animal)",
+        "text": "Pet collars"
+      },
+      {
+        "offset": 32,
+        "resource": "http://dbpedia.org/resource/Smart_device",
+        "text": "smart devices"
+      },
+      {
+        "offset": 32,
+        "resource": "http://dbpedia.org/resource/Wearable_technology",
+        "text": "smart devices"
+      },
+      {
+        "offset": 50,
+        "resource": "http://dbpedia.org/resource/Global_Positioning_System",
+        "text": "GPS location"
+      },
+      {
+        "offset": 54,
+        "resource": "http://dbpedia.org/resource/Location",
+        "text": "location"
+      },
+      {
+        "offset": 67,
+        "resource": "http://dbpedia.org/resource/Animal_identification",
+        "text": "identifying information"
+      }
+    ],
+    "text": "Pet collars that can be used as smart devices for GPS location and identifying information."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 18,
+        "resource": "http://dbpedia.org/resource/Dashboard",
+        "text": "dash of a car"
+      },
+      {
+        "offset": 28,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 43,
+        "resource": "http://dbpedia.org/resource/Automotive_navigation_system",
+        "text": "navigate"
+      },
+      {
+        "offset": 57,
+        "resource": "http://dbpedia.org/resource/Road_trip",
+        "text": "trip"
+      }
+    ],
+    "text": "I would paint the dash of a car so you can navigate on a trip"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 17,
+        "resource": "http://dbpedia.org/resource/Universal_remote",
+        "text": "universal remote control"
+      },
+      {
+        "offset": 85,
+        "resource": "http://dbpedia.org/resource/Remote_control",
+        "text": "remote"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 43,
+        "resource": "http://dbpedia.org/resource/Aerosol_spray",
+        "text": "spray"
+      },
+      {
+        "offset": 27,
+        "resource": "http://dbpedia.org/resource/Remote_control",
+        "text": "remote"
+      },
+      {
+        "offset": 27,
+        "resource": "http://dbpedia.org/resource/Remote_control",
+        "text": "remote control"
+      }
+    ],
+    "text": "Use it to make a universal remote control, spray it wherever you want and you have a remote."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Closet",
+        "text": "closet"
+      },
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Surface_computer",
+        "text": "closet door"
+      },
+      {
+        "offset": 9,
+        "resource": "http://dbpedia.org/resource/Door",
+        "text": "door"
+      },
+      {
+        "offset": 47,
+        "resource": "http://dbpedia.org/resource/Clothing",
+        "text": "outfits"
+      },
+      {
+        "offset": 151,
+        "resource": "http://dbpedia.org/resource/Clothing",
+        "text": "outfit"
+      },
+      {
+        "offset": 169,
+        "resource": "http://dbpedia.org/resource/Fashion",
+        "text": "style"
+      }
+    ],
+    "text": "A closet door that cycles through your current outfits and suggests new ones based on what you already have. It would help you pick out an appropriate outfit as well as style new choices."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Canvas",
+        "text": "canvas"
+      },
+      {
+        "offset": 31,
+        "resource": "http://dbpedia.org/resource/Painting",
+        "text": "painting"
+      },
+      {
+        "offset": 53,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchscreen"
+      },
+      {
+        "offset": 80,
+        "resource": "http://dbpedia.org/resource/Painting",
+        "text": "painting"
+      },
+      {
+        "offset": 68,
+        "resource": "http://dbpedia.org/resource/Digital_photo_frame",
+        "text": "change what painting is displayed"
+      }
+    ],
+    "text": "Spread it on a canvas, or on a painting, and use the touchscreen to change what painting is displayed."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchscreen"
+      },
+      {
+        "offset": 14,
+        "resource": "http://dbpedia.org/resource/Plate_(dishware)",
+        "text": "plate"
+      },
+      {
+        "offset": 38,
+        "resource": "http://dbpedia.org/resource/Heating_element",
+        "text": "heating element"
+      },
+      {
+        "offset": 73,
+        "resource": "http://dbpedia.org/resource/Food",
+        "text": "food"
+      }
+    ],
+    "text": "A touchscreen plate that could turn a heating element on and off so your food doesn't get cold"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Bathroom",
+        "text": "bathroom"
+      },
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Virtual_mirror",
+        "text": "bathroom mirror"
+      },
+      {
+        "offset": 37,
+        "resource": "http://dbpedia.org/resource/Scrolling",
+        "text": "scroll"
+      },
+      {
+        "offset": 56,
+        "resource": "http://dbpedia.org/resource/News",
+        "text": "news"
+      },
+      {
+        "offset": 70,
+        "resource": "http://dbpedia.org/resource/Weather_forecasting",
+        "text": "weather"
+      },
+      {
+        "offset": 83,
+        "resource": "http://dbpedia.org/resource/Calendaring_software",
+        "text": "make or see appointments"
+      },
+      {
+        "offset": 95,
+        "resource": "http://dbpedia.org/resource/Schedule",
+        "text": "appointments"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 11,
+        "resource": "http://dbpedia.org/resource/Mirror",
+        "text": "mirror"
+      },
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Mirror",
+        "text": "bathroom mirror"
+      },
+      {
+        "offset": 95,
+        "resource": "http://dbpedia.org/resource/Time_management",
+        "text": "appointments"
+      }
+    ],
+    "text": "A bathroom mirror that allows you to scroll through the news, see the weather, and make or see appointments for that day."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Interior_design",
+        "text": "room decoration"
+      },
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Wall_decal",
+        "text": "room decoration tattoo"
+      }
+    ],
+    "not_wrong": [
+      {
+       "offset": 10,
+       "resource": "http://dbpedia.org/resource/Room",
+       "text": "room"
+      }
+    ],
+    "text": "Use it on room decoration tattoo it make very gorgeous look."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Computer_monitor",
+        "text": "computer or video monitors"
+      },
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "computer or video monitors"
+      },
+      {
+        "offset": 62,
+        "resource": "http://dbpedia.org/resource/Streaming_media",
+        "text": "cast"
+      },
+      {
+        "offset": 104,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "viewing surfaces"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Computer",
+        "text": "computer"
+      }
+    ],
+    "text": "Secondary computer or video monitors can easily be created to cast digital media onto secondary work or viewing surfaces."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch screen"
+      },
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Oven",
+        "text": "oven"
+      },
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Smart_device",
+        "text": "touch screen oven"
+      }
+    ],
+    "text": "a touch screen oven"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Solid_wood",
+        "text": "wood"
+      },
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Door",
+        "text": "wood door"
+      },
+      {
+        "offset": 40,
+        "resource": "http://dbpedia.org/resource/Interior_design",
+        "text": "looks"
+      },
+      {
+        "offset": 54,
+        "resource": "http://dbpedia.org/resource/Bedroom",
+        "text": "bedroom"
+      }
+    ],
+    "text": "Use it on wood door to make a different looks in your bedroom."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 19,
+        "resource": "http://dbpedia.org/resource/Entertainment",
+        "text": "entertainment"
+      },
+      {
+        "offset": 39,
+        "resource": "http://dbpedia.org/resource/Shower",
+        "text": "showering"
+      },
+      {
+        "offset": 52,
+        "resource": "http://dbpedia.org/resource/Bathing",
+        "text": "bathing"
+      },
+      {
+        "offset": 89,
+        "resource": "http://dbpedia.org/resource/Television_show",
+        "text": "shows"
+      },
+      {
+        "offset": 106,
+        "resource": "http://dbpedia.org/resource/Video_game",
+        "text": "games"
+      }
+    ],
+    "text": "Being able to have entertainment while showering or bathing to do anything like watching shows or playing games."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Door",
+        "text": "Doors"
+      },
+      {
+        "offset": 46,
+        "resource": "http://dbpedia.org/resource/Information",
+        "text": "information"
+      },
+      {
+        "offset": 64,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "displayed"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coated"
+      },
+      {
+        "offset": 80,
+        "resource": "http://dbpedia.org/resource/Closed-circuit_television",
+        "text": "who or what is on the other side"
+      }
+    ],
+    "text": "Doors could be coated with it that wold allow information to be displayed about who or what is on the other side."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Cup",
+        "text": "cups"
+      },
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Smart_device",
+        "text": "cups"
+      },
+      {
+        "offset": 57,
+        "resource": "http://dbpedia.org/resource/Ingredient",
+        "text": "ingredients"
+      },
+      {
+        "offset": 83,
+        "resource": "http://dbpedia.org/resource/Calorie",
+        "text": "calories"
+      },
+      {
+        "offset": 126,
+        "resource": "http://dbpedia.org/resource/Temperature",
+        "text": "temperature"
+      },
+      {
+        "offset": 145,
+        "resource": "http://dbpedia.org/resource/Drink",
+        "text": "fluid"
+      },
+      {
+        "offset": 190,
+        "resource": "http://dbpedia.org/resource/Drug",
+        "text": "drugs"
+      },
+      {
+        "offset": 199,
+        "resource": "http://dbpedia.org/resource/Poison",
+        "text": "poison"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Material",
+        "text": "material"
+      },
+      {
+        "offset": 115,
+        "resource": "http://dbpedia.org/resource/Person",
+        "text": "person"
+      }
+    ],
+    "text": "place the material on cups and it will tell exactly what ingredients are in it and calories. it will also tell the person the temperature of the fluid and if the liquid contains any sort of drugs or poison."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "screen"
+      },
+      {
+        "offset": 14,
+        "resource": "http://dbpedia.org/resource/Window",
+        "text": "window"
+      },
+      {
+        "offset": 24,
+        "resource": "http://dbpedia.org/resource/Wall",
+        "text": "wall"
+      },
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Surface_computer",
+        "text": "screen on a window or wall"
+      },
+      {
+        "offset": 49,
+        "resource": "http://dbpedia.org/resource/Thermometer",
+        "text": "outside temperature"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 49,
+        "resource": "http://dbpedia.org/resource/Wilderness",
+        "text": "outside"
+      },
+      {
+        "offset": 57,
+        "resource": "http://dbpedia.org/resource/Temperature",
+        "text": "temperature"
+      }
+    ],
+    "text": "a screen on a window or wall that shows what the outside temperature is"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "Touchscreen"
+      },
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/User_guide",
+        "text": "manual books"
+      },
+      {
+        "offset": 41,
+        "resource": "http://dbpedia.org/resource/Full-text_search",
+        "text": "searches"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/User_guide",
+        "text": "manual"
+      },
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Book",
+        "text": "books"
+      },
+      {
+        "offset": 41,
+        "resource": "http://dbpedia.org/resource/Information_retrieval",
+        "text": "searches"
+      }
+    ],
+    "text": "Touchscreen on manual books to allow for searches."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 12,
+        "resource": "http://dbpedia.org/resource/Window",
+        "text": "windows"
+      },
+      {
+        "offset": 33,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch display"
+      },
+      {
+        "offset": 55,
+        "resource": "http://dbpedia.org/resource/Child",
+        "text": "kids"
+      },
+      {
+        "offset": 63,
+        "resource": "http://dbpedia.org/resource/Note-taking",
+        "text": "write notes"
+      },
+      {
+        "offset": 95,
+        "resource": "http://dbpedia.org/resource/Christmas_and_holiday_season",
+        "text": "holidays"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 55,
+        "resource": "http://dbpedia.org/resource/Preadolescence",
+        "text": "kids"
+      },
+      {
+        "offset": 78,
+        "resource": "http://dbpedia.org/resource/Christmas_decoration",
+        "text": "decorate"
+      }
+    ],
+    "text": "replacement windows that utilize touch display, allows kids to write notes or decorate for the holidays"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 14,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch screen"
+      },
+      {
+        "offset": 33,
+        "resource": "http://dbpedia.org/resource/Bed",
+        "text": "bed"
+      },
+      {
+        "offset": 73,
+        "resource": "http://dbpedia.org/resource/Temperature",
+        "text": "temperature"
+      },
+      {
+        "offset": 61,
+        "resource": "http://dbpedia.org/resource/Thermal_comfort",
+        "text": "appropriate temperature"
+      },
+      {
+        "offset": 92,
+        "resource": "http://dbpedia.org/resource/Mattress",
+        "text": "mattress"
+      },
+      {
+        "offset": 119,
+        "resource": "http://dbpedia.org/resource/Weather",
+        "text": "weather"
+      }
+    ],
+    "text": "I would use a touch screen on my bed so that it could set an appropriate temperature for my mattress based on the real weather."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 19,
+        "resource": "http://dbpedia.org/resource/Lock_and_key",
+        "text": "key"
+      },
+      {
+        "offset": 47,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 72,
+        "resource": "http://dbpedia.org/resource/Hood_(car)",
+        "text": "hood"
+      },
+      {
+        "offset": 93,
+        "resource": "http://dbpedia.org/resource/Password",
+        "text": "password"
+      },
+      {
+        "offset": 105,
+        "resource": "http://dbpedia.org/resource/Live_scan",
+        "text": "scanning"
+      },
+      {
+        "offset": 116,
+        "resource": "http://dbpedia.org/resource/Fingerprint",
+        "text": "fingerprint"
+      }
+    ],
+    "text": "Could be used as a key when locked out of your car by putting it on the hood and  entering a password or scanning a fingerprint."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchscreen"
+      },
+      {
+        "offset": null,
+        "resource": "http://dbpedia.org/resource/Beer_bottle",
+        "text": "beer bootles"
+      },
+      {
+        "offset": 45,
+        "resource": "http://dbpedia.org/resource/Drug",
+        "text": "drugs"
+      },
+      {
+        "offset": 54,
+        "resource": "http://dbpedia.org/resource/Sedative",
+        "text": "sedatives"
+      }
+    ],
+    "text": "a touchscreen on beer bottles to show if any drugs or sedatives have been added."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 21,
+        "resource": "http://dbpedia.org/resource/Hand",
+        "text": "hand"
+      },
+      {
+        "offset": 29,
+        "resource": "http://dbpedia.org/resource/Quantified_self",
+        "text": "track"
+      },
+      {
+        "offset": 50,
+        "resource": "http://dbpedia.org/resource/Heart_rate",
+        "text": "heart rate"
+      },
+      {
+        "offset": 70,
+        "resource": "http://dbpedia.org/resource/Information",
+        "text": "information"
+      },
+      {
+        "offset": 107,
+        "resource": "http://dbpedia.org/resource/Exercise",
+        "text": "exercise"
+      },
+      {
+        "offset": 135,
+        "resource": "http://dbpedia.org/resource/Walking",
+        "text": "walked"
+      }
+    ],
+    "text": "I would use it on my hand to track things like my heart rate or other information that would be useful for exercise, like how far I've walked."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Shirt",
+        "text": "shirt"
+      },
+      {
+        "offset": 24,
+        "resource": "http://dbpedia.org/resource/Color",
+        "text": "colors"
+      },
+      {
+        "offset": 46,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchscreen"
+      },
+      {
+        "offset": 101,
+        "resource": "http://dbpedia.org/resource/Color",
+        "text": "colors"
+      },
+      {
+        "offset": 113,
+        "resource": "http://dbpedia.org/resource/Textile",
+        "text": "fabric type"
+      }
+    ],
+    "text": "A shirt that can change colors upon using its touchscreen options on the side. It can used to change colors, and fabric type."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 15,
+        "resource": "http://dbpedia.org/resource/Nail_polish",
+        "text": "fingernails"
+      },
+      {
+        "offset": 45,
+        "resource": "http://dbpedia.org/resource/Color",
+        "text": "color"
+      }
+    ],
+    "text": "Put it on your fingernails and to change the color whenever you want"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Finger",
+        "text": "fingers"
+      },
+      {
+        "offset": 37,
+        "resource": "http://dbpedia.org/resource/Paintbrush",
+        "text": "paintbrush"
+      },
+      {
+        "offset": 58,
+        "resource": "http://dbpedia.org/resource/Art",
+        "text": "art"
+      }
+    ],
+    "text": "Using it to turn your fingers into a paintbrush to create art."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 29,
+        "resource": "http://dbpedia.org/resource/Color",
+        "text": "color"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coat"
+      }
+    ],
+    "text": "coat your car and choose its color whenever you want"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 20,
+        "resource": "http://dbpedia.org/resource/Bathroom",
+        "text": "bathroom"
+      },
+      {
+        "offset": 20,
+        "resource": "http://dbpedia.org/resource/Sink",
+        "text": "bathroom sink"
+      },
+      {
+        "offset": 39,
+        "resource": "http://dbpedia.org/resource/Home_automation",
+        "text": "house controls"
+      },
+      {
+        "offset": 39,
+        "resource": "http://dbpedia.org/resource/Remote_control",
+        "text": "house controls"
+      },
+      {
+        "offset": 72,
+        "resource": "http://dbpedia.org/resource/Home_appliance",
+        "text": "appliances"
+      },
+      {
+        "offset": 99,
+        "resource": "http://dbpedia.org/resource/Tooth_brushing",
+        "text": "brushing your teeth"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Coating",
+        "text": "coat"
+      },
+      {
+        "offset": 99,
+        "resource": "http://dbpedia.org/resource/Tooth_brushing",
+        "text": "brushing"
+      },
+      {
+        "offset": 113,
+        "resource": "http://dbpedia.org/resource/Tooth",
+        "text": "teeth"
+      },
+      {
+        "offset": 124,
+        "resource": "http://dbpedia.org/resource/Example",
+        "text": "example"
+      }
+    ],
+    "text": "You could coat your bathroom sink with house controls so you could turn appliances on and off when brushing your teeth (for example)."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Bed",
+        "text": "bed"
+      },
+      {
+        "offset": 35,
+        "resource": "http://dbpedia.org/resource/Smartphone",
+        "text": "phone"
+      },
+      {
+        "offset": 47,
+        "resource": "http://dbpedia.org/resource/Bed",
+        "text": "bed"
+      }
+    ],
+    "text": "Use on my bed so that I can use my phone on my bed."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 2,
+        "resource": "http://dbpedia.org/resource/Teddy_bear",
+        "text": "teddy bear"
+      },
+      {
+        "offset": 35,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "display"
+      },
+      {
+        "offset": 61,
+        "resource": "http://dbpedia.org/resource/Digital_pet",
+        "text": "personal pet"
+      },
+      {
+        "offset": 115,
+        "resource": "http://dbpedia.org/resource/Pet",
+        "text": "pets"
+      },
+      {
+        "offset": 174,
+        "resource": "http://dbpedia.org/resource/Loneliness",
+        "text": "lonely"
+      },
+      {
+        "offset": 186,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "display"
+      },
+      {
+        "offset": 218,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touch screen"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 202,
+        "resource": "http://dbpedia.org/resource/Interactivity",
+        "text": "interactive"
+      }
+    ],
+    "text": "A teddy bear that can be used as a display and turned into a personal pet. It will turn into and do things regular pets do that keep you company. It will help those that are lonely. The display will be interactive and touch screen and have many options."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 12,
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "text": "touchscreen"
+      },
+      {
+        "offset": 24,
+        "resource": "http://dbpedia.org/resource/Bedroom",
+        "text": "bedroom"
+      },
+      {
+        "offset": 32,
+        "resource": "http://dbpedia.org/resource/Wall",
+        "text": "wall"
+      },
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Surface_computer",
+        "text": "Interactive touchscreen bedroom wall"
+      },
+      {
+        "offset": 38,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "displays"
+      },
+      {
+        "offset": 47,
+        "resource": "http://dbpedia.org/resource/Poster",
+        "text": "posters"
+      },
+      {
+        "offset": 65,
+        "resource": "http://dbpedia.org/resource/Entertainment",
+        "text": "entertainment"
+      }
+    ],
+    "not_wrong": [
+      {
+        "offset": 0,
+        "resource": "http://dbpedia.org/resource/Interactivity",
+        "text": "Interactive"
+      }
+    ],
+    "text": "Interactive touchscreen bedroom wall, displays posters and other entertainment"
+  },
+  {
+    "concepts": [
+      {
+        "offset": 14,
+        "resource": "http://dbpedia.org/resource/Display_device",
+        "text": "display"
+      },
+      {
+        "offset": 28,
+        "resource": "http://dbpedia.org/resource/Car",
+        "text": "car"
+      },
+      {
+        "offset": 75,
+        "resource": "http://dbpedia.org/resource/Point_of_interest",
+        "text": "locations"
+      },
+      {
+        "offset": 115,
+        "resource": "http://dbpedia.org/resource/Recommender_system",
+        "text": "algorithm personalized for me"
+      },
+      {
+        "offset": 125,
+        "resource": "http://dbpedia.org/resource/Personalization",
+        "text": "personalized"
+      }
+    ],
+    "text": "I would put a display on my car so that it could let me know of any nearby locations that I might like based on an algorithm personalized for me."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 23,
+        "resource": "http://dbpedia.org/resource/Arm",
+        "text": "arm"
+      },
+      {
+        "offset": 30,
+        "resource": "http://dbpedia.org/resource/Monitoring_(medicine)",
+        "text": "check"
+      },
+      {
+        "offset": 36,
+        "resource": "http://dbpedia.org/resource/Blood_pressure",
+        "text": "blood pressure"
+      },
+      {
+        "offset": 55,
+        "resource": "http://dbpedia.org/resource/Heart_rate",
+        "text": "heart rate"
+      }
+    ],
+    "text": "You can put it on your arm to check blood pressure and heart rate."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 9,
+        "resource": "http://dbpedia.org/resource/Forearm",
+        "text": "forearm"
+      },
+      {
+        "offset": 39,
+        "resource": "http://dbpedia.org/resource/Smartwatch",
+        "text": "smart watch"
+      },
+      {
+        "offset": 51,
+        "resource": "http://dbpedia.org/resource/Tablet_computer",
+        "text": "tablet"
+      },
+      {
+        "offset": 39,
+        "resource": "http://dbpedia.org/resource/Wearable_technology",
+        "text": "smart watch/tablet"
+      }
+    ],
+    "text": "Cover my forearm in it and use it as a smart watch/tablet."
+  },
+  {
+    "concepts": [
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Container_garden",
+        "text": "potted plant"
+      },
+      {
+        "offset": 22,
+        "resource": "http://dbpedia.org/resource/Smart_device",
+        "text": "potted plant"
+      }
+    ],
+    "text": "You could put it on a potted plant so you know when to water it"
+  },
+  {
+    "text": "Integrated touch display on windows that allows you to darken or brighten the tint without any need for traditional blinds",
+    "concepts": [
+      {
+        "text": "touch display",
+        "resource": "http://dbpedia.org/resource/Touchscreen",
+        "offset": 11
+      },
+      {
+        "text": "windows",
+        "resource": "http://dbpedia.org/resource/Window",
+        "offset": 28
+      },
+      {
+        "text": "windows",
+        "resource": "http://dbpedia.org/resource/Smart_glass",
+        "offset": 28
+      },
+      {
+        "text": "darken",
+        "resource": "http://dbpedia.org/resource/Opacity_(optics)",
+        "offset": 55
+      },
+      {
+        "text": "brighten",
+        "resource": "http://dbpedia.org/resource/Opacity_(optics)",
+        "offset": 65
+      },
+      {
+        "text": "tint",
+        "resource": "http://dbpedia.org/resource/Tints_and_shades",
+        "offset": 78
+      },
+      {
+        "text": "blinds",
+        "resource": "http://dbpedia.org/resource/Window_blind",
+        "offset": 116
+      }
+    ]
+  }
+]
