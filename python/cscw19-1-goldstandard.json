@@ -246,7 +246,7 @@
       },
       {
         "offset": 106,
-        "resource": "http://dbpedia.org/resource/Daily_wear",
+        "resource": "http://dbpedia.org/resource/Clothing",
         "text": "daily wear"
       },
       {
@@ -324,7 +324,7 @@
       },
       {
         "offset": 56,
-        "resource": "http://dbpedia.org/resource/Access_to_information",
+        "resource": "http://dbpedia.org/resource/Freedom_of_information_laws_by_country",
         "text": "access to information"
       }
     ],
@@ -433,7 +433,7 @@
       },
       {
         "offset": 61,
-        "resource": "http://dbpedia.org/resource/Sensing_floor",
+        "resource": "http://dbpedia.org/resource/Floor",
         "text": "interactive floor"
       },
       {
@@ -458,7 +458,7 @@
       },
       {
         "offset": 19,
-        "resource": "http://dbpedia.org/resource/Drug_packaging",
+        "resource": "http://dbpedia.org/resource/Prescription_bottle",
         "text": "medicine bottles"
       },
       {
@@ -580,7 +580,7 @@
       },
       {
         "offset": 94,
-        "resource": "http://dbpedia.org/resource/Access_to_information",
+        "resource": "http://dbpedia.org/resource/Freedom_of_information_laws_by_country",
         "text": "showing"
       }
     ],
@@ -650,7 +650,7 @@
       },
       {
         "offset": 22,
-        "resource": "http://dbpedia.org/resource/Exercise_equipment",
+        "resource": "http://dbpedia.org/resource/Sports_equipment",
         "text": "gym equipment"
       },
       {
@@ -1139,9 +1139,9 @@
     ],
     "not_wrong": [
       {
-       "offset": 10,
-       "resource": "http://dbpedia.org/resource/Room",
-       "text": "room"
+        "offset": 10,
+        "resource": "http://dbpedia.org/resource/Room",
+        "text": "room"
       }
     ],
     "text": "Use it on room decoration tattoo it make very gorgeous look."
@@ -1398,7 +1398,7 @@
       },
       {
         "offset": 41,
-        "resource": "http://dbpedia.org/resource/Full-text_search",
+        "resource": "http://dbpedia.org/resource/Full_text_search",
         "text": "searches"
       }
     ],
@@ -1582,7 +1582,7 @@
       },
       {
         "offset": 107,
-        "resource": "http://dbpedia.org/resource/Exercise",
+        "resource": "http://dbpedia.org/resource/Physical_exercise",
         "text": "exercise"
       },
       {

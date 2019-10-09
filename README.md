@@ -1,1 +1,2 @@
-https://dl.acm.org/citation.cfm?id=1835643
+
+#Recommender System for Idea-Clustering based on Semantic Similarity of Concepts in Knowledge Graphs
