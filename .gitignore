@@ -1,4 +1,7 @@
 **/.ipynb_checkpoints
 **/.vscode
-**/.DS_Store.git 
+**/.DS_Store
 **/__pycache__
+src/data/
+src/pic
+old/

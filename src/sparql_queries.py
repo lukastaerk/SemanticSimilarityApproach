@@ -1,9 +1,18 @@
 def query_freq_dbpedia(item):
     return """
-    SELECT (count(?e) as ?e) WHERE {
+    SELECT (COUNT(DISTINCT ?e) AS ?e) WHERE {
         ?e rdf:type owl:Thing .
         ?e rdf:type wd:""" + item + """.
         }
+    """
+
+
+def query_num_of_instance_of(item):
+    return """
+    SELECT DISTINCT (COUNT(?item) AS ?count)
+    WHERE   { 
+      ?item (""" + " | ".join(("wdt:P279", "wdt:P31")) + """) wd:"""+item+""".
+    }
     """
 
 

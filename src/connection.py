@@ -29,24 +29,20 @@ def map_dbp_wikid(dbpediaConcept):
     return results[0]["obj"]["value"]
 
 
-def wikidata_sparql_request(query, counter=0):
+def wikidata_sparql_request(query):
     url = 'https://query.wikidata.org/sparql'
-    res = requests.get(url, headers=headers, params={
-                       'query': query, 'format': 'json'})
+    try:
+        res = requests.get(url, headers=headers, params={
+            'query': query, 'format': 'json'})
+    except:
+        return None
     if res.status_code is 200:
         return res.json()["results"]["bindings"]
-    elif counter < 5:
-        print(res.status_code, res.text, "herders: ", res.headers)
-        if res.status_code is 429:
-            time.sleep(15)
-        elif res.status_code is 403:
-            time.sleep(20)
-        else:
-            raise Exception("Status code is " + str(res.status_code))
-        return wikidata_sparql_request(query, counter+1)
+    if res.status_code == 500:
+        return None
     else:
         raise Exception("Status code is " + str(res.status_code))
 
 
 if __name__ == "__main__":
-    print(wikidata_sparql_request(query_freq_wikidata("Q35120")))
+    pass

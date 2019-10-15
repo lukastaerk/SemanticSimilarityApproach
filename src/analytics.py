@@ -1,5 +1,6 @@
 import networkx as nx
 import numpy as np
+from igraph import Graph
 
 entity = "Q35120"
 
@@ -22,7 +23,7 @@ def recursively_get_child_nodes(di_graph, idv, depth):
         return [l for sub in ll for l in sub] + [idv]
 
 
-def remove_backward_edges(di_graph, root_id):
+def remove_backward_edges(di_graph, root_id=entity):
     dac = nx.DiGraph()
     dac.add_nodes_from(di_graph.nodes(data=True))
 
@@ -32,7 +33,36 @@ def remove_backward_edges(di_graph, root_id):
     return dac
 
 
-def all_shortest_paths(di_g):
-    sim_m = nx.floyd_warshall_numpy(di_g)
+def all_shortest_paths_and_LCS(di_g):
+    nx.write_gml(di_g, "data/temp_graph")
+    ig = Graph.Read_GML("data/temp_graph")
+    sim_m = np.array(ig.shortest_paths())
+    l = di_g.number_of_nodes()
+    M = np.zeros((l, l))
+    LCS = np.zeros((l, l))
+    for i in range(l):
+        M_i_j = sim_m + sim_m[:, i][np.newaxis].T
+        arg_min_j = np.argmin(M_i_j, axis=0)
+        M[i, :] = M_i_j[arg_min_j, np.arange(l)]
+        LCS[i, :] = arg_min_j
+    return M, LCS, sim_m
 
-    return
+
+def get_distance_LCS(g, M, LCS, id1, id2):
+    nodes = list(g.nodes(data=True))
+    n1 = nodes[id1]
+    n2 = nodes[id2]
+    print("C1:", n1[1]["value"], "--", M[id1, id2], "-- C2:", n2[1]["value"])
+    print("LCS:", nodes[int(LCS[id1, id2])][1]["value"])
+
+
+def position_from_key(g, key):
+    maped = map_key_pos(g)
+    return maped[key]
+
+
+def map_key_pos(g, inv=False):
+    if(inv):
+        return dict(zip(range(g.number_of_nodes()), g.nodes()))
+    else:
+        return dict(zip(g.nodes(), range(g.number_of_nodes())))

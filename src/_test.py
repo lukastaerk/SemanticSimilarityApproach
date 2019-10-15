@@ -19,7 +19,7 @@ class TestsPreprocessing(unittest.TestCase):
 
     def test_get_graph_from_file(self):
         DiGraph = get_DiGraph_from_file()
-        self.assertEqual(DiGraph, DiGraph)
+        self.assertTrue(DiGraph.is_directed())
 
 
 class TestsDrawGraph(unittest.TestCase):
