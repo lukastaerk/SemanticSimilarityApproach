@@ -1,0 +1,8 @@
+digraph {
+	fontcolor=blue
+	label="subclass of"
+	fontcolor=red
+	label="instance of"
+	fontcolor=green
+	label="part of"
+}

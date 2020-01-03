@@ -9,14 +9,32 @@ color_map = {
 }
 
 
-def get_graphic_G(graph, concepts=[]):
+def get_legend():
+    legend = pydot.Cluster(graph_type="digraph",
+                           graph_name="Legend", label="Legend", )
+    colors = ["blue", "red", "green"]
+    labels = ["subclass of", "instance of", "part of"]
+    for i in range(3):
+        legend.add_node(pydot.Node(
+            labels[i], shape="underline", color=colors[i]))
+        # legend.add_node(pydot.Node(i, shape="point", color="white"))
+        # legend.add_edge(pydot.Edge(labels[i], i, label = labels[i], color = colors[i]))
+    legend.add_node(pydot.Node("concept", shape="ellipse",
+                               fillcolor="yellow", style="filled"))
+    G = pydot.Dot()
+    G.add_subgraph(legend)
+    return G
+
+
+def get_graphic_G(graph, concepts=[], name="Knowledge Graph"):
     G = pydot.Dot(graph_type="digraph",
-                  graph_name="Knowledge Graph", label="label:" + str(color_map))
+                  graph_name="Knowledge Graph", label=name)
 
     for (k, v) in concepts:
         if(type(v)) != str:
             v = "UNKONWN"
-        G.add_node(pydot.Node(k, label=v, style="filled", fillcolor="yellow"))
+        G.add_node(pydot.Node(
+            k, label=v, style="filled", fillcolor="yellow"))
     # init Nodes
     for (id, data) in graph.nodes(data=True):
         if G.get_node(id) == []:

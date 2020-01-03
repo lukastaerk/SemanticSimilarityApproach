@@ -1,6 +1,7 @@
 import networkx as nx
 import numpy as np
 from igraph import Graph
+from connection import wikidata_sparql_request, query_freq_wikidata
 
 entity = "Q35120"
 
@@ -66,3 +67,10 @@ def map_key_pos(g, inv=False):
         return dict(zip(range(g.number_of_nodes()), g.nodes()))
     else:
         return dict(zip(g.nodes(), range(g.number_of_nodes())))
+
+
+def information_content(concepts):
+    IC = []
+    for c, i in concepts:
+        IC.append(wikidata_sparql_request(query_freq_wikidata(c, 2)))
+    return [c[0]["count"]["value"] if c != None else None for c in IC]
