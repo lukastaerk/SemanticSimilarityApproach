@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex main"] 1578326046 "main.aux" "main.bbl" "main" 1578327275
+["bibtex main"] 1578432976 "main.aux" "main.bbl" "main" 1578432978
   "/usr/share/texlive/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1480098435 26816 ffe5423d2019860bad9f54bc402fac15 ""
   "biblography.bib" 1578079535 59478 cd43417098c4ba5f0a26882cd0685acb ""
-  "main.aux" 1578327274 6378 181d0d48602665798c54f316f4310d81 ""
+  "main.aux" 1578432978 6379 f80e5884de7b49e3b6edec6092d83796 ""
   "main.bcf" 0 -1 0 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1578327272 "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.tex" "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.pdf" "main" 1578327275
+  "main.bbl"
+["pdflatex"] 1578432976 "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.tex" "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.pdf" "main" 1578432978
   "/etc/texmf/web2c/texmf.cnf" 1539209486 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.aux" 1578327274 6378 181d0d48602665798c54f316f4310d81 ""
-  "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.tex" 1578327272 34496 66dce55d3b5b22af9a83a4a25f8f9b0b ""
+  "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.aux" 1578432978 6379 f80e5884de7b49e3b6edec6092d83796 ""
+  "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.tex" 1578432973 34523 479dec9269ed98eebd687c8d14bcf726 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1480098667 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -211,18 +211,18 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1539210061 2396367 416e5eec178b0463bd029c15e8a964c5 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1539357672 1672872 b12fa58d339c5a0e74b904abc52fa87f ""
-  "main.aux" 1578327274 6378 181d0d48602665798c54f316f4310d81 ""
-  "main.bbl" 1578326046 3780 96dd12f9c1718490aebac332b0dde466 "bibtex main"
-  "main.out" 1578327274 1001 75c1fd82ab63b36b5d925d23329dc110 ""
-  "main.tex" 1578327272 34496 66dce55d3b5b22af9a83a4a25f8f9b0b ""
+  "main.aux" 1578432978 6379 f80e5884de7b49e3b6edec6092d83796 ""
+  "main.bbl" 1578432976 3780 96dd12f9c1718490aebac332b0dde466 "bibtex main"
+  "main.out" 1578432978 1001 75c1fd82ab63b36b5d925d23329dc110 ""
+  "main.tex" 1578432973 34523 479dec9269ed98eebd687c8d14bcf726 ""
   "pics/Auszug_Bachelor_Pruefungsordnung.pdf" 1578079535 137563 e7ff74fe965a52233087cf2c29cfd155 ""
   "pics/RS-O.png" 1578079535 291614 1b369345f2524c468fc7b39e6720aaf4 ""
   "pics/rs-and-weight.png" 1578079535 39067 df9338d9b13b31f1d4644ccd6b6bb433 ""
   "pics/spark.png" 1578079535 15563 2b0b72b02b072883c4ad44691d430920 ""
   (generated)
-  "main.log"
-  "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.pdf"
   "main.pdf"
   "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.log"
+  "main.log"
   "main.out"
   "main.aux"
+  "/home/luka/Bachelor_Thesis/Proposal_Thesis/main.pdf"
