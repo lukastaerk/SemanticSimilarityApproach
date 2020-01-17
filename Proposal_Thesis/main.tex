@@ -100,9 +100,7 @@
 {\small <Bachelorarbeit> am Institut für Informatik der Freien Universität Berlin}\\
 {\small Human-Centered Computing (HCC), AG NBI}\\
 [6ex]
-{\LARGE Semantic Similarity of Concepts for more Human-Centered Ideation Tools. }\\
-{\normalsize or}\\
-{\LARGE Idea Recommendation/Exploration Feature for the Orchard Clustering Application}\\
+{\LARGE Semantic Similarity of Concepts for a Human-Centered Idea Recommendation Feature in the Clustering Application Orchard}\\
 {\normalsize-- Exposé --}}
 
 \author{
@@ -243,7 +241,7 @@ The RS in Orchard is knowledge-based. To provide recommendations the user's requ
     \node (10) at (10, 8.5) {aircraft};
     \node (11) at (10, 7.5) {airplane};
     
-    \node (12) at (10, 10) {artificial entity};
+    \node (12) at (10, 10) {individual};
     
     \draw[edge] (1) to (12);
     
@@ -284,32 +282,33 @@ Let $c_i$ be a concept, then the $IC_{graph}(c_i) = -log_e Prob(c_i)$, where the
 
 %Anther popular measures for semantic similarity such as considering the $depth(c) = length(c,root)$ of a concept $c$ in the KG, that has shown good result. The assumption is that concepts with higher depth are more specific and thus are similar to the IC measurements. Structural metrics compare the neighborhood or upper ancestral graph of concepts. 
 
-The publication \textit{Computing  Semantic  Similarity of  Concepts in Knowledge Graphs} of \citet{zhu_computing_2017} discusses different metrics of concept similarity in Knowledge Graphs and compares them to their approach \textit{wpath} with gold standard data sets of human-judged similarity in meaning. Their metric $wpath$ for measures of similarity considers shortest-path length between two concepts in the Knowledge Graph and the Information Content (IC) of their least common subsumer (LCS). The LCS of two concepts is the most specific ancestral concept that is shared by both concepts. Therefore the LCS is the one with the highest IC among the shared ancestors. E.g in the KG shown in Figure \ref{fig:kg}, the LCS of \textit{motor-bike} and \textit{bicycle} is the concept \textit{two-wheeler}, and not \textit{vehicle}, because it is more abstract and ancestral to \textit{two-wheeler}. \citep{zhu_computing_2017} define the semantic similarity methode as 
+The publication \textit{Computing  Semantic  Similarity of  Concepts in Knowledge Graphs} of \citet{zhu_computing_2017} discusses different metrics of concept similarity in Knowledge Graphs and compares them to their approach \textit{wpath} with gold standard data sets of human-judged similarity in meaning. Their metric $wpath$ for measures of similarity considers shortest-path length between two concepts in the Knowledge Graph and the Information Content (IC) of their least common subsumer (LCS). The LCS of two concepts is the most specific ancestral concept that is shared by both concepts. Therefore the LCS is the one with the highest IC among the shared ancestors. E.g in the KG shown in Figure \ref{fig:kg}, the LCS of \textit{motor-bike} and \textit{bicycle} is the concept \textit{two-wheeler}, and not \textit{vehicle}, because it is more abstract and ancestral to \textit{two-wheeler}. \citep{zhu_computing_2017} define the semantic similarity methode as
+
 \begin{equation}
     sim_{wpath(c_i,c_j)} = \frac{1}{1+length(c_i,c_j) \cdot k^{IC(lcs)}},
 \end{equation}
 
-where the parameter $k \in (0,1]$ weighs between IC of the LCS and the path length of two concepts. If $k = 1$ the IC does not influence to the path length. Otherwise, the IC weights the path length, so that concepts with the same path length but different LCS can have different similarities. E.g. $car$ and $bus$ are more similar than $two-wheeler$ and $aircraft$. Though for both pairs, the path length equals two, as shown in Figure \ref{fig:kg}. But the IC of \textit{motor-vehicle} as their LCS is greater than the IC of \textit{vehicle}, because it is less specific. 
+where the parameter $k \in (0,1]$ weights between IC of the LCS and the path length of two concepts. If $k = 1$ the IC does not influence to the path length. Otherwise, the IC weights the path length, so that concepts with the same path length but different LCS can have different similarities. E.g. $car$ and $bus$ are more similar than $two-wheeler$ and $aircraft$. Though for both pairs, the path length equals two, as shown in Figure \ref{fig:kg}. But the IC of \textit{motor-vehicle} as their LCS is greater than the IC of \textit{vehicle}, because it is less specific. 
 
-\subsection{Human-Centered}
+\subsection{Human-Centered Approach}
 
 \begin{wrapfigure}{R}{0.35\textwidth}
     \centering
     \begin{overpic}[width=0.33\textwidth]{pics/rs-and-weight.png}
     \put(35,10){\ding{172}}
     \end{overpic}
-    \caption{Recommender System with highlighted concepts of different saturation depending on similarity to the selected object. (1) Slider to change weight in $wpath$ metric.}
+    \caption{Recommendation Feature with highlighted concepts with saturation depending on the similarity to the selected object. (1) Slider to change weight in $wpath$ metric.}
     \label{fig:rs}
 \end{wrapfigure}
 
 In the field of machine learning and beyond, human-centered approaches have gained extensive attention. As machine learning discover relations and patterns in data instead of programming explicit rules, the solution may reflect the bias and incompleteness of the used data and contain uncertainties. 
 Viewing the problem through the human lens and considering human needs, ensures that the problems stay's grounded. 
 
-The mentioned concerns apply to this thesis as well. The RS is based on knowledge graph states and other assumptions such as the metric $wpath$ and its parameter $k$. When interacting with a so-called intelligent-system, the user will naturally form a mental model of it and adjust interaction and behavior to the assumptions being made. E.g. the RS in Orchard may respond with unrelated idea sparks for some concepts so that the user will try to identify and then avoid using these concepts. So when the user has a good mental model of the system, the interaction is more effective. Which gives reason to consider interpretability and transparency of the system when thinking about the User Interface. Furthermore, leaving tasks to the user, that the user performs best, makes the system more adaptive and gives the user the feeling of being in control, so that the user will be more likely to interact with the system \citep{abdul_trends_2018}. E.g in the Orchard application the user selects the most insteresting concept of an idea spark, to be more specific in what he or she is interested in. Another feature for the User Interface will be a Slider in a range, as shown in Figure \ref{fig:rs} (1), to change the $k$-parameter, weighting between the impact of path length and Information Content of the LCS. Thus the user can experiment and get an idea which weight leads to good results. For more transparency and a better understanding of the RS, the idea sparks in the recommender frame are visualized with highlighted concepts as well, as Figure \ref{fig:rs} illustrates. In which the color saturation depends on the similarity to the selected idea spark or concept. Thereby it becomes easier for the user to create a mental model of the RS and to understand why a certain idea spark is ranked as most similar.
+The mentioned concerns apply to this thesis as well. The spark idea recommendations are based on knowledge graph states and other assumptions such as the metric $wpath$ and its parameter $k$. When interacting with a so-called intelligent-system, the user will naturally form a mental model of it and adjust interaction and behavior to the assumptions being made. E.g. the user might experience spark idea recommendations as unrelated for some concepts, so that they will try to identify and then avoid using these concepts. When the user has a good mental model of the system, the interaction is more effective. Which gives reason to consider interpretability and addaptebility of the system when designing the User Interface. Furthermore, leaving tasks to the user, that the user performs best, makes the system more adaptive and gives the user the feeling of being in control, so that the user will be more likely to interact with the system \citep{abdul_trends_2018}. E.g in the Orchard application the user selects the most insteresting concept of an idea spark, to be more specific in what he or she is interested in. An additional feature for the User Interface will be a Slider in a range, as shown in Figure \ref{fig:rs} (1), to change the $k$-parameter, weighting between the impact of path length and Information Content of the LCS. Thus the user can experiment and adjust the weight to their needs. For more interpretability and a better understanding of the recommendations, the idea sparks in the recommender frame are visualized with highlighted concepts as well, as Figure \ref{fig:rs} illustrates. In which the color saturation depends on the similarity to the selected idea spark or concept. Thereby it becomes easier for the user to create a mental model of the recommendation feature and to understand why a certain idea spark is ranked as most similar.
 
+\clearpage
 \section{Goal} 
     %\item Welche Ziele werden mit der Arbeit verfolgt? Und welche zentralen Fragen lassen sich daraus ableiten?
-    
 \begin{wrapfigure}{R}{0.35\textwidth}
 \centering
 \begin{overpic}[width=0.33\textwidth]{pics/spark.png}
@@ -317,16 +316,16 @@ The mentioned concerns apply to this thesis as well. The RS is based on knowledg
 \end{overpic}
 \caption{Spark with highlighted concepts}
 \label{fig:spark}
-\end{wrapfigure}
+\end{wrapfigure} 
 
-The goal of my thesis is to improve the clustering process in the Orchard application with a recommender system. So that the user interacts more with rear and valuable idea sparks and clusters more effectively without fixation on predefined categories. To apply the RS, concept similarity is calculated for all concepts extracted from 60 goldstandard idea sparks. The proposed metric $wpath$ of \citet{zhu_computing_2017} combines meaningful semantic similarity measures for the application on a Wikidata KG and has shown outperforming results for the DBpedia ontology. As the Wikidata KG is especially large and complex it is of interest answering, how well semantic similarity metrics perform on such KGs compared to others and if $wpath$ leads to novels results in this case. Therefore part of my thesis is a proof of concept on the metric of \citet{zhu_computing_2017}. 
-Given the similarity measures between concepts, concepts and ideas, and a similarity score of the Word Mover's Distance \citep{kusner_word_2015} between ideas, the RS for the Orchard clustering application can be implemented to support the functionality as described in the following.
+
+The goal of my thesis is to improve the clustering process in the Orchard application with a recommendation feature. So that the user interacts more with rare and valuable idea sparks and clusters more effectively without fixation on predefined categories. To implement the recommendation feature, concept similarity is calculated for all concepts extracted from 60 goldstandard idea sparks. The proposed metric $wpath$ of \citet{zhu_computing_2017} combines meaningful semantic similarity measures for the application on a Wikidata KG and has shown outperforming results for the DBpedia ontology. As the Wikidata KG is especially large and complex it is of interest answering, how well semantic similarity metrics perform on such KGs compared to others and if $wpath$ leads to novels results in this case. Therefore part of my thesis is a proof of concept on the metric of \citet{zhu_computing_2017}. 
+Given the similarity measures between concepts, concepts and ideas, and a similarity score of the Word Mover's Distance \citep{kusner_word_2015} between ideas, the recommendation feature for the Orchard clustering application can be implemented to support the functionality as described in the following.
 
 In Orchard, as Figure \ref{fig:spark} illustrates, the user can click on an idea spark or a highlighted concept of its description to select the content, based on that idea sparks with similar concepts are recommended. The recommended idea sparks are displayed in the recommender frame sorted by highest similarity and the user can scroll through and drag them onto the whiteboard (see Figure \ref{fig:orchard} (1)).
 
 
 
-    
     %\item Die Ziele sollten so spezifisch wie möglich sein. Das hilft Ihnen im Verlauf der Umsetzung zu prüfen, ob Sie Ihre Ziele erreichen konnten.
 %\end{itemize}
 
@@ -334,7 +333,7 @@ In Orchard, as Figure \ref{fig:spark} illustrates, the user can click on an idea
 %\begin{itemize}
     %\item Welche einzelnen Aktivitäten müssen umgesetzt werden, um die Fragen zu beantworten und das Ziel der Arbeit zu erreichen?
     The Procedure for my thesis is divided into three substantial parts: implementation, integration into the Orchard application and the validation of the results. 
-    \subsection{Implementation}
+    \subsection{Implementation of wpath}
     
     The requirement for the input data of idea sparks is that the concepts of the idea descriptions are assigned to Wikidata items. In prepossessing all stop-word concepts, such as "I, my, You,\dots" and concepts that do not connect to get KG are excluded.
     
@@ -363,17 +362,11 @@ In Orchard, as Figure \ref{fig:spark} illustrates, the user can click on an idea
     \subsection{Validation}
     The validation consists of the following three steps:  
     \begin{enumerate}
-        \item To validate the measures of concept similarity, the implementation of $wpath$ will be compared to the \textit{R\&G} dataset \citep{rubenstein_contextual_1965} of human-judged word similarity and the results of the implementation of $wpath$ from \citet{zhu_computing_2017}. \textit{R\&G} is a widely used dataset containing human assessments of word similarity for 65 word-pairs of common English nouns.
-        \citet{zhu_computing_2017} uses the same dataset for $wpath$ with corpus-based IC and graph-based IC with the DBpedia ontology. This comparison will be done for different parameter $k \in (0,1]$ for $wpath$, to optimize the measurements for \textit{R\&G}. 
-        \item To find the best weight $k$ between path length and IC for the Wikidata KG, the $wpath$ similarity will be applied on several idea-concepts for different parameters $k \in (0,1]$.
-        \item  As the last step, the recommender system will be tested with Orchard on a qualitative level with three or more persons who are familiar with the clustering process, to evaluate the research question, if the recommender system in Orchard is a helpful feature to effectively find clusters and creating a satisfying result. 
+        \item To validate the measures of concept similarity, the implementation of $wpath$ based on the \textit{Wikidata} KG will be evaluated with the \textit{R\&G} dataset \citep{rubenstein_contextual_1965} of human-judged word similarity and the results of the implementation of $wpath$ from \citet{zhu_computing_2017}. \textit{R\&G} is a widely used dataset containing human assessments of word similarity for 65 word-pairs of common English nouns.
+        \citet{zhu_computing_2017} uses the same dataset for $wpath$ with corpus-based IC and graph-based IC with the DBpedia ontology. This comparison of the \textit{Wikidata} will be done for different parameter $k \in (0,1]$ for $wpath$, to optimize the measurements for \textit{R\&G}. 
+        %\item To find the best weight $k$ between path length and IC for the Wikidata KG, the $wpath$ similarity will be applied on several idea-concepts for different parameters $k \in (0,1]$.
+        \item  As the last step, the recommendation feature will be tested with Orchard on a qualitative level with three or more persons who are familiar with the clustering process, to evaluate the research question, if the recommendation feature in Orchard is a helpful feature to effectively find clusters and creating a satisfying result. 
     \end{enumerate}
-    
-    
-    
-   
-    
-    
     
     %\item Aus den Fragen (vorheriger Abschnitt) können Sie dann gut Aktivitäten ableiten, die Ihnen helfen, Ihre weitere Arbeit zu strukturieren.
     
@@ -386,7 +379,7 @@ In Orchard, as Figure \ref{fig:spark} illustrates, the user can click on an idea
     
     The software is realized in python and  the Knowledge Graph is extracted from Wikidata.
     For the calculation of the corpus-based IC, the implementation of \citet{zhu_computing_2017} is used. 
-    The Interface of the recommender system in Orchard is implemented in JavaScript, React and Redux.  
+    The Interface of the recommendation feature in Orchard is implemented in JavaScript, React and Redux.  
     
 %\end{itemize}
 
@@ -403,7 +396,7 @@ In Orchard, as Figure \ref{fig:spark} illustrates, the user can click on an idea
 30. January & Implementation of $WMD$ for similarity measures. \\
 4. Feburary & Test concept similarity implementation of $wpath$ for Wikidata, to select best parameter $k$. \\
 20. Feburary & Finish technical implantation, take measurements for similarity.\\
-30. Feburary & The recommender system is integrated into Orchard for gold standard ideas. \\
+30. Feburary & The recommendation feature is integrated into Orchard for gold standard ideas. \\
 3. March & Discussion of the results with Prof. Dr. Claudia Müller-Birn, Michael Tebbe and Maximilian Mackeprang.\\
 25. March & The thesis are written, time for correction.\\
 15. April & Submission of the bachelor thesis\\
