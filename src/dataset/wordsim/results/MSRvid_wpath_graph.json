@@ -1,0 +1,5108 @@
+{
+  "correlation": 0.592,
+  "similarities": [
+    [
+      1.0,
+      [
+        "A man with a hard hat is dancing.",
+        "A man wearing a hard hat is dancing."
+      ]
+    ],
+    [
+      0.544,
+      [
+        "A plane is taking off.",
+        "An air plane is taking off."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A young child is riding a horse.",
+        "A child is riding a horse."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is feeding a mouse to a snake.",
+        "The man is feeding a mouse to the snake."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a large flute.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.844,
+      [
+        "A man is spreading shreded cheese on a pizza.",
+        "A man is spreading shredded cheese on an uncooked pizza."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Three men are playing chess.",
+        "Two men are playing chess."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A woman is playing the guitar.",
+        "A man is playing guitar."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A woman is playing the flute.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing the cello.",
+        "A man seated is playing the cello."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "A woman is cutting an onion.",
+        "A man is cutting onions."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "Some men are fighting.",
+        "Two men are fighting."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A man is smoking.",
+        "A man is skating."
+      ]
+    ],
+    [
+      0.808,
+      [
+        "The man is playing the piano.",
+        "The man is playing the guitar."
+      ]
+    ],
+    [
+      0.693,
+      [
+        "A man is playing on a guitar and singing.",
+        "A woman is playing an acoustic guitar and singing."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is erasing a chalk board.",
+        "The man is erasing the chalk board."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is throwing a cat on to the ceiling.",
+        "A person throws a cat on the ceiling."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man hit the other man with a stick.",
+        "The man spanked the other man with a stick."
+      ]
+    ],
+    [
+      0.815,
+      [
+        "A woman picks up and holds a baby kangaroo.",
+        "A woman picks up and holds a baby kangaroo in her arms."
+      ]
+    ],
+    [
+      0.623,
+      [
+        "A man is playing a flute.",
+        "A man is playing a bamboo flute."
+      ]
+    ],
+    [
+      0.552,
+      [
+        "A person is folding a piece of paper.",
+        "Someone is folding a piece of paper."
+      ]
+    ],
+    [
+      0.415,
+      [
+        "A man is running on the road.",
+        "A panda dog is running on the road."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A dog is trying to get bacon off his back.",
+        "A dog is trying to eat the bacon on its back."
+      ]
+    ],
+    [
+      0.824,
+      [
+        "A woman is carrying a boy.",
+        "A woman is carrying her baby."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A girl is styling her hair.",
+        "A girl is brushing her hair."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The polar bear is sliding on the snow.",
+        "A polar bear is sliding across the snow."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is writing.",
+        "A woman is swimming."
+      ]
+    ],
+    [
+      0.777,
+      [
+        "Three men are playing guitars.",
+        "Three men are on stage playing guitars."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A cat is rubbing against baby's face.",
+        "A cat is rubbing against a baby."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man is riding a horse.",
+        "A man is riding on a horse."
+      ]
+    ],
+    [
+      0.749,
+      [
+        "A man pours oil into a pot.",
+        "A man pours wine in a pot."
+      ]
+    ],
+    [
+      0.733,
+      [
+        "A man is playing a guitar.",
+        "A girl is playing a guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A panda is sliding down a slide.",
+        "A panda slides down a slide."
+      ]
+    ],
+    [
+      0.461,
+      [
+        "A group of men play soccer on the beach.",
+        "A group of boys are playing soccer on the beach."
+      ]
+    ],
+    [
+      0.554,
+      [
+        "A woman is eating something.",
+        "A woman is eating meat."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman peels a potato.",
+        "A woman is peeling a potato."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman peels a potato.",
+        "A woman is peeling a potato."
+      ]
+    ],
+    [
+      0.579,
+      [
+        "People are playing cricket.",
+        "Men are playing cricket."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The boy fell off his bike.",
+        "A boy falls off his bike."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "A man is playing a guitar.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The woman is playing the flute.",
+        "A woman is playing a flute."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The cougar is chasing the bear.",
+        "A cougar is chasing a bear."
+      ]
+    ],
+    [
+      0.845,
+      [
+        "A rabbit is running from an eagle.",
+        "A hare is running from a eagle."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man cut down a tree with an axe.",
+        "A man chops down a tree with an axe."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The woman is frying a breaded pork chop.",
+        "A woman is cooking a breaded pork chop."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "One woman is measuring another woman's ankle.",
+        "A woman measures another woman's ankle."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A girl is flying a kite.",
+        "A girl running is flying a kite."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is riding a mechanical bull.",
+        "A man rode a mechanical bull."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man is playing the guitar.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man is playing the guitar.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.394,
+      [
+        "A woman is dancing and singing with other women.",
+        "A woman is dancing and singing in the rain."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "A man is finding something.",
+        "A woman is slicing something."
+      ]
+    ],
+    [
+      0.131,
+      [
+        "A man is slicing a bun.",
+        "A man is slicing an onion."
+      ]
+    ],
+    [
+      0.829,
+      [
+        "A man is pouring oil into a pan.",
+        "A man is pouring oil into a skillet."
+      ]
+    ],
+    [
+      0.579,
+      [
+        "A lion is playing with people.",
+        "A lion is playing with two men."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A dog rides a skateboard.",
+        "A dog is riding a skateboard."
+      ]
+    ],
+    [
+      0.56,
+      [
+        "Someone is carving a statue.",
+        "A man is carving a statue."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "A woman is slicing an onion.",
+        "A man is cutting an onion."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman peels shrimp.",
+        "A woman is peeling shrimp."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A woman is frying fish.",
+        "A woman is cooking fish."
+      ]
+    ],
+    [
+      0.549,
+      [
+        "The girl sang into a microphone.",
+        "The lady sang into the microphone."
+      ]
+    ],
+    [
+      0.814,
+      [
+        "A woman is playing an electric guitar.",
+        "A woman is playing a guitar."
+      ]
+    ],
+    [
+      0.575,
+      [
+        "A baby tiger is playing with a ball.",
+        "A baby is playing with a doll."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is cutting up a cucumber.",
+        "A man is slicing a cucumber."
+      ]
+    ],
+    [
+      0.537,
+      [
+        "A person is slicing a tomato.",
+        "A person is slicing some meat."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person cuts an onion.",
+        "A person is cutting an onion."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "A man is playing a harp.",
+        "A man is playing a keyboard."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is climbing a rope.",
+        "A man climbs a rope."
+      ]
+    ],
+    [
+      0.513,
+      [
+        "A man is playing the piano.",
+        "A woman is playing the violin."
+      ]
+    ],
+    [
+      0.539,
+      [
+        "A woman is playing the flute.",
+        "A man is playing the guitar."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A man is cutting up a potato.",
+        "A man is cutting up carrots."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A kid is playing guitar.",
+        "A boy is playing a guitar."
+      ]
+    ],
+    [
+      0.643,
+      [
+        "A boy is playing guitar.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.643,
+      [
+        "A man is playing guitar.",
+        "A boy is playing a guitar."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "A woman is cutting onions.",
+        "A woman is cutting tofu."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A little boy is playing a keyboard.",
+        "A boy is playing key board."
+      ]
+    ],
+    [
+      0.821,
+      [
+        "A man is riding an electric bicycle.",
+        "A man is riding a bicycle."
+      ]
+    ],
+    [
+      0.814,
+      [
+        "A man is playing a guitar.",
+        "A man is playing an electric guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A dog licks a baby.",
+        "A dog is licking a baby."
+      ]
+    ],
+    [
+      0.828,
+      [
+        "Kittens are eating food.",
+        "Kittens are eating from dishes."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "A woman is slicing an onion.",
+        "A man is cutting and onion."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A man is playing the guitar.",
+        "A man is playing the drums."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A man is playing the drums.",
+        "A man is playing the guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is slicing a pepper.",
+        "A woman is cutting a red pepper."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man is playing the drums.",
+        "A man plays the drum."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman rides a horse.",
+        "A woman is riding a horse."
+      ]
+    ],
+    [
+      0.719,
+      [
+        "A man is eating a banana by a tree.",
+        "A man is eating a banana."
+      ]
+    ],
+    [
+      0.134,
+      [
+        "A cat is playing a key board.",
+        "A man is playing two keyboards."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is speaking.",
+        "A man is spitting."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man chops down a tree with an axe.",
+        "A man cut a tree with an axe."
+      ]
+    ],
+    [
+      0.929,
+      [
+        "A kid plays with a toy phone.",
+        "A little boy plays with a toy phone."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is cooking eggs.",
+        "A woman is cooking something."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man is playing guitar.",
+        "A lady is playing the guitar."
+      ]
+    ],
+    [
+      0.607,
+      [
+        "A man is riding a motorcycle.",
+        "A man is riding a horse."
+      ]
+    ],
+    [
+      0.607,
+      [
+        "A man is riding a motorcycle.",
+        "A man is riding a horse."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A man is playing a guitar.",
+        "A man is playing a trumpet."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A man is playing a guitar.",
+        "A man is playing a trumpet."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A man is playing a guitar.",
+        "A man is playing a trumpet."
+      ]
+    ],
+    [
+      0.419,
+      [
+        "An animal is chewing on something.",
+        "An animal is chewing on a key chain."
+      ]
+    ],
+    [
+      0.525,
+      [
+        "A squirrel is spinning around in circles.",
+        "A squirrel runs around in circles."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is cutting an onion.",
+        "A man cuts an onion."
+      ]
+    ],
+    [
+      0.694,
+      [
+        "A man and a woman are kissing.",
+        "A man and woman kiss."
+      ]
+    ],
+    [
+      0.667,
+      [
+        "A man is getting into a car.",
+        "A man is getting into a car in a garage."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A man is cycling.",
+        "A man is talking."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A man is dancing.",
+        "A man is talking."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing the guitar and singing.",
+        "A man is playing the guitar."
+      ]
+    ],
+    [
+      0.557,
+      [
+        "A person is cutting mushrooms.",
+        "A person is cutting mushrooms with a knife."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A man is slicing open a fish.",
+        "A man is cutting up a fish."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A tiger cub is making a sound.",
+        "A tiger is walking around."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A person is slicing onions.",
+        "A person is peeling an onion."
+      ]
+    ],
+    [
+      0.565,
+      [
+        "A man is playing the piano.",
+        "A man is playing the trumpet."
+      ]
+    ],
+    [
+      0.541,
+      [
+        "A woman is peeling a potato.",
+        "A woman is peeling an apple."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A pankda is eating bamboo.",
+        "A panda bear is eating some bamboo."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is peeling an onion.",
+        "A person is peeling an eggplant."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A monkey pushes another monkey.",
+        "The monkey pushed the other monkey."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A squirrel runs around in circles.",
+        "A squirrel is moving in circles."
+      ]
+    ],
+    [
+      0.71,
+      [
+        "A man is tying his shoe.",
+        "A man ties his shoe."
+      ]
+    ],
+    [
+      0.706,
+      [
+        "A boy is singing and playing the piano.",
+        "A boy is playing the piano."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A dog is eating water melon.",
+        "A dog is eating a piece of watermelon."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A woman is chopping broccoli.",
+        "A woman is chopping broccoli with a knife."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "A man is peeling a potato.",
+        "A man peeled a potatoe."
+      ]
+    ],
+    [
+      0.083,
+      [
+        "A woman is playing a guitar.",
+        "A man plays a guitar."
+      ]
+    ],
+    [
+      0.573,
+      [
+        "A man is playing a flute.",
+        "A man is playing guitar."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A woman is slicing tomato.",
+        "A man is slicing onion."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is slicing a tomato.",
+        "A man is slicing a bun."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man swims underwater.",
+        "A woman is swimming underwater."
+      ]
+    ],
+    [
+      0.347,
+      [
+        "A man and woman are talking.",
+        "A man and woman is eating."
+      ]
+    ],
+    [
+      0.737,
+      [
+        "A man is playing a guitar.",
+        "A man is playing a keyboard."
+      ]
+    ],
+    [
+      0.828,
+      [
+        "A baby panda goes down a slide.",
+        "A panda slides down a slide."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A small dog is chasing a yoga ball.",
+        "A dog is chasing a ball."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The men are playing cricket.",
+        "The men are playing basketball."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man rides off on a motorcycle.",
+        "A man is riding on a motorcycle."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a guitar.",
+        "A man is singing and playing a guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man talked on the telephone.",
+        "The man is talking on the phone."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is singing and playing a guitar.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is fishing.",
+        "A man is exercising."
+      ]
+    ],
+    [
+      0.059,
+      [
+        "A man is levitating.",
+        "A man is talking."
+      ]
+    ],
+    [
+      0.592,
+      [
+        "A man attacks a woman.",
+        "A man slaps a woman."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "Two boys are driving.",
+        "Two bays are dancing."
+      ]
+    ],
+    [
+      0.733,
+      [
+        "A man is driving a car.",
+        "A man is riding a horse."
+      ]
+    ],
+    [
+      0.114,
+      [
+        "A man is playing soccer.",
+        "A man is playing flute."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A man is riding on a horse.",
+        "A girl is riding a horse."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A man is riding a bicycle.",
+        "A monkey is riding a bike."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man is slicing potatoes.",
+        "A woman is peeling potato."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "A woman is peeling a potato.",
+        "A man is slicing potato."
+      ]
+    ],
+    [
+      0.627,
+      [
+        "A man is playing a guitar.",
+        "Someoen is playing guitar."
+      ]
+    ],
+    [
+      0.534,
+      [
+        "A woman is cutting tofu.",
+        "A woman is cutting an onion."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A girl is riding a horse.",
+        "A girl is riding a bicycle."
+      ]
+    ],
+    [
+      0.558,
+      [
+        "A woman is slicing a leek.",
+        "A woman is slicing ginger."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "The man cut a paper plate.",
+        "A man is cutting a paper plate."
+      ]
+    ],
+    [
+      0.695,
+      [
+        "The woman is styling her hair.",
+        "The woman is slicing herbs."
+      ]
+    ],
+    [
+      0.75,
+      [
+        "The man is playing the guitar.",
+        "A man is playing the flute."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing the piano.",
+        "The man is playing the violin."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man is lifting weights in a garage.",
+        "A man is lifting weights."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is slicing up some meat.",
+        "A woman is breading some meat."
+      ]
+    ],
+    [
+      0.703,
+      [
+        "A man is playing on his keyboard.",
+        "A man is playing a keyboard piano."
+      ]
+    ],
+    [
+      0.547,
+      [
+        "Two zebras play in an open field.",
+        "Two zebras are playing in a field."
+      ]
+    ],
+    [
+      0.583,
+      [
+        "The lady chopped up the green onions.",
+        "The lady cut up a green onion."
+      ]
+    ],
+    [
+      0.552,
+      [
+        "Someone is sitring noodles in water.",
+        "A woman is boiling noodles in water."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "An animal is biting a persons finger.",
+        "A slow loris is biting a persons finger."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Lionel Richie is dancing on the ceiling.",
+        "Lionel Ritchie dances while standing on the ceiling."
+      ]
+    ],
+    [
+      0.915,
+      [
+        "A man is playing a piano.",
+        "A person is playing the piano."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is cutting a potato.",
+        "A man is slicing some potato."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is playing flute.",
+        "A woman plays on a flute."
+      ]
+    ],
+    [
+      0.521,
+      [
+        "A boy is checking a calender.",
+        "A boy is looking at a calendar."
+      ]
+    ],
+    [
+      0.43,
+      [
+        "A woman is cutting an onion.",
+        "A woman is chopping onions."
+      ]
+    ],
+    [
+      0.097,
+      [
+        "A man is playing guitar.",
+        "A man plays a guitar."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A woman is using a sewing machine.",
+        "A woman is sewing on a machine."
+      ]
+    ],
+    [
+      0.425,
+      [
+        "A woman is flipping pancakes.",
+        "A cartoon chef is flipping pancakes."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A man is slicing an onion.",
+        "A woman is slicing a pumpkin."
+      ]
+    ],
+    [
+      0.56,
+      [
+        "A  man is dancing.",
+        "A man and woman is dancing."
+      ]
+    ],
+    [
+      0.538,
+      [
+        "A man is riding a motorcycle.",
+        "A woman is riding a horse."
+      ]
+    ],
+    [
+      0.553,
+      [
+        "A man is running on the road.",
+        "A car is driving down the road."
+      ]
+    ],
+    [
+      0.57,
+      [
+        "A woman is reading.",
+        "A woman is kneading dough."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "A woman is slicing garlics.",
+        "A woman is slicing an onion."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A man is riding on a horse.",
+        "A man is talking on a phone."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "A man is riding a bike.",
+        "A man is riding on a horse."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "A man is crying.",
+        "A woman is dancing."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is dancing.",
+        "A man is eating."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A man is playing a piano.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.643,
+      [
+        "A man is playing a flute.",
+        "A man is playing a piano."
+      ]
+    ],
+    [
+      0.542,
+      [
+        "A man is speaking.",
+        "A man is cooking."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is spinning.",
+        "A man is dancing."
+      ]
+    ],
+    [
+      0.548,
+      [
+        "A little boy is singing and playing a guitar.",
+        "A man is singing and playing the guitar."
+      ]
+    ],
+    [
+      0.403,
+      [
+        "A monkey is swinging from limb to limb.",
+        "A monkey is swinging from tree to tree."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The people got off the train.",
+        "The people got off the train at the station."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "The lady cracked an egg into a bowl.",
+        "The man is cracking eggs into a bowl."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A dog is jumping on a trampoline.",
+        "A dog bounces on a trampoline."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A boy is playing an instrument.",
+        "A man is playing a trumpet."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A band is performing on a stage.",
+        "A band is playing onstage."
+      ]
+    ],
+    [
+      0.711,
+      [
+        "A woman plays the guitar.",
+        "A man sings and plays the guitar."
+      ]
+    ],
+    [
+      0.548,
+      [
+        "A woman is picking a can.",
+        "A woman is slicing a tomato."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is climbing a rope.",
+        "A man climbs up a rope."
+      ]
+    ],
+    [
+      0.525,
+      [
+        "A man is lifting a car.",
+        "A man is climbing a wall."
+      ]
+    ],
+    [
+      0.53,
+      [
+        "Elephants are walking down a trail.",
+        "A herd of elephants are walking along a trail."
+      ]
+    ],
+    [
+      0.856,
+      [
+        "A man and woman are driving down the street in a jeep.",
+        "A man and woman are driving down the road in an open air vehicle."
+      ]
+    ],
+    [
+      0.384,
+      [
+        "The shirtless man sat in a chair.",
+        "A shirtless man is sitting on a chair."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A turtle is swimming in water.",
+        "A turtle is walking underwater."
+      ]
+    ],
+    [
+      0.523,
+      [
+        "Two women are wrestling.",
+        "Two women are wrestling on the floor."
+      ]
+    ],
+    [
+      0.074,
+      [
+        "The puppy played with a blue tennis ball.",
+        "A puppy is playing with a tennis ball."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "A kangroo is eating something.",
+        "A kangaroo is eating."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A cat is playing a piano.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.698,
+      [
+        "The man cut some carpet with a knife.",
+        "A man is cutting carpet with a knife."
+      ]
+    ],
+    [
+      0.132,
+      [
+        "A woman is riding a motorized scooter down a road.",
+        "A man is riding a motor scooter."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "someone is slicing a vegetable.",
+        "Someone is slicing a tomato."
+      ]
+    ],
+    [
+      0.702,
+      [
+        "A woman is dancing.",
+        "A man is talking."
+      ]
+    ],
+    [
+      0.79,
+      [
+        "A man is playing a guitar.",
+        "A man plays the guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A dog licks up a baby's drool.",
+        "A dog licks a baby."
+      ]
+    ],
+    [
+      0.658,
+      [
+        "A man is rowing a boat.",
+        "A man is slicing a tomato."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A young woman is putting stickers all over her face.",
+        "A woman is applying stickers to her face."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A man cuts up potatos.",
+        "A man slices potatoes."
+      ]
+    ],
+    [
+      0.694,
+      [
+        "A man sitting on the floor plays a guitar.",
+        "A man sitting on the floor in a room is strumming a guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is chopping up garlic.",
+        "The woman is dicing garlic."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A puppy plays with a plastic container.",
+        "The dog is playing with a plastic container."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "An animal run in circles.",
+        "A squirrel runs in circles."
+      ]
+    ],
+    [
+      0.11,
+      [
+        "A man is walking slowly across a rope bridge.",
+        "A boy is walking across a bridge."
+      ]
+    ],
+    [
+      0.563,
+      [
+        "A man is playing the guitar.",
+        "A man seated in a room is playing the guitar."
+      ]
+    ],
+    [
+      0.548,
+      [
+        "A man plays the flute.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A man plays the violin.",
+        "A man is playing violin."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man plays the piano.",
+        "A man is playing a piano."
+      ]
+    ],
+    [
+      0.824,
+      [
+        "A man is eating food.",
+        "A man is eating something."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman cracks two eggs into a glass bowl.",
+        "A woman is cracking an egg into a bowl."
+      ]
+    ],
+    [
+      0.56,
+      [
+        "A man is playing a basketball.",
+        "A man is playing a piano."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is cutting a fish.",
+        "A man guts a fish."
+      ]
+    ],
+    [
+      0.603,
+      [
+        "Two men are packing suitcases into the trunk of a car.",
+        "The men are putting suitcases into the car's trunk."
+      ]
+    ],
+    [
+      0.564,
+      [
+        "A toddler walks down a hallway.",
+        "A little girl is walking down a hallway."
+      ]
+    ],
+    [
+      0.809,
+      [
+        "A man pours oil on some tomatos.",
+        "The man poured oil on the cut tomatoes."
+      ]
+    ],
+    [
+      0.717,
+      [
+        "A man is slicing something.",
+        "A man is slicing a bun."
+      ]
+    ],
+    [
+      0.652,
+      [
+        "A plane is landing.",
+        "A animated airplane is landing."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is wrapping tofu.",
+        "A woman is balling dough."
+      ]
+    ],
+    [
+      0.596,
+      [
+        "A man is paddling a canoe.",
+        "A man is playing a harp."
+      ]
+    ],
+    [
+      0.081,
+      [
+        "A man and woman are walking together through the woods.",
+        "A man and woman are walking arm in arm through a wooded area."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A cat is eating some corn.",
+        "A cat is eating corn on the cob."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "The woman picked up the kangaroo.",
+        "A woman picks up a baby kangaroo."
+      ]
+    ],
+    [
+      0.406,
+      [
+        "Fish are swimming.",
+        "A fish is swimming."
+      ]
+    ],
+    [
+      0.849,
+      [
+        "Two women mix something in a food processor.",
+        "Two women make something in a blender."
+      ]
+    ],
+    [
+      0.418,
+      [
+        "A panda is climbing.",
+        "A man is climbing a rope."
+      ]
+    ],
+    [
+      0.828,
+      [
+        "A person is surfing a large wave.",
+        "A person is surfing."
+      ]
+    ],
+    [
+      0.779,
+      [
+        "A man is playing a guitar.",
+        "A man is stabbing a target."
+      ]
+    ],
+    [
+      0.129,
+      [
+        "A man is playing a flute in a band.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.11,
+      [
+        "The man spread butter on the loaf of bread.",
+        "A man is spreading butter onto bread."
+      ]
+    ],
+    [
+      0.554,
+      [
+        "A person is boiling noodles.",
+        "A woman is boiling noodles in water."
+      ]
+    ],
+    [
+      0.255,
+      [
+        "A man is eating a food.",
+        "A man is eating a piece of bread."
+      ]
+    ],
+    [
+      0.353,
+      [
+        "A group of people dance on a hill.",
+        "A group of people are dancing."
+      ]
+    ],
+    [
+      0.539,
+      [
+        "A man is playing a guitar.",
+        "A man is eating pasta."
+      ]
+    ],
+    [
+      0.699,
+      [
+        "A man is dancing outside.",
+        "A man is playing flute."
+      ]
+    ],
+    [
+      0.461,
+      [
+        "A woman is feeding a man.",
+        "A woman is mixing meat."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is putting a pan into an oven.",
+        "A woman is cutting an onion."
+      ]
+    ],
+    [
+      0.706,
+      [
+        "A man is kicking pots of water.",
+        "A man is picking flowers."
+      ]
+    ],
+    [
+      0.525,
+      [
+        "A woman is sitting at a desk.",
+        "A woman is riding a donkey."
+      ]
+    ],
+    [
+      0.089,
+      [
+        "Medics transport a patient on a stretcher.",
+        "A doctor rushes a patient on a stretcher."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is cutting a pipe with scissors.",
+        "A man is cutting carpet with a knife."
+      ]
+    ],
+    [
+      0.451,
+      [
+        "A woman is playing a flute on stage.",
+        "The woman is playing the flute."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A woman is dancing in the rain.",
+        "A woman dances in the rain out side."
+      ]
+    ],
+    [
+      0.375,
+      [
+        "Two baby pandas are playing.",
+        "Two pandas are laying together."
+      ]
+    ],
+    [
+      0.148,
+      [
+        "Kids are dancing on stage.",
+        "Some people are dancing on stage."
+      ]
+    ],
+    [
+      0.808,
+      [
+        "A baby is laughing.",
+        "A baby is laughing and giggling."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a guitar.",
+        "A boy is playing a piano."
+      ]
+    ],
+    [
+      0.557,
+      [
+        "A woman is taking a bath.",
+        "A woman is riding a horse."
+      ]
+    ],
+    [
+      0.521,
+      [
+        "A man is folding paper.",
+        "A woman is slicing a pepper."
+      ]
+    ],
+    [
+      0.364,
+      [
+        "Three women are dancing.",
+        "The man is dancing."
+      ]
+    ],
+    [
+      0.702,
+      [
+        "A man plays a guitar.",
+        "A man plays the piano."
+      ]
+    ],
+    [
+      0.564,
+      [
+        "The cats are playing with each other.",
+        "Two cats are fighting each other."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is writing.",
+        "A person is writing with a pencil."
+      ]
+    ],
+    [
+      0.761,
+      [
+        "A woman is slicing a meat.",
+        "A woman is singing on stage."
+      ]
+    ],
+    [
+      0.763,
+      [
+        "A woman is taking a picture.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.701,
+      [
+        "A man mixes vegetables in a pot.",
+        "A person is stirring vegetables in a pot."
+      ]
+    ],
+    [
+      0.521,
+      [
+        "A man is running.",
+        "A man is running down a road."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "The woman is rolling dough.",
+        "A woman is flouring and rolling dough."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A woman is adding spices on a meat.",
+        "Woman is adding sugar to meat."
+      ]
+    ],
+    [
+      0.71,
+      [
+        "A woman is adding oil on fishes.",
+        "A woman is pouring water on fish."
+      ]
+    ],
+    [
+      0.795,
+      [
+        "A young boy is holding a guitar.",
+        "A little boy is playing a guitar."
+      ]
+    ],
+    [
+      0.428,
+      [
+        "A cheetah is running.",
+        "A cheetah is running across a field."
+      ]
+    ],
+    [
+      0.733,
+      [
+        "The man is eating pizza.",
+        "A man is eating a slice of pizza."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "An orangutan is riding a bus.",
+        "A monkey is riding on a bus."
+      ]
+    ],
+    [
+      0.345,
+      [
+        "A man and a woman talk in a diner.",
+        "A man and a woman are riding on a bicycle."
+      ]
+    ],
+    [
+      0.564,
+      [
+        "A woman is talking on a cell phone.",
+        "A man and woman are talking on the phone."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a guitar.",
+        "A man is cleaning a glass door."
+      ]
+    ],
+    [
+      0.454,
+      [
+        "A girl is singing and playing a guitar.",
+        "A young man is singing while playing the guitar."
+      ]
+    ],
+    [
+      0.698,
+      [
+        "A man is playing a guitar.",
+        "A man is singing while playing the guitar."
+      ]
+    ],
+    [
+      0.249,
+      [
+        "The man is riding a horse.",
+        "A woman is using a hoe."
+      ]
+    ],
+    [
+      0.048,
+      [
+        "A man is playing a guitar.",
+        "A man is driving a car."
+      ]
+    ],
+    [
+      0.564,
+      [
+        "A girl is communicating with sign language.",
+        "A young girl is using sign language."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is doing weight exercises.",
+        "A woman is doing her hair."
+      ]
+    ],
+    [
+      0.309,
+      [
+        "A man is getting inside a car.",
+        "An elderly man is getting into a red car."
+      ]
+    ],
+    [
+      0.083,
+      [
+        "A big green ball knocks a potato over.",
+        "A large green ball hits a potato."
+      ]
+    ],
+    [
+      0.7,
+      [
+        "A man is drilling a hole in a board.",
+        "Someone is drilling a hole in a piece of wood."
+      ]
+    ],
+    [
+      0.791,
+      [
+        "A cat is playing keyboards.",
+        "A cat is playing a piano."
+      ]
+    ],
+    [
+      0.552,
+      [
+        "Two dogs swim in a pool.",
+        "Dogs are swimming in a pool."
+      ]
+    ],
+    [
+      0.171,
+      [
+        "A man is fitting silencer on a pistol.",
+        "A man is adding a silencer to a gun."
+      ]
+    ],
+    [
+      0.081,
+      [
+        "The man used a chopper to chop the onion.",
+        "The man used a machine to chop up a potatoe."
+      ]
+    ],
+    [
+      0.415,
+      [
+        "A woman slices tofu.",
+        "A woman is cutting tofu."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A herd of deer are crossing the street.",
+        "A herd of caribou are crossing a road."
+      ]
+    ],
+    [
+      0.359,
+      [
+        "The person is riding the horse.",
+        "A man is riding a horse."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "Someone is feeding a animal.",
+        "Someone is playing a piano."
+      ]
+    ],
+    [
+      0.559,
+      [
+        "Someone is slicing tortila's.",
+        "Someone is riding a horse."
+      ]
+    ],
+    [
+      0.421,
+      [
+        "Someone is mixing ingrediants.",
+        "Someone is sewing things."
+      ]
+    ],
+    [
+      0.745,
+      [
+        "A rooster pecks at a dead mouse.",
+        "A chicken is pecking at a dead mouse."
+      ]
+    ],
+    [
+      0.562,
+      [
+        "A woman holds a kangaroo.",
+        "A woman is picking up a kangaroo."
+      ]
+    ],
+    [
+      0.741,
+      [
+        "A man is playing with frogs",
+        "A cat is playing with a camera."
+      ]
+    ],
+    [
+      0.318,
+      [
+        "Two men are talking.",
+        "Two men are playing guitar."
+      ]
+    ],
+    [
+      0.105,
+      [
+        "Two little girls are talking on the phone.",
+        "A little girl is walking down the street."
+      ]
+    ],
+    [
+      0.105,
+      [
+        "A man is cutting apple by his hand.",
+        "A man is cutting carpet with a knife."
+      ]
+    ],
+    [
+      0.145,
+      [
+        "A man spreads butter on a big piece of bread.",
+        "A man is smearing butter on a slice of garlic bread."
+      ]
+    ],
+    [
+      0.538,
+      [
+        "A man is running across a high wire.",
+        "A man is running on rope."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Someone is stirring chili in a kettle.",
+        "Someone is stirring a pot of chili with a spoon."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The woman is cracking eggs into a bowl.",
+        "The lady broke raw eggs into a bowl."
+      ]
+    ],
+    [
+      0.276,
+      [
+        "A man is mowing a lawn.",
+        "A woman is cutting a lemon."
+      ]
+    ],
+    [
+      0.061,
+      [
+        "A man is opening a door.",
+        "A man is cutting an onion."
+      ]
+    ],
+    [
+      0.787,
+      [
+        "A man is opening a door.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.103,
+      [
+        "A man is slicing a tomato.",
+        "A man is riding a horse."
+      ]
+    ],
+    [
+      0.347,
+      [
+        "A man is slicing a potato into pieces.",
+        "A man is cutting a potato."
+      ]
+    ],
+    [
+      0.368,
+      [
+        "The woman is cutting cooked octopus.",
+        "A woman is chopping octopus."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A man is cutting paper with a sword.",
+        "A woman is cutting a tomato."
+      ]
+    ],
+    [
+      0.571,
+      [
+        "A man is punching through boards.",
+        "A dog is running through water."
+      ]
+    ],
+    [
+      0.131,
+      [
+        "A woman puts flour on a piece of meat.",
+        "A woman is putting flour onto some meat."
+      ]
+    ],
+    [
+      0.567,
+      [
+        "A man is dancing.",
+        "A man is eating bread."
+      ]
+    ],
+    [
+      0.103,
+      [
+        "Someone is playing a piano.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.815,
+      [
+        "Two foxes are eating from a plate on a brick patio.",
+        "Foxes are eating from a plate."
+      ]
+    ],
+    [
+      0.56,
+      [
+        "A boy is playing a key-board.",
+        "A boy is playing the piano."
+      ]
+    ],
+    [
+      0.56,
+      [
+        "A person plays a keyboard.",
+        "Someone is playing a keyboard."
+      ]
+    ],
+    [
+      0.537,
+      [
+        "A boy studies a calendar.",
+        "A boy is looking at a calendar."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "A man is shooting a gun.",
+        "A man is spitting."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Someone is slicing an onion.",
+        "Someoen is peeling a potato."
+      ]
+    ],
+    [
+      0.845,
+      [
+        "A man is talking on a phone.",
+        "A man is singing to a woman."
+      ]
+    ],
+    [
+      0.129,
+      [
+        "A man is swimming.",
+        "A woman is slicing meat."
+      ]
+    ],
+    [
+      0.555,
+      [
+        "The ballerina is dancing.",
+        "A man is dancing."
+      ]
+    ],
+    [
+      0.353,
+      [
+        "A man is playing the guitar.",
+        "A man plays an acoustic guitar."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "A woman is slicing a pumpkin.",
+        "A woman is riding an elephant."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is dancing.",
+        "A woman is kneading dough."
+      ]
+    ],
+    [
+      0.564,
+      [
+        "A woman is dancing.",
+        "A woman is playing violin."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "A woman is cracking eggs into a bowl.",
+        "A woman is placing skewers onto a rack."
+      ]
+    ],
+    [
+      0.118,
+      [
+        "A car is moving through a road.",
+        "A car is driving down the road."
+      ]
+    ],
+    [
+      0.808,
+      [
+        "A woman is slicing some tomatoes.",
+        "A woman is chopping a potato."
+      ]
+    ],
+    [
+      0.555,
+      [
+        "Someone is greasing a pan.",
+        "Smeone is laying down."
+      ]
+    ],
+    [
+      0.553,
+      [
+        "A man is playing guitar.",
+        "A man is draining pasta."
+      ]
+    ],
+    [
+      0.357,
+      [
+        "A woman is drinking vodka.",
+        "A woman is exercising."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is water skiing.",
+        "A woman is slicing fish."
+      ]
+    ],
+    [
+      0.215,
+      [
+        "A man is playing an electronic keyboard.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.57,
+      [
+        "A woman is cutting meat into pieces.",
+        "A woman is cutting up some meat."
+      ]
+    ],
+    [
+      0.117,
+      [
+        "A man is playing a guitar.",
+        "A man is eating a banana."
+      ]
+    ],
+    [
+      0.523,
+      [
+        "A man is playing a flute.",
+        "A man is riding a scooter."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is rinsing a steak.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.721,
+      [
+        "A man is playing the piano.",
+        "A man played the guitar."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A man is selling items.",
+        "A man is cleaning the house."
+      ]
+    ],
+    [
+      0.154,
+      [
+        "A man is jumping into water.",
+        "A man is cutting paper."
+      ]
+    ],
+    [
+      0.699,
+      [
+        "A woman is picking a can.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A man is jumping a wall.",
+        "A man jumps onto a short wall."
+      ]
+    ],
+    [
+      0.489,
+      [
+        "Runners race around a track.",
+        "Runners compete in a race."
+      ]
+    ],
+    [
+      0.073,
+      [
+        "A man is kicking a soccer ball.",
+        "A man is mixing a bowl."
+      ]
+    ],
+    [
+      0.391,
+      [
+        "A woman is frying something.",
+        "A woman is riding a horse."
+      ]
+    ],
+    [
+      0.545,
+      [
+        "A cat is licking a sucker.",
+        "A woman is slicing cucumber."
+      ]
+    ],
+    [
+      0.559,
+      [
+        "A woman is dancing by a fire.",
+        "A woman is taking a bath."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man puts three pieces of meat into a pan.",
+        "A man is putting meat in a pan."
+      ]
+    ],
+    [
+      0.21,
+      [
+        "A man is playing a guitar.",
+        "A guy is playing an instrument."
+      ]
+    ],
+    [
+      0.553,
+      [
+        "The man is slicing a fish open.",
+        "A man is slicing a potato."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is cutting an onion.",
+        "A woman is cleaning a garden."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Butter is melting in a pan.",
+        "A man is melting butter in a pan."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Some men are sawing.",
+        "Men are sawing logs."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Three boys are dancing.",
+        "Kids are dancing."
+      ]
+    ],
+    [
+      0.57,
+      [
+        "A woman is playing a game with a man.",
+        "A man is playing piano."
+      ]
+    ],
+    [
+      0.562,
+      [
+        "The man is driving a white car.",
+        "A man is giving an interview."
+      ]
+    ],
+    [
+      0.547,
+      [
+        "A young man is playing the piano.",
+        "A woman is peeling a prawn."
+      ]
+    ],
+    [
+      0.081,
+      [
+        "A car is driven down the road.",
+        "A girl is walking down a road."
+      ]
+    ],
+    [
+      0.508,
+      [
+        "A woman is mixing ingrediants.",
+        "A woman is mixing food in a bowl."
+      ]
+    ],
+    [
+      0.554,
+      [
+        "A man drove his car.",
+        "A man is driving a car."
+      ]
+    ],
+    [
+      0.592,
+      [
+        "A car backs out of a space.",
+        "A car is backing out of a blocked lane."
+      ]
+    ],
+    [
+      0.737,
+      [
+        "Someone is shredding cabbage leaves with a knife.",
+        "Someone is chopping some cabbage leaves."
+      ]
+    ],
+    [
+      0.48,
+      [
+        "A man puts some cheese on a pizza.",
+        "The man sprinkled cheese on the pizza."
+      ]
+    ],
+    [
+      0.354,
+      [
+        "The boy is playing the piano.",
+        "A boy plays a piano."
+      ]
+    ],
+    [
+      0.168,
+      [
+        "The man is kissing and hugging the woman.",
+        "A man is hugging and kissing a woman."
+      ]
+    ],
+    [
+      0.702,
+      [
+        "The man played his guitar.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.52,
+      [
+        "A slow lori walks around.",
+        "A animal is walking around."
+      ]
+    ],
+    [
+      0.573,
+      [
+        "A man is riding a horse.",
+        "A man is playing a keyboard."
+      ]
+    ],
+    [
+      0.13,
+      [
+        "A man is walking on a rope.",
+        "A man is riding a mo-pad."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A little boy is vacuuming the floor.",
+        "A boy is vacuuming."
+      ]
+    ],
+    [
+      0.123,
+      [
+        "A girl is playing a flute.",
+        "A band is playing on a stage."
+      ]
+    ],
+    [
+      0.387,
+      [
+        "People step off a train.",
+        "A group of people get off a train."
+      ]
+    ],
+    [
+      0.105,
+      [
+        "A woman is sewing on a machine.",
+        "A woman is breading some meat."
+      ]
+    ],
+    [
+      0.413,
+      [
+        "A dog is looking into swimming pool.",
+        "A dog is walking around a pool."
+      ]
+    ],
+    [
+      0.484,
+      [
+        "A man is buttering a piece of bread.",
+        "A man is applying butter to bread."
+      ]
+    ],
+    [
+      0.689,
+      [
+        "A woman is applying eye liner to her eyelid using an eye pencil.",
+        "A woman is applying cosmetics to her eyelid."
+      ]
+    ],
+    [
+      0.559,
+      [
+        "A man is cutting tomatoes into pieces.",
+        "A woman is cutting some vegetables."
+      ]
+    ],
+    [
+      0.59,
+      [
+        "A train is moving.",
+        "A man is doing yoga."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "Three teenage girls danced in the room.",
+        "Some teenage girls are dancing for the camera."
+      ]
+    ],
+    [
+      0.407,
+      [
+        "A lion is walking.",
+        "A lion is pacing in a pen."
+      ]
+    ],
+    [
+      0.089,
+      [
+        "A man shooting a car.",
+        "A man is cutting a potato."
+      ]
+    ],
+    [
+      0.542,
+      [
+        "A man is making a bed.",
+        "A woman is playing a guitar."
+      ]
+    ],
+    [
+      0.826,
+      [
+        "A black horse is running around.",
+        "The horse is running."
+      ]
+    ],
+    [
+      0.332,
+      [
+        "Someone is slicing an onion.",
+        "A woman is cutting onion."
+      ]
+    ],
+    [
+      0.149,
+      [
+        "A woman is deveining shrimp.",
+        "A man is dancing in rain."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A man is riding a horse.",
+        "A woman is washing a freezer."
+      ]
+    ],
+    [
+      0.582,
+      [
+        "A man plays a keyboard.",
+        "A person is playing the keyboard."
+      ]
+    ],
+    [
+      0.373,
+      [
+        "A man walks down a path.",
+        "A man walks across a tight rope."
+      ]
+    ],
+    [
+      0.391,
+      [
+        "A man is slicing a potato.",
+        "A woman is cutting a jalepeno."
+      ]
+    ],
+    [
+      0.383,
+      [
+        "A dog is barking at a ball.",
+        "A dog swims after a tennis ball."
+      ]
+    ],
+    [
+      0.083,
+      [
+        "A woman is playing in the ocean.",
+        "A woman is preparing shrimp to cook."
+      ]
+    ],
+    [
+      0.094,
+      [
+        "A kid runs away from a fish swinging around on a fishing pole.",
+        "A little kid is running around a fishing pole."
+      ]
+    ],
+    [
+      0.402,
+      [
+        "A man is walking along a path through wilderness.",
+        "A man is walking down a road."
+      ]
+    ],
+    [
+      0.145,
+      [
+        "An elderly man is speaking at a podium.",
+        "A man is making a speech at the podium."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is playing an electronic keyboard.",
+        "A kid is playing keyboard."
+      ]
+    ],
+    [
+      0.297,
+      [
+        "A man riding a horse in slow motion.",
+        "A man is riding on a horse."
+      ]
+    ],
+    [
+      0.542,
+      [
+        "A person is cutting some burrata cheese.",
+        "The person is slicing cheese."
+      ]
+    ],
+    [
+      0.552,
+      [
+        "The man is shooting an automatic rifle.",
+        "A man is shooting a gun."
+      ]
+    ],
+    [
+      0.395,
+      [
+        "A rabbit is playing with a toy rabbit.",
+        "A bunny is playing with a stuffed bunny."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A plane rides on a road.",
+        "An airplane moves along a runway."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is crushing garlic with the back of a knife.",
+        "A woman is slicing meat with a knife."
+      ]
+    ],
+    [
+      0.548,
+      [
+        "A woman is filing her fingernails with an emery board.",
+        "A woman is feeding her baby with a bottle."
+      ]
+    ],
+    [
+      0.348,
+      [
+        "A man is riding a skateboard.",
+        "A woman is cutting a potato."
+      ]
+    ],
+    [
+      0.335,
+      [
+        "A woman is taking a shower.",
+        "A man is riding a white horse."
+      ]
+    ],
+    [
+      0.562,
+      [
+        "A  man is dancing.",
+        "A man is riding a horse."
+      ]
+    ],
+    [
+      0.391,
+      [
+        "A man is holding a leaf.",
+        "A monkey is fighting a man."
+      ]
+    ],
+    [
+      0.363,
+      [
+        "A woman is peeling shrimp.",
+        "A man is squeezing water."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is rowing a boat.",
+        "A man is shooting off a gun."
+      ]
+    ],
+    [
+      0.464,
+      [
+        "A man is swinging from a rope attached to the ceiling.",
+        "A man is swinging on a rope."
+      ]
+    ],
+    [
+      0.692,
+      [
+        "A woman is riding a horse on a beach.",
+        "A man is carrying another man on his back."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man holds a small animal in one hand.",
+        "A man shows off a small monkey."
+      ]
+    ],
+    [
+      0.129,
+      [
+        "A person is folding a square paper piece.",
+        "A man is folding paper."
+      ]
+    ],
+    [
+      0.687,
+      [
+        "A person is frying meat in a pan.",
+        "A person is holding a skunk."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "A man shoots a man.",
+        "A man with a pistol shoots another man."
+      ]
+    ],
+    [
+      0.422,
+      [
+        "A man plays the guitar.",
+        "The man sang and played his guitar."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is sitting and smoking.",
+        "A man is smoking a cigarette."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A chimpanzee is hurting a woman.",
+        "A man is driving a car."
+      ]
+    ],
+    [
+      0.695,
+      [
+        "The woman is peeling shrimp.",
+        "The man is holding a lemur."
+      ]
+    ],
+    [
+      0.239,
+      [
+        "A guy is playing hackysack",
+        "A man is playing a key-board."
+      ]
+    ],
+    [
+      0.098,
+      [
+        "A man is playing a guitar.",
+        "A woman is riding a horse."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "One man is breaking cement on another man's chest.",
+        "A man breaks cinder blocks on another man."
+      ]
+    ],
+    [
+      0.542,
+      [
+        "Two zebras are playing.",
+        "Zebras are socializing."
+      ]
+    ],
+    [
+      0.403,
+      [
+        "A woman is slicing butter.",
+        "A woman slices tofu."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "Some men are playing guitars.",
+        "Three men are playing guitars and singing together."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "The elephants sprayed water on themselves.",
+        "Elephants spray themselves with water."
+      ]
+    ],
+    [
+      0.541,
+      [
+        "A man is talking with other women on the beach.",
+        "A man is walking down the street."
+      ]
+    ],
+    [
+      0.692,
+      [
+        "A dog sat at the counter of a store.",
+        "The dog is standing at the counter."
+      ]
+    ],
+    [
+      0.119,
+      [
+        "Someone drills a hole in a strip of wood with a power drill.",
+        "A man drills a hole in a piece of wood."
+      ]
+    ],
+    [
+      0.533,
+      [
+        "The woman is dicing onions.",
+        "A woman is dancing in railway station."
+      ]
+    ],
+    [
+      0.051,
+      [
+        "A man is standing in front of the window and looking outside.",
+        "A man is staring out the window."
+      ]
+    ],
+    [
+      0.37,
+      [
+        "A skunk is looking here and there.",
+        "A skunk looks at the camera."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is slicing some vegetables.",
+        "The woman is dicing garlic."
+      ]
+    ],
+    [
+      0.519,
+      [
+        "A badger is burrowing a hole.",
+        "A badger is digging the earth."
+      ]
+    ],
+    [
+      0.174,
+      [
+        "A woman is water skiing on a lake.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.547,
+      [
+        "A girl is playing a violin.",
+        "A baby is laughing and giggling."
+      ]
+    ],
+    [
+      0.394,
+      [
+        "A helicopter is landing on a helipad.",
+        "A helicopter lands."
+      ]
+    ],
+    [
+      0.252,
+      [
+        "A woman is cutting up a chicken.",
+        "A woman is slicing meat."
+      ]
+    ],
+    [
+      0.415,
+      [
+        "A woman is cutting a cucumber.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.148,
+      [
+        "A woman rides an elephant in front of an adoring crowd.",
+        "A woman rides an elephant."
+      ]
+    ],
+    [
+      0.554,
+      [
+        "A puppy is sliding backwards along the floor.",
+        "A puppy is pushing itself backwards."
+      ]
+    ],
+    [
+      0.388,
+      [
+        "A chef is preparing some food.",
+        "A chef prepared a meal."
+      ]
+    ],
+    [
+      0.432,
+      [
+        "A woman splits garlic cloves.",
+        "A woman is breaking a head of garlic into cloves."
+      ]
+    ],
+    [
+      0.872,
+      [
+        "A dog is looking into swimming pool.",
+        "A dog is walking along the edge of a pool."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A woman mixes a beauty treatment in a glass.",
+        "A woman is mixing a cream in a glass with a spoon."
+      ]
+    ],
+    [
+      0.536,
+      [
+        "A man is drawing a picture.",
+        "A person is drawing."
+      ]
+    ],
+    [
+      0.719,
+      [
+        "The man talked to a girl over the internet camera.",
+        "A teenager talks to a girl over a webcam."
+      ]
+    ],
+    [
+      0.092,
+      [
+        "A man is playing the guitar and singing.",
+        "A man sings with a guitar."
+      ]
+    ],
+    [
+      0.346,
+      [
+        "A turtle walks over the ground.",
+        "A large turtle crawls in the grass."
+      ]
+    ],
+    [
+      0.119,
+      [
+        "The lady cracked an egg for the mixer.",
+        "The lady sliced up the meat."
+      ]
+    ],
+    [
+      0.067,
+      [
+        "A woman is picking tomatoes.",
+        "A woman is pouring batter into a bowl."
+      ]
+    ],
+    [
+      0.7,
+      [
+        "A man is looking at a computer monitor.",
+        "A man is using a laptop."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The boy is riding a tricycle.",
+        "A woman is riding a water scooter."
+      ]
+    ],
+    [
+      0.136,
+      [
+        "Two men compete in a tire rolling race.",
+        "Two people flipped tractor tires in a race."
+      ]
+    ],
+    [
+      0.413,
+      [
+        "A woman opens a window.",
+        "A man is crawling."
+      ]
+    ],
+    [
+      0.436,
+      [
+        "A person is cutting a meat.",
+        "A person riding a mechanical bull"
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a violin.",
+        "A woman is using a sewing machine."
+      ]
+    ],
+    [
+      0.274,
+      [
+        "Five kittens are eating out of five dishes.",
+        "Kittens are eating food on trays."
+      ]
+    ],
+    [
+      0.579,
+      [
+        "People are dancing outside.",
+        "A group of people are dancing."
+      ]
+    ],
+    [
+      0.578,
+      [
+        "A woman is slicing some tuna.",
+        "A woman is cutting raw fish."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The man is using a camera to hammer a nail.",
+        "Someone is banging a camera lense against a nail."
+      ]
+    ],
+    [
+      0.541,
+      [
+        "The baby crawled through the doorway.",
+        "A baby is crawling across the floor."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A man is playing keyboard.",
+        "A person is playing a piano."
+      ]
+    ],
+    [
+      0.5,
+      [
+        "A man playing the guitar.",
+        "A woman is painting her lips."
+      ]
+    ],
+    [
+      0.121,
+      [
+        "A man is smelling two pizzas.",
+        "A woman is feeding a man."
+      ]
+    ],
+    [
+      0.556,
+      [
+        "A woman is filing her nails.",
+        "A man is peeling a carrot."
+      ]
+    ],
+    [
+      0.325,
+      [
+        "A monkey pulls the tail of a dog.",
+        "A monkey is teasing a dog at the zoo."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "A dog lies on his back on a wooden floor.",
+        "A dog is laying on the floor."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a flute.",
+        "A dog is barking at a fly."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is frying something in the pan.",
+        "A man is playing his guitar."
+      ]
+    ],
+    [
+      0.357,
+      [
+        "A boy is crawling into a dog house.",
+        "A boy is playing a wooden flute."
+      ]
+    ],
+    [
+      0.66,
+      [
+        "A man puts seasoning in a bowl of water.",
+        "The man added seasoning to water in a bowl."
+      ]
+    ],
+    [
+      0.338,
+      [
+        "An elderly woman is pouring oil into a frying pan.",
+        "A tied man is putting into water."
+      ]
+    ],
+    [
+      0.638,
+      [
+        "A baby rhino is walking around his pen with his mother.",
+        "A baby rhino is following an adult rhino."
+      ]
+    ],
+    [
+      0.564,
+      [
+        "A woman is chopping an onion.",
+        "A woman is slicing partially into half of an onion."
+      ]
+    ],
+    [
+      0.11,
+      [
+        "The woman picked up the kangaroo.",
+        "A woman is carrying a kangaroo."
+      ]
+    ],
+    [
+      0.092,
+      [
+        "A dog biting on a can.",
+        "A dog opens a can of food."
+      ]
+    ],
+    [
+      0.156,
+      [
+        "A woman is deboning a fish.",
+        "A man catches a fish."
+      ]
+    ],
+    [
+      0.117,
+      [
+        "A man is mowing grass.",
+        "A man is busting concrete."
+      ]
+    ],
+    [
+      0.156,
+      [
+        "A cat is watching a TV.",
+        "A man is slicing a leave."
+      ]
+    ],
+    [
+      0.298,
+      [
+        "The boy is stuck in the door of the doghouse.",
+        "A child is stuck in a dog house."
+      ]
+    ],
+    [
+      0.382,
+      [
+        "People flip into a swimming pool.",
+        "Men are falling into a pool."
+      ]
+    ],
+    [
+      0.297,
+      [
+        "A woman is swimming underwater.",
+        "A man is slicing some carrots."
+      ]
+    ],
+    [
+      0.698,
+      [
+        "The man used a sword to slice a plastic bottle.",
+        "A man sliced a plastic bottle with a sword."
+      ]
+    ],
+    [
+      0.173,
+      [
+        "A woman swims underwater.",
+        "A woman is swimming."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing a guitar.",
+        "A woman is dancing."
+      ]
+    ],
+    [
+      0.7,
+      [
+        "A machine is sharpening a pencil.",
+        "The machine shaved the end of the pencil."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "An airplane is flying in the air.",
+        "A South African Airways plane is flying in a blue sky."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A bear is running from two dogs.",
+        "A bear is fighting wolves."
+      ]
+    ],
+    [
+      0.585,
+      [
+        "A woman is resting in a floating raft.",
+        "A woman relaxes in an inner tube."
+      ]
+    ],
+    [
+      0.366,
+      [
+        "A man is cleaning a fish on a kitchen counter.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.412,
+      [
+        "A man is dieing in an operating room.",
+        "A man is kissing a woman in stage."
+      ]
+    ],
+    [
+      0.576,
+      [
+        "A man is holding a leaf.",
+        "A woman is watching television."
+      ]
+    ],
+    [
+      0.098,
+      [
+        "A person is riding a horse.",
+        "A woman is slicing potatoes."
+      ]
+    ],
+    [
+      0.707,
+      [
+        "A woman is slicing octopus.",
+        "A man is playing the guitar."
+      ]
+    ],
+    [
+      0.079,
+      [
+        "A man is breaking water jugs.",
+        "A woman is peeling garlic."
+      ]
+    ],
+    [
+      0.576,
+      [
+        "A man is playing a guitar.",
+        "A woman is cutting vegetable."
+      ]
+    ],
+    [
+      0.133,
+      [
+        "A girl is eating a cupcake.",
+        "A man is slicing a cucumber."
+      ]
+    ],
+    [
+      0.657,
+      [
+        "The little girl played on the grass with a dog and a ball.",
+        "A baby plays with a dog and ball."
+      ]
+    ],
+    [
+      0.106,
+      [
+        "A person is chopping coriander leaves.",
+        "A woman is slicing up some green leaves."
+      ]
+    ],
+    [
+      0.551,
+      [
+        "People ride and paddle a raft.",
+        "Four people are floating on a raft."
+      ]
+    ],
+    [
+      0.273,
+      [
+        "A man is pressing microwave buttons.",
+        "A man turns on the microwave."
+      ]
+    ],
+    [
+      0.57,
+      [
+        "A girl is riding a horse.",
+        "The girl trotted the horse."
+      ]
+    ],
+    [
+      0.662,
+      [
+        "The lady cut up a potatoe.",
+        "A man is cutting a potato."
+      ]
+    ],
+    [
+      0.41,
+      [
+        "A monkey is playing drums.",
+        "A gorilla plays the drums."
+      ]
+    ],
+    [
+      0.086,
+      [
+        "The missile exploded.",
+        "A rocket exploded."
+      ]
+    ],
+    [
+      0.135,
+      [
+        "A dog is playing in the snow.",
+        "A dog is pawing at a fly in the carpet before it."
+      ]
+    ],
+    [
+      0.426,
+      [
+        "A woman is dancing with other women.",
+        "A woman is shredding chicken."
+      ]
+    ],
+    [
+      0.402,
+      [
+        "A boy is pushing a van.",
+        "A person is slicing a tomato."
+      ]
+    ],
+    [
+      0.523,
+      [
+        "Batman and Robin fly a helicopter over water.",
+        "A helicopter flies over water."
+      ]
+    ],
+    [
+      0.546,
+      [
+        "A boy is making some dance steps.",
+        "A boy is pouring something from a pitcher."
+      ]
+    ],
+    [
+      0.128,
+      [
+        "A woman is opening a soda and drinking it.",
+        "A woman is riding on an elephant."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man is assembling speaker parts.",
+        "A man is playing the guitar."
+      ]
+    ],
+    [
+      0.151,
+      [
+        "A woman pours oil into a skillet from a plastic bottle while she is talking.",
+        "An older woman is pouring oil into a skillet on the stove."
+      ]
+    ],
+    [
+      0.376,
+      [
+        "The dog walked along the edge of the pool.",
+        "A dog is walking along a pool."
+      ]
+    ],
+    [
+      0.111,
+      [
+        "Butter is being put into a bowl.",
+        "A man cutting butter into a mixing bowl."
+      ]
+    ],
+    [
+      0.377,
+      [
+        "A man is opening a box and taking out paper.",
+        "A woman is peeling a potato."
+      ]
+    ],
+    [
+      0.383,
+      [
+        "Raccoons are eating.",
+        "A man is eating."
+      ]
+    ],
+    [
+      0.077,
+      [
+        "Someone fell off a horse.",
+        "A man gets knocked off of a horse."
+      ]
+    ],
+    [
+      0.127,
+      [
+        "A woman is cutting some herbs.",
+        "A woman is chopping cilantro."
+      ]
+    ],
+    [
+      0.436,
+      [
+        "A woman peels an apple.",
+        "A man pops wheelies on a motorcycle."
+      ]
+    ],
+    [
+      0.824,
+      [
+        "A man is taking some math classes.",
+        "A man is rinsing a steak."
+      ]
+    ],
+    [
+      0.505,
+      [
+        "Animals are playing in water.",
+        "Two men are playing ping pong."
+      ]
+    ],
+    [
+      0.536,
+      [
+        "A man is riding a horse and jumping over obstacles.",
+        "A man is kicking a soccer ball."
+      ]
+    ],
+    [
+      0.818,
+      [
+        "A person is doing pencil tricks with his hand.",
+        "A person is slicing carrots in half."
+      ]
+    ],
+    [
+      0.084,
+      [
+        "The person lit the cameras on fire.",
+        "A person is blow torching cameras."
+      ]
+    ],
+    [
+      0.131,
+      [
+        "The man is slicing the tape from the box.",
+        "A man is cutting open a box."
+      ]
+    ],
+    [
+      0.385,
+      [
+        "The lady put the skewered shimp in the hot water.",
+        "The lady fried the breaded meat in hot oil."
+      ]
+    ],
+    [
+      0.684,
+      [
+        "A woman is dancing.",
+        "A woman plays the clarinet."
+      ]
+    ],
+    [
+      0.295,
+      [
+        "A man is fishing in the river.",
+        "A man is singing while walking down the sidewalk."
+      ]
+    ],
+    [
+      0.36,
+      [
+        "A man is riding a bike.",
+        "A woman is dancing in the street."
+      ]
+    ],
+    [
+      0.334,
+      [
+        "A man is doing push-ups.",
+        "A woman is cutting some octopus."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man is playing guitar.",
+        "A woman is slicing up some pork."
+      ]
+    ],
+    [
+      0.488,
+      [
+        "A woman is riding on a horse.",
+        "A man is shooting off guns."
+      ]
+    ],
+    [
+      0.367,
+      [
+        "The boy is playing the piano.",
+        "A band is playing on stage."
+      ]
+    ],
+    [
+      0.845,
+      [
+        "A person is drawing on a large touchscreen.",
+        "A man is drawing on a digital dry erase board."
+      ]
+    ],
+    [
+      0.579,
+      [
+        "The cook is kneading the flour.",
+        "A woman is kneading tortilla dough."
+      ]
+    ],
+    [
+      0.438,
+      [
+        "The little boy is singing and playing the guitar.",
+        "A baby is playing a guitar."
+      ]
+    ],
+    [
+      0.276,
+      [
+        "A woman is powdering her face.",
+        "The woman is tapping her fingers on the table."
+      ]
+    ],
+    [
+      0.116,
+      [
+        "The men played follow the leader on the grass.",
+        "The rhino grazed on the grass."
+      ]
+    ],
+    [
+      0.513,
+      [
+        "A woman is cracking eggs.",
+        "A man is talking to a woman."
+      ]
+    ],
+    [
+      0.407,
+      [
+        "A woman is peeling a potato.",
+        "A lion is walking around."
+      ]
+    ],
+    [
+      0.547,
+      [
+        "A woman is firing a rifle.",
+        "A man is performing stunts."
+      ]
+    ],
+    [
+      0.188,
+      [
+        "A woman peels garlic with her hands.",
+        "The woman is slicing herbs."
+      ]
+    ],
+    [
+      0.078,
+      [
+        "The polar bears fought over the kill.",
+        "Polar bears are fighting each other."
+      ]
+    ],
+    [
+      0.704,
+      [
+        "A woman is riding a horse along a perimeter.",
+        "A dog is riding a skateboard."
+      ]
+    ],
+    [
+      0.362,
+      [
+        "A woman is putting her baby in a waste bin.",
+        "The woman is poking holes in the potato."
+      ]
+    ],
+    [
+      0.415,
+      [
+        "A woman puts a garland over a man's shoulders.",
+        "A man pours water over a pilots head."
+      ]
+    ],
+    [
+      0.673,
+      [
+        "An old woman is shaking hand with a man.",
+        "A man and a woman shake hands."
+      ]
+    ],
+    [
+      0.872,
+      [
+        "A man is doing trick with play cards.",
+        "A man is performing a card trick."
+      ]
+    ],
+    [
+      0.697,
+      [
+        "The woman is waterskiing.",
+        "A woman is wake boarding on a lake."
+      ]
+    ],
+    [
+      0.448,
+      [
+        "Trees are bending in storm.",
+        "Trees are hit by very hard winds."
+      ]
+    ],
+    [
+      0.588,
+      [
+        "The cat is licking a bottle.",
+        "A cat plays with a small bottle."
+      ]
+    ],
+    [
+      0.373,
+      [
+        "A man and woman is riding in a car.",
+        "A woman is frying shrimp."
+      ]
+    ],
+    [
+      0.379,
+      [
+        "A man is moving a tree limb.",
+        "The woman is playing the violin."
+      ]
+    ],
+    [
+      0.392,
+      [
+        "A cat is pouncing on a trampoline.",
+        "A man is slicing a tomato."
+      ]
+    ],
+    [
+      0.54,
+      [
+        "A man plays a piano.",
+        "A woman is playing the violin."
+      ]
+    ],
+    [
+      0.651,
+      [
+        "A person pours oil on a skillet.",
+        "A person is dicing an onion."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is slicing an onion.",
+        "A person cuts ginger."
+      ]
+    ],
+    [
+      0.625,
+      [
+        "The animal is eating.",
+        "A woman is dancing."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A man and woman are eating at a table.",
+        "A couple are eating a meal and talking."
+      ]
+    ],
+    [
+      0.392,
+      [
+        "The woman is walking her dog.",
+        "A woman walks her dog down the street."
+      ]
+    ],
+    [
+      0.067,
+      [
+        "A woman is riding on a horse.",
+        "A man is turning over tables in anger."
+      ]
+    ],
+    [
+      0.402,
+      [
+        "A man is screwing wood to a wall.",
+        "A man is giving a woman a massage."
+      ]
+    ],
+    [
+      0.389,
+      [
+        "A girl is playing a flute.",
+        "A girl plays a wind instrument."
+      ]
+    ],
+    [
+      0.285,
+      [
+        "A group of people sing.",
+        "Some people are singing."
+      ]
+    ],
+    [
+      0.588,
+      [
+        "The cat is drinking milk.",
+        "A cat is licking from a saucer of milk."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is peeling a potato with a potato peeler.",
+        "A man is cutting tomatoes with a cleaver."
+      ]
+    ],
+    [
+      0.414,
+      [
+        "A small baby is playing a guitar.",
+        "A boy sits on a bed, sings and plays a guitar."
+      ]
+    ],
+    [
+      0.097,
+      [
+        "A girl is making eyelid.",
+        "A woman is applying eyeshadow."
+      ]
+    ],
+    [
+      0.403,
+      [
+        "A woman is chopping onion.",
+        "A man is doing a card trick."
+      ]
+    ],
+    [
+      0.552,
+      [
+        "Two men are fighting.",
+        "Two men are fighting using a form of martial arts."
+      ]
+    ],
+    [
+      0.531,
+      [
+        "A man and a woman walk through the woods.",
+        "The man and woman are walking."
+      ]
+    ],
+    [
+      0.074,
+      [
+        "A child is playing a computer game.",
+        "A boy is playing a game on a laptop."
+      ]
+    ],
+    [
+      0.124,
+      [
+        "Two women are dancing and singing in front of a crowd.",
+        "The women are singing and dancing."
+      ]
+    ],
+    [
+      0.109,
+      [
+        "Men are jumping into water from a bridge.",
+        "Men jump in a river."
+      ]
+    ],
+    [
+      0.503,
+      [
+        "The military officer barked at the recruits.",
+        "An officer is talking to recruits."
+      ]
+    ],
+    [
+      0.535,
+      [
+        "The man is putting chicken into the container.",
+        "A man is putting foods in a box."
+      ]
+    ],
+    [
+      0.546,
+      [
+        "A man is tying on a stenographers machine.",
+        "the man used a stenograph."
+      ]
+    ],
+    [
+      0.595,
+      [
+        "A woman is adding pasta to a pot of water.",
+        "A woman is making noodles."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A woman is lying on a blanket on a rock and reading a book.",
+        "A woman seated is singing a song and playing the guitar too."
+      ]
+    ],
+    [
+      0.096,
+      [
+        "Two puppies are playing with each other.",
+        "Some men are playing soccer."
+      ]
+    ],
+    [
+      0.575,
+      [
+        "A man is running on a field.",
+        "A man climbs up a rope."
+      ]
+    ],
+    [
+      0.097,
+      [
+        "A man is hugging someone.",
+        "A man is taking a picture."
+      ]
+    ],
+    [
+      0.547,
+      [
+        "Someone is pouring ingrediants into a pot.",
+        "A man puts vegetables into a pot."
+      ]
+    ],
+    [
+      0.285,
+      [
+        "A man is seasoning some carrots.",
+        "A woman is slicing garlic."
+      ]
+    ],
+    [
+      0.697,
+      [
+        "A couple are walking.",
+        "Some men are sawing."
+      ]
+    ],
+    [
+      0.105,
+      [
+        "Two men pushed carts through the woods.",
+        "Two men are pushing carts."
+      ]
+    ],
+    [
+      0.372,
+      [
+        "A person is playing a guitar.",
+        "The man played his guitar."
+      ]
+    ],
+    [
+      0.166,
+      [
+        "A person is adding food in a pan.",
+        "A woman puts rice into a pan."
+      ]
+    ],
+    [
+      0.375,
+      [
+        "A group of penguins is walking.",
+        "A large amount of penguins are heading to the ocean."
+      ]
+    ],
+    [
+      0.072,
+      [
+        "A man is playing a guitar.",
+        "Someone is handling a bun."
+      ]
+    ],
+    [
+      0.444,
+      [
+        "A dog is jumping on a trampoline.",
+        "A boy is playing a guitar."
+      ]
+    ],
+    [
+      0.585,
+      [
+        "A man is shaking a container over a kitchen sink.",
+        "A man is emptying a plastic container."
+      ]
+    ],
+    [
+      0.392,
+      [
+        "A man is playing a football.",
+        "A man is maneuvering a soccer ball with his feet."
+      ]
+    ],
+    [
+      0.298,
+      [
+        "A man is walking with a horse.",
+        "A man is leading a horse around by it's halter."
+      ]
+    ],
+    [
+      0.4,
+      [
+        "Paper is being cut with scissors.",
+        "A piece of paper is being cut."
+      ]
+    ],
+    [
+      0.415,
+      [
+        "The lady peeled the potatoe.",
+        "A woman is peeling a potato."
+      ]
+    ],
+    [
+      0.723,
+      [
+        "A person peels shrimp.",
+        "The lady peeled the shrimp."
+      ]
+    ],
+    [
+      0.398,
+      [
+        "A man is playing a guitar.",
+        "A man tries to read the paper."
+      ]
+    ],
+    [
+      0.487,
+      [
+        "A man making a bed in a hotel.",
+        "A man is holding a animal."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A woman is slicing some tofu.",
+        "A woman is cutting a block of tofu into small cubes."
+      ]
+    ],
+    [
+      0.089,
+      [
+        "A woman is peeling some fish.",
+        "A woman is pouring a yellow mixture on a frying pan."
+      ]
+    ],
+    [
+      0.316,
+      [
+        "The dog pulled the dogs tail and then his leg.",
+        "A monkey pulled a dogs tail."
+      ]
+    ],
+    [
+      0.186,
+      [
+        "A woman beats two eggs in a bowl.",
+        "A person is mixing ingredients in a bowl."
+      ]
+    ],
+    [
+      0.369,
+      [
+        "People are playing baseball.",
+        "The cricket player hit the ball."
+      ]
+    ],
+    [
+      0.469,
+      [
+        "A person is boiling soup.",
+        "A woman is placing eggs into a pan."
+      ]
+    ],
+    [
+      0.88,
+      [
+        "A man is jumping rope outside.",
+        "A woman is slicing a cucumber."
+      ]
+    ],
+    [
+      0.488,
+      [
+        "A person is slicing some onions.",
+        "A hamster is singing."
+      ]
+    ],
+    [
+      0.128,
+      [
+        "A woman holds a kangaroo.",
+        "A man in a hat sings a song."
+      ]
+    ],
+    [
+      0.388,
+      [
+        "Someone typed on a keyboard.",
+        "Someone is typing."
+      ]
+    ],
+    [
+      0.102,
+      [
+        "Soccer players are kicking a soccer ball into the goal.",
+        "A soccer player scores a goal."
+      ]
+    ],
+    [
+      0.416,
+      [
+        "A woman is cooking something.",
+        "A woman is pouring ingredients into a frying pan."
+      ]
+    ],
+    [
+      0.116,
+      [
+        "A woman is swimming in the beach.",
+        "A woman splashes around in the ocean's waves."
+      ]
+    ],
+    [
+      0.318,
+      [
+        "A man is carrying another man.",
+        "A man sprays another man with water from a hose."
+      ]
+    ],
+    [
+      0.293,
+      [
+        "The woman is putting paste into a dish.",
+        "A woman is pulling some kind of sticky goo out of a bowl."
+      ]
+    ],
+    [
+      0.193,
+      [
+        "A man is holding up and talking about a gray You Tube T-shirt.",
+        "A man is showing a t shirt."
+      ]
+    ],
+    [
+      0.635,
+      [
+        "Three young men run, jump, and kick off of a Coke machine.",
+        "Three men are jumping off a wall."
+      ]
+    ],
+    [
+      0.71,
+      [
+        "Someone pours olive oil into a bowl of tomato wedges.",
+        "The man poured oil on the tomato slices."
+      ]
+    ],
+    [
+      0.469,
+      [
+        "A man is playing the guitar.",
+        "The man played his guitar with a friend."
+      ]
+    ],
+    [
+      0.076,
+      [
+        "Someone is boiling okra in a pot.",
+        "Someone pours olive oil into a bowl of tomato wedges."
+      ]
+    ],
+    [
+      0.415,
+      [
+        "A person is peeling a potato.",
+        "A cat is licking a small bottle."
+      ]
+    ],
+    [
+      0.098,
+      [
+        "A cat is jumping into a box.",
+        "A young man is talking to a leaf."
+      ]
+    ],
+    [
+      0.627,
+      [
+        "A young Asian girl is applying eyeliner.",
+        "A girl is putting on eye makeup."
+      ]
+    ],
+    [
+      0.348,
+      [
+        "The woman is seasoning the oil.",
+        "A woman is pouring ingredients in a bowl."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A cat is sliding upside down under a couch.",
+        "A cat is crawling under a piece of furniture on it's back."
+      ]
+    ],
+    [
+      0.706,
+      [
+        "A woman dances while a man plays the keyboard.",
+        "A woman is dancing on a stage."
+      ]
+    ],
+    [
+      0.089,
+      [
+        "A chef is cleaning up a bowl of soup.",
+        "A man is wiping the edge of a bowl off."
+      ]
+    ],
+    [
+      0.142,
+      [
+        "An explosion is booming in the desert.",
+        "A nuclear weapon explodes in a desert."
+      ]
+    ],
+    [
+      0.115,
+      [
+        "A woman slices a lemon.",
+        "A man is talking into a microphone."
+      ]
+    ],
+    [
+      0.599,
+      [
+        "An overweight man is skipping rope.",
+        "A young man is dancing."
+      ]
+    ],
+    [
+      0.594,
+      [
+        "A cat is walking around a house.",
+        "A woman is peeling potato."
+      ]
+    ],
+    [
+      0.57,
+      [
+        "The lady cracked two raw eggs.",
+        "The woman is cracking eggs into a bowl."
+      ]
+    ],
+    [
+      0.102,
+      [
+        "A man sharpens a pencil using a knife.",
+        "A woman is dancing in the rain."
+      ]
+    ],
+    [
+      0.1,
+      [
+        "Plastic toys are floating in water.",
+        "The ladies are performing a dance."
+      ]
+    ],
+    [
+      0.445,
+      [
+        "A woman is dancing.",
+        "A man breaks a stick."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "The turtle followed the fish.",
+        "A sea turtle is hunting for fish."
+      ]
+    ],
+    [
+      0.141,
+      [
+        "The woman is pencilling on eye shadow.",
+        "The girl is using an eye pencil on her eyelid."
+      ]
+    ],
+    [
+      0.167,
+      [
+        "A man is tying his shoe.",
+        "A dog is riding on a bicyclists shoulders."
+      ]
+    ],
+    [
+      0.216,
+      [
+        "A ballet dancer is performing on stage.",
+        "The beaver is being petted."
+      ]
+    ],
+    [
+      0.554,
+      [
+        "A woman is slicing meat with a knife.",
+        "A man is spreading out dough."
+      ]
+    ],
+    [
+      0.545,
+      [
+        "A dog is running on the ground.",
+        "A girl is tapping her finger nails."
+      ]
+    ],
+    [
+      0.099,
+      [
+        "A woman is talking to her pet bunny as she fondles it.",
+        "A woman walks her dog onto astro turf."
+      ]
+    ],
+    [
+      0.526,
+      [
+        "A monkey is playing drums.",
+        "Someone in a gorilla costume is playing a set of drums."
+      ]
+    ],
+    [
+      0.697,
+      [
+        "A man is petting a tied up dog.",
+        "A man is showing his dog to the camera."
+      ]
+    ],
+    [
+      0.467,
+      [
+        "A woman is walking on an open ground with a pet dog as some other dogs follow them.",
+        "A man is walking with several dogs."
+      ]
+    ],
+    [
+      0.543,
+      [
+        "A woman is mincing some garlic.",
+        "A person is cleaning a disk."
+      ]
+    ],
+    [
+      0.132,
+      [
+        "A man shoots a basket.",
+        "A man is playing a guitar."
+      ]
+    ],
+    [
+      0.199,
+      [
+        "The elephants are bathing.",
+        "Two women are singing."
+      ]
+    ],
+    [
+      0.784,
+      [
+        "Two teams are playing soccer.",
+        "Different sets of teams are playing football on a field."
+      ]
+    ],
+    [
+      0.545,
+      [
+        "A rat like creature is smelling around.",
+        "An animal is walking on the ground."
+      ]
+    ],
+    [
+      0.545,
+      [
+        "A man is riding a white horse on an enclosed ground.",
+        "Someone is riding a horse."
+      ]
+    ],
+    [
+      0.665,
+      [
+        "Two Sumo ringers are fighting each other.",
+        "A man rides a water toy in the water."
+      ]
+    ],
+    [
+      0.622,
+      [
+        "An oriental lady is cutting a carrot into thin pieces.",
+        "A woman is slicing a carrot."
+      ]
+    ],
+    [
+      0.448,
+      [
+        "A man lays on the ground and aims a rifle.",
+        "A man is spreading butter on a tortilla."
+      ]
+    ],
+    [
+      0.824,
+      [
+        "The man cut up an onion.",
+        "A man is dancing."
+      ]
+    ],
+    [
+      0.085,
+      [
+        "A couple are running towards the ocean.",
+        "A man and and woman are running together, holding hands."
+      ]
+    ],
+    [
+      0.111,
+      [
+        "A group of people are dancing.",
+        "Women are dancing outside."
+      ]
+    ],
+    [
+      0.327,
+      [
+        "A man is playing guitar.",
+        "A boy is talking to a giant dog."
+      ]
+    ],
+    [
+      0.393,
+      [
+        "A woman mixes up vegetables.",
+        "A woman is adding ingredients to a skillet."
+      ]
+    ],
+    [
+      0.13,
+      [
+        "A woman pours a mixture into a bowl and mixes it.",
+        "A woman is preparing an egg in a skillet."
+      ]
+    ],
+    [
+      0.164,
+      [
+        "A woman is chopping a hard egg.",
+        "A person is cutting  boiled egg into pieces."
+      ]
+    ],
+    [
+      0.525,
+      [
+        "Two robots share a kiss.",
+        "A male and female robot are kissing."
+      ]
+    ],
+    [
+      0.395,
+      [
+        "A cat is trying to touch a dog.",
+        "The cat teased the dog by touching his head."
+      ]
+    ],
+    [
+      0.28,
+      [
+        "A woman puts cosmetics on her eyelid.",
+        "The woman is pencilling on eye shadow."
+      ]
+    ],
+    [
+      0.364,
+      [
+        "The rhino grazed on the grass.",
+        "A rhino is grazing in a field."
+      ]
+    ],
+    [
+      0.393,
+      [
+        "The man drove his little red car around the traffic.",
+        "The dog ran in the water at the beach."
+      ]
+    ],
+    [
+      0.083,
+      [
+        "A man is cutting bread.",
+        "A man is doing tricks with a soccer ball."
+      ]
+    ],
+    [
+      0.12,
+      [
+        "A woman and man are riding in a car.",
+        "A woman driving a car is talking to the man seated beside her."
+      ]
+    ],
+    [
+      0.138,
+      [
+        "A man is cutting pieces of butter into a mixing bowl.",
+        "Pieces of butter is added in the stand mixer."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A cat rapidly swats a kid in the head.",
+        "A cat and a boy play together."
+      ]
+    ],
+    [
+      0.423,
+      [
+        "A cat is playing in a box.",
+        "The dog is playing with the floor cleaner."
+      ]
+    ],
+    [
+      0.181,
+      [
+        "A man is putting garlic on some bread slices.",
+        "A man is sprinkling seasoning on several split and buttered loaves of bread."
+      ]
+    ],
+    [
+      0.347,
+      [
+        "The couple danced in the church.",
+        "A couple slow dances."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "The panda bear lay on the logs.",
+        "A panda is lying down."
+      ]
+    ],
+    [
+      0.532,
+      [
+        "A man is patting an alligator on the mouth.",
+        "A person is dumping chopped vegetables into a pot on the stove."
+      ]
+    ],
+    [
+      0.088,
+      [
+        "A person checks some rice pudding.",
+        "A horse is running."
+      ]
+    ],
+    [
+      0.19,
+      [
+        "A girl is dancing in a cage.",
+        "A onion is being chopped."
+      ]
+    ],
+    [
+      0.24,
+      [
+        "Five men jump into a swimming pool.",
+        "A group of swimmers fall into a pool."
+      ]
+    ],
+    [
+      0.107,
+      [
+        "A woman is stirring two eggs in a glass bowl.",
+        "A young girl is singing on a stage."
+      ]
+    ],
+    [
+      0.131,
+      [
+        "The man is playing the drums.",
+        "A man pours cleaner in his sink."
+      ]
+    ],
+    [
+      0.18,
+      [
+        "A cat is on a robot.",
+        "A man is eating bread."
+      ]
+    ],
+    [
+      0.547,
+      [
+        "A man is slicing a pepper.",
+        "A person cuts a big green pepper apart."
+      ]
+    ],
+    [
+      0.458,
+      [
+        "A woman is speaking in sign language.",
+        "A woman spices some seafood."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A boy is crawling into a dog house.",
+        "A cat is playing on the floor."
+      ]
+    ],
+    [
+      0.238,
+      [
+        "The girl flew her kite while she ran up a hill.",
+        "A girl loses her kite."
+      ]
+    ],
+    [
+      0.372,
+      [
+        "A woman is placing food in a pot of hot water.",
+        "A woman is frying meat."
+      ]
+    ],
+    [
+      0.732,
+      [
+        "A small monkey walks through water.",
+        "A monkey is wading across a marsh."
+      ]
+    ],
+    [
+      0.7,
+      [
+        "A man is riding a bike.",
+        "A panda bear is eating."
+      ]
+    ],
+    [
+      0.383,
+      [
+        "A young man is singing and playing the piano.",
+        "The man is writing a letter."
+      ]
+    ],
+    [
+      0.4,
+      [
+        "A boy takes off his sunglasses.",
+        "A boy is screaming."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A girl is playing a piano.",
+        "A boy is doing push ups."
+      ]
+    ],
+    [
+      0.38,
+      [
+        "The lady stirred up raw eggs in the bowl.",
+        "A woman is pouring eyes into a bowl."
+      ]
+    ],
+    [
+      0.265,
+      [
+        "A cheetah is running behind its prey.",
+        "A cheetah chases prey on across a field."
+      ]
+    ],
+    [
+      0.232,
+      [
+        "The lady sliced a tomatoe.",
+        "Someone is cutting a tomato."
+      ]
+    ],
+    [
+      0.093,
+      [
+        "Someone is holding a hedgehog.",
+        "A onion is being sliced."
+      ]
+    ],
+    [
+      0.555,
+      [
+        "A woman peels a potato.",
+        "A woman is grilling pineapples."
+      ]
+    ],
+    [
+      0.318,
+      [
+        "A cat is playing on the floor.",
+        "A man is slicing garlic."
+      ]
+    ],
+    [
+      0.063,
+      [
+        "A boy is playing violin on stage.",
+        "A person is mixing a pot."
+      ]
+    ],
+    [
+      0.31,
+      [
+        "A cow is eating grass.",
+        "A dog is pulling a girl down a hill."
+      ]
+    ],
+    [
+      0.15,
+      [
+        "A cat is drinking some water.",
+        "A truck is going down a hill."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A person is putting salt and pepper on a piece of pork.",
+        "A youngster is sitting on a piano."
+      ]
+    ],
+    [
+      0.785,
+      [
+        "The man sat in his chair and stared.",
+        "The little girl is putting her hair into a pony tail."
+      ]
+    ],
+    [
+      0.048,
+      [
+        "A woman is dicing a potato.",
+        "A woman cuts tofu into tiny pieces."
+      ]
+    ],
+    [
+      0.361,
+      [
+        "The man stirred the sauce for the chicken.",
+        "The man is stirring oil."
+      ]
+    ],
+    [
+      0.11,
+      [
+        "A baby is crawling happily.",
+        "A baby sneezed and scared another baby."
+      ]
+    ],
+    [
+      0.828,
+      [
+        "A person is frying a meat in the pan.",
+        "A man is cutting a vegetable."
+      ]
+    ],
+    [
+      0.106,
+      [
+        "A man is looking out of a window.",
+        "A woman is swimming in the water."
+      ]
+    ],
+    [
+      0.298,
+      [
+        "A man seated is playing the guitar.",
+        "A man is playing an acoustic guitar and singing into a microphone."
+      ]
+    ],
+    [
+      1.0,
+      [
+        "A dog is barking at a toy.",
+        "The little dog barked at the electronic toy."
+      ]
+    ],
+    [
+      0.319,
+      [
+        "A woman is slicing an onion with a knife.",
+        "A man is preparing some dish."
+      ]
+    ],
+    [
+      0.401,
+      [
+        "A man jumping rope",
+        "A man is talking."
+      ]
+    ],
+    [
+      0.173,
+      [
+        "A woman is peeling an orange.",
+        "A woman cuts off a small piece of lemon rind."
+      ]
+    ],
+    [
+      0.131,
+      [
+        "A rider is running and jumping her horse.",
+        "A woman jumps hurdles on a horse."
+      ]
+    ],
+    [
+      0.227,
+      [
+        "A boy is playing a key-board.",
+        "A boy is sitting in a room playing a piano by lamp light."
+      ]
+    ],
+    [
+      0.13,
+      [
+        "A man is cycling.",
+        "A boy is riding a bicycle."
+      ]
+    ],
+    [
+      0.293,
+      [
+        "Two men are fighting.",
+        "The man is exercising."
+      ]
+    ],
+    [
+      0.294,
+      [
+        "A man is playing a wooden flute while several other men play bongo drums.",
+        "A man is playing a flute."
+      ]
+    ],
+    [
+      0.069,
+      [
+        "Someone is beating an egg.",
+        "A woman stirs eggs in a bowl."
+      ]
+    ],
+    [
+      0.121,
+      [
+        "A person is petting a monkey.",
+        "A man is holding a slow loris."
+      ]
+    ],
+    [
+      0.537,
+      [
+        "A man is cutting a potato.",
+        "A woman plays an electric guitar."
+      ]
+    ],
+    [
+      0.321,
+      [
+        "A woman is slicing ginger.",
+        "A person is holding two baby lorises."
+      ]
+    ],
+    [
+      0.099,
+      [
+        "Two cartoon rabbits are kissing.",
+        "A rabbit is kissing another rabbit."
+      ]
+    ],
+    [
+      0.107,
+      [
+        "The hedgehog chewed on the towel.",
+        "A hedgehog is biting at a blanket."
+      ]
+    ]
+  ]
+}

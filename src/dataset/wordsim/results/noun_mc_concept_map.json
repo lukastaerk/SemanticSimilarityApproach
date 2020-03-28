@@ -1,0 +1,1327 @@
+{
+  "fruit": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3314483"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fruit"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "List of culinary fruits, Culinary fruit"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1364"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fruit"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fruits"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1470762"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fruit vegetable"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "vegetable, fruit"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1030567"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fruit"
+      }
+    }
+  ],
+  "lad": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3010"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "boy"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lad"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q36196"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Ladino"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Judaeo Spanish, Jud\u00e6o Spanish, Judaeo-Spanish, Jud\u00e6o-Spanish, Judeo Spanish, Judeo-Spanish, judezmo, lad, Ladino language, Sephardic"
+      }
+    }
+  ],
+  "furnace": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1709184"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heating furnace"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "furnace"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2015386"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "furnace"
+      }
+    }
+  ],
+  "string": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q184754"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "string"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "s, char, str, strc, string.class"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q326426"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "string"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11064354"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "string"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "line, thread"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1246411"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tennis string"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "string, racket stringing, stringing, strings, tennis racket stringing, tennis strings"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3241188"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "stringer"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "string, stringer board"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2594083"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "word"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "string"
+      }
+    }
+  ],
+  "bird": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q5113"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bird"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Aves, birds"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q874669"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "shuttlecock"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bird, badminton ball, birdie, shuttlecocks"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q18408740"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heraldic bird"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bird"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1275359"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Blue-banded Toucanet"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bird, Aulacorhynchus coeruleicinctis"
+      }
+    }
+  ],
+  "wizard": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q148401"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician in fantasy"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician, mage, wizard, fictional mage, fictional magician, fictional sorcerer, fictional warlock, fictional witch, fictional wizard, magician in fantasy fiction and games, magicians in fantasy, sorcerer, warlock, witch"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2488257"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mage, wizard, sorcerer, warlock, witch, enchanter, enchantress, sorceress"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q580334"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "wizard"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "setup assistant"
+      }
+    }
+  ],
+  "brother": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q10861465"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "brother"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q548320"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "brother"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "friar, verekedes, vereked\u00e9s"
+      }
+    }
+  ],
+  "jewel": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83437"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gemstone"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "precious stone, jewel, gem, fine gem, semi-precious stone"
+      }
+    }
+  ],
+  "graveyard": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q39614"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cemetery"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "graveyard, burial ground, cemeteries, churchyard, \u26fc"
+      }
+    }
+  ],
+  "implement": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q39546"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tool"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "instrument, implement"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1183543"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "device"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "instrument, apparatus, creation of technology, gadget, implement, mechanical device, technical device, technological item"
+      }
+    }
+  ],
+  "oracle": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q217123"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oracle"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "fortune-teller, fortune teller, fortuneteller, diviner"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1143357"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oracle machine"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "oracle"
+      }
+    }
+  ],
+  "asylum": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q210999"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "psychiatric hospital"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "psychiatric institution, Department of Psychiatry, asylum, insane asylum, loony bin, mental hospital, psychiatric ward, booby hatch, madhouse"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q26377"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "asylum"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q608502"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "asylum"
+      }
+    }
+  ],
+  "gem": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q83437"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "gemstone"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "precious stone, jewel, gem, fine gem, semi-precious stone"
+      }
+    }
+  ],
+  "tool": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q39546"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tool"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "instrument, implement"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q56877122"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heraldic tool"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tool"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1918763"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "tool"
+      }
+    }
+  ],
+  "crane": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q178692"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "crane"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q25365"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "crane"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Crane, Gruidae"
+      }
+    }
+  ],
+  "smile": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q487"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "smile"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "smiling, grin, grinning"
+      }
+    }
+  ],
+  "shore": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q468756"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "shore"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bank"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2897058"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bank"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "coast, beach, shore, riverbank, riverside, stream-bank"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3118353"
+      },
+      "itemLabel": {
+        "type": "literal",
+        "value": "Q3118353"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bank, strand, shore"
+      }
+    }
+  ],
+  "slave": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q12773225"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "enslaved person"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "slave"
+      }
+    }
+  ],
+  "noon": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q168182"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "noon"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "12:00, 12 noon, high noon, midday, twelve noon"
+      }
+    }
+  ],
+  "stove": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q203789"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "stove"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "heating stove"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q182995"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "kitchen stove"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "range, stove, cooker, hearth, fireplace"
+      }
+    }
+  ],
+  "rooster": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2216236"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rooster"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cock, cockerel"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q688973"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rooster"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cock"
+      }
+    }
+  ],
+  "boy": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3010"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "boy"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "lad"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q6581097"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "male"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "guy, human male, m, male gender, male human, male person, man, boy, masc, men, boys, sterner sex"
+      }
+    }
+  ],
+  "midday": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q168182"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "noon"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "12:00, 12 noon, high noon, midday, twelve noon"
+      }
+    }
+  ],
+  "voyage": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q33038168"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "sea voyage"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "marine travel, maritime passenger travel, maritime travel, voyage, water travel"
+      }
+    }
+  ],
+  "magician": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q148401"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician in fantasy"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician, mage, wizard, fictional mage, fictional magician, fictional sorcerer, fictional warlock, fictional witch, fictional wizard, magician in fantasy fiction and games, magicians in fantasy, sorcerer, warlock, witch"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q15855449"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "stage magician, street magician"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2488257"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "magician"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "mage, wizard, sorcerer, warlock, witch, enchanter, enchantress, sorceress"
+      }
+    }
+  ],
+  "automobile": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1420"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "car"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "auto, automobile, motorcar, autocar, motor car, \ud83d\ude97"
+      }
+    }
+  ],
+  "journey": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q61509"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "travel"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "journey, to travel"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q50847295"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "journey"
+      }
+    }
+  ],
+  "cemetery": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q39614"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cemetery"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "graveyard, burial ground, cemeteries, churchyard, \u26fc"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q70748577"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cemetery"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q67146118"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cemetery"
+      }
+    }
+  ],
+  "woodland": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q3241565"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "woodland"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "wood, woods, woodlands"
+      }
+    }
+  ],
+  "forest": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q4421"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "forest"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "wood, woods"
+      }
+    }
+  ],
+  "chord": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q170439"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chord"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "musical chord"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q188191"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chord"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chord of a circle, chord of a curve"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q691244"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chord"
+      }
+    }
+  ],
+  "madhouse": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q210999"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "psychiatric hospital"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "psychiatric institution, Department of Psychiatry, asylum, insane asylum, loony bin, mental hospital, psychiatric ward, booby hatch, madhouse"
+      }
+    }
+  ],
+  "coast": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q93352"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "coast"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "coastal zone, seashore"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2897058"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bank"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "coast, beach, shore, riverbank, riverside, stream-bank"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2405356"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Seashore"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "coast"
+      }
+    }
+  ],
+  "hill": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q54050"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hill"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "hills"
+      }
+    }
+  ],
+  "food": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2095"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "food"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "chow, foodstuff, edibles, feed"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1422299"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "food"
+      }
+    }
+  ],
+  "car": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1420"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "car"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "auto, automobile, motorcar, autocar, motor car, \ud83d\ude97"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q1144312"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "passenger car"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "car"
+      }
+    }
+  ],
+  "monk": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q733786"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "monk"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q854997"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "bhikkhu"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "monk, buddhist monk, bhikshu, Bonze"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q30005163"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "monk"
+      }
+    }
+  ],
+  "cock": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2216236"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rooster"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cock, cockerel"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q688973"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "rooster"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "cock"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q2975713"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "British bulldogs"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "Chinese wall, octopus, action, cock, King Caesar, blackthorn, seaweed, click, bacca, baccare, black tom, bulldogs charge, bullies, bullrush, cock heaving, cock-a-rooster, cockaroosha, cockarusty, cockie duntie, crack the whip, dare-goal, dog and deer,, fishy fishy, fox and dowdy, fox and geese, fox-a'-dowdy, hill dill, hill, dill, come over the hill, hop and dodge, hop the barger, hopping bases, hopping caesar, hopping cockerals, hopping jinny, hoppy bowfie, King Senio, kingasini, pom-pom-Pete-away, pom-pom-pull-away, pom-pom-pullaway, pull away, pullaway, pum-pum-pullaway, pump-pump-pullaway, rexa-boxa-king, rushing bases, Russian bulldog, sharks and minnows, simply bulldogs"
+      }
+    }
+  ],
+  "glass": [
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q11469"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glass"
+      }
+    },
+    {
+      "item": {
+        "type": "uri",
+        "value": "http://www.wikidata.org/entity/Q56369598"
+      },
+      "itemLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "drinking glass"
+      },
+      "itemAltLabel": {
+        "xml:lang": "en",
+        "type": "literal",
+        "value": "glass"
+      }
+    }
+  ]
+}

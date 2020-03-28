@@ -1,12 +1,24 @@
 import pydot
 import networkx as nx
 from IPython.display import Image, display
+from sparql import relation_prop
 prefix = "http://www.wikidata.org/prop/direct/"
 color_map = {
     "P279": "blue",
     "P31": "red",
-    "P361": "green"
+    "P361": "green",
+    "P171": "yellow",
+    "P460": "orange"
 }
+for r in relation_prop:
+    color_map[r.split(":")[-1]]="black"
+
+def draw_graph(name, graph, concepts=[]):
+    concepts_in_graph = [n for n in concepts if n in graph.nodes()]
+    g = get_graphic_G(graph, concepts_in_graph)
+    im = Image(g.create_png())
+    g.write_png("pic"+name+".png")
+    return display(im)
 
 
 def get_legend():

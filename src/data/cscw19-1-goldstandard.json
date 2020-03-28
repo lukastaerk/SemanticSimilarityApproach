@@ -985,11 +985,6 @@
         "text": "closet"
       },
       {
-        "offset": 2,
-        "resource": "http://dbpedia.org/resource/Surface_computer",
-        "text": "closet door"
-      },
-      {
         "offset": 9,
         "resource": "http://dbpedia.org/resource/Door",
         "text": "door"

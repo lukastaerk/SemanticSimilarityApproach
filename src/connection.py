@@ -1,47 +1,54 @@
 import requests
 import time
-from sparql_queries import query_paths_to_entity, query_wikidata_from_dbpedia, query_freq_wikidata
+import functools
+from sparql import query_wikidata_from_dbpedia
 
 headers = {
-    "User-Agent": "Topic-Extraction/1.0 (https://github.com/luka1220/Bachelor_Thesis) requests/2.22.0"
-}
+            "User-Agent": "Concept-Similarity/1.0 (https://github.com/luka1220/Bachelor_Thesis) requests/2.22.0"
+        }
+babelfy_key = "e1a705de-b894-46f9-92c8-87b15eae25d6"
+wikifier_key = "eududrphpqcrvrsxtzjwtpsndxcyqb"
+endpoints = {
+    "wikidata": 'https://query.wikidata.org/sparql',
+    "dbpedia":'http://dbpedia.org/sparql', 
+    "babelnet":'https://babelnet.org/sparql/',
+    "babelfy": "https://babelfy.io/v1/disambiguate"
+    }
+
+@functools.lru_cache(10500)
+def wsd_request(text):
+    res = requests.get(endpoints["babelfy"], headers=headers, params={
+            'text': text, "lang":"EN", 'key':babelfy_key})
+    if res.status_code is 200:
+        result = res.json()
+        return result
+    else:
+        raise Exception("Status code is " + str(res.status_code), res)
+    
 
 
 def convert_dbp_wikid_ids(dbp_concepts):
-    return [(map_dbp_wikid(c).split("/")[-1], c.split("/")[-1]) for c in dbp_concepts]
+    return [sparql_request(query_wikidata_from_dbpedia(c), "dbpedia")[0]["item"]["value"].split("/")[-1] for c in dbp_concepts]
 
-
-def map_dbp_wikid(dbpediaConcept):
-    url = "http://dbpedia.org/sparql"
-    results = requests.get(url, headers=headers, params={
-                           'query': query_wikidata_from_dbpedia(dbpediaConcept), 'format': 'json'})
-    if results.status_code is not 200:
-        raise Exception(results.status_code, results.test)
-
-    results = results.json()["results"]["bindings"]
-    if len(results) == 0:
-        print("No results in dbpedia found for " + dbpediaConcept)
-        raise Exception("No results in dbpedia found for " + dbpediaConcept)
-    if len(results) > 1:
-        print("Multiple results in dbpedia found for " + dbpediaConcept)
-        raise Exception(
-            "Multiple results in dbpedia found for " + dbpediaConcept)
-    return results[0]["obj"]["value"]
-
-
-def wikidata_sparql_request(query):
-    url = 'https://query.wikidata.org/sparql'
+@functools.lru_cache(105000)
+def sparql_request(query, database="wikidata"):
+    if(database in endpoints):
+        url = endpoints[database]
+    else:
+        url = database
+    
     try:
         res = requests.get(url, headers=headers, params={
             'query': query, 'format': 'json'})
     except:
         return None
     if res.status_code is 200:
-        return res.json()["results"]["bindings"]
-    if res.status_code == 500:
-        return None
+        result = res.json()
+        if not "results" in result or not "bindings" in result["results"]:
+            raise Exception("Status code is " + str(res.status_code), result)
+        return result["results"]["bindings"]
     else:
-        raise Exception("Status code is " + str(res.status_code))
+        raise Exception("Status code is " + str(res.status_code), res, query)
 
 
 if __name__ == "__main__":
