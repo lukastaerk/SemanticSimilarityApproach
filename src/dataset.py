@@ -1,4 +1,4 @@
-import json
+import json, csv
 from connection import sparql_request, wsd_request
 import sparql
 from helpers import flatten_array
@@ -30,7 +30,7 @@ class Dataset:
 
     def load_idea_dataset(self, dataset_name):
         dataset = self.load_dataset_json(dataset_name, path="data/wikidata")
-        concepts = list(set(flatten_array([[c["id"] for c in idea["concepts"]] for idea in dataset])))
+        concepts = list(set(flatten_array([[c["wikidata_id"] for c in idea["concepts"]] for idea in dataset])))
         return concepts, dataset
 
     def save_dataset(self,data, name, path="dataset/wordsim/results"):
@@ -80,24 +80,50 @@ class Dataset:
             labels = func(result["itemLabel"]["value"])
         return (noun in [l.strip() for l in labels.split(",")])
 
+map_name = {
+    "SmartTextile": "C3-SmartTextile-ratings",
+    "environment":"C1-preserve-the-environment-ratings",
+    "MTurk":"C2-MturkMobileApp-similarity-ratings",
+    "MSRvid":"STS.input.MSRvid"
+}
+
 class SentenceDataset(Dataset):
-        
-    def load_sentence_pairs(self, name="STS.input.MSRvid"):
+
+    def load_sentence_pairs_and_similarities(self, name):
+        if name in ["SmartTextile", "environment", "MTurk"]:
+            return self.load_i2m2018_ideas(map_name[name])
+        elif name is "MSRvid":
+            return self.load_sentence_pairs_gold(), self.load_sentence_similarities_gold()
+
+    def load_i2m2018_ideas(self, name="C3-SmartTextile-ratings"):
+        with open('dataset/2018-similarity-ratings/%s.csv' % name, "r") as f:
+            csvreader=csv.reader(f,delimiter=',',skipinitialspace=True)
+            sentence_pairs = [(pair[:2],pair[2]) for pair in csvreader]
+            return [pair[0] for pair in sentence_pairs], [float(pair[1]) for pair in sentence_pairs]
+
+    def load_i2m2018_similarities(self, name="C3-SmartTextile-ratings"):
+        with open("dataset/2018-similarity-ratings/%s.csv" % name, "r") as data:
+            return [float(s.split(',')[-1]) for s in data]
+
+    def load_sentence_pairs_gold(self, name="STS.input.MSRvid"):
         with open('dataset/test-gold/%s.txt' % name, "r") as data:
             sentence_pairs = [(x.split('\t')[0].strip(), x.split('\t')[1].strip()) for x in data]
             return sentence_pairs
     
-    def load_sentence_similarities(self, name="STS.gs.MSRvid"): 
+    def load_sentence_similarities_gold(self, name="STS.gs.MSRvid"): 
         with open("dataset/test-gold/%s.txt" % name, "r") as data:
             return [float(s.split()[0]) for s in data]
 
     def sentence_concept_annotation(self, name="STS.input.MSRvid"):
-        s_pairs = self.load_sentence_pairs()
+        if name is not "STS.input.MSRvid":
+            s_pairs = self.load_i2m2018_ideas(map_name[name])[0]
+        else:
+            s_pairs = self.load_sentence_pairs_gold(map_name[name])
         sentences = list(set(flatten_array(s_pairs)))
         dataset_sen = []
         for s1 in sentences[:1000]:
             c1 = [{"DBpediaURL":c["DBpediaURL"], "babelSynsetID":c["babelSynsetID"], "value":s1[c["charFragment"]["start"]:c["charFragment"]["end"]+1]} for c in wsd_request(s1)]
             dataset_sen.append({"text": s1, "concepts":c1})
-        self.save_dataset(dataset_sen, name+".2" ,path="data/dbpedia")
+        self.save_dataset(dataset_sen, name ,path="data")
         return dataset_sen
     

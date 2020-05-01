@@ -1,5 +1,5 @@
 {
-  "correlation": 0.768,
+  "correlation": 0.801,
   "similarities": [
     [
       1.0,
@@ -38,7 +38,7 @@
       "cemetery"
     ],
     [
-      0.806,
+      0.952,
       [
         "cushion",
         "pillow",
@@ -74,13 +74,13 @@
       "tool"
     ],
     [
-      0.376,
+      0.815,
       [
         "forest",
         "woodland",
         3.65
       ],
-      "territorial entity"
+      "woodland"
     ],
     [
       1.0,
@@ -92,7 +92,7 @@
       "bank"
     ],
     [
-      0.792,
+      0.959,
       [
         "autograph",
         "signature",
@@ -101,7 +101,7 @@
       "signature"
     ],
     [
-      0.806,
+      0.877,
       [
         "journey",
         "voyage",
@@ -110,7 +110,7 @@
       "travel"
     ],
     [
-      0.806,
+      0.95,
       [
         "serf",
         "slave",
@@ -128,7 +128,7 @@
       "smile"
     ],
     [
-      0.64,
+      0.87,
       [
         "glass",
         "tumbler",
@@ -137,7 +137,7 @@
       "drinking vessel"
     ],
     [
-      0.792,
+      0.955,
       [
         "cord",
         "string",
@@ -146,7 +146,7 @@
       "cord"
     ],
     [
-      0.239,
+      0.196,
       [
         "hill",
         "mound",
@@ -164,13 +164,13 @@
       "magician in fantasy"
     ],
     [
-      0.431,
+      0.931,
       [
         "furnace",
         "stove",
         3.11
       ],
-      "construction"
+      "heating furnace"
     ],
     [
       1.0,
@@ -182,7 +182,7 @@
       "psychiatric hospital"
     ],
     [
-      0.765,
+      0.942,
       [
         "brother",
         "monk",
@@ -191,7 +191,7 @@
       "monk"
     ],
     [
-      0.744,
+      0.86,
       [
         "food",
         "fruit",
@@ -200,7 +200,7 @@
       "food"
     ],
     [
-      0.806,
+      0.942,
       [
         "bird",
         "cock",
@@ -209,16 +209,16 @@
       "heraldic bird"
     ],
     [
-      0.444,
+      0.395,
       [
         "bird",
         "crane",
         2.63
       ],
-      "taxon"
+      "equipment"
     ],
     [
-      0.2,
+      0.204,
       [
         "oracle",
         "sage",
@@ -227,7 +227,7 @@
       "first-order metaclass"
     ],
     [
-      0.512,
+      0.805,
       [
         "sage",
         "wizard",
@@ -236,7 +236,7 @@
       "character type"
     ],
     [
-      0.655,
+      0.867,
       [
         "brother",
         "lad",
@@ -245,7 +245,7 @@
       "male human"
     ],
     [
-      0.478,
+      0.62,
       [
         "crane",
         "implement",
@@ -254,7 +254,7 @@
       "tool"
     ],
     [
-      0.519,
+      0.58,
       [
         "magician",
         "oracle",
@@ -263,7 +263,7 @@
       "occupation"
     ],
     [
-      0.443,
+      0.623,
       [
         "glass",
         "jewel",
@@ -272,7 +272,7 @@
       "base material"
     ],
     [
-      0.362,
+      0.364,
       [
         "cemetery",
         "mound",
@@ -281,25 +281,25 @@
       "construction"
     ],
     [
-      0.143,
+      0.877,
       [
         "car",
         "journey",
         1.55
       ],
-      "action"
+      "travel"
     ],
     [
-      0.274,
+      0.229,
       [
         "hill",
         "woodland",
         1.48
       ],
-      "geographic entity"
+      "geographic location"
     ],
     [
-      0.242,
+      0.189,
       [
         "crane",
         "rooster",
@@ -308,7 +308,7 @@
       "taxon"
     ],
     [
-      0.207,
+      0.318,
       [
         "furnace",
         "implement",
@@ -317,7 +317,7 @@
       "tool"
     ],
     [
-      0.619,
+      0.497,
       [
         "coast",
         "hill",
@@ -326,16 +326,16 @@
       "landform"
     ],
     [
-      0.091,
+      0.111,
       [
         "bird",
         "woodland",
         1.24
       ],
-      "class"
+      "metaclass"
     ],
     [
-      0.125,
+      0.137,
       [
         "shore",
         "voyage",
@@ -344,7 +344,7 @@
       "physical object"
     ],
     [
-      0.278,
+      0.227,
       [
         "cemetery",
         "woodland",
@@ -353,16 +353,16 @@
       "geographical object"
     ],
     [
-      0.111,
+      0.239,
       [
         "food",
         "rooster",
         1.09
       ],
-      "physical object"
+      "organism"
     ],
     [
-      0.243,
+      0.197,
       [
         "forest",
         "graveyard",
@@ -371,7 +371,7 @@
       "geographical object"
     ],
     [
-      0.292,
+      0.201,
       [
         "lad",
         "wizard",
@@ -380,7 +380,7 @@
       "person"
     ],
     [
-      0.278,
+      0.227,
       [
         "mound",
         "shore",
@@ -389,16 +389,16 @@
       "geographical object"
     ],
     [
-      0.1,
+      0.571,
       [
         "automobile",
         "cushion",
         0.97
       ],
-      "entity"
+      "furnishing"
     ],
     [
-      0.167,
+      0.343,
       [
         "boy",
         "sage",
@@ -407,7 +407,7 @@
       "role"
     ],
     [
-      0.418,
+      0.479,
       [
         "monk",
         "oracle",
@@ -416,7 +416,7 @@
       "occupation"
     ],
     [
-      0.278,
+      0.227,
       [
         "shore",
         "woodland",
@@ -425,25 +425,25 @@
       "geographical object"
     ],
     [
-      0.091,
+      0.119,
       [
         "grin",
         "lad",
         0.88
       ],
-      "concept"
+      "Wikidata metaclass"
     ],
     [
-      0.298,
+      0.23,
       [
         "coast",
         "forest",
         0.85
       ],
-      "physico-geographical object"
+      "natural geographic object"
     ],
     [
-      0.383,
+      0.365,
       [
         "asylum",
         "cemetery",
@@ -452,7 +452,7 @@
       "architectural structure"
     ],
     [
-      0.378,
+      0.438,
       [
         "monk",
         "slave",
@@ -461,43 +461,43 @@
       "position"
     ],
     [
-      0.111,
+      0.113,
       [
         "cushion",
         "jewel",
         0.45
       ],
-      "physical object"
+      "artificial entity"
     ],
     [
-      0.386,
+      0.201,
       [
         "boy",
         "rooster",
         0.44
       ],
-      "sex"
+      "polyphyletic common name"
     ],
     [
-      0.125,
+      0.15,
       [
         "glass",
         "magician",
         0.44
       ],
-      "entity"
+      "agent"
     ],
     [
-      0.332,
+      0.229,
       [
         "graveyard",
         "madhouse",
         0.44
       ],
-      "architectural structure"
+      "geographic location"
     ],
     [
-      0.2,
+      0.204,
       [
         "asylum",
         "monk",
@@ -506,7 +506,7 @@
       "concept"
     ],
     [
-      0.143,
+      0.146,
       [
         "asylum",
         "fruit",
@@ -515,16 +515,16 @@
       "term"
     ],
     [
-      0.091,
+      0.167,
       [
         "grin",
         "implement",
         0.18
       ],
-      "entity"
+      "goods"
     ],
     [
-      0.431,
+      0.433,
       [
         "mound",
         "stove",
@@ -533,16 +533,16 @@
       "construction"
     ],
     [
-      0.125,
+      0.19,
       [
         "automobile",
         "wizard",
         0.11
       ],
-      "concept"
+      "activity"
     ],
     [
-      0.167,
+      0.182,
       [
         "autograph",
         "shore",
@@ -551,7 +551,7 @@
       "physical object"
     ],
     [
-      0.466,
+      0.774,
       [
         "fruit",
         "furnace",
@@ -560,16 +560,16 @@
       "charge"
     ],
     [
-      0.2,
+      0.198,
       [
         "noon",
         "string",
         0.04
       ],
-      "series"
+      "text"
     ],
     [
-      0.143,
+      0.153,
       [
         "rooster",
         "voyage",
@@ -578,13 +578,13 @@
       "Wikidata metaclass"
     ],
     [
-      0.077,
+      0.146,
       [
         "cord",
         "smile",
         0.02
       ],
-      "entity"
+      "goods"
     ]
   ]
 }

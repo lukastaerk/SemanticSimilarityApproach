@@ -1,0 +1,1152 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:gi2mo="http://purl.org/gi2mo/ns#"
+    xmlns:oig="http://purl.org/innovonto/types#">
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/95">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Interactive_whiteboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_pen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Glass"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+    </oig:usedConcepts>
+    <gi2mo:content>a touch screen board. You could use it for presentation. You would have to use a special pen made for the screen to write on it. It would be a transparent glass but with touch display innovation.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/369">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Restaurant"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Order_(business)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Question"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Experience"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch display could be added to restaurant tables to make orders, questions and concerns a seamless experience. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/454">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tablet_computer"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Face_(geometry)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tablet_computer"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Liquid"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Data_storage_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Microprocessor"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Random-access_memory"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Container"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A tablet to go.  Instead of carrying around a physical tablet, the coating could be carried instead to turn any surface into a touch tablet, like a liquid. It could even use microprocessor and RAM technology within the coating, as well as data storage.  The coating would be in a small container.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/8">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Lowboy"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bathroom"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_mirror"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/News"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Time"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Weather"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Sport"/>
+    </oig:usedConcepts>
+    <gi2mo:content>vanity or bathroom mirror that shows news, time, weather, sports</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/345">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Television_set"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Television_set"/>
+    </oig:usedConcepts>
+    <gi2mo:content>This could be applied to a wall of a home. This would essentially turn the entire wall into a computer, or TV, screen, eliminating the need for televisions. It would also be invisible when not turned on. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/115">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hand"/>
+    </oig:usedConcepts>
+    <gi2mo:content>I would put this coating on my hand, so I can carry it anywhere I go and do stuff I want</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/236">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bathroom"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_mirror"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Weather"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/House"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A bathroom mirror to check the weather before leaving the house.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/139">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Aerosol_spray"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Video_game"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Spray on a wall to play videos games.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/82">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_mirror"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bathroom"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Workplace"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/News"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Breakfast_television"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Email"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A bathroom mirror would be great with a touch display, because as you're getting ready for work, you can catch up on the morning news or get a jumpstart on reading and returning emails.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/343">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Multi-touch"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Task_(project_management)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_size"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A temporary multitouch display to extend your screen size while doing a task that needs some extra screen space. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/102">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hedge_trimmer"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shrub"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Size"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Image"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Quantity"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Progress_Bar"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A bush trimmer that shows the desired bush size, the amount you've already trimmed, and how much is remaining for the desired trim. A picture of the bush with progression would be displayed.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/223">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Medical_history"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_data"/>
+    </oig:usedConcepts>
+    <gi2mo:content>digital medical personal medical history
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/7">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coffee_table"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Television"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Music"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home_automation"/>
+    </oig:usedConcepts>
+    <gi2mo:content>coffee table that allows you to control your TV, music, home automation, etc</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/344">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dashboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Automotive_navigation_system"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Vehicle_audio"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/User_interface"/>
+    </oig:usedConcepts>
+    <gi2mo:content>It could be applied to the dash of a car. This could eliminate the need for stereo systems or navigation systems in cars. The dash would completely integrate the interface.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/126">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door_handle"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Light"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Night"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A door handle that turns on your lights when you open the door at night. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/138">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Television_set"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Sport"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Sports bars tables could become individual televisions. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/85">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car_controls"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dashboard"/>
+    </oig:usedConcepts>
+    <gi2mo:content>I feel like it would be very useful to have all of you car buttons to be coated on to the dashboard.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/330">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Countertop"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Recipe"/>
+    </oig:usedConcepts>
+    <gi2mo:content>On the kitchen counter. You could have a section where you could always bring up recipes and instructions. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/233">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window_blind"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Lock_(security_device)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch display window which could control automated blinds and window locks.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/354">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Movie_theater"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Coat entire walls for theater movie experiences.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/137">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Customization"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Color"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Automotive_design"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Applied to car exterior for customizable colors and styles.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/60">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Closet"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Search_box"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch screen for certain closets so you dont have to go in and have everything already set up so you can find it with a search function.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/84">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shelf_life"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shopping_list"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Calendar_date"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Food_waste"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch display would be useful on the door of a refrigerator. It could keep your grocery list, left over dates and expiration dates all in one spot. No more wasting food!</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/341">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Skin"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Arm"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Person"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Arm"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchpad"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/World_Wide_Web"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Machine"/>
+    </oig:usedConcepts>
+    <gi2mo:content>If it is not harmful to the skin, this could be applied to one's arm. Then, a person's arm could essentially be a touchpad portal to the internet, without having to use any devices. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/378">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dry_cleaning"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Toilet"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A auto toilet system can be made out of it for sure</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/366">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Game_controller"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Make your gaming controller a touch display.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/365">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_keyboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Make your keyboard a touch display.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/148">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Security_alarm"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Fingerprint"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/House"/>
+    </oig:usedConcepts>
+    <gi2mo:content>An alarm system that can only be accessed with your touch and unlocks your house for you.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/450">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Microwave"/>
+    </oig:usedConcepts>
+    <gi2mo:content>create a touchscreen microwave. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/134">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Poster"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Image"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Film"/>
+    </oig:usedConcepts>
+    <gi2mo:content>It could be used as a wall poster that can display any image you want, even moving images.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/376">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pattern"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Color"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Walls that can be any color or pattern.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/256">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Autonomous_car"/>
+    </oig:usedConcepts>
+    <gi2mo:content> A Robot Car That Does The Driving For You</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/147">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Game"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tic-tac-toe"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Game"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_configuration"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Game"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A compilation of games that can be used like tic-tac-toe and other simple games with a setting to find each game.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/352">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Calendar_date"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Note-taking"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch display on the door of your fridge, on which you can take notes or see what's nearing the expiry date. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/4">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+    </oig:usedConcepts>
+    <gi2mo:content>car window</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/2">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Frosted_glass"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+    </oig:usedConcepts>
+    <gi2mo:content>frosted window</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/121">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dry_cleaning"/>
+    </oig:usedConcepts>
+    <gi2mo:content>i would make an auotcleaning option</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/133">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Sportswear_(activewear)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Feedback"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Heart_rate"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Perspiration"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Respiratory_rate"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You can have an athletic shirt sleeve that gives you feedback on your heart rate, perspiration amounts, breathing rate, etc.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/145">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_mirror"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clothing"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hairstyle"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could make a touch mirror that shows you outfits or hair.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/146">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Text_messaging"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Machine"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Plain_text"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/End_user"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A text-messaging device that sends texts to any other user with it.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/279">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Keypad"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Touch display door that has the keypad on a screen in the door.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/351">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/House"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Security"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Screencast"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/People"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+    </oig:usedConcepts>
+    <gi2mo:content>On the outside of a house, as a video screen for security. People inside could see who is outside and communicate with them through the screen.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/3">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Aquarium"/>
+    </oig:usedConcepts>
+    <gi2mo:content>fishtank</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/81">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Food"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Machine"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Food_choice"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Touchscreen food machine that will personalize food options to create.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/241">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Toy"/>
+      <rdf:Description rdf:about="http://dbpedia.org/page/Rubik%27s_Cube"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Face_(geometry)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Toy that is a like a rubik's cube but the sides are all touch displays.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/265">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pizza_box"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Plate"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Leftovers"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Pizza Box That Separates Into Plates And Stores Leftovers</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/399">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clothing"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Smartphone"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer"/>
+    </oig:usedConcepts>
+    <gi2mo:content>clothes can interact with your phone and computer</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/278">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Password"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Key_(lock)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A big touch display on your door so that you can open it with a code and not use a key.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/169">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Glasses"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Case_(goods)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Glasses"/>
+    </oig:usedConcepts>
+    <gi2mo:content>an eyeglass case that holds multiple pairs of eyeglasses</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/350">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/People"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wilderness"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Use the coating on windows and tap on the window to identify people, cars, wildlife, etc.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/131">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/School"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Blackboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Interactive_Learning"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put it on walls in schools to replace chalk boards and make learning more interactive.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/167">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Drop-down_list"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Entity"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Menu_(computing)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_program"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Autofill"/>
+    </oig:usedConcepts>
+    <gi2mo:content>a drop-down menu I can apply to any program at any time. The menu would contain frequently typed items missed or misunderstood by auto-fill</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/168">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Small_appliance"/>
+    </oig:usedConcepts>
+    <gi2mo:content>touch display appliances</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/289">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/PC_game"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_monitor"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Weapon"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Call_of_Duty"/>
+    </oig:usedConcepts>
+    <gi2mo:content>you could turn a blank wall into a pc gamers dream monitor and make it so that if you held a special game weapon you could play CoD or that sort of game interactively and make it feel as if you were actually there
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/397">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home_automation"/>
+    </oig:usedConcepts>
+    <gi2mo:content>smart homes</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/361">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Desk"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Apply to desk tops for ease</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/5">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Drive-through"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Menu"/>
+    </oig:usedConcepts>
+    <gi2mo:content>drive-through menu</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/329">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Handbag"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Note-taking"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put it on your purse. You would always have access to a display screen and could take notes where ever you go. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/304">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Outdoor_playset"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Web_navigation"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Apply to swing sets or play yard equipment for browsing out of doors. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/316">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home_cinema"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Home theatre</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/424">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Guitar"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Loudness"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tone_(musical_instrument)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Effects_unit"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Reverberation"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Echo"/>
+    </oig:usedConcepts>
+    <gi2mo:content>you can apply it on a guitar to regulate volume, tone and maybe even sound effects like echo, reverb, etc.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/412">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Windshield"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Head-up_display"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Fighter_aircraft"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You can apply it on your car windscreen and make it like a jet fighter HUD!</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/109">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cabinetry"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Recipe"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dinner"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Idea"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touchscreen on my cabinet. I could use it to pull up recipes or search for ideas for dinner.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/411">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Face_(geometry)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Desk"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_keyboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Input_device"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Apply on a desk and use its surface as a keyboard / input device</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/302">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Garden_furniture"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Web_navigation"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Apply it on patio tables for browsing outdoors. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/325">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Note-taking"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Person"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put it on your refrigerator to leave notes for people.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/337">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coffee_table"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Remote_control"/>
+    </oig:usedConcepts>
+    <gi2mo:content>coffee table could have remote control built in</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/228">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Holography"/>
+    </oig:usedConcepts>
+    <gi2mo:content>personal holographs</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/445">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Landscape"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Having it over a window in order to change the scenery when you look out the window.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/433">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Note-taking"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Money"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Gratuity"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Restaurant"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Person"/>
+    </oig:usedConcepts>
+    <gi2mo:content>you can leave a note on some money that you are paying someone with about what you would like to tip them like if you are in a restaruant
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/420">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Book_design"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Note-taking"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Book"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Timer"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could use the coating on the front of back of books that indicate the page numbers of important passages or when you starting reading the point or it could have a timer that shows each time you starting and stopped reading the book. The coating would allow you to take notes that would always be with the book when you carry it around
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/300">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Keypad"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Lock_(security_device)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could make your front door (or any door) open-able using various methods from a simple symbol lock system, to a more complex set of button presses. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/336">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_keyboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shopping_list"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Entity"/>
+    </oig:usedConcepts>
+    <gi2mo:content>refrigerator door could have keyboard for adding items to a grocery list</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/202">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Food"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Countertop"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Use the kitchen counter in a home to order food items.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/358">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Chair"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Couch"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_access"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Apply to arms or chairs and couches for convenient access</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/322">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wardrobe"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Space"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clothing"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Wardrobe that tells you how much space is left inside after putting in clothes.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/104">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Restaurant"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Menu"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coupon"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Food"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Waiting_staff"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cash_register"/>
+    </oig:usedConcepts>
+    <gi2mo:content>a touch display on restaurant tables, so you can view menus, coupons and order food at the table without having to call a waiter or go to the register. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/27">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Light"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Multi-touch"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A window where you can control how much light gets in by swiping</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/193">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Game"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Board_game"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tabletop_role-playing_game"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Cpat the tops of a table and it could be used for different games. Like board games or pen and paper RPGs.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/14">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_desk"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Microsoft_Windows"/>
+    </oig:usedConcepts>
+    <gi2mo:content>a touchscreen computer desk with windows operating system</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/180">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Remote_control"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Make television remotes more innovative and interactive.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/17">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_food"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Distribution_center"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Animal"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_food"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Meal"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Health"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_training"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A pet food distribution center where the animal can tap the screen and receive a treat or meal. Would allow for healthy regulation and training. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/419">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Human_body"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Arm"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hand"/>
+    </oig:usedConcepts>
+    <gi2mo:content>that coating could be used on human body like arm, hand etc</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/407">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Room"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Room"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Room"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/IMAX"/>
+    </oig:usedConcepts>
+    <gi2mo:content>An entire wall or room could be a touch display. I'm thinking an entire interactive room. A bigger room could potentially become an IMAX movie theater. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/11">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coffee_table"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tablet_computer"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Your coffee table is a touch screen tablet </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/22">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/E-textiles"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Smart clothes</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/58">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kitchen_cabinet"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+    </oig:usedConcepts>
+    <gi2mo:content>On kitchen cabinets and it could display what's inside without opening them</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/404">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Closet"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Entity"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clothing"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Image"/>
+    </oig:usedConcepts>
+    <gi2mo:content>It could be placed on a closet so that you can put items together to make and outfit without having to try everything on. It would show you pictures of the different pieces.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/37">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Box"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could add it to a box to keep try of the contents.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/439">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Product_(business)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Glass"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Product_(business)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Glass"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Products have any type of glass. That can make the touch display. Actually maximum product have glass types.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/403">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Library"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/People"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Book"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Libraries could have a screen where patrons can look for books.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/31">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shopping_list"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Product_(business)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A refrigerator where you can create a shopping list by tapping on products</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/130">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bicycle"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Map"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Global_Positioning_System"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Smartphone"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put on a bicycle so handle so you could touch it for new maps or gps without having to use a phone which could drop.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/142">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clipboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tablet_computer"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A plain clipboard that can be used as a personal tablet.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/154">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Television_set"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Can turn an ordinary television into a touch television.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/287">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Table_(furniture)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Restaurant"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Food"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Touch screen tables in a restaurant where you can order your food and pay.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/372">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bathroom"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shower"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Temperature"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Aerosol_spray"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pressure"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch display could be added to the bathroom shower tile in order to more finely tune the shower water temperature, pressure, spray format etc. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/360">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_access"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Apply to walls of home for anywhere access</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/79">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Temperature"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Humidity"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Refrigerator touchscreen that can adjust the temperature and humidity.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/30">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_piano"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A portable piano</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/42">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bathroom"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shower"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Water"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Temperature"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pressure"/>
+    </oig:usedConcepts>
+    <gi2mo:content>touchscreen in the bathroom to select water temperature and water pressure in the shower</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/274">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Aquarium"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Temperature"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A fish tank with a coating on it that shows the touch display of the temperature so you can adjust it right on the tank.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/165">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Toilet"/>
+    </oig:usedConcepts>
+    <gi2mo:content>can make toilets touch capable.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/286">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Machine"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dashboard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Temperature"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Information"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Miles_per_hour"/>
+    </oig:usedConcepts>
+    <gi2mo:content>a device where you can spray in side a car dashboard. the dashboard then tells you the mph you are going and other car related information such as temperature
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/189">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/House"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Paint"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Canvas_(GUI)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Turn the walls of your house into a virtual paint canvas</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/395">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Smart_toy"/>
+    </oig:usedConcepts>
+    <gi2mo:content>super interactive toys</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/54">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Flat_panel_display"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put it on a wall to create the world's flattest television</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/66">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bathroom"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Water"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Temperature"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shower"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Radio_receiver"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Television_set"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touchscreen for the bathroom to regulate the water temperature in the shower and also be used as a radio or television.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/261">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Flip-flops"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hook-and-loop_fastener"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Fashion"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Flip Flops With Interchangeable, Velcro Straps So You Can Switch Your Look Without Buying Multiple Pairs</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/152">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Refrigerator"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Entity"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Make a refrigerator have a touch panel to control things in it.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/164">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Floor"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Menu_(computing)"/>
+    </oig:usedConcepts>
+    <gi2mo:content>can make floors and walls touch with options.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/382">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Automotive_paint"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Password"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Fingerprint"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Use it on car paint so you can unlock with your fingerprint or code.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/21">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Smartwatch"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A more interactive smartwatch</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/272">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wristband"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wearable_technology"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A long armband fitted around the wrist that would act as a display for wearable gadgets.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/381">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Robotic_vacuum_cleaner"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A auto cleaning vaccum cleaner can be made out of it for sure</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/56">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Landscape"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Reality"/>
+    </oig:usedConcepts>
+    <gi2mo:content>On a window to allow you to view a better landscape if you don't like your real view</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/68">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Door"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Remote_keyless_system"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Doors that can automatically lock themselves through the use of a touch display. </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/32">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Workplace"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Desktop_computer"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could make a desk top that was a touch display at work.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/283">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Countertop"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Recipe"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pagination"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A kitchen counter that could display cooking recipes. You could flip through pages etc and add recipes of your own
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/295">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Shopping_list"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Countertop"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kitchen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Finger"/>
+    </oig:usedConcepts>
+    <gi2mo:content>you could have a section of the countertop in the kitchen where you could just use your finger to write a grocery list
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/392">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home_appliance"/>
+    </oig:usedConcepts>
+    <gi2mo:content>kitchen appliances can be more interactive</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/380">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Magazine"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Article_(publishing)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Information"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clickable"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Use it on magazines to make article information clickable.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/99">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Front_yard"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Location_(geography)"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Performance_surface"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Party"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could turn your front yard into any location you want to be or to create a dance floor and have a party </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/62">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Public_toilet"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Wall"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Toilet"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Toilet"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Web_browser"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A touch display in the restroom on the wall near the toilet so when you are using the toilet, you can browse the internet,</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/282">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hand"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_device"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hand"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Human_body"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Information_system"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Human_body_temperature"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Heart_rate"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Body_mass_index"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Health"/>
+    </oig:usedConcepts>
+    <gi2mo:content>a hand screen where you spay it on your hand and it temporarily acts as a body information device where you see your body temperature along with heart rate and body mass index among other things related to your health
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/197">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Desk"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Business"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Education"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Display_advertising"/>
+    </oig:usedConcepts>
+    <gi2mo:content>desks could be used for education or to give displays in business.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/41">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Window"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Home"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Landscape"/>
+    </oig:usedConcepts>
+    <gi2mo:content>You could use it on all the windows in your home making every window in your home have a different scenery </gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/52">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_mirror"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Person"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Clothing"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hairstyle"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cosmetics"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put it on a mirror to let people view what different outfits or hairstyles or makeup would look like on them</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/40">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Virtual_mirror"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Light"/>
+    </oig:usedConcepts>
+    <gi2mo:content>touch screen mirror to help you change the lights and see better
+</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/280">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Touchscreen"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Lawn_mower"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Lawn"/>
+    </oig:usedConcepts>
+    <gi2mo:content>A lawn mower with the touch display sprayed on that shows how well the grass is being cut.</gi2mo:content>
+  </gi2mo:Idea>
+  <gi2mo:Idea rdf:about="http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/183">
+    <oig:usedConcepts rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Coating"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Pressure"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Tire"/>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Car"/>
+    </oig:usedConcepts>
+    <gi2mo:content>Put the coating on car tires to display air pressure</gi2mo:content>
+  </gi2mo:Idea>
+</rdf:RDF>

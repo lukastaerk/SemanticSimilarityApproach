@@ -1,5 +1,5 @@
 {
-  "correlation": 0.86,
+  "correlation": 0.893,
   "similarities": [
     [
       1.0,
@@ -20,7 +20,7 @@
       "gemstone"
     ],
     [
-      0.802,
+      0.875,
       [
         "journey",
         "voyage",
@@ -74,16 +74,16 @@
       "noon"
     ],
     [
-      0.427,
+      0.929,
       [
         "furnace",
         "stove",
         3.11
       ],
-      "construction"
+      "stove"
     ],
     [
-      0.739,
+      0.861,
       [
         "food",
         "fruit",
@@ -92,7 +92,7 @@
       "food"
     ],
     [
-      0.802,
+      0.941,
       [
         "bird",
         "cock",
@@ -101,13 +101,13 @@
       "heraldic bird"
     ],
     [
-      0.457,
+      0.39,
       [
         "bird",
         "crane",
         2.97
       ],
-      "taxon"
+      "equipment"
     ],
     [
       1.0,
@@ -119,7 +119,7 @@
       "tool"
     ],
     [
-      0.761,
+      0.94,
       [
         "brother",
         "monk",
@@ -128,7 +128,7 @@
       "monk"
     ],
     [
-      0.65,
+      0.864,
       [
         "lad",
         "brother",
@@ -137,7 +137,7 @@
       "male human"
     ],
     [
-      0.486,
+      0.616,
       [
         "crane",
         "implement",
@@ -146,16 +146,16 @@
       "tool"
     ],
     [
-      0.154,
+      0.875,
       [
         "journey",
         "car",
         1.16
       ],
-      "occurrence"
+      "travel"
     ],
     [
-      0.417,
+      0.473,
       [
         "monk",
         "oracle",
@@ -164,25 +164,25 @@
       "occupation"
     ],
     [
-      0.298,
+      0.223,
       [
         "cemetery",
         "woodland",
         0.95
       ],
-      "geographic location"
+      "geographical object"
     ],
     [
-      0.115,
+      0.235,
       [
         "food",
         "rooster",
         0.89
       ],
-      "physical object"
+      "organism"
     ],
     [
-      0.614,
+      0.491,
       [
         "coast",
         "hill",
@@ -191,7 +191,7 @@
       "landform"
     ],
     [
-      0.24,
+      0.193,
       [
         "forest",
         "graveyard",
@@ -200,7 +200,7 @@
       "geographical object"
     ],
     [
-      0.275,
+      0.223,
       [
         "shore",
         "woodland",
@@ -209,7 +209,7 @@
       "geographical object"
     ],
     [
-      0.383,
+      0.432,
       [
         "monk",
         "slave",
@@ -218,16 +218,16 @@
       "position"
     ],
     [
-      0.299,
+      0.225,
       [
         "coast",
         "forest",
         0.42
       ],
-      "physico-geographical object"
+      "natural geographic object"
     ],
     [
-      0.292,
+      0.197,
       [
         "lad",
         "wizard",
@@ -236,25 +236,25 @@
       "person"
     ],
     [
-      0.119,
+      0.128,
       [
         "chord",
         "smile",
         0.13
       ],
-      "industry"
+      "economic concept"
     ],
     [
-      0.125,
+      0.147,
       [
         "glass",
         "magician",
         0.11
       ],
-      "entity"
+      "agent"
     ],
     [
-      0.21,
+      0.15,
       [
         "rooster",
         "voyage",
@@ -263,13 +263,13 @@
       "Wikidata metaclass"
     ],
     [
-      0.211,
+      0.195,
       [
         "noon",
         "string",
         0.008
       ],
-      "part"
+      "text"
     ]
   ]
 }

@@ -75,7 +75,6 @@ class WordSimEvaluation:
     def evaluate_metric(self, sim_name, dataset_name, lcs_pref_value = "shortest_path", icfqvalue="freq", save_results=False, relatedness=False, **kwargs):
         concepts, word_pairs, get_ids_from_noun = self._dataset.transform_dataset(dataset_name)
         human = [v[2] for v in word_pairs]
-        #print("concept_len:", len(concepts))
         dataset_name_re = dataset_name.replace("type", "noun")
         KG = DAC(concepts=concepts, dataset=dataset_name_re, relatedness=relatedness)
         if(KG.graph.__len__()==0):
@@ -91,7 +90,6 @@ class WordSimEvaluation:
             self.simData[consim_key] = ConSim
         else : 
             ConSim = self.simData[consim_key]
-
         sim_values = []
         lcs_values = []
         for (w1,w2, h) in word_pairs: 
@@ -121,23 +119,27 @@ class SentenceSimEvaluation(WordSimEvaluation):
 
     def __init__(self):
         self._dataset = SentenceDataset()
-        self.sentence_dataset_name = ["MSRvid"]
-        self.WMD=None
+        self.sentence_dataset_names = ["MSRvid", "SmartTextile", "MTurk", "environment"]
 
-    def evaluate_sentence_sim(self, dataset_name="MSRvid", metric = "wpath_graph", relatedness=False, save_results = False,**kwargs):
-        concepts, cc, texts = get_ideas_in_format(dataset_name)
-        KG = DAC(concepts=concepts, dataset=dataset_name, relatedness=relatedness)
+    def evaluate_all_sentence_datasets(self, display_table=True, **kwargs):
+        cors = [self.evaluate_sentence_similarity(name, **kwargs) for name in self.sentence_dataset_names]
+        if display_table:
+            df_wpath = pd.DataFrame([cors], index=["wpath"], columns=self.sentence_dataset_names)
+            return display(df_wpath)
+        return cors
+
+    def evaluate_sentence_similarity(self, dataset_name="MSRvid", metric = "wpath_graph", relatedness=False, save_results = False, database="wikidata"):
+        concepts, cc, texts = get_ideas_in_format(dataset_name, database=database)
+        KG = DAC(concepts=concepts, dataset=dataset_name, relatedness=relatedness, database=database)
         if(KG.graph.__len__()==0):
             print("start building knowledge graph")
             KG.build_nx_graph()
 
-        if not self.WMD:
-            ConSim = ConceptSimilarity(KG)
-            sim_M = ConSim.similarityMatrix(lcs_pref_value="freq1")
-            self.WMD = WordMoversSimilarity(sim_M, KG._concepts)
+        ConSim = ConceptSimilarity(KG)
+        sim_M = ConSim.similarityMatrix(lcs_pref_value="freq1", metric=metric)
+        WMD = WordMoversSimilarity(sim_M, KG._concepts)
 
-        sen_pairs = self._dataset.load_sentence_pairs()
-        human_sim = self._dataset.load_sentence_similarities()
+        sen_pairs, human_sim = self._dataset.load_sentence_pairs_and_similarities(dataset_name)
         sim_values = []
         map_sen2bow = dict(zip(texts, [[c["id"] for c in bow] for bow in cc]))
         pg, total_len = 0 , len(sen_pairs)
@@ -145,7 +147,7 @@ class SentenceSimEvaluation(WordSimEvaluation):
         for sen1, sen2 in sen_pairs:
             show_progression(pg, total_len)
             bow1, bow2 = list(set(map_sen2bow[sen1]) & set(KG._concepts)), list(set(map_sen2bow[sen2]) & set(KG._concepts))
-            sim_value = self.WMD.word_mover_distance(bow1, bow2)
+            sim_value = WMD.word_mover_distance(bow1, bow2)
             if sim_value is None:
                 print(sen1, sen2)
                 remove_index.append(pg)
@@ -154,9 +156,31 @@ class SentenceSimEvaluation(WordSimEvaluation):
             pg = pg+1
         
         human_sim = np.delete(human_sim, remove_index)
-        cor = spearmanr(sim_values, human_sim)[0]
-        cor = round(cor, 3)
+        cor = pearsonr(sim_values, human_sim)[0]
         if save_results:
             results = list(zip([round(x, 3) for x in sim_values], sen_pairs))
             self._dataset.save_dataset(dict(zip(("correlation", "similarities"),(cor, results))), dataset_name+"_"+metric)
         return cor
+
+    def compute_concept_sentence_M(self, dataset_name="gold", database="wikidata",metric="wpath", lcs_pref_value="freq1", relatedness=True):
+        concepts, cc, texts = get_ideas_in_format(dataset_name, database=database)
+        bows = [[c["id"] for c in bow] for bow in cc]
+        KG = DAC(concepts=concepts, dataset=dataset_name, relatedness=relatedness, database=database)
+        if(KG.graph.__len__()==0): 
+            print("start building knowledge graph")
+            KG.build_nx_graph()
+
+        ConSim = ConceptSimilarity(KG)
+        sim_M = ConSim.similarityMatrix(lcs_pref_value="freq1", metric=metric)
+        WMD = WordMoversSimilarity(sim_M, KG._concepts)
+        ideaM = WMD.sentenceSimilarityMatrix(bows)
+        con2ideaM = WMD.concepts2sentenceSIM(bows)
+        SIM_data = {
+            "concepts":concepts, 
+            "ideas":texts,
+            "conceptSIM":sim_M.tolist(),
+            "ideaSIM":ideaM.tolist(),
+            "concept2ideaSIM":con2ideaM.tolist()
+        }
+        self._dataset.save_dataset(SIM_data, dataset_name)
+        return SIM_data

@@ -21,7 +21,7 @@ class WordMoversSimilarity:
         self._ConSenSim = SM
         return SM 
 
-    def sentenceSimilartyMatrix(self, bows):
+    def sentenceSimilarityMatrix(self, bows):
         bows_len = len(bows)
         SM = np.eye(bows_len)
         for i in range(bows_len):

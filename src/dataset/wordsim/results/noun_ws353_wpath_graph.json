@@ -1,23 +1,23 @@
 {
-  "correlation": 0.34,
+  "correlation": 0.352,
   "similarities": [
     [
-      0.209,
+      0.218,
       [
         "love",
         "sex",
         6.77
       ],
-      "abstract object"
+      "emotion"
     ],
     [
-      0.223,
+      0.272,
       [
         "tiger",
         "cat",
         7.35
       ],
-      "class"
+      "mammal"
     ],
     [
       1.0,
@@ -29,16 +29,16 @@
       "tiger"
     ],
     [
-      0.271,
+      0.28,
       [
         "book",
         "paper",
         7.46
       ],
-      "genre"
+      "publication"
     ],
     [
-      0.855,
+      0.538,
       [
         "computer",
         "keyboard",
@@ -47,43 +47,43 @@
       "computer"
     ],
     [
-      0.368,
+      0.205,
       [
         "computer",
         "internet",
         7.58
       ],
-      "infrastructure"
+      "activity"
     ],
     [
-      0.492,
+      0.472,
       [
         "plane",
         "car",
         5.77
       ],
-      "vehicle"
+      "mode of transport"
     ],
     [
-      0.75,
+      0.749,
       [
         "train",
         "car",
         6.31
       ],
-      "wheeled vehicle"
+      "motor vehicle"
     ],
     [
-      0.202,
+      0.269,
       [
         "telephone",
         "communication",
         7.5
       ],
-      "message"
+      "communication medium"
     ],
     [
-      0.665,
+      0.869,
       [
         "television",
         "radio",
@@ -92,43 +92,43 @@
       "communication device"
     ],
     [
-      0.144,
+      0.18,
       [
         "media",
         "radio",
         7.42
       ],
-      "first-order metaclass"
+      "product"
     ],
     [
-      0.161,
+      0.655,
       [
         "drug",
         "abuse",
         6.85
       ],
-      "concept"
+      "social issue"
     ],
     [
-      0.115,
+      0.272,
       [
         "bread",
         "butter",
         6.19
       ],
-      "class"
+      "food"
     ],
     [
-      0.544,
+      0.884,
       [
         "cucumber",
         "potato",
         5.92
       ],
-      "angiosperms"
+      "vegetable"
     ],
     [
-      0.89,
+      0.891,
       [
         "doctor",
         "nurse",
@@ -137,7 +137,7 @@
       "health professional"
     ],
     [
-      0.766,
+      0.704,
       [
         "professor",
         "doctor",
@@ -146,7 +146,7 @@
       "title of honor"
     ],
     [
-      0.397,
+      0.345,
       [
         "student",
         "professor",
@@ -155,16 +155,16 @@
       "occupation"
     ],
     [
-      0.315,
+      0.272,
       [
         "smart",
         "student",
         4.62
       ],
-      "institution"
+      "human"
     ],
     [
-      0.394,
+      0.532,
       [
         "smart",
         "stupid",
@@ -173,43 +173,43 @@
       "album"
     ],
     [
-      0.276,
+      0.174,
       [
         "company",
         "stock",
         7.08
       ],
-      "economic taxonomy"
+      "agent"
     ],
     [
-      0.276,
+      0.18,
       [
         "stock",
         "market",
         8.08
       ],
-      "economic taxonomy"
+      "economic activity"
     ],
     [
-      0.323,
+      0.217,
       [
         "stock",
         "phone",
         1.62
       ],
-      "economic branch"
+      "tool"
     ],
     [
-      0.233,
+      0.27,
       [
         "stock",
         "CD",
         1.31
       ],
-      "artificial physical object"
+      "chemical compound"
     ],
     [
-      0.17,
+      0.169,
       [
         "stock",
         "jaguar",
@@ -218,49 +218,49 @@
       "class"
     ],
     [
-      0.327,
+      0.272,
       [
         "stock",
         "egg",
         1.81
       ],
-      "artificial physical object"
+      "food"
     ],
     [
-      0.18,
+      0.145,
       [
         "fertility",
         "egg",
         6.69
       ],
-      "capability"
+      "quality"
     ],
     [
-      0.163,
+      0.204,
       [
         "stock",
         "life",
         0.92
       ],
-      "condition"
+      "biological process"
     ],
     [
-      0.17,
+      0.202,
       [
         "book",
         "library",
         7.46
       ],
-      "book"
+      "work"
     ],
     [
-      0.637,
+      0.225,
       [
         "bank",
         "money",
         8.12
       ],
-      "financial services"
+      "economic branch"
     ],
     [
       1.0,
@@ -281,22 +281,22 @@
       "money"
     ],
     [
-      0.086,
+      0.169,
       [
         "professor",
         "cucumber",
         0.31
       ],
-      "erudite"
+      "Wikidata metaclass"
     ],
     [
-      0.138,
+      0.169,
       [
         "king",
         "cabbage",
         0.23
       ],
-      "class"
+      "first-order metaclass"
     ],
     [
       1.0,
@@ -308,25 +308,25 @@
       "monarch"
     ],
     [
-      0.928,
+      0.932,
       [
         "king",
         "rook",
         5.92
       ],
-      "non-pawn chess piece"
+      "chess terminology"
     ],
     [
-      0.77,
+      0.842,
       [
         "bishop",
         "rabbi",
         6.69
       ],
-      "religious occupation"
+      "priest"
     ],
     [
-      0.65,
+      0.755,
       [
         "Jerusalem",
         "Israel",
@@ -335,7 +335,7 @@
       "country"
     ],
     [
-      0.335,
+      0.345,
       [
         "Jerusalem",
         "Palestinian",
@@ -344,7 +344,7 @@
       "Wikimedia disambiguation page"
     ],
     [
-      0.335,
+      0.345,
       [
         "holy",
         "sex",
@@ -353,13 +353,13 @@
       "Wikimedia disambiguation page"
     ],
     [
-      0.147,
+      0.19,
       [
         "fuck",
         "sex",
         9.44
       ],
-      "mental object"
+      "word"
     ],
     [
       1.0,
@@ -371,52 +371,52 @@
       "association football"
     ],
     [
-      0.894,
+      0.897,
       [
         "football",
         "basketball",
         6.81
       ],
-      "team sport"
+      "ball"
     ],
     [
-      0.882,
+      0.823,
       [
         "football",
         "tennis",
         6.63
       ],
-      "Ball Game"
+      "sports equipment"
     ],
     [
-      0.966,
+      0.967,
       [
         "tennis",
         "racket",
         7.56
       ],
-      "tennis"
+      "tennis racquet"
     ],
     [
-      0.115,
+      0.145,
       [
         "Arafat",
         "peace",
         6.73
       ],
-      "language device"
+      "state"
     ],
     [
-      0.105,
+      0.146,
       [
         "Arafat",
         "terror",
         7.65
       ],
-      "concept"
+      "academic discipline"
     ],
     [
-      0.59,
+      0.367,
       [
         "Arafat",
         "Jackson",
@@ -425,79 +425,79 @@
       "family name"
     ],
     [
-      0.067,
+      0.203,
       [
         "law",
         "lawyer",
         8.38
       ],
-      "person"
+      "first-order metaclass"
     ],
     [
-      0.113,
+      0.216,
       [
         "movie",
         "star",
         7.38
       ],
-      "concept"
+      "image"
     ],
     [
-      0.078,
+      0.146,
       [
         "movie",
         "popcorn",
         6.19
       ],
-      "property"
+      "series"
     ],
     [
-      0.107,
+      0.145,
       [
         "movie",
         "critic",
         6.73
       ],
-      "creator"
+      "Wikidata metaclass"
     ],
     [
-      0.163,
+      0.178,
       [
         "movie",
         "theater",
         7.92
       ],
-      "condition"
+      "artificial physical object"
     ],
     [
-      0.099,
+      0.203,
       [
         "physics",
         "proton",
         8.12
       ],
-      "science"
+      "first-order metaclass"
     ],
     [
-      0.377,
+      0.339,
       [
         "physics",
         "chemistry",
         7.35
       ],
-      "physical science"
+      "academic discipline"
     ],
     [
-      0.232,
+      0.169,
       [
         "space",
         "chemistry",
         4.88
       ],
-      "physical science"
+      "classification system"
     ],
     [
-      0.202,
+      0.203,
       [
         "alcohol",
         "chemistry",
@@ -506,7 +506,7 @@
       "classification system"
     ],
     [
-      0.893,
+      0.894,
       [
         "vodka",
         "gin",
@@ -515,7 +515,7 @@
       "liquor"
     ],
     [
-      0.893,
+      0.894,
       [
         "vodka",
         "brandy",
@@ -524,49 +524,49 @@
       "liquor"
     ],
     [
-      0.223,
+      0.205,
       [
         "drink",
         "car",
         3.04
       ],
-      "class"
+      "activity"
     ],
     [
-      0.03,
+      0.146,
       [
         "drink",
         "ear",
         1.31
       ],
-      "Vertebrata"
+      "biological process"
     ],
     [
-      0.435,
+      0.272,
       [
         "drink",
         "mouth",
         5.96
       ],
-      "drink"
+      "ingestion"
     ],
     [
-      0.243,
+      0.219,
       [
         "baby",
         "mother",
         7.85
       ],
-      "time interval"
+      "human"
     ],
     [
-      0.115,
+      0.145,
       [
         "drink",
         "mother",
         2.65
       ],
-      "class"
+      "Wikidata metaclass"
     ],
     [
       1.0,
@@ -587,7 +587,7 @@
       "gemstone"
     ],
     [
-      0.903,
+      0.904,
       [
         "journey",
         "voyage",
@@ -641,16 +641,16 @@
       "noon"
     ],
     [
-      0.946,
+      0.947,
       [
         "furnace",
         "stove",
         8.79
       ],
-      "stove"
+      "heating furnace"
     ],
     [
-      0.548,
+      0.528,
       [
         "food",
         "fruit",
@@ -668,13 +668,13 @@
       "heraldic bird"
     ],
     [
-      0.852,
+      0.355,
       [
         "bird",
         "crane",
         7.38
       ],
-      "bird"
+      "taxon"
     ],
     [
       1.0,
@@ -686,16 +686,16 @@
       "tool"
     ],
     [
-      0.702,
+      0.956,
       [
         "brother",
         "monk",
         6.27
       ],
-      "cleric"
+      "monk"
     ],
     [
-      0.377,
+      0.357,
       [
         "crane",
         "implement",
@@ -704,16 +704,16 @@
       "tool"
     ],
     [
-      0.209,
+      0.897,
       [
         "lad",
         "brother",
         4.46
       ],
-      "abstract object"
+      "male human"
     ],
     [
-      0.903,
+      0.904,
       [
         "journey",
         "car",
@@ -722,7 +722,7 @@
       "travel"
     ],
     [
-      0.305,
+      0.26,
       [
         "monk",
         "oracle",
@@ -731,16 +731,16 @@
       "occupation"
     ],
     [
-      0.289,
+      0.179,
       [
         "cemetery",
         "woodland",
         2.08
       ],
-      "geographical object"
+      "geographic region"
     ],
     [
-      0.232,
+      0.218,
       [
         "food",
         "rooster",
@@ -749,7 +749,7 @@
       "food"
     ],
     [
-      0.557,
+      0.354,
       [
         "coast",
         "hill",
@@ -758,7 +758,7 @@
       "landform"
     ],
     [
-      0.253,
+      0.153,
       [
         "forest",
         "graveyard",
@@ -767,85 +767,85 @@
       "geographical object"
     ],
     [
-      0.333,
+      0.18,
       [
         "shore",
         "woodland",
         3.08
       ],
-      "landscape"
+      "landform"
     ],
     [
-      0.092,
+      0.47,
       [
         "monk",
         "slave",
         0.92
       ],
-      "social class"
+      "position"
     ],
     [
-      0.385,
+      0.215,
       [
         "coast",
         "forest",
         3.15
       ],
-      "landscape"
+      "landform"
     ],
     [
-      0.2,
+      0.218,
       [
         "lad",
         "wizard",
         0.92
       ],
-      "class"
+      "fictional character"
     ],
     [
-      0.091,
+      0.127,
       [
         "chord",
         "smile",
         0.54
       ],
-      "communication"
+      "class"
     ],
     [
-      0.132,
+      0.145,
       [
         "glass",
         "magician",
         2.08
       ],
-      "property"
+      "first-order metaclass"
     ],
     [
-      0.179,
+      0.181,
       [
         "noon",
         "string",
         0.54
       ],
-      "property"
+      "text"
     ],
     [
-      0.298,
+      0.145,
       [
         "rooster",
         "voyage",
         0.62
       ],
-      "motion"
+      "Wikidata metaclass"
     ],
     [
-      0.853,
+      0.855,
       [
         "money",
         "dollar",
         8.42
       ],
-      "money"
+      "currency"
     ],
     [
       1.0,
@@ -857,61 +857,61 @@
       "money"
     ],
     [
-      0.92,
+      0.922,
       [
         "money",
         "currency",
         9.04
       ],
-      "money"
+      "currency"
     ],
     [
-      0.0,
+      0.145,
       [
         "money",
         "wealth",
         8.27
       ],
-      "wealth"
+      "concept"
     ],
     [
-      0.233,
+      0.267,
       [
         "money",
         "property",
         7.57
       ],
-      "property"
+      "goods"
     ],
     [
-      0.161,
+      0.267,
       [
         "money",
         "possession",
         7.29
       ],
-      "quality"
+      "goods"
     ],
     [
-      0.637,
+      0.225,
       [
         "money",
         "bank",
         8.5
       ],
-      "financial services"
+      "economic branch"
     ],
     [
-      0.235,
+      0.214,
       [
         "money",
         "deposit",
         7.73
       ],
-      "geographic region"
+      "goods"
     ],
     [
-      0.168,
+      0.171,
       [
         "money",
         "withdrawal",
@@ -920,43 +920,43 @@
       "activity"
     ],
     [
-      0.393,
+      0.146,
       [
         "money",
         "laundering",
         5.65
       ],
-      "service"
+      "activity"
     ],
     [
-      0.337,
+      0.267,
       [
         "money",
         "operation",
         3.31
       ],
-      "operation"
+      "goods"
     ],
     [
-      0.937,
+      0.355,
       [
         "tiger",
         "jaguar",
         8.0
       ],
-      "Panthera"
+      "taxon"
     ],
     [
-      0.082,
+      0.127,
       [
         "tiger",
         "feline",
         8.0
       ],
-      "class"
+      "concept"
     ],
     [
-      0.856,
+      0.858,
       [
         "tiger",
         "carnivore",
@@ -965,7 +965,7 @@
       "carnivore"
     ],
     [
-      0.551,
+      0.528,
       [
         "tiger",
         "mammal",
@@ -974,43 +974,43 @@
       "mammal"
     ],
     [
-      0.381,
+      0.355,
       [
         "tiger",
         "animal",
         7.0
       ],
-      "animal"
+      "taxon"
     ],
     [
-      0.232,
+      0.269,
       [
         "tiger",
         "organism",
         4.77
       ],
-      "organism"
+      "group of living things"
     ],
     [
-      0.17,
+      0.216,
       [
         "tiger",
         "fauna",
         5.62
       ],
-      "biota"
+      "group of living things"
     ],
     [
-      0.115,
+      0.155,
       [
         "tiger",
         "zoo",
         5.87
       ],
-      "class"
+      "group of living things"
     ],
     [
-      0.336,
+      0.339,
       [
         "psychology",
         "psychiatry",
@@ -1019,88 +1019,88 @@
       "academic discipline"
     ],
     [
-      0.067,
+      0.146,
       [
         "psychology",
         "anxiety",
         7.0
       ],
-      "social science"
+      "academic discipline"
     ],
     [
-      0.063,
+      0.128,
       [
         "psychology",
         "fear",
         6.85
       ],
-      "social science"
+      "academic discipline"
     ],
     [
-      0.112,
+      0.204,
       [
         "psychology",
         "depression",
         7.42
       ],
-      "social science"
+      "academic discipline"
     ],
     [
-      0.067,
+      0.145,
       [
         "psychology",
         "clinic",
         6.58
       ],
-      "social science"
+      "classification system"
     ],
     [
-      0.101,
+      0.169,
       [
         "psychology",
         "doctor",
         6.42
       ],
-      "social science"
+      "first-order metaclass"
     ],
     [
-      0.126,
+      0.171,
       [
         "psychology",
         "Freud",
         8.21
       ],
-      "social science"
+      "academic discipline"
     ],
     [
-      0.084,
+      0.143,
       [
         "psychology",
         "mind",
         7.69
       ],
-      "social science"
+      "variable-order metaclass"
     ],
     [
-      0.112,
+      0.171,
       [
         "psychology",
         "health",
         7.23
       ],
-      "social science"
+      "academic discipline"
     ],
     [
-      0.336,
+      0.339,
       [
         "psychology",
         "science",
         6.71
       ],
-      "social science"
+      "academic discipline"
     ],
     [
-      0.503,
+      0.507,
       [
         "psychology",
         "discipline",
@@ -1109,79 +1109,79 @@
       "academic discipline"
     ],
     [
-      0.144,
+      0.146,
       [
         "psychology",
         "cognition",
         7.48
       ],
-      "cognition"
+      "knowledge"
     ],
     [
-      0.32,
+      0.482,
       [
         "planet",
         "star",
         8.45
       ],
-      "astronomical object"
+      "astronomical object type"
     ],
     [
-      0.32,
+      0.383,
       [
         "planet",
         "constellation",
         8.06
       ],
-      "astronomical object"
+      "astronomical object type"
     ],
     [
-      0.462,
+      0.895,
       [
         "planet",
         "moon",
         8.08
       ],
-      "substellar object"
+      "planetary system"
     ],
     [
-      0.239,
+      0.85,
       [
         "planet",
         "sun",
         8.02
       ],
-      "astronomical object"
+      "planetary system"
     ],
     [
-      0.427,
+      0.482,
       [
         "planet",
         "galaxy",
         8.11
       ],
-      "galaxy"
+      "astronomical object type"
     ],
     [
-      0.274,
+      0.203,
       [
         "planet",
         "space",
         7.92
       ],
-      "astronomical object"
+      "class"
     ],
     [
-      0.116,
+      0.203,
       [
         "planet",
         "astronomer",
         7.94
       ],
-      "scientist"
+      "first-order metaclass"
     ],
     [
-      0.277,
+      0.202,
       [
         "precedent",
         "example",
@@ -1190,52 +1190,52 @@
       "concept"
     ],
     [
-      0.126,
+      0.174,
       [
         "precedent",
         "information",
         3.85
       ],
-      "knowledge"
+      "quantity"
     ],
     [
-      0.112,
+      0.169,
       [
         "precedent",
         "cognition",
         2.81
       ],
-      "cognition"
+      "occurrence"
     ],
     [
-      0.336,
+      0.281,
       [
         "precedent",
         "law",
         6.65
       ],
-      "sources of law"
+      "precept"
     ],
     [
-      0.18,
+      0.253,
       [
         "precedent",
         "collection",
         2.5
       ],
-      "concept"
+      "object of group"
     ],
     [
-      0.18,
+      0.337,
       [
         "precedent",
         "group",
         1.77
       ],
-      "concept"
+      "object of group"
     ],
     [
-      0.252,
+      0.26,
       [
         "precedent",
         "antecedent",
@@ -1244,16 +1244,16 @@
       "legal concept"
     ],
     [
-      0.122,
+      0.742,
       [
         "cup",
         "coffee",
         6.58
       ],
-      "concept"
+      "drinking"
     ],
     [
-      0.944,
+      0.945,
       [
         "cup",
         "tableware",
@@ -1262,16 +1262,16 @@
       "cup"
     ],
     [
-      0.156,
+      0.409,
       [
         "cup",
         "article",
         2.4
       ],
-      "abstract object"
+      "unit of measurement"
     ],
     [
-      0.448,
+      0.265,
       [
         "cup",
         "artifact",
@@ -1280,16 +1280,16 @@
       "artificial physical object"
     ],
     [
-      0.327,
+      0.252,
       [
         "cup",
         "object",
         3.69
       ],
-      "artificial physical object"
+      "physical object"
     ],
     [
-      0.167,
+      0.2,
       [
         "cup",
         "entity",
@@ -1298,31 +1298,31 @@
       "entity"
     ],
     [
-      0.121,
+      0.812,
       [
         "cup",
         "drink",
         7.25
       ],
-      "condition"
+      "drinking"
     ],
     [
-      0.132,
+      0.205,
       [
         "cup",
         "food",
         5.0
       ],
-      "food"
+      "activity"
     ],
     [
-      0.133,
+      0.18,
       [
         "cup",
         "substance",
         1.92
       ],
-      "concept"
+      "product"
     ],
     [
       0.145,
@@ -1334,16 +1334,16 @@
       "concept"
     ],
     [
-      0.223,
+      0.272,
       [
         "jaguar",
         "cat",
         7.42
       ],
-      "class"
+      "mammal"
     ],
     [
-      0.223,
+      0.169,
       [
         "jaguar",
         "car",
@@ -1352,43 +1352,43 @@
       "class"
     ],
     [
-      0.066,
+      0.169,
       [
         "energy",
         "secretary",
         1.81
       ],
-      "position"
+      "first-order metaclass"
     ],
     [
-      0.157,
+      0.542,
       [
         "secretary",
         "senate",
         5.06
       ],
-      "legal form"
+      "position"
     ],
     [
-      0.054,
+      0.146,
       [
         "energy",
         "laboratory",
         5.09
       ],
-      "group of humans"
+      "property"
     ],
     [
-      0.141,
+      0.182,
       [
         "computer",
         "laboratory",
         6.78
       ],
-      "group of humans"
+      "equipment"
     ],
     [
-      0.203,
+      0.202,
       [
         "weapon",
         "secret",
@@ -1397,34 +1397,34 @@
       "concept"
     ],
     [
-      0.107,
+      0.149,
       [
         "FBI",
         "fingerprint",
         6.94
       ],
-      "unique identifier"
+      "information"
     ],
     [
-      0.074,
+      0.174,
       [
         "FBI",
         "investigation",
         8.31
       ],
-      "technique"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.115,
+      0.171,
       [
         "investigation",
         "effort",
         4.59
       ],
-      "technique"
+      "human action"
     ],
     [
-      0.381,
+      0.615,
       [
         "Mars",
         "water",
@@ -1433,70 +1433,70 @@
       "type of food or dish"
     ],
     [
-      0.141,
+      0.169,
       [
         "Mars",
         "scientist",
         5.63
       ],
-      "scientist"
+      "first-order metaclass"
     ],
     [
-      0.203,
+      0.216,
       [
         "news",
         "report",
         8.16
       ],
-      "article"
+      "communication"
     ],
     [
-      0.455,
+      0.268,
       [
         "canyon",
         "landscape",
         7.53
       ],
-      "landscape"
+      "landform"
     ],
     [
-      0.145,
+      0.169,
       [
         "image",
         "surface",
         4.56
       ],
-      "concept"
+      "mathematical concept"
     ],
     [
-      0.277,
+      0.203,
       [
         "discovery",
         "space",
         6.34
       ],
-      "concept"
+      "spacetime volume"
     ],
     [
-      0.18,
+      0.169,
       [
         "water",
         "seepage",
         6.56
       ],
-      "concept"
+      "first-order metaclass"
     ],
     [
-      0.203,
+      0.144,
       [
         "sign",
         "recess",
         2.38
       ],
-      "concept"
+      "philosophical concept"
     ],
     [
-      0.112,
+      0.26,
       [
         "Wednesday",
         "news",
@@ -1505,7 +1505,7 @@
       "Wikimedia disambiguation page"
     ],
     [
-      0.864,
+      0.866,
       [
         "mile",
         "kilometer",
@@ -1514,61 +1514,61 @@
       "unit of length"
     ],
     [
-      0.054,
+      0.171,
       [
         "computer",
         "news",
         4.47
       ],
-      "article"
+      "activity"
     ],
     [
-      0.145,
+      0.176,
       [
         "territory",
         "surface",
         5.34
       ],
-      "concept"
+      "covering"
     ],
     [
-      0.161,
+      0.211,
       [
         "atmosphere",
         "landscape",
         3.69
       ],
-      "concept"
+      "shell of an astronomical object"
     ],
     [
-      0.232,
+      0.415,
       [
         "president",
         "medal",
         3.0
       ],
-      "award"
+      "position"
     ],
     [
-      0.163,
+      0.145,
       [
         "war",
         "troops",
         8.13
       ],
-      "condition"
+      "occurrence"
     ],
     [
-      0.467,
+      0.512,
       [
         "record",
         "number",
         6.31
       ],
-      "mathematical object"
+      "address"
     ],
     [
-      0.913,
+      0.604,
       [
         "skin",
         "eye",
@@ -1577,7 +1577,7 @@
       "animal organ"
     ],
     [
-      0.335,
+      0.345,
       [
         "Japanese",
         "American",
@@ -1586,43 +1586,43 @@
       "Wikimedia disambiguation page"
     ],
     [
-      0.749,
+      0.356,
       [
         "theater",
         "history",
         3.91
       ],
-      "theatre"
+      "literary genre"
     ],
     [
-      0.158,
+      0.169,
       [
         "volunteer",
         "motto",
         2.56
       ],
-      "worker"
+      "concept"
     ],
     [
-      0.126,
+      0.171,
       [
         "prejudice",
         "recognition",
         3.0
       ],
-      "mental process"
+      "human action"
     ],
     [
-      0.07,
+      0.126,
       [
         "decoration",
         "valor",
         5.63
       ],
-      "mental object"
+      "philosophical concept"
     ],
     [
-      0.641,
+      0.645,
       [
         "century",
         "year",
@@ -1631,52 +1631,52 @@
       "unit of time"
     ],
     [
-      0.179,
+      0.145,
       [
         "century",
         "nation",
         3.16
       ],
-      "property"
+      "concept"
     ],
     [
-      0.655,
+      0.226,
       [
         "delay",
         "racism",
         1.19
       ],
-      "absence"
+      "time interval"
     ],
     [
-      0.046,
+      0.145,
       [
         "delay",
         "news",
         3.31
       ],
-      "article"
+      "concept"
     ],
     [
-      0.288,
+      0.202,
       [
         "minister",
         "party",
         6.63
       ],
-      "juridical person"
+      "concept"
     ],
     [
-      0.147,
+      0.202,
       [
         "peace",
         "plan",
         4.75
       ],
-      "mental object"
+      "abstract object"
     ],
     [
-      0.365,
+      0.252,
       [
         "minority",
         "peace",
@@ -1685,34 +1685,34 @@
       "philosophical concept"
     ],
     [
-      0.0,
+      0.202,
       [
         "attempt",
         "peace",
         4.25
       ],
-      "peace"
+      "philosophical concept"
     ],
     [
-      0.147,
+      0.127,
       [
         "government",
         "crisis",
         6.56
       ],
-      "philosophical concept"
+      "technical term"
     ],
     [
-      0.338,
+      0.337,
       [
         "deployment",
         "departure",
         4.25
       ],
-      "concept"
+      "occurrence"
     ],
     [
-      0.251,
+      0.253,
       [
         "deployment",
         "withdrawal",
@@ -1721,16 +1721,16 @@
       "occurrence"
     ],
     [
-      0.144,
+      0.169,
       [
         "energy",
         "crisis",
         5.94
       ],
-      "abstract object"
+      "spacetime volume"
     ],
     [
-      0.335,
+      0.355,
       [
         "announcement",
         "news",
@@ -1739,25 +1739,25 @@
       "communication"
     ],
     [
-      0.101,
+      0.127,
       [
         "announcement",
         "effort",
         2.75
       ],
-      "communication"
+      "concept"
     ],
     [
-      0.126,
+      0.149,
       [
         "stroke",
         "hospital",
         7.03
       ],
-      "philosophical concept"
+      "information"
     ],
     [
-      0.337,
+      0.171,
       [
         "disability",
         "death",
@@ -1766,25 +1766,25 @@
       "property"
     ],
     [
-      0.147,
+      0.145,
       [
         "victim",
         "emergency",
         6.47
       ],
-      "mental object"
+      "concept"
     ],
     [
-      0.0,
+      0.127,
       [
         "treatment",
         "recovery",
         7.91
       ],
-      "recovery approach"
+      "state"
     ],
     [
-      0.536,
+      0.368,
       [
         "journal",
         "association",
@@ -1793,79 +1793,79 @@
       "organization"
     ],
     [
-      0.078,
+      0.15,
       [
         "doctor",
         "personnel",
         5.0
       ],
-      "act"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.133,
+      0.145,
       [
         "doctor",
         "liability",
         5.19
       ],
-      "concept"
+      "first-order metaclass"
     ],
     [
-      0.203,
+      0.214,
       [
         "liability",
         "insurance",
         7.03
       ],
-      "concept"
+      "economic concept"
     ],
     [
-      0.122,
+      0.167,
       [
         "school",
         "center",
         3.44
       ],
-      "concept"
+      "entity"
     ],
     [
-      0.161,
+      0.203,
       [
         "reason",
         "hypertension",
         2.31
       ],
-      "concept"
+      "state"
     ],
     [
-      0.145,
+      0.255,
       [
         "reason",
         "criterion",
         5.91
       ],
-      "criterion"
+      "process"
     ],
     [
-      0.402,
+      0.857,
       [
         "hundred",
         "percent",
         7.38
       ],
-      "rational number"
+      "square number"
     ],
     [
-      0.939,
+      0.858,
       [
         "Harvard",
         "Yale",
         8.13
       ],
-      "Colonial Colleges"
+      "private university"
     ],
     [
-      0.421,
+      0.224,
       [
         "hospital",
         "infrastructure",
@@ -1874,43 +1874,43 @@
       "infrastructure"
     ],
     [
-      0.11,
+      0.169,
       [
         "death",
         "row",
         5.25
       ],
-      "abstract object"
+      "state"
     ],
     [
-      0.107,
+      0.202,
       [
         "death",
         "inmate",
         5.03
       ],
-      "occupation"
+      "concept"
     ],
     [
-      0.076,
+      0.202,
       [
         "lawyer",
         "evidence",
         6.69
       ],
-      "person"
+      "concept"
     ],
     [
-      0.904,
+      0.894,
       [
         "life",
         "death",
         7.88
       ],
-      "life"
+      "death"
     ],
     [
-      0.337,
+      0.255,
       [
         "life",
         "term",
@@ -1919,7 +1919,7 @@
       "property"
     ],
     [
-      0.235,
+      0.169,
       [
         "word",
         "similarity",
@@ -1928,34 +1928,34 @@
       "concept"
     ],
     [
-      0.276,
+      0.174,
       [
         "board",
         "recommendation",
         4.47
       ],
-      "rule"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.161,
+      0.171,
       [
         "governor",
         "interview",
         3.25
       ],
-      "concept"
+      "activity"
     ],
     [
-      0.288,
+      0.225,
       [
         "OPEC",
         "country",
         5.63
       ],
-      "juridical person"
+      "organization"
     ],
     [
-      0.235,
+      0.202,
       [
         "peace",
         "atmosphere",
@@ -1964,25 +1964,25 @@
       "concept"
     ],
     [
-      0.098,
+      0.169,
       [
         "peace",
         "insurance",
         2.94
       ],
-      "mental object"
+      "concept"
     ],
     [
-      0.16,
+      0.126,
       [
         "territory",
         "kilometer",
         5.28
       ],
-      "measure"
+      "object"
     ],
     [
-      0.502,
+      0.507,
       [
         "travel",
         "activity",
@@ -1991,40 +1991,40 @@
       "activity"
     ],
     [
-      0.18,
+      0.202,
       [
         "competition",
         "price",
         6.44
       ],
-      "concept"
+      "abstract object"
     ],
     [
-      0.064,
+      0.143,
       [
         "consumer",
         "confidence",
         4.13
       ],
-      "person"
+      "entity"
     ],
     [
-      0.071,
+      0.359,
       [
         "consumer",
         "energy",
         4.75
       ],
-      "person"
+      "energy"
     ],
     [
-      0.161,
+      0.143,
       [
         "problem",
         "airport",
         2.38
       ],
-      "concept"
+      "entity"
     ],
     [
       0.824,
@@ -2036,25 +2036,25 @@
       "travel"
     ],
     [
-      0.425,
+      0.778,
       [
         "credit",
         "card",
         8.06
       ],
-      "service"
+      "financial product"
     ],
     [
-      0.099,
+      0.253,
       [
         "credit",
         "information",
         5.31
       ],
-      "information"
+      "abstract object"
     ],
     [
-      0.251,
+      0.268,
       [
         "hotel",
         "reservation",
@@ -2063,16 +2063,16 @@
       "economic activity"
     ],
     [
-      0.365,
+      0.146,
       [
         "grocery",
         "money",
         5.94
       ],
-      "service"
+      "academic discipline"
     ],
     [
-      0.201,
+      0.255,
       [
         "registration",
         "arrangement",
@@ -2081,22 +2081,22 @@
       "activity"
     ],
     [
-      0.251,
+      0.253,
       [
         "arrangement",
         "accommodation",
         5.41
       ],
-      "process"
+      "change"
     ],
     [
-      0.202,
+      0.169,
       [
         "month",
         "hotel",
         1.81
       ],
-      "property"
+      "spatio-temporal entity"
     ],
     [
       1.0,
@@ -2108,16 +2108,16 @@
       "type"
     ],
     [
-      0.144,
+      0.167,
       [
         "arrival",
         "hotel",
         6.0
       ],
-      "end"
+      "entity"
     ],
     [
-      0.842,
+      0.611,
       [
         "bed",
         "closet",
@@ -2126,16 +2126,16 @@
       "furniture"
     ],
     [
-      0.448,
+      0.267,
       [
         "closet",
         "clothes",
         8.0
       ],
-      "artificial physical object"
+      "product"
     ],
     [
-      0.277,
+      0.202,
       [
         "situation",
         "conclusion",
@@ -2144,34 +2144,34 @@
       "concept"
     ],
     [
-      0.368,
+      0.253,
       [
         "situation",
         "isolation",
         3.88
       ],
-      "condition"
+      "situation"
     ],
     [
-      0.122,
+      0.112,
       [
         "impartiality",
         "interest",
         5.16
       ],
-      "concept"
+      "quality"
     ],
     [
-      0.573,
+      0.255,
       [
         "direction",
         "combination",
         2.25
       ],
-      "control"
+      "action"
     ],
     [
-      0.494,
+      0.352,
       [
         "street",
         "place",
@@ -2180,7 +2180,7 @@
       "geographic location"
     ],
     [
-      0.756,
+      0.759,
       [
         "street",
         "avenue",
@@ -2189,7 +2189,7 @@
       "street"
     ],
     [
-      0.556,
+      0.53,
       [
         "street",
         "block",
@@ -2198,34 +2198,34 @@
       "architectural structure"
     ],
     [
-      0.179,
+      0.178,
       [
         "street",
         "children",
         4.94
       ],
-      "property"
+      "artificial physical object"
     ],
     [
-      0.133,
+      0.169,
       [
         "listing",
         "proximity",
         2.56
       ],
-      "quality"
+      "abstract object"
     ],
     [
-      0.276,
+      0.345,
       [
         "listing",
         "category",
         6.38
       ],
-      "category"
+      "list"
     ],
     [
-      0.593,
+      0.225,
       [
         "cell",
         "phone",
@@ -2234,7 +2234,7 @@
       "electrical element"
     ],
     [
-      0.335,
+      0.345,
       [
         "production",
         "hike",
@@ -2243,16 +2243,16 @@
       "Wikimedia disambiguation page"
     ],
     [
-      0.154,
+      0.202,
       [
         "benchmark",
         "index",
         4.25
       ],
-      "linguistic unit"
+      "work"
     ],
     [
-      0.112,
+      0.169,
       [
         "media",
         "trading",
@@ -2261,31 +2261,31 @@
       "first-order metaclass"
     ],
     [
-      0.0,
+      0.169,
       [
         "media",
         "gain",
         2.88
       ],
-      "gain"
+      "first-order metaclass"
     ],
     [
-      0.0,
+      0.112,
       [
         "dividend",
         "payment",
         7.63
       ],
-      "dividend"
+      "concept"
     ],
     [
-      0.084,
+      0.128,
       [
         "dividend",
         "calculation",
         6.48
       ],
-      "process"
+      "mathematical expression"
     ],
     [
       1.0,
@@ -2297,34 +2297,34 @@
       "calculation"
     ],
     [
-      0.663,
+      0.146,
       [
         "currency",
         "market",
         7.5
       ],
-      "market"
+      "measure"
     ],
     [
-      0.067,
+      0.12,
       [
         "OPEC",
         "oil",
         8.59
       ],
-      "chemical substance"
+      "goods"
     ],
     [
-      0.196,
+      0.135,
       [
         "oil",
         "stock",
         6.34
       ],
-      "chemical substance"
+      "goods"
     ],
     [
-      0.201,
+      0.216,
       [
         "announcement",
         "production",
@@ -2333,7 +2333,7 @@
       "manufacturing"
     ],
     [
-      0.168,
+      0.18,
       [
         "announcement",
         "warning",
@@ -2342,25 +2342,25 @@
       "communication"
     ],
     [
-      0.101,
+      0.145,
       [
         "profit",
         "warning",
         3.88
       ],
-      "knowledge"
+      "abstract object"
     ],
     [
-      0.721,
+      0.358,
       [
         "profit",
         "loss",
         7.63
       ],
-      "difference"
+      "result"
     ],
     [
-      0.854,
+      0.855,
       [
         "dollar",
         "yen",
@@ -2369,34 +2369,34 @@
       "currency"
     ],
     [
-      0.223,
+      0.112,
       [
         "dollar",
         "buck",
         9.22
       ],
-      "economic branch"
+      "object"
     ],
     [
-      0.393,
+      0.171,
       [
         "dollar",
         "profit",
         7.38
       ],
-      "profit"
+      "measure"
     ],
     [
-      0.341,
+      0.171,
       [
         "dollar",
         "loss",
         6.09
       ],
-      "difference"
+      "measure"
     ],
     [
-      0.855,
+      0.538,
       [
         "computer",
         "software",
@@ -2405,16 +2405,16 @@
       "computer"
     ],
     [
-      0.235,
+      0.202,
       [
         "network",
         "hardware",
         8.31
       ],
-      "concept"
+      "system"
     ],
     [
-      0.377,
+      0.357,
       [
         "phone",
         "equipment",
@@ -2423,61 +2423,61 @@
       "equipment"
     ],
     [
-      0.092,
+      0.101,
       [
         "equipment",
         "maker",
         5.91
       ],
-      "equipment"
+      "concept"
     ],
     [
-      0.0,
+      0.179,
       [
         "luxury",
         "car",
         6.47
       ],
-      "luxury good"
+      "goods"
     ],
     [
-      0.179,
+      0.149,
       [
         "five",
         "month",
         3.38
       ],
-      "property"
+      "element"
     ],
     [
-      0.0,
+      0.149,
       [
         "report",
         "gain",
         3.63
       ],
-      "gain"
+      "physical quantity"
     ],
     [
-      0.277,
+      0.808,
       [
         "liquid",
         "water",
         7.89
       ],
-      "concept"
+      "liquid"
     ],
     [
-      0.18,
+      0.481,
       [
         "baseball",
         "season",
         5.97
       ],
-      "work"
+      "type of sport"
     ],
     [
-      0.201,
+      0.203,
       [
         "game",
         "victory",
@@ -2486,7 +2486,7 @@
       "occurrence"
     ],
     [
-      0.435,
+      0.279,
       [
         "game",
         "team",
@@ -2495,16 +2495,16 @@
       "organization"
     ],
     [
-      0.819,
+      0.65,
       [
         "marathon",
         "sprint",
         7.47
       ],
-      "athletics"
+      "sports discipline"
     ],
     [
-      0.251,
+      0.255,
       [
         "game",
         "series",
@@ -2513,7 +2513,7 @@
       "series"
     ],
     [
-      0.201,
+      0.203,
       [
         "game",
         "defeat",
@@ -2522,16 +2522,16 @@
       "occurrence"
     ],
     [
-      0.467,
+      0.169,
       [
         "seven",
         "series",
         3.56
       ],
-      "mathematical object"
+      "mathematical concept"
     ],
     [
-      0.179,
+      0.128,
       [
         "seafood",
         "sea",
@@ -2540,7 +2540,7 @@
       "property"
     ],
     [
-      0.548,
+      0.528,
       [
         "seafood",
         "food",
@@ -2558,7 +2558,7 @@
       "seafood"
     ],
     [
-      0.377,
+      0.359,
       [
         "lobster",
         "food",
@@ -2567,43 +2567,43 @@
       "food"
     ],
     [
-      0.518,
+      0.218,
       [
         "lobster",
         "wine",
         5.7
       ],
-      "chemical actions and uses"
+      "ingredient"
     ],
     [
-      0.126,
+      0.255,
       [
         "food",
         "preparation",
         6.22
       ],
-      "Wikimedia disambiguation page"
+      "activity"
     ],
     [
-      0.109,
+      0.17,
       [
         "video",
         "archive",
         6.34
       ],
-      "condition"
+      "series"
     ],
     [
-      0.077,
+      0.203,
       [
         "start",
         "year",
         4.06
       ],
-      "occurrence"
+      "temporal entity"
     ],
     [
-      0.251,
+      0.253,
       [
         "start",
         "match",
@@ -2612,7 +2612,7 @@
       "occurrence"
     ],
     [
-      0.649,
+      0.658,
       [
         "game",
         "round",
@@ -2621,34 +2621,34 @@
       "sports festival"
     ],
     [
-      0.327,
+      0.426,
       [
         "boxing",
         "round",
         7.61
       ],
-      "artificial physical object"
+      "sports discipline"
     ],
     [
-      0.649,
+      0.89,
       [
         "championship",
         "tournament",
         8.36
       ],
-      "sports festival"
+      "championship"
     ],
     [
-      0.203,
+      0.225,
       [
         "line",
         "insurance",
         2.69
       ],
-      "concept"
+      "economic branch"
     ],
     [
-      0.461,
+      0.281,
       [
         "day",
         "summer",
@@ -2657,43 +2657,43 @@
       "time interval"
     ],
     [
-      0.16,
+      0.169,
       [
         "summer",
         "drought",
         7.16
       ],
-      "property"
+      "concept"
     ],
     [
-      0.145,
+      0.169,
       [
         "summer",
         "nature",
         5.63
       ],
-      "property"
+      "phenomenon"
     ],
     [
-      0.844,
+      0.787,
       [
         "day",
         "dawn",
         7.53
       ],
-      "time of the day"
+      "day"
     ],
     [
-      0.144,
+      0.167,
       [
         "nature",
         "environment",
         8.31
       ],
-      "abstract object"
+      "entity"
     ],
     [
-      0.112,
+      0.128,
       [
         "environment",
         "ecology",
@@ -2702,34 +2702,34 @@
       "knowledge"
     ],
     [
-      0.156,
+      0.183,
       [
         "nature",
         "man",
         6.25
       ],
-      "abstract object"
+      "Universe"
     ],
     [
-      0.895,
+      0.89,
       [
         "man",
         "woman",
         8.3
       ],
-      "male"
+      "gender identity"
     ],
     [
-      0.233,
+      0.174,
       [
         "man",
         "governor",
         5.25
       ],
-      "juridical person"
+      "role"
     ],
     [
-      0.966,
+      0.967,
       [
         "murder",
         "manslaughter",
@@ -2738,7 +2738,7 @@
       "deliberate murder"
     ],
     [
-      0.703,
+      0.668,
       [
         "soap",
         "opera",
@@ -2747,79 +2747,79 @@
       "theatrical genre"
     ],
     [
-      0.665,
+      0.269,
       [
         "opera",
         "performance",
         6.88
       ],
-      "performance artwork"
+      "work of art"
     ],
     [
-      0.163,
+      0.204,
       [
         "life",
         "lesson",
         5.94
       ],
-      "condition"
+      "biological process"
     ],
     [
-      0.203,
+      0.255,
       [
         "focus",
         "life",
         4.06
       ],
-      "concept"
+      "property"
     ],
     [
-      0.312,
+      0.205,
       [
         "production",
         "crew",
         6.25
       ],
-      "term"
+      "activity"
     ],
     [
-      0.113,
+      0.225,
       [
         "television",
         "film",
         7.72
       ],
-      "concept"
+      "electronic machine"
     ],
     [
-      0.17,
+      0.143,
       [
         "lover",
         "quarrel",
         6.19
       ],
-      "human"
+      "entity"
     ],
     [
-      0.197,
+      0.208,
       [
         "viewer",
         "serial",
         2.97
       ],
-      "person"
+      "agent"
     ],
     [
-      0.179,
+      0.202,
       [
         "possibility",
         "girl",
         1.94
       ],
-      "property"
+      "quality"
     ],
     [
-      0.18,
+      0.202,
       [
         "population",
         "development",
@@ -2828,7 +2828,7 @@
       "concept"
     ],
     [
-      0.338,
+      0.253,
       [
         "morality",
         "importance",
@@ -2837,7 +2837,7 @@
       "concept"
     ],
     [
-      0.133,
+      0.169,
       [
         "morality",
         "marriage",
@@ -2846,61 +2846,61 @@
       "concept"
     ],
     [
-      0.892,
+      0.822,
       [
         "Mexico",
         "Brazil",
         7.44
       ],
-      "sovereign state"
+      "country"
     ],
     [
-      0.18,
+      0.202,
       [
         "gender",
         "equality",
         6.41
       ],
-      "quality"
+      "concept"
     ],
     [
-      0.091,
+      0.202,
       [
         "change",
         "attitude",
         5.44
       ],
-      "occurrence"
+      "philosophical concept"
     ],
     [
-      0.084,
+      0.169,
       [
         "family",
         "planning",
         6.25
       ],
-      "planning"
+      "group"
     ],
     [
-      0.488,
+      0.202,
       [
         "opera",
         "industry",
         2.63
       ],
-      "economic branch"
+      "concept"
     ],
     [
-      0.098,
+      0.171,
       [
         "sugar",
         "approach",
         0.88
       ],
-      "property"
+      "action"
     ],
     [
-      0.479,
+      0.281,
       [
         "practice",
         "institution",
@@ -2909,7 +2909,7 @@
       "institution"
     ],
     [
-      0.145,
+      0.169,
       [
         "ministry",
         "culture",
@@ -2918,7 +2918,7 @@
       "concept"
     ],
     [
-      0.793,
+      0.798,
       [
         "problem",
         "challenge",
@@ -2927,16 +2927,16 @@
       "task"
     ],
     [
-      0.145,
+      0.167,
       [
         "size",
         "prominence",
         5.31
       ],
-      "concept"
+      "entity"
     ],
     [
-      0.848,
+      0.902,
       [
         "country",
         "citizen",
@@ -2945,112 +2945,112 @@
       "citizen"
     ],
     [
-      0.133,
+      0.169,
       [
         "planet",
         "people",
         5.75
       ],
-      "concept"
+      "class"
     ],
     [
-      0.277,
+      0.202,
       [
         "development",
         "issue",
         3.97
       ],
-      "quality"
+      "concept"
     ],
     [
-      0.235,
+      0.255,
       [
         "experience",
         "music",
         3.47
       ],
-      "quality"
+      "knowledge"
     ],
     [
-      0.338,
+      0.255,
       [
         "music",
         "project",
         3.63
       ],
-      "concept"
+      "activity"
     ],
     [
-      0.214,
+      0.357,
       [
         "glass",
         "metal",
         5.56
       ],
-      "physical property"
+      "base material"
     ],
     [
-      0.203,
+      0.357,
       [
         "aluminum",
         "metal",
         7.83
       ],
-      "concept"
+      "base material"
     ],
     [
-      0.233,
+      0.202,
       [
         "chance",
         "credibility",
         3.88
       ],
-      "property"
+      "quality"
     ],
     [
-      0.147,
+      0.252,
       [
         "exhibit",
         "memorabilia",
         5.31
       ],
-      "object"
+      "physical object"
     ],
     [
-      0.103,
+      0.127,
       [
         "concert",
         "virtuoso",
         6.81
       ],
-      "concrete object"
+      "first-order metaclass"
     ],
     [
-      0.883,
+      0.695,
       [
         "rock",
         "jazz",
         7.59
       ],
-      "popular music"
+      "music genre"
     ],
     [
-      0.253,
+      0.211,
       [
         "museum",
         "theater",
         7.19
       ],
-      "geographical object"
+      "location"
     ],
     [
-      0.251,
+      0.268,
       [
         "observation",
         "architecture",
         4.38
       ],
-      "activity"
+      "industry"
     ],
     [
       1.0,
@@ -3062,52 +3062,52 @@
       "Universe"
     ],
     [
-      0.101,
+      0.169,
       [
         "preservation",
         "world",
         6.19
       ],
-      "behavior"
+      "philosophical concept"
     ],
     [
-      0.071,
+      0.112,
       [
         "admission",
         "ticket",
         7.69
       ],
-      "legal term"
+      "concept"
     ],
     [
-      0.18,
+      0.924,
       [
         "shower",
         "thunderstorm",
         6.31
       ],
-      "capability"
+      "rain"
     ],
     [
-      0.161,
+      0.738,
       [
         "shower",
         "flood",
         6.03
       ],
-      "capability"
+      "natural phenomenon"
     ],
     [
-      0.101,
+      0.169,
       [
         "weather",
         "forecast",
         8.34
       ],
-      "Wikimedia disambiguation page"
+      "state"
     ],
     [
-      0.338,
+      0.253,
       [
         "disaster",
         "area",
@@ -3116,7 +3116,7 @@
       "concept"
     ],
     [
-      0.548,
+      0.78,
       [
         "governor",
         "office",
@@ -3125,13 +3125,13 @@
       "position"
     ],
     [
-      0.141,
+      0.171,
       [
         "architecture",
         "century",
         3.78
       ],
-      "work"
+      "academic discipline"
     ]
   ]
 }

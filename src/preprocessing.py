@@ -1,6 +1,6 @@
 import json
 from connection import convert_dbp_wikid_ids
-from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
 def save_dataset(data, name, database="wikidata"):
         with open("data/%s/%s.json" % (database, name), "w+") as f:
@@ -8,7 +8,7 @@ def save_dataset(data, name, database="wikidata"):
 
 
 def convert_dataset_dbp2wikidata(dataset_name):
-    con, cc, text = get_ideas_in_format(dataset_name)
+    con, cc, text = get_ideas_in_format(dataset_name, database="dbpedia")
     con_wiki = convert_dbp_wikid_ids(con)
     dbp2wiki = dict(zip(con, con_wiki))
     #cc_wiki = [[] for arr in cc]
@@ -55,16 +55,22 @@ def get_concept_set(file_array, text_prop, dbp_link_prop, c_value, *concept_prop
                                  ], ideas))
 
     concepts = list(set([y["id"] for x in concept_per_idea for y in x]))
-    return (concepts, concept_per_idea, text_of_ideas)
+    return concepts, concept_per_idea, text_of_ideas
 
 
 def get_ideas_in_format(dataset="gold", database="wikidata"):
+    """ 
+    args:
+    dataset: gold, ac1, noun_rg, noun_mc, noun_ws353, noun_ws353_sim, noun_simlex, SmartTextile, MTurk, environment
+    kwargs:
+    database: wikidata, dbpedia, babelnet 
+    """
     if(database == "wikidata"): 
         with open('data/%s/%s.json' % (database, dataset), 'r') as f:
             return get_concept_set(json.load(f), "text", "wikidata_id", "value", "concepts")
     elif(database == "babelnet"):
-        with open('data/STS.input.MSRvid.json', 'r') as f:
-            return get_concept_set(json.load(f), "text", "BabelNetURL", "value", "concepts")
+        with open('data/%s.json'% dataset, 'r') as f:
+            return get_concept_set(json.load(f), "text", "babelSynsetID", "value", "concepts")
     elif(dataset=="gold"):
         with open('data/cscw19-1-goldstandard.json', 'r') as f:
             return get_concept_set(json.load(f), "text", "resource", "text", "concepts", "not_wrong")
@@ -74,4 +80,6 @@ def get_ideas_in_format(dataset="gold", database="wikidata"):
     elif(dataset=="MSRvid"):
         with open('data/STS.input.MSRvid.json', 'r') as f:
             return get_concept_set(json.load(f), "text", "DBpediaURL", "value", "concepts")
-    
+    elif(database== "dbpedia"):
+        with open('data/%s.json' % dataset, 'r') as f:
+            return get_concept_set(json.load(f), "text", "DBpediaURL", "value", "concepts")

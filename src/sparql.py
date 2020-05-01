@@ -194,4 +194,63 @@ def query_dbpedia2babelnet(dbpediaConcept):
     }
     """ % (dbpediaConcept)
 
+def babelnet_paths2top(item): 
+    return """
+    prefix bn: <http://babelnet.org/rdf/s>
+    SELECT ?item ?superItem ?itemLabel ?superItemLabel WHERE {
+    VALUES ?item {
+         %s
+    }
+        ?item a skos:Concept.
+        ?item skos:broader ?superItem.
+        ?superItem a skos:Concept .
+    OPTIONAL {
+        ?item bn-lemon:definition ?d1 .
+        ?d1 lemon:language "EN" .
+        ?d1 bn-lemon:gloss ?itemLabel .
+    }
+    OPTIONAL {
+        ?superItem bn-lemon:definition ?d2 .
+        ?d2 lemon:language "EN" .
+        ?d2 bn-lemon:gloss ?superItemLabel.
+    }
+    }""" % (item)   
 
+def query_babelnet_number_of(item, pre="skos:broader"): 
+    query = """
+    prefix bn: <http://babelnet.org/rdf/s>
+    SELECT (COUNT(*) AS ?count) 
+    WHERE   {?item %s %s.}
+    """ % (pre, item)
+    return query
+
+def query_innovonto_contests():
+    return """
+    PREFIX gi2mo:<http://purl.org/gi2mo/ns#>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX inov:<http://purl.org/innovonto/types/#>
+    PREFIX dcterms: <http://purl.org/dc/terms/>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+    SELECT * WHERE {
+        ?project a gi2mo:IdeaContest;
+            dcterms:title ?titel;
+            dcterms:description ?description;
+            dcterms:created	?created;
+            gi2mo:endDate ?endDate;
+            gi2mo:startDate ?startDate;
+    }
+    """
+
+def query_find_all_contest_ideas(contestURI):
+    return """
+    PREFIX idea: <https://innovonto-core.imp.fu-berlin.de/entities/ideas/>  
+    PREFIX gi2mo: <http://purl.org/gi2mo/ns#>  
+    PREFIX dcterms: <http://purl.org/dc/terms/>
+    PREFIX inov:<http://purl.org/innovonto/types/#>
+    
+    DESCRIBE ?idea ?concept WHERE {
+        ?idea a gi2mo:Idea.
+        ?idea gi2mo:hasIdeaContest <%s>.
+        ?idea inov:concept ?concept
+    }""" % contestURI

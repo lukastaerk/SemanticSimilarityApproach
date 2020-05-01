@@ -14,7 +14,7 @@ class DiGraph:
         self._database = database
         self._key2pos = dict()
         self._entity = "Q35120"
-        self._init_concepts = concepts+[self._entity]
+        self._init_concepts = concepts
         self._concepts = []
         self._relatedness = relatedness
         if "graph" in kwargs:
@@ -93,6 +93,8 @@ class DiGraph:
     @functools.lru_cache(1050000)
     def freq_by_value(self, id, value):
         if value == "freq":
+            if id == self._entity:
+                return self.graph.__len__()
             return self.decendants_freq(id)
         if id == self._entity:
             return sum([freq[1] for freq in self.graph.nodes(value)])
@@ -123,14 +125,22 @@ class DiGraph:
             ll = [self.recursively_get_child_nodes(v, depth) for v in self.graph.successors(idv)]
             return [l for sub in ll for l in sub] + [idv]
 
-    def add_edges_for_concept(self, query_str, nxKG):
+    def add_edges_for_concept(self, query_str, nxKG, split_delimiter="/", prefix=""):
         concept_keys = []
-        for r in sparql_request(query_str, self._database):
-            (k1, v1, k2, v2, pre) = (r["item"]["value"].split("/")[-1],
-                                r["itemLabel"]["value"],
-                                r["superItem"]["value"].split("/")[-1],
-                                r["superItemLabel"]["value"],
-                                r["pre"]["value"].split("/")[-1])
+        pre = "is-a"
+        v1, v2 = "no label", "no label"
+        response = sparql_request(query_str, self._database)
+        if type(response) is not type([]):
+            response = sparql_request(query_str+" ", self._database)
+        for r in response:
+            (k1,k2) = (prefix + r["item"]["value"].split(split_delimiter)[-1],
+                                prefix + r["superItem"]["value"].split(split_delimiter)[-1])
+            if "itemLabel" in r: 
+                v1 = r["itemLabel"]["value"]
+            if "superItemLabel" in r:
+                v2 = r["superItemLabel"]["value"]
+            if "pre" in r: 
+                pre = r["pre"]["value"].split("/")[-1]
             if not nxKG.has_node(k1):
                 nxKG.add_node(k1, value=v1)
             if not nxKG.has_node(k2): 
@@ -141,6 +151,8 @@ class DiGraph:
         return concept_keys
 
     def build_nx_graph(self, query = sql.query_ancestors):
+        if self._database == "babelnet":
+            return self.build_nx_graph_babelnet()
         start_t = time.time()
         concepts=self._init_concepts
         
@@ -159,6 +171,8 @@ class DiGraph:
         self.init_key2pos()
         self.write_to_file()
         return print("building the Graph from %s took: %s seconds." % (self._database,(time.time()-start_t)))
+
+    
 
 class DAC(DiGraph):
     def __init__(self, **kwargs):
@@ -181,6 +195,41 @@ class DAC(DiGraph):
     def decendants_of(self, node_id):
         return list(nx.descendants(self.graph, node_id))
 
+class BabelNet_DiGraph(DiGraph):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+
+    def global_secondorder_freq(self, write_value="freq1"):
+        i, num_nodes = 0, self.graph.__len__()
+        for n in self.graph.nodes:
+            i = i+1
+            show_progression(i, num_nodes )
+            try:
+                num1 = sparql_request(sql.query_babelnet_number_of(n))[0]["count"]["value"]
+                self.graph.nodes[n][write_value] = int(num1)
+            except:
+                print("timeout babelnet", n)
+                self.graph.nodes[n][write_value] = 6000000
+        self.write_to_file()
+
+    def build_nx_graph(self):
+        if self._database != "babelnet":
+            return print("Function only for babelnet")
+        start_t = time.time()
+        concepts=self._init_concepts
+        nxKG = nx.DiGraph()
+        i,concepts_len = 0,len(concepts)
+        for con in concepts:
+            keys = [con]
+            i=i+1
+            show_progression(i, concepts_len)
+            while len(keys) > 0: 
+                key = keys.pop()
+                keys += self.add_edges_for_concept(sql.babelnet_paths2top(key), nxKG, split_delimiter="/s", prefix="bn:")
+        self.graph = nxKG
+        self.init_key2pos()
+        self.write_to_file()
+        return print("building the Graph from %s took: %s seconds." % (self._database,(time.time()-start_t)))
 
 
 def remove_backward_edges(di_graph, root_id=entity):
@@ -201,7 +250,7 @@ def make_DAC(di_graph, concepts, root_id=entity):
     #dac.add_edges_from(di_graph.out_edges(root_id, data=True))
     for edgeType in edge_herachy:
         queue = list(concepts)
-        queue.remove(root_id)
+        #queue.remove(root_id)
         past = []
         while len(queue) != 0:
             n2 = queue.pop(0)
@@ -212,7 +261,7 @@ def make_DAC(di_graph, concepts, root_id=entity):
                 if(edgeType=="all_other" and value["value"] in edge_herachy):
                     continue
                 if(not n1 in nx.descendants(dac, n2) and n1 != n2):
-                    dac.add_edge(n1, n2, data=value)
+                    dac.add_edge(n1, n2, value=value["value"])
                     if not n1 in past and not n1 in queue:
                         queue.append(n1)
 

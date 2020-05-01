@@ -26,21 +26,21 @@ class ConceptSimilarity:
 
 
     def similarityMatrix(self, metric="wpath_graph", lcs_pref_value="freq",icfqvalue="freq", k=0.8, **kwargs):
-        self.all_shortest_paths_and_LCS(lcs_pref_value)
+        SIM, LCS =self.all_shortest_paths_and_LCS(lcs_pref_value)
         for e in self.G.graph.nodes:
             self.G.freq_by_value(e, icfqvalue)
 
         total = self.G.freq_by_value(self.entity, icfqvalue)
         vec_func = np.vectorize(lambda x: self.ic(self.G.freq_by_value(self.G.get_key(int(x)),icfqvalue), total))
-        IC = vec_func(self._LCS)
-        similarities = 1/(1+self._SIM * (0.8 ** IC))
+        IC = vec_func(LCS)
+        similarities = 1/(1+SIM * (0.8 ** IC))
         self._similarities = similarities
         return similarities
     
     @functools.lru_cache(maxsize=128)
     def all_shortest_paths_and_LCS(self, lcs_pref_value="shortest_path"):
-        nx.write_gml(self.G.graph, "data/temp_graph")
-        ig = Graph.Read_GML("data/temp_graph")
+        nx.write_gml(self.G.graph, "data/temp_graph.gml")
+        ig = Graph.Read_GML("data/temp_graph.gml")
         dist = np.array(ig.shortest_paths())
         self._dist_top_down = dist
         concept_pos = [self.G.get_position(key) for key in self.G._concepts]

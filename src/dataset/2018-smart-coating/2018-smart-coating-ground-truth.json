@@ -1,0 +1,940 @@
+{
+  "@graph" : [ {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/102",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bush trimmer that shows the desired bush size, the amount you've already trimmed, and how much is remaining for the desired trim. A picture of the bush with progression would be displayed.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Hedge_trimmer", "http://dbpedia.org/resource/Shrub", "http://dbpedia.org/resource/Size", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Quantity", "http://dbpedia.org/resource/Progress_Bar", "http://dbpedia.org/resource/Display_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/104",
+    "@type" : "gi2mo:Idea",
+    "content" : "a touch display on restaurant tables, so you can view menus, coupons and order food at the table without having to call a waiter or go to the register. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Menu", "http://dbpedia.org/resource/Coupon", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Waiting_staff", "http://dbpedia.org/resource/Cash_register" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/109",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen on my cabinet. I could use it to pull up recipes or search for ideas for dinner.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Cabinetry", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Dinner", "http://dbpedia.org/resource/Idea" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/11",
+    "@type" : "gi2mo:Idea",
+    "content" : "Your coffee table is a touch screen tablet ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee_table", "http://dbpedia.org/resource/Tablet_computer", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/115",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would put this coating on my hand, so I can carry it anywhere I go and do stuff I want",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Hand" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/121",
+    "@type" : "gi2mo:Idea",
+    "content" : "i would make an auotcleaning option",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Dry_cleaning" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/126",
+    "@type" : "gi2mo:Idea",
+    "content" : "A door handle that turns on your lights when you open the door at night. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door_handle", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Light", "http://dbpedia.org/resource/Night" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/130",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put on a bicycle so handle so you could touch it for new maps or gps without having to use a phone which could drop.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bicycle", "http://dbpedia.org/resource/Map", "http://dbpedia.org/resource/Global_Positioning_System", "http://dbpedia.org/resource/Smartphone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/131",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on walls in schools to replace chalk boards and make learning more interactive.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/School", "http://dbpedia.org/resource/Blackboard", "http://dbpedia.org/resource/Interactive_Learning" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/133",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can have an athletic shirt sleeve that gives you feedback on your heart rate, perspiration amounts, breathing rate, etc.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Sportswear_(activewear)", "http://dbpedia.org/resource/Feedback", "http://dbpedia.org/resource/Heart_rate", "http://dbpedia.org/resource/Perspiration", "http://dbpedia.org/resource/Respiratory_rate" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/134",
+    "@type" : "gi2mo:Idea",
+    "content" : "It could be used as a wall poster that can display any image you want, even moving images.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Poster", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/137",
+    "@type" : "gi2mo:Idea",
+    "content" : "Applied to car exterior for customizable colors and styles.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Customization", "http://dbpedia.org/resource/Color", "http://dbpedia.org/resource/Automotive_design" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/138",
+    "@type" : "gi2mo:Idea",
+    "content" : "Sports bars tables could become individual televisions. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television_set", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Sport" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/139",
+    "@type" : "gi2mo:Idea",
+    "content" : "Spray on a wall to play videos games.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Video_game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/14",
+    "@type" : "gi2mo:Idea",
+    "content" : "a touchscreen computer desk with windows operating system",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Computer_desk", "http://dbpedia.org/resource/Microsoft_Windows" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/142",
+    "@type" : "gi2mo:Idea",
+    "content" : "A plain clipboard that can be used as a personal tablet.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clipboard", "http://dbpedia.org/resource/Tablet_computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/145",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make a touch mirror that shows you outfits or hair.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Virtual_mirror", "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Hairstyle" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/146",
+    "@type" : "gi2mo:Idea",
+    "content" : "A text-messaging device that sends texts to any other user with it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Text_messaging", "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Plain_text", "http://dbpedia.org/resource/End_user" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/147",
+    "@type" : "gi2mo:Idea",
+    "content" : "A compilation of games that can be used like tic-tac-toe and other simple games with a setting to find each game.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Tic-tac-toe", "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Computer_configuration", "http://dbpedia.org/resource/Game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/148",
+    "@type" : "gi2mo:Idea",
+    "content" : "An alarm system that can only be accessed with your touch and unlocks your house for you.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Security_alarm", "http://dbpedia.org/resource/Fingerprint", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/152",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make a refrigerator have a touch panel to control things in it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Entity" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/154",
+    "@type" : "gi2mo:Idea",
+    "content" : "Can turn an ordinary television into a touch television.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television_set", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/164",
+    "@type" : "gi2mo:Idea",
+    "content" : "can make floors and walls touch with options.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Menu_(computing)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/165",
+    "@type" : "gi2mo:Idea",
+    "content" : "can make toilets touch capable.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Toilet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/167",
+    "@type" : "gi2mo:Idea",
+    "content" : "a drop-down menu I can apply to any program at any time. The menu would contain frequently typed items missed or misunderstood by auto-fill",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Drop-down_list", "http://dbpedia.org/resource/Entity", "http://dbpedia.org/resource/Menu_(computing)", "http://dbpedia.org/resource/Computer_program", "http://dbpedia.org/resource/Autofill" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/168",
+    "@type" : "gi2mo:Idea",
+    "content" : "touch display appliances",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Small_appliance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/169",
+    "@type" : "gi2mo:Idea",
+    "content" : "an eyeglass case that holds multiple pairs of eyeglasses",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Glasses", "http://dbpedia.org/resource/Case_(goods)", "http://dbpedia.org/resource/Glasses" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/17",
+    "@type" : "gi2mo:Idea",
+    "content" : "A pet food distribution center where the animal can tap the screen and receive a treat or meal. Would allow for healthy regulation and training. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Pet_food", "http://dbpedia.org/resource/Distribution_center", "http://dbpedia.org/resource/Animal", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Pet_food", "http://dbpedia.org/resource/Meal", "http://dbpedia.org/resource/Health", "http://dbpedia.org/resource/Animal_training" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/180",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make television remotes more innovative and interactive.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Remote_control" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/183",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put the coating on car tires to display air pressure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Pressure", "http://dbpedia.org/resource/Tire", "http://dbpedia.org/resource/Car" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/189",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn the walls of your house into a virtual paint canvas",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Paint", "http://dbpedia.org/resource/Canvas_(GUI)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/193",
+    "@type" : "gi2mo:Idea",
+    "content" : "Cpat the tops of a table and it could be used for different games. Like board games or pen and paper RPGs.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Board_game", "http://dbpedia.org/resource/Tabletop_role-playing_game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/197",
+    "@type" : "gi2mo:Idea",
+    "content" : "desks could be used for education or to give displays in business.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Business", "http://dbpedia.org/resource/Education", "http://dbpedia.org/resource/Display_advertising" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/2",
+    "@type" : "gi2mo:Idea",
+    "content" : "frosted window",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Frosted_glass", "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/202",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use the kitchen counter in a home to order food items.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Countertop" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/21",
+    "@type" : "gi2mo:Idea",
+    "content" : "A more interactive smartwatch",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Smartwatch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/22",
+    "@type" : "gi2mo:Idea",
+    "content" : "Smart clothes",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/E-textiles" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/223",
+    "@type" : "gi2mo:Idea",
+    "content" : "digital medical personal medical history\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Medical_history", "http://dbpedia.org/resource/Digital_data" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/228",
+    "@type" : "gi2mo:Idea",
+    "content" : "personal holographs",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Holography" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/233",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display window which could control automated blinds and window locks.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Window_blind", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Lock_(security_device)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/236",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bathroom mirror to check the weather before leaving the house.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Virtual_mirror", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/241",
+    "@type" : "gi2mo:Idea",
+    "content" : "Toy that is a like a rubik's cube but the sides are all touch displays.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Toy", "http://dbpedia.org/page/Rubik%27s_Cube", "http://dbpedia.org/resource/Face_(geometry)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/256",
+    "@type" : "gi2mo:Idea",
+    "content" : " A Robot Car That Does The Driving For You",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Autonomous_car" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/261",
+    "@type" : "gi2mo:Idea",
+    "content" : "Flip Flops With Interchangeable, Velcro Straps So You Can Switch Your Look Without Buying Multiple Pairs",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Flip-flops", "http://dbpedia.org/resource/Hook-and-loop_fastener", "http://dbpedia.org/resource/Fashion" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/265",
+    "@type" : "gi2mo:Idea",
+    "content" : "Pizza Box That Separates Into Plates And Stores Leftovers",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Pizza_box", "http://dbpedia.org/resource/Plate", "http://dbpedia.org/resource/Leftovers" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/27",
+    "@type" : "gi2mo:Idea",
+    "content" : "A window where you can control how much light gets in by swiping",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Light", "http://dbpedia.org/resource/Multi-touch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/272",
+    "@type" : "gi2mo:Idea",
+    "content" : "A long armband fitted around the wrist that would act as a display for wearable gadgets.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wristband", "http://dbpedia.org/resource/Wearable_technology", "http://dbpedia.org/resource/Display_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/274",
+    "@type" : "gi2mo:Idea",
+    "content" : "A fish tank with a coating on it that shows the touch display of the temperature so you can adjust it right on the tank.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Aquarium", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Temperature" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/278",
+    "@type" : "gi2mo:Idea",
+    "content" : "A big touch display on your door so that you can open it with a code and not use a key.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Password", "http://dbpedia.org/resource/Key_(lock)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/279",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch display door that has the keypad on a screen in the door.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Keypad", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Door" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/280",
+    "@type" : "gi2mo:Idea",
+    "content" : "A lawn mower with the touch display sprayed on that shows how well the grass is being cut.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Lawn_mower", "http://dbpedia.org/resource/Lawn" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/282",
+    "@type" : "gi2mo:Idea",
+    "content" : "a hand screen where you spay it on your hand and it temporarily acts as a body information device where you see your body temperature along with heart rate and body mass index among other things related to your health\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Hand", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Hand", "http://dbpedia.org/resource/Human_body", "http://dbpedia.org/resource/Information_system", "http://dbpedia.org/resource/Human_body_temperature", "http://dbpedia.org/resource/Heart_rate", "http://dbpedia.org/resource/Body_mass_index", "http://dbpedia.org/resource/Health" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/283",
+    "@type" : "gi2mo:Idea",
+    "content" : "A kitchen counter that could display cooking recipes. You could flip through pages etc and add recipes of your own\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Pagination" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/286",
+    "@type" : "gi2mo:Idea",
+    "content" : "a device where you can spray in side a car dashboard. the dashboard then tells you the mph you are going and other car related information such as temperature\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Dashboard", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Information", "http://dbpedia.org/resource/Miles_per_hour" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/287",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch screen tables in a restaurant where you can order your food and pay.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Food" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/289",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could turn a blank wall into a pc gamers dream monitor and make it so that if you held a special game weapon you could play CoD or that sort of game interactively and make it feel as if you were actually there\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/PC_game", "http://dbpedia.org/resource/Computer_monitor", "http://dbpedia.org/resource/Weapon", "http://dbpedia.org/resource/Call_of_Duty" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/295",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could have a section of the countertop in the kitchen where you could just use your finger to write a grocery list\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shopping_list", "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Finger" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/3",
+    "@type" : "gi2mo:Idea",
+    "content" : "fishtank",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aquarium" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/30",
+    "@type" : "gi2mo:Idea",
+    "content" : "A portable piano",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Digital_piano" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/300",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make your front door (or any door) open-able using various methods from a simple symbol lock system, to a more complex set of button presses. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Keypad", "http://dbpedia.org/resource/Lock_(security_device)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/302",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply it on patio tables for browsing outdoors. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Garden_furniture", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Web_navigation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/304",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to swing sets or play yard equipment for browsing out of doors. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Outdoor_playset", "http://dbpedia.org/resource/Web_navigation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/31",
+    "@type" : "gi2mo:Idea",
+    "content" : "A refrigerator where you can create a shopping list by tapping on products",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Shopping_list", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Product_(business)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/316",
+    "@type" : "gi2mo:Idea",
+    "content" : "Home theatre",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home_cinema" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/32",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make a desk top that was a touch display at work.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Workplace", "http://dbpedia.org/resource/Desktop_computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/322",
+    "@type" : "gi2mo:Idea",
+    "content" : "Wardrobe that tells you how much space is left inside after putting in clothes.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wardrobe", "http://dbpedia.org/resource/Space", "http://dbpedia.org/resource/Clothing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/325",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on your refrigerator to leave notes for people.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Note-taking", "http://dbpedia.org/resource/Person" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/329",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on your purse. You would always have access to a display screen and could take notes where ever you go. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Handbag", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Note-taking" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/330",
+    "@type" : "gi2mo:Idea",
+    "content" : "On the kitchen counter. You could have a section where you could always bring up recipes and instructions. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Recipe" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/336",
+    "@type" : "gi2mo:Idea",
+    "content" : "refrigerator door could have keyboard for adding items to a grocery list",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Virtual_keyboard", "http://dbpedia.org/resource/Shopping_list", "http://dbpedia.org/resource/Entity" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/337",
+    "@type" : "gi2mo:Idea",
+    "content" : "coffee table could have remote control built in",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee_table", "http://dbpedia.org/resource/Remote_control" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/341",
+    "@type" : "gi2mo:Idea",
+    "content" : "If it is not harmful to the skin, this could be applied to one's arm. Then, a person's arm could essentially be a touchpad portal to the internet, without having to use any devices. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Skin", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/Person", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/Touchpad", "http://dbpedia.org/resource/World_Wide_Web", "http://dbpedia.org/resource/Machine" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/343",
+    "@type" : "gi2mo:Idea",
+    "content" : "A temporary multitouch display to extend your screen size while doing a task that needs some extra screen space. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Task_(project_management)", "http://dbpedia.org/resource/Display_size" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/344",
+    "@type" : "gi2mo:Idea",
+    "content" : "It could be applied to the dash of a car. This could eliminate the need for stereo systems or navigation systems in cars. The dash would completely integrate the interface.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Dashboard", "http://dbpedia.org/resource/Automotive_navigation_system", "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Vehicle_audio", "http://dbpedia.org/resource/User_interface" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/345",
+    "@type" : "gi2mo:Idea",
+    "content" : "This could be applied to a wall of a home. This would essentially turn the entire wall into a computer, or TV, screen, eliminating the need for televisions. It would also be invisible when not turned on. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Television_set", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Television_set" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/350",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use the coating on windows and tap on the window to identify people, cars, wildlife, etc.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/People", "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Wilderness" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/351",
+    "@type" : "gi2mo:Idea",
+    "content" : "On the outside of a house, as a video screen for security. People inside could see who is outside and communicate with them through the screen.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Security", "http://dbpedia.org/resource/Screencast", "http://dbpedia.org/resource/People", "http://dbpedia.org/resource/Display_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/352",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display on the door of your fridge, on which you can take notes or see what's nearing the expiry date. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Calendar_date", "http://dbpedia.org/resource/Note-taking" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/354",
+    "@type" : "gi2mo:Idea",
+    "content" : "Coat entire walls for theater movie experiences.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Movie_theater" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/358",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to arms or chairs and couches for convenient access",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Chair", "http://dbpedia.org/resource/Couch", "http://dbpedia.org/resource/Internet_access" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/360",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to walls of home for anywhere access",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Internet_access" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/361",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to desk tops for ease",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/365",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make your keyboard a touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Computer_keyboard", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/366",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make your gaming controller a touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Game_controller" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/369",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display could be added to restaurant tables to make orders, questions and concerns a seamless experience. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Order_(business)", "http://dbpedia.org/resource/Question", "http://dbpedia.org/resource/Experience" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/37",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could add it to a box to keep try of the contents.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Box" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/372",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display could be added to the bathroom shower tile in order to more finely tune the shower water temperature, pressure, spray format etc. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Pressure" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/376",
+    "@type" : "gi2mo:Idea",
+    "content" : "Walls that can be any color or pattern.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Pattern", "http://dbpedia.org/resource/Color" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/378",
+    "@type" : "gi2mo:Idea",
+    "content" : "A auto toilet system can be made out of it for sure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Dry_cleaning", "http://dbpedia.org/resource/Toilet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/380",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use it on magazines to make article information clickable.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Magazine", "http://dbpedia.org/resource/Article_(publishing)", "http://dbpedia.org/resource/Information", "http://dbpedia.org/resource/Clickable" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/381",
+    "@type" : "gi2mo:Idea",
+    "content" : "A auto cleaning vaccum cleaner can be made out of it for sure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Robotic_vacuum_cleaner" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/382",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use it on car paint so you can unlock with your fingerprint or code.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Automotive_paint", "http://dbpedia.org/resource/Password", "http://dbpedia.org/resource/Fingerprint" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/392",
+    "@type" : "gi2mo:Idea",
+    "content" : "kitchen appliances can be more interactive",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home_appliance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/395",
+    "@type" : "gi2mo:Idea",
+    "content" : "super interactive toys",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Smart_toy" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/397",
+    "@type" : "gi2mo:Idea",
+    "content" : "smart homes",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home_automation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/399",
+    "@type" : "gi2mo:Idea",
+    "content" : "clothes can interact with your phone and computer",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Smartphone", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/4",
+    "@type" : "gi2mo:Idea",
+    "content" : "car window",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Car" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/40",
+    "@type" : "gi2mo:Idea",
+    "content" : "touch screen mirror to help you change the lights and see better\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Virtual_mirror", "http://dbpedia.org/resource/Light" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/403",
+    "@type" : "gi2mo:Idea",
+    "content" : "Libraries could have a screen where patrons can look for books.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Library", "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/People", "http://dbpedia.org/resource/Book" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/404",
+    "@type" : "gi2mo:Idea",
+    "content" : "It could be placed on a closet so that you can put items together to make and outfit without having to try everything on. It would show you pictures of the different pieces.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Closet", "http://dbpedia.org/resource/Entity", "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Image" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/407",
+    "@type" : "gi2mo:Idea",
+    "content" : "An entire wall or room could be a touch display. I'm thinking an entire interactive room. A bigger room could potentially become an IMAX movie theater. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/IMAX" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/41",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could use it on all the windows in your home making every window in your home have a different scenery ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Landscape" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/411",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply on a desk and use its surface as a keyboard / input device",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Face_(geometry)", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Virtual_keyboard", "http://dbpedia.org/resource/Input_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/412",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can apply it on your car windscreen and make it like a jet fighter HUD!",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Windshield", "http://dbpedia.org/resource/Head-up_display", "http://dbpedia.org/resource/Fighter_aircraft" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/419",
+    "@type" : "gi2mo:Idea",
+    "content" : "that coating could be used on human body like arm, hand etc",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Human_body", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/Hand" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/42",
+    "@type" : "gi2mo:Idea",
+    "content" : "touchscreen in the bathroom to select water temperature and water pressure in the shower",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Pressure" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/420",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could use the coating on the front of back of books that indicate the page numbers of important passages or when you starting reading the point or it could have a timer that shows each time you starting and stopped reading the book. The coating would allow you to take notes that would always be with the book when you carry it around\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Book_design", "http://dbpedia.org/resource/Note-taking", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Book", "http://dbpedia.org/resource/Timer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/424",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can apply it on a guitar to regulate volume, tone and maybe even sound effects like echo, reverb, etc.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Guitar", "http://dbpedia.org/resource/Loudness", "http://dbpedia.org/resource/Tone_(musical_instrument)", "http://dbpedia.org/resource/Effects_unit", "http://dbpedia.org/resource/Reverberation", "http://dbpedia.org/resource/Echo" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/433",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can leave a note on some money that you are paying someone with about what you would like to tip them like if you are in a restaruant\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Note-taking", "http://dbpedia.org/resource/Money", "http://dbpedia.org/resource/Gratuity", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Person" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/439",
+    "@type" : "gi2mo:Idea",
+    "content" : "Products have any type of glass. That can make the touch display. Actually maximum product have glass types.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Product_(business)", "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/Product_(business)", "http://dbpedia.org/resource/Glass" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/445",
+    "@type" : "gi2mo:Idea",
+    "content" : "Having it over a window in order to change the scenery when you look out the window.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Landscape", "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/450",
+    "@type" : "gi2mo:Idea",
+    "content" : "create a touchscreen microwave. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Microwave" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/454",
+    "@type" : "gi2mo:Idea",
+    "content" : "A tablet to go.  Instead of carrying around a physical tablet, the coating could be carried instead to turn any surface into a touch tablet, like a liquid. It could even use microprocessor and RAM technology within the coating, as well as data storage.  The coating would be in a small container.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Tablet_computer", "http://dbpedia.org/resource/Face_(geometry)", "http://dbpedia.org/resource/Tablet_computer", "http://dbpedia.org/resource/Liquid", "http://dbpedia.org/resource/Data_storage_device", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Microprocessor", "http://dbpedia.org/resource/Random-access_memory", "http://dbpedia.org/resource/Container" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/5",
+    "@type" : "gi2mo:Idea",
+    "content" : "drive-through menu",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Drive-through", "http://dbpedia.org/resource/Menu" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/52",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a mirror to let people view what different outfits or hairstyles or makeup would look like on them",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Virtual_mirror", "http://dbpedia.org/resource/Person", "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Hairstyle", "http://dbpedia.org/resource/Cosmetics" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/54",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a wall to create the world's flattest television",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Flat_panel_display" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/56",
+    "@type" : "gi2mo:Idea",
+    "content" : "On a window to allow you to view a better landscape if you don't like your real view",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Landscape", "http://dbpedia.org/resource/Reality" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/58",
+    "@type" : "gi2mo:Idea",
+    "content" : "On kitchen cabinets and it could display what's inside without opening them",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Kitchen_cabinet", "http://dbpedia.org/resource/Display_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/60",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch screen for certain closets so you dont have to go in and have everything already set up so you can find it with a search function.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Closet", "http://dbpedia.org/resource/Search_box" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/62",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display in the restroom on the wall near the toilet so when you are using the toilet, you can browse the internet,",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Public_toilet", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Toilet", "http://dbpedia.org/resource/Toilet", "http://dbpedia.org/resource/Web_browser" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/66",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen for the bathroom to regulate the water temperature in the shower and also be used as a radio or television.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Radio_receiver", "http://dbpedia.org/resource/Television_set" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/68",
+    "@type" : "gi2mo:Idea",
+    "content" : "Doors that can automatically lock themselves through the use of a touch display. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Remote_keyless_system", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/7",
+    "@type" : "gi2mo:Idea",
+    "content" : "coffee table that allows you to control your TV, music, home automation, etc",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee_table", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Music", "http://dbpedia.org/resource/Home_automation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/79",
+    "@type" : "gi2mo:Idea",
+    "content" : "Refrigerator touchscreen that can adjust the temperature and humidity.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Humidity" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/8",
+    "@type" : "gi2mo:Idea",
+    "content" : "vanity or bathroom mirror that shows news, time, weather, sports",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Lowboy", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Virtual_mirror", "http://dbpedia.org/resource/News", "http://dbpedia.org/resource/Time", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Sport" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/81",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touchscreen food machine that will personalize food options to create.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Food_choice" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/82",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bathroom mirror would be great with a touch display, because as you're getting ready for work, you can catch up on the morning news or get a jumpstart on reading and returning emails.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Virtual_mirror", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Workplace", "http://dbpedia.org/resource/News", "http://dbpedia.org/resource/Breakfast_television", "http://dbpedia.org/resource/Email" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/84",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display would be useful on the door of a refrigerator. It could keep your grocery list, left over dates and expiration dates all in one spot. No more wasting food!",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Shelf_life", "http://dbpedia.org/resource/Shopping_list", "http://dbpedia.org/resource/Calendar_date", "http://dbpedia.org/resource/Food_waste" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/85",
+    "@type" : "gi2mo:Idea",
+    "content" : "I feel like it would be very useful to have all of you car buttons to be coated on to the dashboard.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Car_controls", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Dashboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/95",
+    "@type" : "gi2mo:Idea",
+    "content" : "a touch screen board. You could use it for presentation. You would have to use a special pen made for the screen to write on it. It would be a transparent glass but with touch display innovation.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Interactive_whiteboard", "http://dbpedia.org/resource/Digital_pen", "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/2018-smart-coating/ground-truth/99",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could turn your front yard into any location you want to be or to create a dance floor and have a party ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Front_yard", "http://dbpedia.org/resource/Location_(geography)", "http://dbpedia.org/resource/Performance_surface", "http://dbpedia.org/resource/Party" ]
+    }
+  } ],
+  "@context" : {
+    "rest" : {
+      "@id" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
+      "@type" : "@id"
+    },
+    "first" : {
+      "@id" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
+      "@type" : "@id"
+    },
+    "content" : {
+      "@id" : "http://purl.org/gi2mo/ns#content"
+    },
+    "usedConcepts" : {
+      "@id" : "http://purl.org/innovonto/types#usedConcepts",
+      "@type" : "@id"
+    },
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "gi2mo" : "http://purl.org/gi2mo/ns#",
+    "oig" : "http://purl.org/innovonto/types#"
+  }
+}

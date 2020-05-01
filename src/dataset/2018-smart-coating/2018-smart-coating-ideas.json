@@ -1,0 +1,2978 @@
+{
+  "@graph" : [ {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/1",
+    "@type" : "gi2mo:Idea",
+    "content" : "desktop surface",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Surface_(topology)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/10",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can turn your bedroom wall into a touchscreen TV",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Bedroom", "http://dbpedia.org/resource/Television" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/100",
+    "@type" : "gi2mo:Idea",
+    "content" : "fitting room virtually with a touch display. You could try on shirts virtually and adjust it to your liking with the touch display",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Changing_room", "http://dbpedia.org/resource/Virtual_touch_screen", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Shirt", "http://dbpedia.org/resource/Reciprocal_liking", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/101",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch display on a desk so the mouse and keyboard would be directly on the desk. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Computer_mouse", "http://dbpedia.org/resource/IBM_PC_keyboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/102",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bush trimmer that shows the desired bush size, the amount you've already trimmed, and how much is remaining for the desired trim. A picture of the bush with progression would be displayed.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/String_trimmer", "http://dbpedia.org/resource/Size", "http://dbpedia.org/resource/Quantity", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Desire", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Shrub", "http://dbpedia.org/resource/Multiplexed_display" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/103",
+    "@type" : "gi2mo:Idea",
+    "content" : "A hair dryer that displays how wet you hair still is and how much time is needed for it to dry.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Hair", "http://dbpedia.org/resource/Clothes_dryer", "http://dbpedia.org/resource/Time" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/104",
+    "@type" : "gi2mo:Idea",
+    "content" : "a touch display on restaurant tables, so you can view menus, coupons and order food at the table without having to call a waiter or go to the register. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Menu", "http://dbpedia.org/resource/Waiting_staff", "http://dbpedia.org/resource/Cash_register" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/105",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply it to a wall and be able to control the building",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Building" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/106",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put is on a turtle and be able to have it clean the house",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Turtle", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/107",
+    "@type" : "gi2mo:Idea",
+    "content" : "This would be fantastic for a lot of things. I would love a touch display on my fridge that has the contents that are in it, allows me to meal plan, and tells me what I need. A touch screen on my tv would be awesome too, especially since I use Roku.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Meal", "http://dbpedia.org/resource/Plan", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Roku" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/108",
+    "@type" : "gi2mo:Idea",
+    "content" : "Coat is to the tips of your fingers and be able to interact in virtual reality",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Spoil_tip", "http://dbpedia.org/resource/Finger", "http://dbpedia.org/resource/Reality" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/109",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen on my cabinet. I could use it to pull up recipes or search for ideas for dinner.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Idea", "http://dbpedia.org/resource/Dinner" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/11",
+    "@type" : "gi2mo:Idea",
+    "content" : "Your coffee table is a touch screen tablet ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee_table", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/110",
+    "@type" : "gi2mo:Idea",
+    "content" : "Be able to write on the wall and turn it into a window that can see everything in your town.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Everything", "http://dbpedia.org/resource/Town" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/111",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen on my bookcase. I have a bookcase that is partially enclosed. It would be great to be able to keep track of what books are there and where they are. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bookcase", "http://dbpedia.org/resource/Book" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/112",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen right inside my door that allows me to operate all of the lights, and electronics in my home.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Light", "http://dbpedia.org/resource/Electronics", "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/113",
+    "@type" : "gi2mo:Idea",
+    "content" : "If you could reapply the coating to an actual touch screen and it would create a gravitational vortex that ripped the whole universe asunder as if telling you that you cannot combine what is with what is not",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Folding_screen", "http://dbpedia.org/resource/Vortex", "http://dbpedia.org/resource/Universe", "http://dbpedia.org/resource/Asunder_(American_band)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/114",
+    "@type" : "gi2mo:Idea",
+    "content" : "Imagine a land where if you could touch it it would turn into a substance and that substance would infinitely loop back into a touch screen, an endless recursion where you attempt to escape but you must touch it and it will then force you to be untouched forcing you to touch again. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Land", "http://dbpedia.org/resource/Substance_theory", "http://dbpedia.org/resource/Chicago_Loop", "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Recursion", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Escape_character", "http://dbpedia.org/resource/Italian_language", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/115",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would put this coating on my hand, so I can carry it anywhere I go and do stuff I want",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Hand" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/116",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put this coating on window glasses so that I can change the color of it and make it colorful",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Color" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/117",
+    "@type" : "gi2mo:Idea",
+    "content" : "put this coating on fridge door so that whenever touching I can see what is inside the fridge without opening it",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Door" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/118",
+    "@type" : "gi2mo:Idea",
+    "content" : "With that technology , you could make temp controls bathrooms. You could convert any tv or computer into an interactive device. You could even have interactive menus at movie theaters and restaurants. There are so many applications for this, all appliances could pre made with  or made to be compatible with this coating. You could corner a market.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Device_(Device_album)", "http://dbpedia.org/resource/Menu", "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Theatre", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Application_for_employment", "http://dbpedia.org/resource/Major_appliance", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Financial_market" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/119",
+    "@type" : "gi2mo:Idea",
+    "content" : "a gps tracking device to find it\na vibration system",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Glans_penis", "http://dbpedia.org/resource/Device_(Device_album)", "http://dbpedia.org/resource/Italian_language", "http://dbpedia.org/resource/Vibration", "http://dbpedia.org/resource/System" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/12",
+    "@type" : "gi2mo:Idea",
+    "content" : "A car would be great for this. You could touch your steering wheel and get information on the health of the car, fluid levels, and tire pressure. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Steering_wheel", "http://dbpedia.org/resource/Information", "http://dbpedia.org/resource/Health", "http://dbpedia.org/resource/Fluid", "http://dbpedia.org/resource/Tire", "http://dbpedia.org/resource/Pressure" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/120",
+    "@type" : "gi2mo:Idea",
+    "content" : "listening to music podcasts, radio",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Music", "http://dbpedia.org/resource/Podcast", "http://dbpedia.org/resource/Radio" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/121",
+    "@type" : "gi2mo:Idea",
+    "content" : "i would make an auotcleaning option",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Compound_option" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/122",
+    "@type" : "gi2mo:Idea",
+    "content" : "Refrigerators should have this feature to add products to a shopping list. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Feature_recognition", "http://dbpedia.org/resource/Shopping" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/123",
+    "@type" : "gi2mo:Idea",
+    "content" : "Seats with the feature so you can touch a section and it will adjust accordingly. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Seat", "http://dbpedia.org/resource/Feature_recognition", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/124",
+    "@type" : "gi2mo:Idea",
+    "content" : "Back of a smartphone to add additional shortcuts to your phone without turning on the display. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Smartphone", "http://dbpedia.org/resource/Telephone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/125",
+    "@type" : "gi2mo:Idea",
+    "content" : "Restaurant menu, when you see something you want to order you swipe it and the waiting staff will bring it to your table. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Menu", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Waiting_staff", "http://dbpedia.org/resource/Table_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/126",
+    "@type" : "gi2mo:Idea",
+    "content" : "A door handle that turns on your lights when you open the door at night. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Light", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/127",
+    "@type" : "gi2mo:Idea",
+    "content" : "A wall that will allow children to draw without damaging the wall. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Child" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/128",
+    "@type" : "gi2mo:Idea",
+    "content" : "Cabinets that will show you how many dishes are currently clean ready for use. "
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/129",
+    "@type" : "gi2mo:Idea",
+    "content" : "On tables at restaurants so the menu is always availalbe to view.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Menu" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/13",
+    "@type" : "gi2mo:Idea",
+    "content" : "A fridge with a touchscreen that tells you what groceries you currently have, along with allowing you to make a list for shopping. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Shopping" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/130",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put on a bicycle so handle so you could touch it for new maps or gps without having to use a phone which could drop.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bicycle", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Map", "http://dbpedia.org/resource/Telephone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/131",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on walls in schools to replace chalk boards and make learning more interactive.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/School", "http://dbpedia.org/resource/Chalk" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/132",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on workout clothing to replace cellphones or tracking devices or music devices while exercising.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Physical_exercise", "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Mobile_phone", "http://dbpedia.org/resource/Device_file", "http://dbpedia.org/resource/Music", "http://dbpedia.org/resource/Physical_exercise" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/133",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can have an athletic shirt sleeve that gives you feedback on your heart rate, perspiration amounts, breathing rate, etc.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shirt", "http://dbpedia.org/resource/Sleeve", "http://dbpedia.org/resource/Feedback", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Heart", "http://dbpedia.org/resource/Perspiration", "http://dbpedia.org/resource/Breathing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/134",
+    "@type" : "gi2mo:Idea",
+    "content" : "It could be used as a wall poster that can display any image you want, even moving images.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Poster", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Image" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/135",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can have a beach towel that displays weather information and also provides scenic images to lay on.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Beach", "http://dbpedia.org/resource/Towel", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Image" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/136",
+    "@type" : "gi2mo:Idea",
+    "content" : "It can be applied to a yoga mat to show the exact positions your body should be in for certain poses.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Yoga", "http://dbpedia.org/resource/Mat", "http://dbpedia.org/resource/List_of_human_positions" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/137",
+    "@type" : "gi2mo:Idea",
+    "content" : "Applied to car exterior for customizable colors and styles.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Color" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/138",
+    "@type" : "gi2mo:Idea",
+    "content" : "Sports bars tables could become individual televisions. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bar", "http://dbpedia.org/resource/Television" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/139",
+    "@type" : "gi2mo:Idea",
+    "content" : "Spray on a wall to play videos games.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Video", "http://dbpedia.org/resource/Game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/14",
+    "@type" : "gi2mo:Idea",
+    "content" : "a touchscreen computer desk with windows operating system",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/System" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/140",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make wallpaper in the whole house be a touch screen.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wallpaper", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/141",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make clothing that can react to touch.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clothing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/142",
+    "@type" : "gi2mo:Idea",
+    "content" : "A plain clipboard that can be used as a personal tablet.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clipboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/143",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can make advertisements on the street that are interactive.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Advertising", "http://dbpedia.org/resource/Street" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/144",
+    "@type" : "gi2mo:Idea",
+    "content" : "A desk that can be made into a touch display for your computer.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/145",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make a touch mirror that shows you outfits or hair.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/Hair" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/146",
+    "@type" : "gi2mo:Idea",
+    "content" : "A text-messaging device that sends texts to any other user with it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Text_messaging", "http://dbpedia.org/resource/End_user" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/147",
+    "@type" : "gi2mo:Idea",
+    "content" : "A compilation of games that can be used like tic-tac-toe and other simple games with a setting to find each game.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Tic-tac-toe", "http://dbpedia.org/resource/Game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/148",
+    "@type" : "gi2mo:Idea",
+    "content" : "An alarm system that can only be accessed with your touch and unlocks your house for you.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Alarm_device", "http://dbpedia.org/resource/System", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/149",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could turn an ordinary laptop or desktop pc into a touch computer.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Laptop", "http://dbpedia.org/resource/Desktop_computer", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/15",
+    "@type" : "gi2mo:Idea",
+    "content" : "A desk with a touch screen over it. You could use it to send email and do work without the clutter of a computer or tablet. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Email", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/150",
+    "@type" : "gi2mo:Idea",
+    "content" : "A mirror that can magnify on touch.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/151",
+    "@type" : "gi2mo:Idea",
+    "content" : "A counter-top in your kitchen that serves as a notebook for your recipes.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Notebook", "http://dbpedia.org/resource/Recipe" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/152",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make a refrigerator have a touch panel to control things in it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Distribution_board" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/153",
+    "@type" : "gi2mo:Idea",
+    "content" : "A kid's drawing board like on a wall so they can paint and play with it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Drawing_board", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/They" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/154",
+    "@type" : "gi2mo:Idea",
+    "content" : "Can turn an ordinary television into a touch television.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/155",
+    "@type" : "gi2mo:Idea",
+    "content" : "A white board that can be reset with a touch right off the surface.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Surface_area" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/156",
+    "@type" : "gi2mo:Idea",
+    "content" : "Putting one on a treadmill so you can have something to do when exercising.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Treadmill", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/157",
+    "@type" : "gi2mo:Idea",
+    "content" : "Can turn a stove into a touch stove.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Stove", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/158",
+    "@type" : "gi2mo:Idea",
+    "content" : "A table covered so you can touch remote.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/159",
+    "@type" : "gi2mo:Idea",
+    "content" : "Can turn a blackboard or a map into touch objects controlling them.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Blackboard", "http://dbpedia.org/resource/Map", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/16",
+    "@type" : "gi2mo:Idea",
+    "content" : "School books with a touchscreen built in, for notes and homework. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Textbook", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Homework" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/160",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make it so each board in a certain area will all display the same thing so you can all leave each other notes.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Area", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/161",
+    "@type" : "gi2mo:Idea",
+    "content" : "Connecting it to your phone so you can upload pictures to it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Telephone", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Image" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/162",
+    "@type" : "gi2mo:Idea",
+    "content" : "can turn vending machines into touch machines.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/163",
+    "@type" : "gi2mo:Idea",
+    "content" : "A painting that can change and has a lot of samples on it and you can hang it on your wall.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Painting", "http://dbpedia.org/resource/Product_sample", "http://dbpedia.org/resource/Wall" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/164",
+    "@type" : "gi2mo:Idea",
+    "content" : "can make floors and walls touch with options.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/Wall" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/165",
+    "@type" : "gi2mo:Idea",
+    "content" : "can make toilets touch capable.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toilet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/166",
+    "@type" : "gi2mo:Idea",
+    "content" : "my idea is for a truly indestructible dog toy that has a squeaker inside.  the toy needs to be flexible enough to make the squeaker work, but not so pliable that it can be easily chewed",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toy", "http://dbpedia.org/resource/Mastication" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/167",
+    "@type" : "gi2mo:Idea",
+    "content" : "a drop-down menu I can apply to any program at any time. The menu would contain frequently typed items missed or misunderstood by auto-fill",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Drop-down_list", "http://dbpedia.org/resource/Time", "http://dbpedia.org/resource/Digital_Item", "http://dbpedia.org/resource/Autofill" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/168",
+    "@type" : "gi2mo:Idea",
+    "content" : "touch display appliances",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/Home_appliance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/169",
+    "@type" : "gi2mo:Idea",
+    "content" : "an eyeglass case that holds multiple pairs of eyeglasses",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Glasses", "http://dbpedia.org/resource/Glasses" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/17",
+    "@type" : "gi2mo:Idea",
+    "content" : "A pet food distribution center where the animal can tap the screen and receive a treat or meal. Would allow for healthy regulation and training. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Pet", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Animal", "http://dbpedia.org/resource/Meal", "http://dbpedia.org/resource/Regulation", "http://dbpedia.org/resource/Training" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/170",
+    "@type" : "gi2mo:Idea",
+    "content" : "smart home control system on the wall",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Automatic_control", "http://dbpedia.org/resource/System", "http://dbpedia.org/resource/Wall" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/171",
+    "@type" : "gi2mo:Idea",
+    "content" : "an expandable keyboard so i can adjust the spacing of the keys to fit my own hands",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/IBM_PC_keyboard", "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Computer_keyboard", "http://dbpedia.org/resource/Hand" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/172",
+    "@type" : "gi2mo:Idea",
+    "content" : "recipes on the counter",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Countertop" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/173",
+    "@type" : "gi2mo:Idea",
+    "content" : "car maintenance log in the garage",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Auto_maintenance", "http://dbpedia.org/resource/Logfile", "http://dbpedia.org/resource/Garage_(residential)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/174",
+    "@type" : "gi2mo:Idea",
+    "content" : "meeting scheduler next to conference room",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Meeting", "http://dbpedia.org/resource/Schedule", "http://dbpedia.org/resource/Convention_(meeting)", "http://dbpedia.org/resource/Room" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/175",
+    "@type" : "gi2mo:Idea",
+    "content" : "Display on car door to unlock Display on windshield for speed, temperature Display on clothes to change size, color",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/SIM_lock", "http://dbpedia.org/resource/Windshield", "http://dbpedia.org/resource/Speed", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Size", "http://dbpedia.org/resource/Color" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/176",
+    "@type" : "gi2mo:Idea",
+    "content" : "Display on stove-top to tell you when food is done\nDisplay on floors to tell you when to clean\nDisplay on shoes to tie laces\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/Shoe", "http://dbpedia.org/resource/Lace" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/177",
+    "@type" : "gi2mo:Idea",
+    "content" : "Display on the window that can change to be tinted Display on light switch for luminosity",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Switch", "http://dbpedia.org/resource/Luminosity_function" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/178",
+    "@type" : "gi2mo:Idea",
+    "content" : "Display to rearrange furniture in your home without moving it yourself display on furniture to change color, size, shape display on coffee-table for coaster like protection, news",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Furniture", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Reflexive_pronoun", "http://dbpedia.org/resource/Color", "http://dbpedia.org/resource/Size", "http://dbpedia.org/resource/Shape", "http://dbpedia.org/resource/Beverage_coaster", "http://dbpedia.org/resource/Fire_protection", "http://dbpedia.org/resource/News" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/179",
+    "@type" : "gi2mo:Idea",
+    "content" : "Check-in screens outside of restaurants ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/GNU_Screen", "http://dbpedia.org/resource/Restaurant" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/18",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can have a touch screen mirror that gives you recommended fashion styles ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Fashion" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/180",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make television remotes more innovative and interactive.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Remote_control" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/181",
+    "@type" : "gi2mo:Idea",
+    "content" : "Car door handles would be touchscreen and have the ability to read fingerprints.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Fingerprint" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/182",
+    "@type" : "gi2mo:Idea",
+    "content" : "Light switches",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Switch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/183",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put the coating on car tires to display air pressure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Tire", "http://dbpedia.org/resource/Pressure" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/185",
+    "@type" : "gi2mo:Idea",
+    "content" : "A giant dome to view larger movies and other displays.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Dome", "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/187",
+    "@type" : "gi2mo:Idea",
+    "content" : "A T.V. display that you can use as a tablet.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/188",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could coat every inch of your walls with it in your house and with a smart camera following your physical movements and eye movement you could have a display in front of them at all times that they could interact with.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Inch", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Camera", "http://dbpedia.org/resource/Eye", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/189",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn the walls of your house into a virtual paint canvas",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Paint", "http://dbpedia.org/resource/Canvas" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/19",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn a wall into a touchscreen for games. It could be interactive and educational, perfect for home or school. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Interactive_media", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/School" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/190",
+    "@type" : "gi2mo:Idea",
+    "content" : "Used on the seats on planes, buses, and other commecial vehicles to entertain passengers. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Seat", "http://dbpedia.org/resource/Airplane", "http://dbpedia.org/resource/Bus", "http://dbpedia.org/resource/Vehicle", "http://dbpedia.org/resource/Passenger" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/191",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn the handle in the shower into a tablet for water settings based on your body temperature.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Tablet_computer", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Human_body", "http://dbpedia.org/resource/Temperature" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/192",
+    "@type" : "gi2mo:Idea",
+    "content" : "Cover the interior of autonomous vehicles with it as a secondary control system, in case the autonomous system fails.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Vehicle", "http://dbpedia.org/resource/Automatic_control", "http://dbpedia.org/resource/System", "http://dbpedia.org/resource/Best,_worst_and_average_case" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/193",
+    "@type" : "gi2mo:Idea",
+    "content" : "Cpat the tops of a table and it could be used for different games. Like board games or pen and paper RPGs.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Pen", "http://dbpedia.org/resource/Paper", "http://dbpedia.org/resource/Role-playing_game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/194",
+    "@type" : "gi2mo:Idea",
+    "content" : "So I'm thinking about creating a Desk with a touch display, where you can control different compartments of the desk with the touch screen. For example, if you wanted to open the bottom right drawer and have the desk give you all the documents in there, you can use the touch screen to have it put it in your hand.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Drawer_(furniture)", "http://dbpedia.org/resource/Document", "http://dbpedia.org/resource/Hand" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/195",
+    "@type" : "gi2mo:Idea",
+    "content" : "To curb the amount of graffiti in cities, turn the facade of buildings into virtual art galleries.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Quantity", "http://dbpedia.org/resource/Graffiti", "http://dbpedia.org/resource/City", "http://dbpedia.org/resource/Facade", "http://dbpedia.org/resource/Building", "http://dbpedia.org/resource/Art" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/196",
+    "@type" : "gi2mo:Idea",
+    "content" : "I mean, you could put it everywhere! You could turn all surfaces into a touch computer. The world could be like the Minority Report!",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Surface_area", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/World", "http://dbpedia.org/resource/Minority_Report_(film)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/197",
+    "@type" : "gi2mo:Idea",
+    "content" : "desks could be used for education or to give displays in business.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Education", "http://dbpedia.org/resource/Business" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/198",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn desks in schools into virtual notebooks and a way for children to respond to answers posed by teachers.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Notebook", "http://dbpedia.org/resource/Child", "http://dbpedia.org/resource/Answer", "http://dbpedia.org/resource/Teacher" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/199",
+    "@type" : "gi2mo:Idea",
+    "content" : "sync any device with analog controls to the screens input. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Synchronization", "http://dbpedia.org/resource/Analog_Devices", "http://dbpedia.org/resource/Input/output" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/2",
+    "@type" : "gi2mo:Idea",
+    "content" : "frosted window",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/20",
+    "@type" : "gi2mo:Idea",
+    "content" : "Replace whiteboards and chalkboards in schools with this technology. Teachers could use it for lessons and make it interactive for the students.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Whiteboard", "http://dbpedia.org/resource/Blackboard", "http://dbpedia.org/resource/School", "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/Teacher", "http://dbpedia.org/resource/Lesson", "http://dbpedia.org/resource/Student" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/200",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn the entrances of sports stadiums into fingerprint required areas.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Sport", "http://dbpedia.org/resource/Stadium", "http://dbpedia.org/resource/Fingerprint" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/201",
+    "@type" : "gi2mo:Idea",
+    "content" : "a printer that works by touchscreen and can make any product instantly.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Printer_(computing)", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/202",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use the kitchen counter in a home to order food items.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Food" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/203",
+    "@type" : "gi2mo:Idea",
+    "content" : "making all walls touchscreen so you can call or text someone without a phone",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Telephone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/204",
+    "@type" : "gi2mo:Idea",
+    "content" : "A microwave or fridge that will make what ever food you want by simply touching it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Microwave", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/205",
+    "@type" : "gi2mo:Idea",
+    "content" : "Interactive picture that would display art from a particular artist, say a picture that displays Dali.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Art", "http://dbpedia.org/resource/Artist" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/206",
+    "@type" : "gi2mo:Idea",
+    "content" : "It can be used on the refrigerator to keep track of what is in and to list things that need to be purchased or purchase thing as needed.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/It_(pronoun)", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Purchasing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/207",
+    "@type" : "gi2mo:Idea",
+    "content" : "Spray the coating on the bathroom wall to adjust the water temperature and water pressure and to put music, podcast, news, or audiobooks to listen while you shower.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Pressure", "http://dbpedia.org/resource/Music", "http://dbpedia.org/resource/Podcast", "http://dbpedia.org/resource/News", "http://dbpedia.org/resource/Audiobook" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/208",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can use the area on your desk where the keyboard goes and instead of the keyboard, the area itself can become a touch screen keyboard.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Area", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/IBM_PC_keyboard", "http://dbpedia.org/resource/Area", "http://dbpedia.org/resource/Reflexive_pronoun", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/209",
+    "@type" : "gi2mo:Idea",
+    "content" : "Bathroom doors that can tell you if they're occupied",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/They" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/21",
+    "@type" : "gi2mo:Idea",
+    "content" : "A more interactive smartwatch",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Smartwatch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/210",
+    "@type" : "gi2mo:Idea",
+    "content" : "A wall can become a new smart tv or touch capable monitor, you can basically have movie theater screen in your house. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Computer_monitor", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Projection_screen", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/211",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn anything into a remote control",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Automatic_control" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/212",
+    "@type" : "gi2mo:Idea",
+    "content" : "A door can now have a touch screen lock instead of an actual lock to make the door more secure.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Lock_screen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/213",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can change the temp on your old dumb fridge more easily without having to open the door at all.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/TEMP_(meteorology)", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Door" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/214",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make a keyboard on your desk surface",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Computer_keyboard", "http://dbpedia.org/resource/Desk" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/215",
+    "@type" : "gi2mo:Idea",
+    "content" : "two sided smart phone",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/2_(number)", "http://dbpedia.org/resource/Telephone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/216",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can use a touch display on your wall to watch surveillance cameras and control them.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Surveillance", "http://dbpedia.org/resource/Camera" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/217",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put on a shirt so you can change the graphic on it, or even have moving pictures playing",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shirt", "http://dbpedia.org/resource/Image" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/218",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can put on the backside of your phone to make a double screen phone and very unwieldy to hold. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Frontside_and_backside", "http://dbpedia.org/resource/Telephone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/219",
+    "@type" : "gi2mo:Idea",
+    "content" : "On the steering wheel face, for things like song changing, gps",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Song" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/22",
+    "@type" : "gi2mo:Idea",
+    "content" : "Smart clothes",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clothing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/220",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can people turn the floor in your workout spot into a display that foresees all the activities you are doing and calculate calories.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/People", "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/Physical_exercise", "http://dbpedia.org/resource/Electronic_visual_display", "http://dbpedia.org/resource/Calorie" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/221",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use the display as a scanner to see what types of insects are entering your home.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Display_device", "http://dbpedia.org/resource/Image_scanner", "http://dbpedia.org/resource/Data_type", "http://dbpedia.org/resource/Insect", "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/222",
+    "@type" : "gi2mo:Idea",
+    "content" : "instant gps\n"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/223",
+    "@type" : "gi2mo:Idea",
+    "content" : "digital medical personal medical history\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/History" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/224",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen counter-top where you can look up recipes and watch cooking tutorials.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Tutorial" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/225",
+    "@type" : "gi2mo:Idea",
+    "content" : "computerized work desk\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Work_(project_management)", "http://dbpedia.org/resource/Desk" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/226",
+    "@type" : "gi2mo:Idea",
+    "content" : "health monitor",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Health", "http://dbpedia.org/resource/Computer_monitor" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/227",
+    "@type" : "gi2mo:Idea",
+    "content" : "A teddy bear for toddlers that helped them tap what they wanted to say before they have the ability to speak. You could have pictures of objects.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Teddy_Ruxpin", "http://dbpedia.org/resource/Bear", "http://dbpedia.org/resource/Toddler", "http://dbpedia.org/resource/They", "http://dbpedia.org/resource/Talking_animal", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Object_(image_processing)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/228",
+    "@type" : "gi2mo:Idea",
+    "content" : "personal holographs",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Holograph" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/229",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display shower door, where one could turn on and adjust the water, change lighting, and even control music.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Lighting", "http://dbpedia.org/resource/Music" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/23",
+    "@type" : "gi2mo:Idea",
+    "content" : "Interactive tables",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/230",
+    "@type" : "gi2mo:Idea",
+    "content" : "digital window for basement or windowless areas",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Basement", "http://dbpedia.org/resource/Area" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/231",
+    "@type" : "gi2mo:Idea",
+    "content" : "On the outside of headphones to increase the volume.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Headphones" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/232",
+    "@type" : "gi2mo:Idea",
+    "content" : "digital ceiling to show stars or other destinations ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Ceiling", "http://dbpedia.org/resource/Star" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/233",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display window which could control automated blinds and window locks.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/234",
+    "@type" : "gi2mo:Idea",
+    "content" : "on a shower head for the temperature.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Pressure_head", "http://dbpedia.org/resource/Temperature" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/235",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display microwave.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Microwave" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/236",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bathroom mirror to check the weather before leaving the house.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/237",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display mattress that could control firmness.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Mattress" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/24",
+    "@type" : "gi2mo:Idea",
+    "content" : "Full room displays",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Room" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/240",
+    "@type" : "gi2mo:Idea",
+    "content" : "City operated location service a person could use to find the right location by spraying various areas around a city.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/City", "http://dbpedia.org/resource/Location_(geography)", "http://dbpedia.org/resource/Public_service", "http://dbpedia.org/resource/Person", "http://dbpedia.org/resource/Area" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/241",
+    "@type" : "gi2mo:Idea",
+    "content" : "Toy that is a like a rubik's cube but the sides are all touch displays.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toy", "http://dbpedia.org/resource/Rubik's_Cube", "http://dbpedia.org/resource/Cube", "http://dbpedia.org/resource/Cube" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/242",
+    "@type" : "gi2mo:Idea",
+    "content" : "Glasses you could touch to adjust light blocking abilities.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/243",
+    "@type" : "gi2mo:Idea",
+    "content" : "Captured on film: the moment Prince Charles turned on Diana forever",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Image_moment", "http://dbpedia.org/resource/DIANA_(intermediate_language)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/244",
+    "@type" : "gi2mo:Idea",
+    "content" : "Australian golfer Jarrod Lyle dies after long battle with cancer",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Jarrod_Lyle" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/245",
+    "@type" : "gi2mo:Idea",
+    "content" : "‘New woman’: Brynne Edelsten's epic transformation photo",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Brynne_Edelsten", "http://dbpedia.org/resource/EPICS", "http://dbpedia.org/resource/Chemical_transformation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/246",
+    "@type" : "gi2mo:Idea",
+    "content" : "Edwina Bartholomew's Drought Diary",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Diary" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/247",
+    "@type" : "gi2mo:Idea",
+    "content" : "Sam and Tara ‘violence’ scandal: The shocking latest chapter",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Sam_&_Max", "http://dbpedia.org/resource/Violence" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/248",
+    "@type" : "gi2mo:Idea",
+    "content" : "The Wiggles Emma Watkins announces exciting news"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/249",
+    "@type" : "gi2mo:Idea",
+    "content" : "Stylish Princess Mary stuns at fashion show"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/25",
+    "@type" : "gi2mo:Idea",
+    "content" : "A car dashboard that you can control all of your cars settings from",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Dashboard", "http://dbpedia.org/resource/Car" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/250",
+    "@type" : "gi2mo:Idea",
+    "content" : "Hamish and Andy’s outrageous new revelation about ‘appendicitis faker’ ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Faker_(band)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/251",
+    "@type" : "gi2mo:Idea",
+    "content" : "Captured on film: the moment Prince Charles turned on Diana forever",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/First_moment_of_area", "http://dbpedia.org/resource/Diana,_Princess_of_Wales" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/252",
+    "@type" : "gi2mo:Idea",
+    "content" : "Australian golfer Jarrod Lyle dies after long battle with cancer",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Golf" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/253",
+    "@type" : "gi2mo:Idea",
+    "content" : "https://www.newidea.com.au/the-block-courtney-and-hans-quit"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/254",
+    "@type" : "gi2mo:Idea",
+    "content" : " Lamp That Can Read Your Mind - It Turns The Color You're Thinking About",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Davy_lamp" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/255",
+    "@type" : "gi2mo:Idea",
+    "content" : "A Car That Can Drive Through Fires And Temperatures Exceeding 600 Degrees",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Andorra" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/256",
+    "@type" : "gi2mo:Idea",
+    "content" : " A Robot Car That Does The Driving For You",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Robot" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/257",
+    "@type" : "gi2mo:Idea",
+    "content" : " Don't Google And Read Information, Google And Watch It",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Google" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/258",
+    "@type" : "gi2mo:Idea",
+    "content" : " A $150 Wonder Pen With A USB Drive That Records Every Written And Audible Word",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Pen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/259",
+    "@type" : "gi2mo:Idea",
+    "content" : " A Double-Sided Peanut Butter Jar So You Can Get Every Last Bit",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Double-sided_tape" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/26",
+    "@type" : "gi2mo:Idea",
+    "content" : "A wall in the bedroom that displays pictures all of your clothes to help you create outfits",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Bedroom", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Clothing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/260",
+    "@type" : "gi2mo:Idea",
+    "content" : "An app for touchscreens that predicts which letters are least likely to be typed next and shrinks them"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/261",
+    "@type" : "gi2mo:Idea",
+    "content" : "Flip Flops With Interchangeable, Velcro Straps So You Can Switch Your Look Without Buying Multiple Pairs"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/262",
+    "@type" : "gi2mo:Idea",
+    "content" : "Group Dating Site So Women Don't Have To Meet Strangers Alon"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/263",
+    "@type" : "gi2mo:Idea",
+    "content" : "A Washing Machine That Uses Tiny Beads Instead Of Water To Remove Stains"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/264",
+    "@type" : "gi2mo:Idea",
+    "content" : "Replacing Annoying CAPTCHA Codes With Advertisements"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/265",
+    "@type" : "gi2mo:Idea",
+    "content" : "Pizza Box That Separates Into Plates And Stores Leftovers"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/27",
+    "@type" : "gi2mo:Idea",
+    "content" : "A window where you can control how much light gets in by swiping",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Light" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/271",
+    "@type" : "gi2mo:Idea",
+    "content" : "apply it in offices for presentations",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Office", "http://dbpedia.org/resource/Presentation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/272",
+    "@type" : "gi2mo:Idea",
+    "content" : "A long armband fitted around the wrist that would act as a display for wearable gadgets.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Display_(horse)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/273",
+    "@type" : "gi2mo:Idea",
+    "content" : "A desk with a coating on top with turns the desktop into a keyboard touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Desktop_computer", "http://dbpedia.org/resource/Computer_keyboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/274",
+    "@type" : "gi2mo:Idea",
+    "content" : "A fish tank with a coating on it that shows the touch display of the temperature so you can adjust it right on the tank.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aquarium", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/275",
+    "@type" : "gi2mo:Idea",
+    "content" : "Couch with touch display in the middle so you can change the channel more conveniently.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Couch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/276",
+    "@type" : "gi2mo:Idea",
+    "content" : "interactive drawer that you put your mobile phones and desktop computer to find information quickly",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Cash_register", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Telephone", "http://dbpedia.org/resource/Desktop_computer", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Information" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/277",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could coat an armrest on a couch or chair to put a touch screen there. For when you need to change the movie you always have a remote.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Coat_of_arms", "http://dbpedia.org/resource/Couch", "http://dbpedia.org/resource/Couch", "http://dbpedia.org/resource/Couch", "http://dbpedia.org/resource/Couch", "http://dbpedia.org/resource/Couch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/278",
+    "@type" : "gi2mo:Idea",
+    "content" : "A big touch display on your door so that you can open it with a code and not use a key.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/MyFord_Touch", "http://dbpedia.org/resource/Bacterial_display", "http://dbpedia.org/resource/Code", "http://dbpedia.org/resource/Key_frame" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/279",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch display door that has the keypad on a screen in the door.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Keypad", "http://dbpedia.org/resource/Door" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/28",
+    "@type" : "gi2mo:Idea",
+    "content" : "A panel that controls all of the house's lights and temperature by swiping",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Distribution_board", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/280",
+    "@type" : "gi2mo:Idea",
+    "content" : "A lawn mower with the touch display sprayed on that shows how well the grass is being cut.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Lawn_mower", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Bacterial_display", "http://dbpedia.org/resource/Bloody_show", "http://dbpedia.org/resource/Poaceae", "http://dbpedia.org/resource/Dedekind_cut" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/281",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would most definitely make a special coating with different color background to use in kids rooms with a frame. The frames can come in different sizes",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Animal_coloration", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Coating" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/282",
+    "@type" : "gi2mo:Idea",
+    "content" : "a hand screen where you spay it on your hand and it temporarily acts as a body information device where you see your body temperature along with heart rate and body mass index among other things related to your health\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Hand", "http://dbpedia.org/resource/Draperstown", "http://dbpedia.org/resource/Italian_language", "http://dbpedia.org/resource/Human_body", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Human_body_temperature", "http://dbpedia.org/resource/RATE_project", "http://dbpedia.org/resource/Mass", "http://dbpedia.org/resource/Refractive_index", "http://dbpedia.org/resource/The_Thing_(1982_film)", "http://dbpedia.org/resource/Health" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/283",
+    "@type" : "gi2mo:Idea",
+    "content" : "A kitchen counter that could display cooking recipes. You could flip through pages etc and add recipes of your own\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Counter_(digital)", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/ETC_(Chilean_TV_channel)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/284",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would most definitely make a special coating with different color background to use in kids rooms with a frame. The frames can come in different sizes\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Animal_coloration", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Coating" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/285",
+    "@type" : "gi2mo:Idea",
+    "content" : "A glass desktop could serve as your computer interfaces so you wouldn't need a mouse or perhaps even a keyboard.\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/Desktop_computer", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Application_binary_interface", "http://dbpedia.org/resource/Mouse", "http://dbpedia.org/resource/IBM_PC_keyboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/286",
+    "@type" : "gi2mo:Idea",
+    "content" : "a device where you can spray in side a car dashboard. the dashboard then tells you the mph you are going and other car related information such as temperature\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Device_(metal_band)", "http://dbpedia.org/resource/Blood_squirt", "http://dbpedia.org/resource/Heap_spraying", "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Blood_squirt", "http://dbpedia.org/resource/Temperature" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/287",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch screen tables in a restaurant where you can order your food and pay.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Food" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/288",
+    "@type" : "gi2mo:Idea",
+    "content" : "A movie screen of any size where ever you want it. Controls are built into screen to pause\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Fire_screen", "http://dbpedia.org/resource/Size", "http://dbpedia.org/resource/Control_flow", "http://dbpedia.org/resource/Pause_(The_Boondocks)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/289",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could turn a blank wall into a pc gamers dream monitor and make it so that if you held a special game weapon you could play CoD or that sort of game interactively and make it feel as if you were actually there\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Player_character", "http://dbpedia.org/resource/Gamer", "http://dbpedia.org/resource/Concord_Monitor", "http://dbpedia.org/resource/.it", "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Weapon", "http://dbpedia.org/resource/Cod", "http://dbpedia.org/resource/Qsort", "http://dbpedia.org/resource/Italian_language" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/29",
+    "@type" : "gi2mo:Idea",
+    "content" : "An alarm clock that is built into the side of the bed and you can snooze by tapping it",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Alarm_device", "http://dbpedia.org/resource/Clock", "http://dbpedia.org/resource/Bed" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/290",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could have a section of the countertop in the kitchen where you could just use your finger to write a grocery list\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Forest_range", "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Finger", "http://dbpedia.org/resource/Grocery_store", "http://dbpedia.org/resource/List_of_lists_of_lists" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/291",
+    "@type" : "gi2mo:Idea",
+    "content" : "A hotel room with a touch display coated wall connected to a camera located in a nearby scenic area\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Hotel", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/292",
+    "@type" : "gi2mo:Idea",
+    "content" : "a window pane in the transom at your front door could be used to enter security codes to arm/disarm the alarm and unlock doors\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Windowpane_(song)", "http://dbpedia.org/resource/Operation_Transom", "http://dbpedia.org/resource/Security", "http://dbpedia.org/resource/Transom_(architectural)", "http://dbpedia.org/resource/Transom_(architectural)", "http://dbpedia.org/resource/Unlock_Democracy", "http://dbpedia.org/resource/Transom_(architectural)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/294",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could coat a small ball of some kind to turn it into a touch display where you double tap to activate it. Once activated\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Coat_of_arms", "http://dbpedia.org/resource/Ball", "http://dbpedia.org/resource/Kind_(type_theory)", "http://dbpedia.org/resource/.it", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Bacterial_display", "http://dbpedia.org/resource/Tap_dance", "http://dbpedia.org/resource/.it" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/295",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could have a section of the countertop in the kitchen where you could just use your finger to write a grocery list\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Forest_range", "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Finger", "http://dbpedia.org/resource/Grocery_store", "http://dbpedia.org/resource/SC_Germania_List" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/296",
+    "@type" : "gi2mo:Idea",
+    "content" : "A mirror that can display information like time, date, weather, and calendar events while still showing your reflection.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/Information", "http://dbpedia.org/resource/Time", "http://dbpedia.org/resource/Calendar_date", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Calendar" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/299",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply it on a wall for extra browsing space in an office. \n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Space", "http://dbpedia.org/resource/Office" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/3",
+    "@type" : "gi2mo:Idea",
+    "content" : "fishtank",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aquarium" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/30",
+    "@type" : "gi2mo:Idea",
+    "content" : "A portable piano",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Piano" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/300",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make your front door (or any door) open-able using various methods from a simple symbol lock system, to a more complex set of button presses. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Symbol", "http://dbpedia.org/resource/Lock_(security_device)", "http://dbpedia.org/resource/System", "http://dbpedia.org/resource/Button" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/301",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to baby strollers so you can browse while working out. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Infant", "http://dbpedia.org/resource/Baby_transport" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/302",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply it on patio tables for browsing outdoors. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Patio", "http://dbpedia.org/resource/Table_(database)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/303",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to suitcases for browsing while traveling.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Suitcase" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/304",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to swing sets or play yard equipment for browsing out of doors. "
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/305",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could put a touch screen on the arm of a chair and be able to use your computer without getting up. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Chair", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/306",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make a list of food items you have in the fridge and check without having to open it. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/List_(abstract_data_type)", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Refrigerator" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/307",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could check if your vehicle needs any maintenance without having to get in and start it. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Vehicle", "http://dbpedia.org/resource/Auto_maintenance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/308",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to kitchen cabinets for displaying recipes while cooking. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Cooking" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/309",
+    "@type" : "gi2mo:Idea",
+    "content" : "mobile screen ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/31",
+    "@type" : "gi2mo:Idea",
+    "content" : "A refrigerator where you can create a shopping list by tapping on products",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Shopping" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/310",
+    "@type" : "gi2mo:Idea",
+    "content" : "TV screen",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/311",
+    "@type" : "gi2mo:Idea",
+    "content" : "touchpad",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchpad" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/312",
+    "@type" : "gi2mo:Idea",
+    "content" : "laptop touch screen",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Laptop", "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/313",
+    "@type" : "gi2mo:Idea",
+    "content" : "microoven",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Microwave_oven" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/314",
+    "@type" : "gi2mo:Idea",
+    "content" : "washing machine",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Machine" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/315",
+    "@type" : "gi2mo:Idea",
+    "content" : "Desktop",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desktop_computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/316",
+    "@type" : "gi2mo:Idea",
+    "content" : "Home theatre",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Theatre" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/317",
+    "@type" : "gi2mo:Idea",
+    "content" : "Projector",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Projector" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/318",
+    "@type" : "gi2mo:Idea",
+    "content" : "Car audio video screen",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Audio_(album)", "http://dbpedia.org/resource/Video", "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/319",
+    "@type" : "gi2mo:Idea",
+    "content" : "touch screen stand mixer that can display recipes and check off ingredients as you put them in",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Ingredient", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/They" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/32",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could make a desk top that was a touch display at work.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/Manual_labour" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/320",
+    "@type" : "gi2mo:Idea",
+    "content" : "washing machine that keeps track of how much clothing is in inside",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Clothing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/321",
+    "@type" : "gi2mo:Idea",
+    "content" : "Filing cabinet system where you can see what index of files are inside each drawer before opening and searching.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/System", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Drawer_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/322",
+    "@type" : "gi2mo:Idea",
+    "content" : "Wardrobe that tells you how much space is left inside after putting in clothes.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wardrobe", "http://dbpedia.org/resource/Space", "http://dbpedia.org/resource/Clothing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/323",
+    "@type" : "gi2mo:Idea",
+    "content" : "A panel for your pantry door to keep track of the contents of your pantry.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Flat_panel_display", "http://dbpedia.org/resource/Pantry", "http://dbpedia.org/resource/Door" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/324",
+    "@type" : "gi2mo:Idea",
+    "content" : "Automatic toothpaste dispenser. Holds your toothpaste, and keeps track of how much toothpaste is in the tube and you can set how much toothpaste to dispense.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toothpaste", "http://dbpedia.org/resource/Toothpaste_dispenser" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/325",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on your refrigerator to leave notes for people.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Liner_notes" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/326",
+    "@type" : "gi2mo:Idea",
+    "content" : "Spray this on your desk. You could have a built in calculator, calendar, place to write note. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Calculator", "http://dbpedia.org/resource/Calendar", "http://dbpedia.org/resource/Liner_notes" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/327",
+    "@type" : "gi2mo:Idea",
+    "content" : "Spray it on your bathroom mirror. You could accomplish tasks while getting ready in the morning. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Morning" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/328",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a wall in your home. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/329",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on your purse. You would always have access to a display screen and could take notes where ever you go. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Liner_notes" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/33",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could add a touch display to your wall at home to control all or smart home devices.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/330",
+    "@type" : "gi2mo:Idea",
+    "content" : "On the kitchen counter. You could have a section where you could always bring up recipes and instructions. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Kitchen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/331",
+    "@type" : "gi2mo:Idea",
+    "content" : "On your front door. Anyone can leave you a note if they missed you. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Liner_notes" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/334",
+    "@type" : "gi2mo:Idea",
+    "content" : "the sidelight window next to a front door could have a touchpanel keypad for keyless entry",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Sidelight", "http://dbpedia.org/resource/Sidelight", "http://dbpedia.org/resource/Keypad" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/335",
+    "@type" : "gi2mo:Idea",
+    "content" : "your desktop could be a touchpad for your computer",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desktop_metaphor", "http://dbpedia.org/resource/Desktop_computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/336",
+    "@type" : "gi2mo:Idea",
+    "content" : "refrigerator door could have keyboard for adding items to a grocery list",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Computer_keyboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/337",
+    "@type" : "gi2mo:Idea",
+    "content" : "coffee table could have remote control built in",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee_table" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/338",
+    "@type" : "gi2mo:Idea",
+    "content" : "drafting desk"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/339",
+    "@type" : "gi2mo:Idea",
+    "content" : "A fully interactive tabletop. This could be used for gaming or just having a large work area with multiple windows. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Paper_football", "http://dbpedia.org/resource/Gambling", "http://dbpedia.org/resource/Creative_work", "http://dbpedia.org/resource/Area", "http://dbpedia.org/resource/Microsoft_Windows" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/34",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could add it to your steering wheel so that you can control various parts of your car.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wheel", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/List_of_auto_parts" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/340",
+    "@type" : "gi2mo:Idea",
+    "content" : "A small travel sized bottle you can spray on maps to make them interactive so you can zoom in and manipulate them.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Map" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/341",
+    "@type" : "gi2mo:Idea",
+    "content" : "If it is not harmful to the skin, this could be applied to one's arm. Then, a person's arm could essentially be a touchpad portal to the internet, without having to use any devices. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Skin", "http://dbpedia.org/resource/1_(number)", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/Web_portal", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/Internet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/342",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bottle you can spray on the periodic table in chemistry courses so you can select and rearrange compounds for more hands on learning minus the dangerous chemicals.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bottle", "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Periodic_table", "http://dbpedia.org/resource/Chemistry", "http://dbpedia.org/resource/Chemical_compound", "http://dbpedia.org/resource/Hand", "http://dbpedia.org/resource/Chemical_substance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/343",
+    "@type" : "gi2mo:Idea",
+    "content" : "A temporary multitouch display to extend your screen size while doing a task that needs some extra screen space. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Task_(computing)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/344",
+    "@type" : "gi2mo:Idea",
+    "content" : "It could be applied to the dash of a car. This could eliminate the need for stereo systems or navigation systems in cars. The dash would completely integrate the interface.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Dashboard", "http://dbpedia.org/resource/Stereophonic_sound", "http://dbpedia.org/resource/Navigation", "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Electrical_connector" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/345",
+    "@type" : "gi2mo:Idea",
+    "content" : "This could be applied to a wall of a home. This would essentially turn the entire wall into a computer, or TV, screen, eliminating the need for televisions. It would also be invisible when not turned on. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Fire_screen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/346",
+    "@type" : "gi2mo:Idea",
+    "content" : "A spray for text books and reading material, letting you select, copy, save, and highlight specific text with your finger tips. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Textbook", "http://dbpedia.org/resource/Highlighter", "http://dbpedia.org/resource/Finger" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/347",
+    "@type" : "gi2mo:Idea",
+    "content" : "A multitouch display beside the chopping board in the kitchen which can be used to display a recipe on the go. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/Cutting_board", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Recipe" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/348",
+    "@type" : "gi2mo:Idea",
+    "content" : "This could be applied to a floor. This would allow certain types of apps that could be operated with one's foot. Games, exercise programs, and things of that nature could be applied. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/1_(number)", "http://dbpedia.org/resource/Foot", "http://dbpedia.org/resource/Game", "http://dbpedia.org/resource/Physical_exercise", "http://dbpedia.org/resource/Computer_program", "http://dbpedia.org/resource/Nature", "http://dbpedia.org/resource/Applied_science" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/349",
+    "@type" : "gi2mo:Idea",
+    "content" : "This could be applied to kitchen countertops. Then, a cook could use the internet to look up recipes and access tutorials on how to cook things hands free without leaving the kitchen. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/This_(Canadian_magazine)", "http://dbpedia.org/resource/Countertop", "http://dbpedia.org/resource/Cook_(surname)", "http://dbpedia.org/resource/Internet", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Microsoft_Access", "http://dbpedia.org/resource/Hand", "http://dbpedia.org/resource/Kitchen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/35",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could add it to your water bottle so that it tells you how much is left and how much you have drank so far.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Bottle" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/350",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use the coating on windows and tap on the window to identify people, cars, wildlife, etc.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Wildlife" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/351",
+    "@type" : "gi2mo:Idea",
+    "content" : "On the outside of a house, as a video screen for security. People inside could see who is outside and communicate with them through the screen.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Video", "http://dbpedia.org/resource/Fire_screen", "http://dbpedia.org/resource/Security", "http://dbpedia.org/resource/People" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/352",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display on the door of your fridge, on which you can take notes or see what's nearing the expiry date. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Liner_notes" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/353",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn road signs into touchscreens for navigation and local information retrieval.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Air_navigation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/354",
+    "@type" : "gi2mo:Idea",
+    "content" : "Coat entire walls for theater movie experiences.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/A_Movie" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/355",
+    "@type" : "gi2mo:Idea",
+    "content" : "Place coating on student desks for study and notes.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Student", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Study_(room)", "http://dbpedia.org/resource/Microsoft_OneNote" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/356",
+    "@type" : "gi2mo:Idea",
+    "content" : "able to transform any object or surface into a smart touch-sensitive one using nothing more than a fresh coat of paint. "
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/357",
+    "@type" : "gi2mo:Idea",
+    "content" : "This coating would be revolutionary being applied to car windows, appliances, entertainment device screens; and even walls in the home or work.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Major_appliance", "http://dbpedia.org/resource/GNU_Screen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/358",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to arms or chairs and couches for convenient access"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/359",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to car dashboard for ease of access",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Dashboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/36",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could add it to your filing cabinet to keep track of what documents are inside.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Archive_file", "http://dbpedia.org/resource/Cabinetry", "http://dbpedia.org/resource/Document" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/360",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to walls of home for anywhere access",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/361",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to desk tops for ease",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/362",
+    "@type" : "gi2mo:Idea",
+    "content" : "A television that can change channels by using touch display",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/363",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply to kitchen counters or stove tops for easy access",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Stove" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/364",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make a spot near your desk that has your phone be a touch display right next to you.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Mobile_phone", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/365",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make your keyboard a touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Computer_keyboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/366",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make your gaming controller a touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Game_controller", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/367",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make your car buttons all into touch display buttons.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Somatosensory_system" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/368",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display could be added to windows to set automated opening and locking times without the use of in-home smart equipment. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Home_automation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/369",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display could be added to restaurant tables to make orders, questions and concerns a seamless experience. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Table_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/37",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could add it to a box to keep try of the contents.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/It_(pronoun)", "http://dbpedia.org/resource/Box" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/370",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch displays could be added to tables or other surfaces in which a person lounges about in order to make the use of electronic devices while in an otherwise impossible position, possible. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Person_Colby_Cheney" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/371",
+    "@type" : "gi2mo:Idea",
+    "content" : "Windows that turn into displays. "
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/372",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display could be added to the bathroom shower tile in order to more finely tune the shower water temperature, pressure, spray format etc. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Water" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/373",
+    "@type" : "gi2mo:Idea",
+    "content" : "Counter tops that display moving video.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Countertop" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/374",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch displays can be added to the side of headphones in order to get more fine tuned selection of options as opposed to either physical buttons or being forced to use the host device. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Headphones" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/375",
+    "@type" : "gi2mo:Idea",
+    "content" : "A out of the box door lock system along with inside the house locker system can be done with great uses for sure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Lock_(security_device)", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Locker", "http://dbpedia.org/resource/Wikipedia_community" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/376",
+    "@type" : "gi2mo:Idea",
+    "content" : "Walls that can be any color or pattern.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Color", "http://dbpedia.org/resource/Pattern" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/377",
+    "@type" : "gi2mo:Idea",
+    "content" : "use it with a webcam in another room to paint a hole through the wall so you can see.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Webcam" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/378",
+    "@type" : "gi2mo:Idea",
+    "content" : "A auto toilet system can be made out of it for sure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toilet", "http://dbpedia.org/resource/Wikipedia_community" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/379",
+    "@type" : "gi2mo:Idea",
+    "content" : "A cool hightech pen can me made out of it for sure"
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/38",
+    "@type" : "gi2mo:Idea",
+    "content" : "create your own touch screen computer",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/380",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use it on magazines to make article information clickable.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Magazine" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/381",
+    "@type" : "gi2mo:Idea",
+    "content" : "A auto cleaning vaccum cleaner can be made out of it for sure",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Cleaner", "http://dbpedia.org/resource/Wikipedia_community" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/382",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use it on car paint so you can unlock with your fingerprint or code.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/The_Car_(Brack)", "http://dbpedia.org/resource/Paint", "http://dbpedia.org/resource/Fingerprint", "http://dbpedia.org/resource/Barcode" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/383",
+    "@type" : "gi2mo:Idea",
+    "content" : "A home switch box control can be made",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Limit_switch" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/384",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would choose the gadget that would be helpful to create into anything like touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Display_case" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/385",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would choose products and assemble or make to all the surface into a touch display type. Because that have some of features in the products.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/Surface_wave", "http://dbpedia.org/resource/LCD_television" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/386",
+    "@type" : "gi2mo:Idea",
+    "content" : "Great theatrical costume. You can even interact with the audience.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Costume", "http://dbpedia.org/resource/Audience" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/387",
+    "@type" : "gi2mo:Idea",
+    "content" : "Interactive educational display in museums",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/Museum" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/388",
+    "@type" : "gi2mo:Idea",
+    "content" : "Interactive movie theater",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Theatre" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/389",
+    "@type" : "gi2mo:Idea",
+    "content" : "he two products are completely different. Surface is a multi-touch and vision system that uses cameras to sense what is on the table, where it is and what it is doing",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Product_(mathematics)", "http://dbpedia.org/resource/Surface_wave", "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/Machine_vision", "http://dbpedia.org/resource/Camera", "http://dbpedia.org/resource/Table_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/39",
+    "@type" : "gi2mo:Idea",
+    "content" : "touch activated faucet",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Tap_(valve)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/390",
+    "@type" : "gi2mo:Idea",
+    "content" : "Smart building that allows you to interact with it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Smart_Technologies", "http://dbpedia.org/resource/Building" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/391",
+    "@type" : "gi2mo:Idea",
+    "content" : "Using Microsoft's motion-sensing Kinect, the futuristic technology works on walls, tables and panes of glass. It could help stores display interactive product information after hours, teachers create interactive lessons and architects as they turn a vision into reality.\n\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/South_Walls", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Pan_(god)", "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/Retail", "http://dbpedia.org/resource/Product_(mathematics)", "http://dbpedia.org/resource/Information", "http://dbpedia.org/resource/Book_of_hours", "http://dbpedia.org/resource/Teacher", "http://dbpedia.org/resource/Lesson", "http://dbpedia.org/resource/Architect", "http://dbpedia.org/resource/MS_Vision_of_the_Seas" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/392",
+    "@type" : "gi2mo:Idea",
+    "content" : "kitchen appliances can be more interactive",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home_appliance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/393",
+    "@type" : "gi2mo:Idea",
+    "content" : "running track that has a cool display as you run on it, plays music to the beat of footsteps",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/All-weather_running_track", "http://dbpedia.org/resource/Beat_(acoustics)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/394",
+    "@type" : "gi2mo:Idea",
+    "content" : "Electrodes set up around a surface coated with conductive paint are able to measure the voltage differences caused when someone’s finger comes in contact with it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Electrode", "http://dbpedia.org/resource/Computer_representation_of_surfaces", "http://dbpedia.org/resource/Paint", "http://dbpedia.org/resource/Voltage", "http://dbpedia.org/resource/Cadency", "http://dbpedia.org/resource/The_finger" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/395",
+    "@type" : "gi2mo:Idea",
+    "content" : "super interactive toys",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toy" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/396",
+    "@type" : "gi2mo:Idea",
+    "content" : "robots with interactive skins",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Robot" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/397",
+    "@type" : "gi2mo:Idea",
+    "content" : "smart homes",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/398",
+    "@type" : "gi2mo:Idea",
+    "content" : "One area where the technology falls behind is accuracy. Electrick isn’t as well-suited for writing or sketching as other touchpads, but with a margin of error of one centimeter it’s a fine alternative for simple buttons and sliders. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Area", "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/Accuracy_and_precision", "http://dbpedia.org/resource/Margin_of_error", "http://dbpedia.org/resource/Margin_of_error" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/399",
+    "@type" : "gi2mo:Idea",
+    "content" : "clothes can interact with your phone and computer",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Mobile_phone", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/4",
+    "@type" : "gi2mo:Idea",
+    "content" : "car window",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/40",
+    "@type" : "gi2mo:Idea",
+    "content" : "touch screen mirror to help you change the lights and see better\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Light" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/400",
+    "@type" : "gi2mo:Idea",
+    "content" : "Climbing wall that has augmented reality game",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/401",
+    "@type" : "gi2mo:Idea",
+    "content" : "A hidden room in your home. The display would have to be applied by the homeowner",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/Home" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/402",
+    "@type" : "gi2mo:Idea",
+    "content" : "Monitor for medicine in a medicine cabinet",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Medicine", "http://dbpedia.org/resource/Bathroom_cabinet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/403",
+    "@type" : "gi2mo:Idea",
+    "content" : "Libraries could have a screen where patrons can look for books.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Library", "http://dbpedia.org/resource/GNU_Screen", "http://dbpedia.org/resource/Book" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/404",
+    "@type" : "gi2mo:Idea",
+    "content" : "It could be placed on a closet so that you can put items together to make and outfit without having to try everything on. It would show you pictures of the different pieces.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Closet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/405",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a refrigerator so that it can tell you what foods you have and suggest recipes.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Recipe" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/406",
+    "@type" : "gi2mo:Idea",
+    "content" : "The technology is based around an algorithm that’s able to read a finger press by sensing changes in the flow of electricity over a conductive surface. This concept is called electric field tomography, and involves running small amounts of current through pairs of electrodes and looking for any voltage differences. By attaching electrodes to the periphery of the object covered in Carnegie Mellon’s smart conductive coating, Harrison and colleagues demonstrated that it was possible to sense exactly where a touch had been place",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/Algorithm", "http://dbpedia.org/resource/Finger", "http://dbpedia.org/resource/Electricity", "http://dbpedia.org/resource/Surface_area", "http://dbpedia.org/resource/Electric_field", "http://dbpedia.org/resource/Air_current", "http://dbpedia.org/resource/Tomography", "http://dbpedia.org/resource/Periphery_countries", "http://dbpedia.org/resource/Tomography", "http://dbpedia.org/resource/Carnegie_Building", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Sense", "http://dbpedia.org/resource/Algebraic_number_theory" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/407",
+    "@type" : "gi2mo:Idea",
+    "content" : "An entire wall or room could be a touch display. I'm thinking an entire interactive room. A bigger room could potentially become an IMAX movie theater. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/The_Wall_(SoHo)", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/I", "http://dbpedia.org/resource/IMAX" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/408",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display glove could be convenient. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Glove" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/409",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display briefcase or backpack would be multifunctional.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Briefcase", "http://dbpedia.org/resource/Backpack" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/41",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could use it on all the windows in your home making every window in your home have a different scenery ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Theatrical_scenery" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/410",
+    "@type" : "gi2mo:Idea",
+    "content" : "Despite being touch-sensitive, the objects don’t include a display, which means the inputs have to be read on another device.Right now, the system also can’t do multi-touch, referring to the common interaction method on a trackpad or touchscreen in which more than one points of contact with the surface are recognized simultaneously. That could well change in the future.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Object-oriented_analysis_and_design", "http://dbpedia.org/resource/Input_method", "http://dbpedia.org/resource/Scientific_method", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Critical_point_(mathematics)", "http://dbpedia.org/resource/Surface_area" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/411",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply on a desk and use its surface as a keyboard / input device",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Surface_(topology)", "http://dbpedia.org/resource/Apple_Keyboard", "http://dbpedia.org/resource/Input_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/412",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can apply it on your car windscreen and make it like a jet fighter HUD!",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Windshield", "http://dbpedia.org/resource/Fighter_aircraft", "http://dbpedia.org/resource/Head-up_display" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/413",
+    "@type" : "gi2mo:Idea",
+    "content" : "Soon, coffee isn’t going to taste like coffee — at least not the dark, ashy roasts we drink today. Big producers want uniform taste, and a dark roast makes that easy: it evens out flavors and masks flaws. But now the best beans are increasingly being set aside and shipped in vacuum-sealed packs (instead of burlap bags). Improvements like these have allowed roasters to make coffee that tastes like Seville oranges or toasted almonds or berries, and that sense of experimentation is trickling down to the mass market; Starbucks, for instance, now has a Blonde Roast. As quality continues to improve, coffee will lighten, and dark roasts may just become a relic of the past. Oliver Strand",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Film_producer", "http://dbpedia.org/resource/Coffee_roasting", "http://dbpedia.org/resource/Dynasty_IT", "http://dbpedia.org/resource/Mask", "http://dbpedia.org/resource/Flaws_(album)", "http://dbpedia.org/resource/Baked_beans", "http://dbpedia.org/resource/Backpack", "http://dbpedia.org/resource/Hessian_fabric", "http://dbpedia.org/resource/Coffee", "http://dbpedia.org/resource/Taste", "http://dbpedia.org/resource/Seville", "http://dbpedia.org/resource/Orange_(fruit)", "http://dbpedia.org/resource/Almond", "http://dbpedia.org/resource/Berry", "http://dbpedia.org/resource/Sense", "http://dbpedia.org/resource/Experiment", "http://dbpedia.org/resource/Mass", "http://dbpedia.org/resource/Supermarket", "http://dbpedia.org/resource/Starbucks", "http://dbpedia.org/resource/Andy_Dick", "http://dbpedia.org/resource/Quality,_California", "http://dbpedia.org/resource/Coffee_roasting", "http://dbpedia.org/resource/Relic", "http://dbpedia.org/resource/Relic", "http://dbpedia.org/resource/Relic" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/414",
+    "@type" : "gi2mo:Idea",
+    "content" : "You can apply it on your fridge door to regulate temperatures or show the content without opening",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Temperature" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/415",
+    "@type" : "gi2mo:Idea",
+    "content" : "Your car is already able to call for help when an accident occurs, but within a few years, it’ll tip paramedics off to probable injuries too. E.M.T.’s would know the likelihood of internal bleeding or traumatic head injury, for example, before arriving on the scene, which would help them decide whether to move you to a Level 1 trauma center or a standard emergency room. Researchers at the University of Michigan International Center for Automotive Medicine have created the predictive models by cross-referencing the crash data provided by sensors on cars, like speed and location of impact, with 3-D scans of accident victims. Tamara Warren",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Help_desk", "http://dbpedia.org/resource/Accident", "http://dbpedia.org/resource/Dynasty_IT", "http://dbpedia.org/resource/Paramedic", "http://dbpedia.org/resource/Injury", "http://dbpedia.org/resource/E.M.T.", "http://dbpedia.org/resource/Bleeding", "http://dbpedia.org/resource/Head", "http://dbpedia.org/resource/Bleeding", "http://dbpedia.org/resource/Bleeding", "http://dbpedia.org/resource/Levellers", "http://dbpedia.org/resource/Bleeding", "http://dbpedia.org/resource/Center,_Colorado", "http://dbpedia.org/resource/Emergency", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/Research", "http://dbpedia.org/resource/University", "http://dbpedia.org/resource/Michigan", "http://dbpedia.org/resource/Automotive_industry", "http://dbpedia.org/resource/Medicine", "http://dbpedia.org/resource/Model_(person)", "http://dbpedia.org/resource/3D_scanner", "http://dbpedia.org/resource/The_Victim_(1916_film)", "http://dbpedia.org/resource/Warren,_Arkansas" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/416",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can apply it on windows to set the opacity of the glass and regulate the light ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Transparency_and_translucency", "http://dbpedia.org/resource/Light" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/417",
+    "@type" : "gi2mo:Idea",
+    "content" : "a floor touch screen where you spray on the floor and it tells you how many foot steps there has been in that room on that day along with the weather and the amount of cleaning needed for the day on that floor.\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Draperstown", "http://dbpedia.org/resource/Blood_squirt", "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/Italian_language", "http://dbpedia.org/resource/Foot", "http://dbpedia.org/resource/Steppe", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/Day", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Quantity" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/418",
+    "@type" : "gi2mo:Idea",
+    "content" : "The first is permanent sunblock. No one likes putting the stuff on, so there should be a one-time treatment that embeds the skin with a permanent level of S.P.F. 30, akin to having Lasik eye surgery once and then forgetting about it. Sunburn vanquished like smallpox. The other is the “brain map” — a technology that maps out every neural connection in your mind and then, effectively, stores your brain on your hard drive",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/FirstGroup", "http://dbpedia.org/resource/Sunscreen", "http://dbpedia.org/resource/Stuff.co.nz", "http://dbpedia.org/resource/Sewage_treatment", "http://dbpedia.org/resource/Skin", "http://dbpedia.org/resource/Levellers", "http://dbpedia.org/resource/LASIK", "http://dbpedia.org/resource/Eye", "http://dbpedia.org/resource/Surgery", "http://dbpedia.org/resource/Sunburn", "http://dbpedia.org/resource/Smallpox", "http://dbpedia.org/resource/Other", "http://dbpedia.org/resource/Brain", "http://dbpedia.org/resource/Map", "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/Affine_connection", "http://dbpedia.org/resource/Mind", "http://dbpedia.org/resource/App_store", "http://dbpedia.org/resource/Hard_disk_drive" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/419",
+    "@type" : "gi2mo:Idea",
+    "content" : "that coating could be used on human body like arm, hand etc",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Human_body", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/Hand" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/42",
+    "@type" : "gi2mo:Idea",
+    "content" : "touchscreen in the bathroom to select water temperature and water pressure in the shower",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Pressure", "http://dbpedia.org/resource/Shower" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/420",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could use the coating on the front of back of books that indicate the page numbers of important passages or when you starting reading the point or it could have a timer that shows each time you starting and stopped reading the book. The coating would allow you to take notes that would always be with the book when you carry it around\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Delaware_Park–Front_Park_System", "http://dbpedia.org/resource/Human_back", "http://dbpedia.org/resource/Book", "http://dbpedia.org/resource/Page,_Arizona", "http://dbpedia.org/resource/Number", "http://dbpedia.org/resource/Points_of_the_compass", "http://dbpedia.org/resource/Timer", "http://dbpedia.org/resource/Time", "http://dbpedia.org/resource/Book", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Musical_note" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/421",
+    "@type" : "gi2mo:Idea",
+    "content" : "This 15-minute shampoo treatment begins when you lean your head back into a machine that looks like a sink at the salon. First it maps your scalp, then it shoots streams of warm water and foam shampoo from its 28 nozzles before 24 silicone “fingers” work up a lather. One conditioning mist, scalp massage and light blow-dry later, you’re done. Nathaniel Penn",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shampoo", "http://dbpedia.org/resource/Sewage_treatment", "http://dbpedia.org/resource/Head", "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Sink", "http://dbpedia.org/resource/Beauty_salon", "http://dbpedia.org/resource/Scalp", "http://dbpedia.org/resource/Stream", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Foam", "http://dbpedia.org/resource/Nozzle", "http://dbpedia.org/resource/Silicone", "http://dbpedia.org/resource/Finger", "http://dbpedia.org/resource/Automobile_air_conditioning", "http://dbpedia.org/resource/Brewing", "http://dbpedia.org/resource/Massage", "http://dbpedia.org/resource/Nathaniel_Hawthorne", "http://dbpedia.org/resource/Brewing" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/422",
+    "@type" : "gi2mo:Idea",
+    "content" : "Clothes that could tell you the weather\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Weather" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/423",
+    "@type" : "gi2mo:Idea",
+    "content" : "I have a new idea about designing a foldable smartphone with qled display and infinity edge to edge screen",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/IdeaPad", "http://dbpedia.org/resource/Smartphone", "http://dbpedia.org/resource/Flat_panel_display", "http://dbpedia.org/resource/Infinity", "http://dbpedia.org/resource/Edge_(video_game)", "http://dbpedia.org/resource/GNU_Screen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/424",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can apply it on a guitar to regulate volume, tone and maybe even sound effects like echo, reverb, etc.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Guitar", "http://dbpedia.org/resource/Major_second", "http://dbpedia.org/resource/Effects_unit" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/425",
+    "@type" : "gi2mo:Idea",
+    "content" : "Your spandex can now subtly nag you to work out. A Finnish company, Myontec, recently began marketing underwear embedded with electromyographic sensors that tell you how hard you’re working your quadriceps, hamstring and gluteus muscles. It then sends that data to a computer for analysis. Although the skintight shorts are being marketed to athletes and coaches, they could be useful for the deskbound. The hope, according to Arto Pesola, who is working on an advanced version of the sensors, is that when you see data telling you just how inert you really are, you’ll be inspired to lead a less sedentary life. Gretchen Reynolds",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Spandex", "http://dbpedia.org/resource/Sensor", "http://dbpedia.org/resource/Quadriceps_femoris_muscle", "http://dbpedia.org/resource/Hamstring", "http://dbpedia.org/resource/Gluteal_muscles", "http://dbpedia.org/resource/Muscle", "http://dbpedia.org/resource/Dynasty_IT", "http://dbpedia.org/resource/Data", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Analysis", "http://dbpedia.org/resource/Shorts", "http://dbpedia.org/resource/Athlete", "http://dbpedia.org/resource/Coach_(Survivor_contestant)", "http://dbpedia.org/resource/Hope", "http://dbpedia.org/resource/Arto_Lindsay", "http://dbpedia.org/resource/Jaana_Laitinen-Pesola", "http://dbpedia.org/resource/Cover_version", "http://dbpedia.org/resource/Life", "http://dbpedia.org/resource/Gretchen_Egolf", "http://dbpedia.org/resource/R._J._Reynolds_Tobacco_Company" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/426",
+    "@type" : "gi2mo:Idea",
+    "content" : "a floor touch screen where you spray on the floor and it tells you how many foot steps there has been in that room on that day along with the weather and the amount of cleaning needed for the day on that floor.\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Aerosol_spray", "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/.it", "http://dbpedia.org/resource/Foot", "http://dbpedia.org/resource/Edward_Step", "http://dbpedia.org/resource/Room", "http://dbpedia.org/resource/Day", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Quantity" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/427",
+    "@type" : "gi2mo:Idea",
+    "content" : "Plastic frames were tried back in the ’90s, but they were too heavy. The materials and technology have improved. Thermoplastics are cheap and practically impervious to the elements.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Glasses", "http://dbpedia.org/resource/Trial", "http://dbpedia.org/resource/Heavy_metal_music", "http://dbpedia.org/resource/Technology", "http://dbpedia.org/resource/Thermoplastic", "http://dbpedia.org/resource/Classical_element" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/428",
+    "@type" : "gi2mo:Idea",
+    "content" : "it can be used on walls as TV, Computer screens",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Fire_screen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/429",
+    "@type" : "gi2mo:Idea",
+    "content" : "I have a new idea to develop a bluetooth pendrive so that we can transfer files between pendrives through bluetooth",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bluetooth", "http://dbpedia.org/resource/USB_flash_drive", "http://dbpedia.org/resource/USB_flash_drive" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/430",
+    "@type" : "gi2mo:Idea",
+    "content" : "NEW IDEA FOR IMAGINE THAT COULD COATING TURN SURFACE INTO DIFFERENT FEATURES",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Newcraighall_railway_station", "http://dbpedia.org/resource/Fiat_Idea", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Surface_(topology)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/431",
+    "@type" : "gi2mo:Idea",
+    "content" : "The Internet is not merely connecting computers together for the benefit of humans; it’s connecting humans together to reinvent labor. This opens terrific opportunities along with real worries. Soon we’ll have to question whether an earnest-looking group of protesters with hand-lettered signs is genuine or simply rapidly convened as a paid flash mob: a crowdsourced crowd. We’ll be able to one-click shop for cheering throngs or protests at a particular location on a moment’s notice, indistinguishable from genuine collective sentiment. A house can be surveilled and a spouse tailed because an online bounty has been put out for anyone nearby to take a photo of the building at a particular address, or to “follow that car.”",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Internet", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Health_insurance", "http://dbpedia.org/resource/Italian_language", "http://dbpedia.org/resource/Human", "http://dbpedia.org/resource/Labour_Day", "http://dbpedia.org/resource/Question", "http://dbpedia.org/resource/Ethnic_group", "http://dbpedia.org/resource/Sign_painting", "http://dbpedia.org/resource/Genuine_Scooters", "http://dbpedia.org/resource/Signs_(Five_Man_Electrical_Band_song)", "http://dbpedia.org/resource/Flash_mob", "http://dbpedia.org/resource/Signs_(Five_Man_Electrical_Band_song)", "http://dbpedia.org/resource/Thong_(clothing)", "http://dbpedia.org/resource/Flash_mob", "http://dbpedia.org/resource/Signs_(Five_Man_Electrical_Band_song)", "http://dbpedia.org/resource/Flash_mob", "http://dbpedia.org/resource/Signs_(Five_Man_Electrical_Band_song)", "http://dbpedia.org/resource/Sentimentality", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Surveillance", "http://dbpedia.org/resource/Flash_mob", "http://dbpedia.org/resource/Signs_(Five_Man_Electrical_Band_song)", "http://dbpedia.org/resource/Photograph", "http://dbpedia.org/resource/Building", "http://dbpedia.org/resource/Flash_mob", "http://dbpedia.org/resource/Car" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/432",
+    "@type" : "gi2mo:Idea",
+    "content" : "On traditional roller coasters, your weight is centered over the wheels, but two new coasters — the X Flight at Six Flags Great America and Dollywood’s Wild Eagle — have you hanging off the side of the track, dangling in midair. It’s kind of like you’re sitting on the wings of a plane. The Swiss company Bolliger & Mabillard had to completely reimagine the seat design to handle the stress caused by the differently distributed weight. Cora Currier",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Roller", "http://dbpedia.org/resource/X", "http://dbpedia.org/resource/Flight", "http://dbpedia.org/resource/Flag", "http://dbpedia.org/resource/Great_Food_Hall", "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Dollywood", "http://dbpedia.org/resource/Eagle", "http://dbpedia.org/resource/Hanging_Temple", "http://dbpedia.org/resource/Dynasty_IT", "http://dbpedia.org/resource/Kind_(horse)", "http://dbpedia.org/resource/I_Hope_You're_Sitting_Down/Jack's_Tulips", "http://dbpedia.org/resource/Wing", "http://dbpedia.org/resource/Anatomical_plane", "http://dbpedia.org/resource/Bolliger_&_Mabillard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/433",
+    "@type" : "gi2mo:Idea",
+    "content" : "you can leave a note on some money that you are paying someone with about what you would like to tip them like if you are in a restaruant\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Microsoft_OneNote", "http://dbpedia.org/resource/Money", "http://dbpedia.org/resource/Restaurant" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/434",
+    "@type" : "gi2mo:Idea",
+    "content" : "Some of the systems can turn the displays from that into touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/Display_case" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/435",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could make board games interactive like monopoly instead of using the typical hard board and paper money you could make the whole thing digital and use your kitchen table or coffee table\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Chessboard", "http://dbpedia.org/resource/Monopoly", "http://dbpedia.org/resource/Paper", "http://dbpedia.org/resource/Money", "http://dbpedia.org/resource/The_Thing_(1982_film)", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Coffee" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/436",
+    "@type" : "gi2mo:Idea",
+    "content" : "Gadgets gave something about the display so we can access the display  that one can make touch display."
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/437",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could coat a coffee table with the touch display on the top. You could use this to display a TV channel guide\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coat_(clothing)", "http://dbpedia.org/resource/Coffee", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Display_(zoology)", "http://dbpedia.org/resource/Coat_(clothing)", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/English_Channel", "http://dbpedia.org/resource/Guide" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/438",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could make board games interactive like monopoly instead of using the typical hard board and paper money you could make the whole thing digital and use your kitchen table or coffee table\n",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Chessboard", "http://dbpedia.org/resource/Monopoly", "http://dbpedia.org/resource/Paper", "http://dbpedia.org/resource/Money", "http://dbpedia.org/resource/The_Thing_(1982_film)", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Coffee" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/439",
+    "@type" : "gi2mo:Idea",
+    "content" : "Products have any type of glass. That can make the touch display. Actually maximum product have glass types.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Exponential_type", "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/Display_case" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/440",
+    "@type" : "gi2mo:Idea",
+    "content" : "Systems can make what we want and some of types get with it. So systems can change any into touch display.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/So_Others_Might_Eat", "http://dbpedia.org/resource/.it", "http://dbpedia.org/resource/Display_case" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/441",
+    "@type" : "gi2mo:Idea",
+    "content" : "Once upon a time, the way to get a computer to do something useful was to feed it a stack of cards with holes punched into them. Thankfully, things have moved on a lot since then. Now we can get our computers to do things simply by pointing and clicking with a mouse—or even by speaking ordinary commands with voice recognition software. But there's a revolution coming that will make computers even easier to use with touch sensitive screens.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Time", "http://dbpedia.org/resource/Cotswold_Way", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Animal_feed", "http://dbpedia.org/resource/.it", "http://dbpedia.org/resource/Blind_hole", "http://dbpedia.org/resource/Mouse", "http://dbpedia.org/resource/Facial_recognition_system", "http://dbpedia.org/resource/Software", "http://dbpedia.org/resource/Revolution", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/GNU_Screen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/442",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch screen is a computer display screen that is also an input device. The screens are sensitive to pressure; a user interacts with the computer by touching pictures or words on the screen.\n\nThere are three types of touch screen technology:\n\nResistive: A resistive touch screen\nSurface wave: Surface wave technology \nCapacitive: A capacitive touch screen ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Fire_screen", "http://dbpedia.org/resource/Computer", "http://dbpedia.org/resource/Display_case", "http://dbpedia.org/resource/Input_device", "http://dbpedia.org/resource/Fire_screen", "http://dbpedia.org/resource/Pressure", "http://dbpedia.org/resource/User_(computing)", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Glossary_of_cricket_terms", "http://dbpedia.org/resource/A", "http://dbpedia.org/resource/Microsoft_Surface", "http://dbpedia.org/resource/Wave", "http://dbpedia.org/resource/Surface_area" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/443",
+    "@type" : "gi2mo:Idea",
+    "content" : "i work in machinery maintenance, we have to work in some very difficult environments where it is not always possible to take the machine manuals etc with us. I would use this coating to turn machine label boards into touch screen displays that will provide us with all the information about the machine.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Manual_labour", "http://dbpedia.org/resource/Machine_(mechanical)", "http://dbpedia.org/resource/Aircraft_maintenance", "http://dbpedia.org/resource/Environment_(biophysical)", "http://dbpedia.org/resource/Machine", "http://dbpedia.org/resource/Label", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/GNU_Screen", "http://dbpedia.org/resource/Information" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/444",
+    "@type" : "gi2mo:Idea",
+    "content" : "I would provide this to teachers who can now turn white boards into large touch screens which would improve their teaching efficiency manifold. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Teacher", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/GNU_Screen", "http://dbpedia.org/resource/Education", "http://dbpedia.org/resource/Schlenk_line" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/445",
+    "@type" : "gi2mo:Idea",
+    "content" : "Having it over a window in order to change the scenery when you look out the window.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/446",
+    "@type" : "gi2mo:Idea",
+    "content" : "Adding a touch display to your television. Able to swipe channels and zoom in and out of things.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/LCD_television", "http://dbpedia.org/resource/3D_television" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/447",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could apply it on normal screen to make it become a touchscreen",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/GNU_Screen", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/448",
+    "@type" : "gi2mo:Idea",
+    "content" : "On mirror to take pictures of yourself. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Mirror" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/449",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could apply it on a wall, and project on it external images, captured with a camera, making it become like a window",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Camera", "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/450",
+    "@type" : "gi2mo:Idea",
+    "content" : "create a touchscreen microwave. "
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/451",
+    "@type" : "gi2mo:Idea",
+    "content" : "coffee table touchscreen. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee", "http://dbpedia.org/resource/Table_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/452",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could apply it on a table and write on it like if it was a notebook",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/453",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could apply it on the ground and use it as a gamepad for dancing video games",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Gamepad", "http://dbpedia.org/resource/Dance" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/454",
+    "@type" : "gi2mo:Idea",
+    "content" : "A tablet to go.  Instead of carrying around a physical tablet, the coating could be carried instead to turn any surface into a touch tablet, like a liquid.  It could even use microprocessor and RAM technology within the coating, as well as data storage.  The coating would be in a small container.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Graphics_tablet", "http://dbpedia.org/resource/Surface_(topology)", "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/Liquid", "http://dbpedia.org/resource/Microprocessor", "http://dbpedia.org/resource/Microprocessor", "http://dbpedia.org/resource/Data_storage_device", "http://dbpedia.org/resource/Container" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/5",
+    "@type" : "gi2mo:Idea",
+    "content" : "drive-through menu",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Menu" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/51",
+    "@type" : "gi2mo:Idea",
+    "content" : "Apply it to a desk so the entire desktop is a display",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Desk" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/52",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a mirror to let people view what different outfits or hairstyles or makeup would look like on them",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/People", "http://dbpedia.org/resource/Hairstyle", "http://dbpedia.org/resource/Cosmetics" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/53",
+    "@type" : "gi2mo:Idea",
+    "content" : "Use it on a car to make an easily changeable paint job",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Car", "http://dbpedia.org/resource/Paint", "http://dbpedia.org/resource/Job" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/54",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a wall to create the world's flattest television",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/World", "http://dbpedia.org/resource/Television" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/55",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put it on a large sheet of flexible plastic to have a tablet that you can roll up",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Plastic", "http://dbpedia.org/resource/Tablet_computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/56",
+    "@type" : "gi2mo:Idea",
+    "content" : "On a window to allow you to view a better landscape if you don't like your real view",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Window" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/57",
+    "@type" : "gi2mo:Idea",
+    "content" : "On clothing to create fantastic moving designs",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Clothing", "http://dbpedia.org/resource/Design" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/58",
+    "@type" : "gi2mo:Idea",
+    "content" : "On kitchen cabinets and it could display what's inside without opening them",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Kitchen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/59",
+    "@type" : "gi2mo:Idea",
+    "content" : "I think it would be a great idea for a touch screen oven/stove.  The reason I feel this would be a great addition is because it could help a lot of people with disabilities and help others that would like to cook but are afraid of being around the hot pieces of cookware.  This would essentially be a picture and your stove would be behind it.  You could just touch the items that you want to use and the heat you want to put it at to cook it.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Idea", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Kitchen_stove", "http://dbpedia.org/resource/Reason", "http://dbpedia.org/resource/Addition", "http://dbpedia.org/resource/People", "http://dbpedia.org/resource/Disability", "http://dbpedia.org/resource/Other", "http://dbpedia.org/resource/Image", "http://dbpedia.org/resource/Stove", "http://dbpedia.org/resource/Heat", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/6",
+    "@type" : "gi2mo:Idea",
+    "content" : "shower curtain that shows you news and info",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Curtain", "http://dbpedia.org/resource/News", "http://dbpedia.org/resource/Information" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/60",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch screen for certain closets so you dont have to go in and have everything already set up so you can find it with a search function.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Film", "http://dbpedia.org/resource/Closet", "http://dbpedia.org/resource/Everything", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Function_(engineering)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/61",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bed that you could have a touch display on it.  This would be used to move the bed and contour it with the touch screen to make it most comfortable.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Bed", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Film" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/62",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display in the restroom on the wall near the toilet so when you are using the toilet, you can browse the internet,",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Flat_panel_display", "http://dbpedia.org/resource/Public_toilet", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/Toilet", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Internet" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/63",
+    "@type" : "gi2mo:Idea",
+    "content" : "Turn the oven knobs into a touchscreen so that you can program it for cook times and temperature; even what type of food you are cooking.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Oven", "http://dbpedia.org/resource/Control_knob", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Food" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/64",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch screen display on the kitchen counter so you can look up recipes or cooking videos while cooking.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Projection_screen", "http://dbpedia.org/resource/Flat_panel_display", "http://dbpedia.org/resource/Kitchen", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Recipe", "http://dbpedia.org/resource/Video", "http://dbpedia.org/resource/Cooking" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/65",
+    "@type" : "gi2mo:Idea",
+    "content" : "Put the touchscreen coating on a window or door to tell you the weather outside and the forecast for the day.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Window", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Forecast:_Tomorrow", "http://dbpedia.org/resource/Day" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/66",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen for the bathroom to regulate the water temperature in the shower and also be used as a radio or television.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Water", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Radio", "http://dbpedia.org/resource/Television" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/67",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch screen display in the garage tool bench so you can watch videos on repair or fix something. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Video", "http://dbpedia.org/resource/Maintenance,_repair,_and_operations" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/68",
+    "@type" : "gi2mo:Idea",
+    "content" : "Doors that can automatically lock themselves through the use of a touch display. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Use_case", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Electronic_visual_display" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/69",
+    "@type" : "gi2mo:Idea",
+    "content" : "A refrigerator that can bring items to the front based on requests made on a touch display. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Display_device" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/7",
+    "@type" : "gi2mo:Idea",
+    "content" : "coffee table that allows you to control your TV, music, home automation, etc",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coffee", "http://dbpedia.org/resource/Calligra_Sheets", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Automation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/70",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touchscreen in the home so you can lock the whole house and set the temperature as you leave.  This would be good as you leave for work or even if you went on vacation it can turn on and off lights at certain times.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Manual_labour", "http://dbpedia.org/resource/Vacation", "http://dbpedia.org/resource/Light" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/71",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch screen restaurant where you can order without having to interact with workers.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Workforce" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/72",
+    "@type" : "gi2mo:Idea",
+    "content" : "Thermostat that can be changed without the use of a dial or buttons. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Thermostat", "http://dbpedia.org/resource/Dial_(measurement)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/73",
+    "@type" : "gi2mo:Idea",
+    "content" : "Monitors could become touch screens, improving the desktop computing experience. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Computer_monitor", "http://dbpedia.org/resource/Multi-touch", "http://dbpedia.org/resource/Desktop_computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/74",
+    "@type" : "gi2mo:Idea",
+    "content" : "Tables can have smart home functionality for taking actions from a couch or other sitting position. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Home", "http://dbpedia.org/resource/Function_(engineering)", "http://dbpedia.org/resource/Couch", "http://dbpedia.org/resource/List_of_human_positions" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/75",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touch screen doors to the house.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/House" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/76",
+    "@type" : "gi2mo:Idea",
+    "content" : "Toilet paper dispenser can have a touch screen alerting a robot to bring you more if the dispenser is empty. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Toilet_roll_holder", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Robot", "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/77",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touchscreen table that could serve as a computer.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Computer" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/78",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touchscreen bottle that can adjust liquid temperature.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Bottle", "http://dbpedia.org/resource/Temperature" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/79",
+    "@type" : "gi2mo:Idea",
+    "content" : "Refrigerator touchscreen that can adjust the temperature and humidity.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Humidity" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/8",
+    "@type" : "gi2mo:Idea",
+    "content" : "vanity or bathroom mirror that shows news, time, weather, sports",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Vanity", "http://dbpedia.org/resource/Bathroom", "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/News", "http://dbpedia.org/resource/Time", "http://dbpedia.org/resource/Weather", "http://dbpedia.org/resource/Sport" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/80",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touchscreen printer that will allow for more personalized functions.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Printer_(computing)", "http://dbpedia.org/resource/Function_(engineering)" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/81",
+    "@type" : "gi2mo:Idea",
+    "content" : "Touchscreen food machine that will personalize food options to create.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Food", "http://dbpedia.org/resource/Machine" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/82",
+    "@type" : "gi2mo:Idea",
+    "content" : "A bathroom mirror would be great with a touch display, because as you're getting ready for work, you can catch up on the morning news or get a jumpstart on reading and returning emails.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/83",
+    "@type" : "gi2mo:Idea",
+    "content" : "It would be useful for dog collars to have a touch display. If your dog ran away or got loose, all the owner's contact info could be easily accessed and the dog could be returned home easily.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Collar_(animal)", "http://dbpedia.org/resource/Ownership", "http://dbpedia.org/resource/Dog" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/84",
+    "@type" : "gi2mo:Idea",
+    "content" : "A touch display would be useful on the door of a refrigerator. It could keep your grocery list, left over dates and expiration dates all in one spot. No more wasting food!",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Door", "http://dbpedia.org/resource/Refrigerator", "http://dbpedia.org/resource/Shopping_list", "http://dbpedia.org/resource/Calendar_date", "http://dbpedia.org/resource/Food" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/85",
+    "@type" : "gi2mo:Idea",
+    "content" : "I feel like it would be very useful to have all of you car buttons to be coated on to the dashboard.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Dashboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/86",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could use the coating to put on your desk and use that instead of a keyboard.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Coating", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/IBM_PC_keyboard" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/87",
+    "@type" : "gi2mo:Idea",
+    "content" : "make your work desk have a spot right next to you that is a touch pad for your phone.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Manual_labour", "http://dbpedia.org/resource/Desk", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Contact_pad", "http://dbpedia.org/resource/Telephone" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/88",
+    "@type" : "gi2mo:Idea",
+    "content" : "Make the menus at restaurants be touch display right on the table at restaurants.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Menu", "http://dbpedia.org/resource/Restaurant", "http://dbpedia.org/resource/Touchscreen" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/9",
+    "@type" : "gi2mo:Idea",
+    "content" : "sleeve on your arm that allows you to control your phone or music",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Sleeve", "http://dbpedia.org/resource/Arm", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Telephone", "http://dbpedia.org/resource/Music" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/90",
+    "@type" : "gi2mo:Idea",
+    "content" : "kids table with a touch display. An interactive app for learning embedded in the touch display.  So, kids could learn and play with it. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/Touchscreen", "http://dbpedia.org/resource/Application_software" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/91",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could coat a mirror with it and allow the user to touch the mirror to adjust lighting, tone, magnification, etc. ",
+    "usedConcepts" : [ {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/It_(pronoun)", "http://dbpedia.org/resource/End_user", "http://dbpedia.org/resource/Lighting", "http://dbpedia.org/resource/Magnification" ]
+    }, {
+      "@list" : [ "http://dbpedia.org/resource/Mirror", "http://dbpedia.org/resource/It_(pronoun)", "http://dbpedia.org/resource/End_user", "http://dbpedia.org/resource/Lighting", "http://dbpedia.org/resource/Magnification" ]
+    } ]
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/93",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could use it on any surface for a hands on experience for anything you are trying to learn ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Surface_wave", "http://dbpedia.org/resource/Hand", "http://dbpedia.org/resource/Experience", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Learning" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/94",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could use it to control the temperature in the shower or bathtub ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Temperature", "http://dbpedia.org/resource/Shower", "http://dbpedia.org/resource/Bathtub" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/95",
+    "@type" : "gi2mo:Idea",
+    "content" : "a touch screen board. You could use it for presentation. You would have to use a special pen made for the screen to write on it. It would be a transparent glass but with touch display innovation.",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Presentation", "http://dbpedia.org/resource/Pen", "http://dbpedia.org/resource/Glass", "http://dbpedia.org/resource/Innovation" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/96",
+    "@type" : "gi2mo:Idea",
+    "content" : "you could use it on your shoes so it could tie your laces ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Shoe", "http://dbpedia.org/resource/Shoelaces" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/97",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could use it to turn any wall in your house into a tv or a game ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Wall", "http://dbpedia.org/resource/House", "http://dbpedia.org/resource/Television", "http://dbpedia.org/resource/Game" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/98",
+    "@type" : "gi2mo:Idea",
+    "content" : "wine identification touch table. You put your wine on top of the touch table and it would display all the details of the wine. ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Wine", "http://dbpedia.org/resource/Somatosensory_system", "http://dbpedia.org/resource/Table_(furniture)", "http://dbpedia.org/resource/You", "http://dbpedia.org/resource/Wine", "http://dbpedia.org/resource/Wine" ]
+    }
+  }, {
+    "@id" : "http://purl.org/innovonto/ideas/chi19s1/99",
+    "@type" : "gi2mo:Idea",
+    "content" : "You could turn your front yard into any location you want to be or to create a dance floor and have a party ",
+    "usedConcepts" : {
+      "@list" : [ "http://dbpedia.org/resource/Yard", "http://dbpedia.org/resource/Location_parameter", "http://dbpedia.org/resource/Dance", "http://dbpedia.org/resource/Floor", "http://dbpedia.org/resource/Party" ]
+    }
+  } ],
+  "@context" : {
+    "rest" : {
+      "@id" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
+      "@type" : "@id"
+    },
+    "first" : {
+      "@id" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
+      "@type" : "@id"
+    },
+    "content" : {
+      "@id" : "http://purl.org/gi2mo/ns#content"
+    },
+    "usedConcepts" : {
+      "@id" : "http://purl.org/innovonto/types#usedConcepts",
+      "@type" : "@id"
+    },
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "gi2mo" : "http://purl.org/gi2mo/ns#",
+    "oig" : "http://purl.org/innovonto/types#"
+  }
+}
