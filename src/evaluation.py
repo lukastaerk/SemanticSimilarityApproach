@@ -176,11 +176,12 @@ class SentenceSimEvaluation(WordSimEvaluation):
         ideaM = WMD.sentenceSimilarityMatrix(bows)
         con2ideaM = WMD.concepts2sentenceSIM(bows)
         SIM_data = {
-            "concepts":concepts, 
+            "concepts":KG._concepts, 
             "ideas":texts,
             "conceptSIM":sim_M.tolist(),
             "ideaSIM":ideaM.tolist(),
             "concept2ideaSIM":con2ideaM.tolist()
         }
+        print(SIM_data["concepts"].__len__() == SIM_data["conceptSIM"].__len__())
         self._dataset.save_dataset(SIM_data, dataset_name)
         return SIM_data

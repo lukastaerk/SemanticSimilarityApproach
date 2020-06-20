@@ -37,6 +37,10 @@ class Dataset:
         with open("%s/%s.json" % (path,name), "w+") as f:
             f.write(json.dumps(data, indent=2))
 
+    def save_dataset_nq(self, data, name, path="data"):
+        with open("%s/%s.nq" % (path,name), "w+") as f:
+            f.write(data)
+
     def transform_dataset(self,name):
         pairs = self.load_dataset(name)
         name_re = name.replace("type", "noun")
