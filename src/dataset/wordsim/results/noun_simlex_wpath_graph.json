@@ -1,8 +1,8 @@
 {
-  "correlation": 0.397,
+  "correlation": 0.422,
   "similarities": [
     [
-      0.68,
+      0.626,
       [
         "wife",
         "husband",
@@ -11,7 +11,7 @@
       "affinity"
     ],
     [
-      0.216,
+      0.511,
       [
         "book",
         "text",
@@ -20,7 +20,7 @@
       "text"
     ],
     [
-      0.125,
+      0.113,
       [
         "groom",
         "bride",
@@ -29,16 +29,16 @@
       "Wikidata metaclass"
     ],
     [
-      0.671,
+      0.65,
       [
         "night",
         "day",
         1.88
       ],
-      "time of the day"
+      "night"
     ],
     [
-      0.718,
+      0.729,
       [
         "south",
         "north",
@@ -47,7 +47,7 @@
       "cardinal direction"
     ],
     [
-      0.4,
+      0.258,
       [
         "plane",
         "airport",
@@ -56,7 +56,7 @@
       "organization"
     ],
     [
-      0.61,
+      0.35,
       [
         "uncle",
         "aunt",
@@ -65,7 +65,7 @@
       "kinship"
     ],
     [
-      0.845,
+      0.716,
       [
         "horse",
         "mare",
@@ -74,7 +74,7 @@
       "horse"
     ],
     [
-      0.718,
+      0.726,
       [
         "bottom",
         "top",
@@ -83,13 +83,13 @@
       "down and up"
     ],
     [
-      0.477,
+      0.448,
       [
         "friend",
         "buddy",
         8.78
       ],
-      "human"
+      "companionship"
     ],
     [
       1.0,
@@ -101,16 +101,16 @@
       "student"
     ],
     [
-      0.176,
+      0.201,
       [
         "world",
         "globe",
         6.67
       ],
-      "abstract object"
+      "model"
     ],
     [
-      0.633,
+      0.65,
       [
         "leg",
         "arm",
@@ -119,7 +119,7 @@
       "anatomical region"
     ],
     [
-      0.655,
+      0.641,
       [
         "plane",
         "jet",
@@ -128,16 +128,16 @@
       "powered aircraft"
     ],
     [
-      0.718,
+      0.635,
       [
         "woman",
         "man",
         3.33
       ],
-      "gender identity"
+      "adult"
     ],
     [
-      0.845,
+      0.716,
       [
         "horse",
         "colt",
@@ -155,7 +155,7 @@
       "actor"
     ],
     [
-      0.794,
+      0.681,
       [
         "teacher",
         "instructor",
@@ -173,16 +173,16 @@
       "film"
     ],
     [
-      0.17,
+      0.204,
       [
         "bird",
         "hawk",
         7.85
       ],
-      "class"
+      "polyphyletic common name"
     ],
     [
-      0.287,
+      0.207,
       [
         "word",
         "dictionary",
@@ -191,16 +191,16 @@
       "written work"
     ],
     [
-      0.126,
+      0.112,
       [
         "money",
         "salary",
         7.88
       ],
-      "technical term"
+      "term"
     ],
     [
-      0.55,
+      0.39,
       [
         "dog",
         "cat",
@@ -218,7 +218,7 @@
       "zone"
     ],
     [
-      0.68,
+      0.612,
       [
         "navy",
         "army",
@@ -227,16 +227,16 @@
       "military branch"
     ],
     [
-      0.253,
+      0.258,
       [
         "book",
         "literature",
         7.53
       ],
-      "art"
+      "text"
     ],
     [
-      0.323,
+      0.257,
       [
         "clothes",
         "closet",
@@ -245,16 +245,16 @@
       "product"
     ],
     [
-      0.671,
+      0.482,
       [
         "sunset",
         "sunrise",
         2.47
       ],
-      "time of the day"
+      "day"
     ],
     [
-      0.578,
+      0.39,
       [
         "child",
         "adult",
@@ -272,16 +272,16 @@
       "cattle"
     ],
     [
-      0.203,
+      0.258,
       [
         "book",
         "story",
         5.63
       ],
-      "art"
+      "text"
     ],
     [
-      0.636,
+      0.477,
       [
         "winter",
         "summer",
@@ -299,7 +299,7 @@
       "taxi"
     ],
     [
-      0.316,
+      0.347,
       [
         "tree",
         "maple",
@@ -308,7 +308,7 @@
       "charge"
     ],
     [
-      0.708,
+      0.622,
       [
         "bed",
         "bedroom",
@@ -317,7 +317,7 @@
       "sleeping place"
     ],
     [
-      0.568,
+      0.383,
       [
         "roof",
         "ceiling",
@@ -326,7 +326,7 @@
       "architectural element"
     ],
     [
-      0.765,
+      0.664,
       [
         "disease",
         "infection",
@@ -335,16 +335,16 @@
       "disease"
     ],
     [
-      0.633,
+      0.828,
       [
         "arm",
         "shoulder",
         4.85
       ],
-      "anatomical region"
+      "upper arm"
     ],
     [
-      0.856,
+      0.818,
       [
         "sheep",
         "lamb",
@@ -353,7 +353,7 @@
       "domestic sheep"
     ],
     [
-      0.535,
+      0.537,
       [
         "lady",
         "gentleman",
@@ -362,7 +362,7 @@
       "adult"
     ],
     [
-      0.215,
+      0.201,
       [
         "boat",
         "anchor",
@@ -371,16 +371,16 @@
       "first-order metaclass"
     ],
     [
-      0.627,
+      0.756,
       [
         "priest",
         "monk",
         6.28
       ],
-      "religious occupation"
+      "priest"
     ],
     [
-      0.708,
+      0.685,
       [
         "toe",
         "finger",
@@ -398,25 +398,25 @@
       "watercourse"
     ],
     [
-      0.662,
+      0.334,
       [
         "anger",
         "fury",
         8.73
       ],
-      "negative emotion"
+      "psychology terminology"
     ],
     [
-      0.254,
+      0.65,
       [
         "date",
         "calendar",
         4.42
       ],
-      "artificial physical object"
+      "calendar date"
     ],
     [
-      0.479,
+      0.341,
       [
         "sea",
         "ocean",
@@ -425,34 +425,34 @@
       "geographic location"
     ],
     [
-      0.614,
+      0.85,
       [
         "second",
         "minute",
         4.62
       ],
-      "unit of time"
+      "minute"
     ],
     [
-      0.618,
+      0.824,
       [
         "hand",
         "thumb",
         3.88
       ],
-      "segment of hand"
+      "hand"
     ],
     [
-      0.343,
+      0.523,
       [
         "wood",
         "log",
         7.3
       ],
-      "anatomical structure"
+      "tree"
     ],
     [
-      0.328,
+      0.21,
       [
         "mud",
         "dirt",
@@ -479,7 +479,7 @@
       "means"
     ],
     [
-      0.55,
+      0.39,
       [
         "mouse",
         "cat",
@@ -488,7 +488,7 @@
       "polyphyletic common name"
     ],
     [
-      0.718,
+      0.688,
       [
         "cop",
         "sheriff",
@@ -497,16 +497,16 @@
       "law enforcement officer"
     ],
     [
-      0.202,
+      0.251,
       [
         "death",
         "burial",
         4.93
       ],
-      "natural process"
+      "occurrence"
     ],
     [
-      0.781,
+      0.631,
       [
         "music",
         "melody",
@@ -515,7 +515,7 @@
       "musical work"
     ],
     [
-      0.395,
+      0.262,
       [
         "beer",
         "alcohol",
@@ -524,7 +524,7 @@
       "chemical substance"
     ],
     [
-      0.6,
+      0.582,
       [
         "mouth",
         "lip",
@@ -533,7 +533,7 @@
       "subdivision of face"
     ],
     [
-      0.686,
+      0.617,
       [
         "storm",
         "hurricane",
@@ -548,10 +548,10 @@
         "income",
         2.38
       ],
-      "Wikimedia disambiguation page"
+      "academic discipline"
     ],
     [
-      0.258,
+      0.174,
       [
         "flower",
         "violet",
@@ -560,7 +560,7 @@
       "anatomical structure"
     ],
     [
-      0.845,
+      0.799,
       [
         "paper",
         "cardboard",
@@ -569,16 +569,16 @@
       "paper"
     ],
     [
-      0.568,
+      0.435,
       [
         "floor",
         "ceiling",
         1.73
       ],
-      "architectural element"
+      "building"
     ],
     [
-      0.68,
+      0.525,
       [
         "beach",
         "seashore",
@@ -587,16 +587,16 @@
       "shore"
     ],
     [
-      0.189,
+      0.143,
       [
         "rod",
         "curtain",
         3.03
       ],
-      "system"
+      "artificial entity"
     ],
     [
-      0.379,
+      0.242,
       [
         "hound",
         "fox",
@@ -605,7 +605,7 @@
       "polyphyletic common name"
     ],
     [
-      0.829,
+      0.633,
       [
         "street",
         "alley",
@@ -614,25 +614,25 @@
       "street"
     ],
     [
-      0.185,
+      0.416,
       [
         "boat",
         "deck",
         4.28
       ],
-      "artificial physical object"
+      "watercraft"
     ],
     [
-      0.182,
+      0.404,
       [
         "car",
         "horn",
         2.57
       ],
-      "device"
+      "transport"
     ],
     [
-      0.183,
+      0.167,
       [
         "friend",
         "guest",
@@ -641,7 +641,7 @@
       "subject"
     ],
     [
-      0.25,
+      0.172,
       [
         "employer",
         "employee",
@@ -650,7 +650,7 @@
       "agent"
     ],
     [
-      0.593,
+      0.582,
       [
         "hand",
         "wrist",
@@ -659,16 +659,16 @@
       "free upper limb segment"
     ],
     [
-      0.214,
+      0.146,
       [
         "ball",
         "cannon",
         2.58
       ],
-      "equipment"
+      "solid figure"
     ],
     [
-      0.466,
+      0.41,
       [
         "alcohol",
         "brandy",
@@ -677,7 +677,7 @@
       "Q24700923"
     ],
     [
-      0.856,
+      0.839,
       [
         "victory",
         "triumph",
@@ -686,13 +686,13 @@
       "victory"
     ],
     [
-      0.163,
+      0.125,
       [
         "telephone",
         "booth",
         3.63
       ],
-      "artificial physical object"
+      "work"
     ],
     [
       1.0,
@@ -704,7 +704,7 @@
       "doorway"
     ],
     [
-      0.63,
+      0.447,
       [
         "motel",
         "inn",
@@ -713,16 +713,16 @@
       "hotel building"
     ],
     [
-      0.312,
+      0.544,
       [
         "clothes",
         "cloth",
         5.47
       ],
-      "artificial physical object"
+      "clothing"
     ],
     [
-      0.537,
+      0.416,
       [
         "steak",
         "meat",
@@ -731,7 +731,7 @@
       "food"
     ],
     [
-      0.295,
+      0.24,
       [
         "nail",
         "thumb",
@@ -740,7 +740,7 @@
       "anatomical structure"
     ],
     [
-      0.68,
+      0.504,
       [
         "band",
         "orchestra",
@@ -749,7 +749,7 @@
       "musical group"
     ],
     [
-      0.191,
+      0.343,
       [
         "book",
         "bible",
@@ -758,16 +758,16 @@
       "text"
     ],
     [
-      0.254,
+      0.516,
       [
         "business",
         "industry",
         7.02
       ],
-      "economic activity"
+      "economic branch"
     ],
     [
-      0.836,
+      0.655,
       [
         "winter",
         "season",
@@ -776,16 +776,16 @@
       "season"
     ],
     [
-      0.614,
+      0.768,
       [
         "decade",
         "century",
         3.48
       ],
-      "unit of time"
+      "century"
     ],
     [
-      0.411,
+      0.357,
       [
         "alcohol",
         "gin",
@@ -794,7 +794,7 @@
       "Q24700923"
     ],
     [
-      0.415,
+      0.373,
       [
         "hat",
         "coat",
@@ -803,16 +803,16 @@
       "clothing"
     ],
     [
-      0.568,
+      0.645,
       [
         "window",
         "door",
         3.33
       ],
-      "architectural element"
+      "window"
     ],
     [
-      0.359,
+      0.414,
       [
         "arm",
         "wrist",
@@ -821,7 +821,7 @@
       "subdivision of cardinal body part"
     ],
     [
-      0.559,
+      0.375,
       [
         "house",
         "apartment",
@@ -830,7 +830,7 @@
       "residence"
     ],
     [
-      0.629,
+      0.338,
       [
         "glass",
         "crystal",
@@ -839,7 +839,7 @@
       "solid"
     ],
     [
-      0.675,
+      0.584,
       [
         "wine",
         "brandy",
@@ -848,7 +848,7 @@
       "alcoholic beverage"
     ],
     [
-      0.146,
+      0.143,
       [
         "creator",
         "maker",
@@ -857,7 +857,7 @@
       "concept"
     ],
     [
-      0.7,
+      0.6,
       [
         "dinner",
         "breakfast",
@@ -866,7 +866,7 @@
       "meals"
     ],
     [
-      0.41,
+      0.297,
       [
         "arm",
         "muscle",
@@ -875,25 +875,25 @@
       "anatomical structure"
     ],
     [
-      0.133,
+      0.146,
       [
         "bubble",
         "suds",
         8.57
       ],
-      "abstract object"
+      "physical system"
     ],
     [
-      0.675,
+      0.777,
       [
         "bread",
         "flour",
         3.33
       ],
-      "staple food"
+      "flour"
     ],
     [
-      0.201,
+      0.251,
       [
         "death",
         "tragedy",
@@ -902,7 +902,7 @@
       "occurrence"
     ],
     [
-      0.255,
+      0.251,
       [
         "absence",
         "presence",
@@ -911,7 +911,7 @@
       "concept"
     ],
     [
-      0.567,
+      0.378,
       [
         "gun",
         "cannon",
@@ -920,7 +920,7 @@
       "weapon family"
     ],
     [
-      0.18,
+      0.167,
       [
         "grass",
         "blade",
@@ -929,7 +929,7 @@
       "first-order metaclass"
     ],
     [
-      0.619,
+      0.63,
       [
         "ball",
         "basket",
@@ -938,16 +938,16 @@
       "sports equipment"
     ],
     [
-      0.222,
+      0.201,
       [
         "hose",
         "garden",
         1.67
       ],
-      "work"
+      "artificial entity"
     ],
     [
-      0.829,
+      0.795,
       [
         "boy",
         "kid",
@@ -956,34 +956,34 @@
       "child"
     ],
     [
-      0.309,
+      0.644,
       [
         "church",
         "choir",
         2.95
       ],
-      "group of humans"
+      "church building"
     ],
     [
-      0.312,
+      0.257,
       [
         "clothes",
         "drawer",
         3.02
       ],
-      "artificial physical object"
+      "product"
     ],
     [
-      0.102,
+      0.553,
       [
         "tower",
         "bell",
         1.9
       ],
-      "class"
+      "bell tower"
     ],
     [
-      0.845,
+      0.815,
       [
         "father",
         "parent",
@@ -992,25 +992,25 @@
       "parent"
     ],
     [
-      0.135,
+      0.168,
       [
         "school",
         "grade",
         4.42
       ],
-      "property"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.276,
+      0.2,
       [
         "parent",
         "adult",
         5.37
       ],
-      "person"
+      "entity"
     ],
     [
-      0.365,
+      0.235,
       [
         "bar",
         "jail",
@@ -1019,16 +1019,16 @@
       "facility"
     ],
     [
-      0.252,
+      0.167,
       [
         "car",
         "highway",
         3.4
       ],
-      "type"
+      "classification system"
     ],
     [
-      0.287,
+      0.207,
       [
         "dictionary",
         "definition",
@@ -1037,7 +1037,7 @@
       "written work"
     ],
     [
-      0.397,
+      0.237,
       [
         "door",
         "cellar",
@@ -1046,16 +1046,16 @@
       "architectural element"
     ],
     [
-      0.54,
+      0.64,
       [
         "army",
         "legion",
         5.95
       ],
-      "military unit"
+      "army"
     ],
     [
-      0.494,
+      0.348,
       [
         "metal",
         "aluminum",
@@ -1073,7 +1073,7 @@
       "seat"
     ],
     [
-      0.618,
+      0.58,
       [
         "cloud",
         "fog",
@@ -1082,7 +1082,7 @@
       "cloud"
     ],
     [
-      0.666,
+      0.623,
       [
         "boy",
         "son",
@@ -1100,13 +1100,13 @@
       "ice"
     ],
     [
-      0.223,
+      0.622,
       [
         "bed",
         "blanket",
         3.02
       ],
-      "product"
+      "sleep"
     ],
     [
       1.0,
@@ -1127,25 +1127,25 @@
       "level"
     ],
     [
-      0.721,
+      0.554,
       [
         "business",
         "company",
         9.02
       ],
-      "business"
+      "company"
     ],
     [
-      0.405,
+      0.704,
       [
         "clothes",
         "fabric",
         5.87
       ],
-      "artificial physical object"
+      "clothing"
     ],
     [
-      0.415,
+      0.373,
       [
         "sweater",
         "jacket",
@@ -1154,7 +1154,7 @@
       "clothing"
     ],
     [
-      0.255,
+      0.206,
       [
         "money",
         "capital",
@@ -1163,16 +1163,16 @@
       "economic concept"
     ],
     [
-      0.718,
+      0.695,
       [
         "hand",
         "foot",
         4.17
       ],
-      "autopod region"
+      "human-based unit of measurement"
     ],
     [
-      0.466,
+      0.41,
       [
         "alcohol",
         "cocktail",
@@ -1181,7 +1181,7 @@
       "Q24700923"
     ],
     [
-      0.652,
+      0.624,
       [
         "yard",
         "inch",
@@ -1190,25 +1190,25 @@
       "unit of length"
     ],
     [
-      0.395,
+      0.595,
       [
         "molecule",
         "atom",
         6.45
       ],
-      "chemical entity"
+      "atom"
     ],
     [
-      0.16,
+      0.54,
       [
         "lens",
         "camera",
         4.28
       ],
-      "perceptible object"
+      "objective"
     ],
     [
-      0.823,
+      0.75,
       [
         "meal",
         "dinner",
@@ -1217,7 +1217,7 @@
       "meals"
     ],
     [
-      0.291,
+      0.173,
       [
         "eye",
         "tear",
@@ -1226,16 +1226,16 @@
       "material anatomical entity"
     ],
     [
-      0.49,
+      0.601,
       [
         "god",
         "devil",
         1.8
       ],
-      "supernatural being"
+      "deity"
     ],
     [
-      0.255,
+      0.251,
       [
         "loop",
         "belt",
@@ -1244,7 +1244,7 @@
       "concept"
     ],
     [
-      0.55,
+      0.39,
       [
         "rat",
         "mouse",
@@ -1262,22 +1262,22 @@
       "engine"
     ],
     [
-      0.593,
+      0.744,
       [
         "car",
         "cab",
         7.42
       ],
-      "motor vehicle"
+      "taxi"
     ],
     [
-      0.4,
+      0.252,
       [
         "cat",
         "lion",
         6.75
       ],
-      "list"
+      "Wikimedia disambiguation page"
     ],
     [
       1.0,
@@ -1289,7 +1289,7 @@
       "magnitude"
     ],
     [
-      0.255,
+      0.251,
       [
         "reality",
         "fantasy",
@@ -1298,7 +1298,7 @@
       "concept"
     ],
     [
-      0.568,
+      0.383,
       [
         "door",
         "gate",
@@ -1307,7 +1307,7 @@
       "architectural element"
     ],
     [
-      0.818,
+      0.765,
       [
         "cat",
         "pet",
@@ -1316,7 +1316,7 @@
       "pet"
     ],
     [
-      0.68,
+      0.416,
       [
         "tin",
         "aluminum",
@@ -1325,16 +1325,16 @@
       "chemical element"
     ],
     [
-      0.295,
+      0.36,
       [
         "bone",
         "jaw",
         4.17
       ],
-      "anatomical structure"
+      "animal organ"
     ],
     [
-      0.836,
+      0.774,
       [
         "cereal",
         "wheat",
@@ -1343,7 +1343,7 @@
       "cereal"
     ],
     [
-      0.365,
+      0.299,
       [
         "house",
         "key",
@@ -1352,7 +1352,7 @@
       "music"
     ],
     [
-      0.517,
+      0.35,
       [
         "blood",
         "flesh",
@@ -1361,7 +1361,7 @@
       "tissue"
     ],
     [
-      0.345,
+      0.199,
       [
         "door",
         "corridor",
@@ -1370,7 +1370,7 @@
       "architectural element"
     ],
     [
-      0.359,
+      0.335,
       [
         "god",
         "spirit",
@@ -1379,16 +1379,16 @@
       "abstract being"
     ],
     [
-      0.267,
+      0.334,
       [
         "capability",
         "competence",
         7.62
       ],
-      "property"
+      "capability"
     ],
     [
-      0.154,
+      0.143,
       [
         "abundance",
         "plenty",
@@ -1397,7 +1397,7 @@
       "measure"
     ],
     [
-      0.836,
+      0.735,
       [
         "sofa",
         "chair",
@@ -1406,7 +1406,7 @@
       "seat"
     ],
     [
-      0.223,
+      0.172,
       [
         "wall",
         "brick",
@@ -1415,7 +1415,7 @@
       "product"
     ],
     [
-      0.434,
+      0.389,
       [
         "horn",
         "drum",
@@ -1424,7 +1424,7 @@
       "class of instruments"
     ],
     [
-      0.621,
+      0.457,
       [
         "organ",
         "liver",
@@ -1433,16 +1433,16 @@
       "organ"
     ],
     [
-      0.303,
+      0.201,
       [
         "strength",
         "might",
         7.07
       ],
-      "art genre"
+      "visual artwork"
     ],
     [
-      0.628,
+      0.516,
       [
         "phrase",
         "word",
@@ -1451,16 +1451,16 @@
       "phrase"
     ],
     [
-      0.111,
+      0.147,
       [
         "band",
         "parade",
         3.92
       ],
-      "entity"
+      "artificial physical object"
     ],
     [
-      0.295,
+      0.24,
       [
         "stomach",
         "waist",
@@ -1469,16 +1469,16 @@
       "anatomical structure"
     ],
     [
-      0.202,
+      0.318,
       [
         "cloud",
         "storm",
         5.6
       ],
-      "phenomenon"
+      "natural phenomenon"
     ],
     [
-      0.528,
+      0.427,
       [
         "joy",
         "pride",
@@ -1487,16 +1487,16 @@
       "emotion"
     ],
     [
-      0.12,
+      0.254,
       [
         "noise",
         "rattle",
         6.17
       ],
-      "second-order metaclass"
+      "music"
     ],
     [
-      0.856,
+      0.833,
       [
         "rain",
         "mist",
@@ -1505,7 +1505,7 @@
       "rain"
     ],
     [
-      0.621,
+      0.416,
       [
         "beer",
         "beverage",
@@ -1514,7 +1514,7 @@
       "drink"
     ],
     [
-      0.666,
+      0.623,
       [
         "man",
         "uncle",
@@ -1523,25 +1523,25 @@
       "male human"
     ],
     [
-      0.474,
+      0.622,
       [
         "apple",
         "juice",
         2.88
       ],
-      "food ingredient"
+      "fruit"
     ],
     [
-      0.17,
+      0.201,
       [
         "intelligence",
         "logic",
         6.5
       ],
-      "class"
+      "cognition"
     ],
     [
-      0.505,
+      0.511,
       [
         "communication",
         "language",
@@ -1550,7 +1550,7 @@
       "communication medium"
     ],
     [
-      0.185,
+      0.17,
       [
         "mink",
         "fur",
@@ -1577,7 +1577,7 @@
       "bank"
     ],
     [
-      0.731,
+      0.677,
       [
         "wire",
         "cord",
@@ -1586,7 +1586,7 @@
       "cord"
     ],
     [
-      0.478,
+      0.381,
       [
         "bird",
         "turkey",
@@ -1595,7 +1595,7 @@
       "taxon"
     ],
     [
-      0.845,
+      0.767,
       [
         "bed",
         "crib",
@@ -1604,16 +1604,16 @@
       "bed"
     ],
     [
-      0.267,
+      0.334,
       [
         "competence",
         "ability",
         7.5
       ],
-      "property"
+      "capability"
     ],
     [
-      0.629,
+      0.411,
       [
         "cloud",
         "haze",
@@ -1622,7 +1622,7 @@
       "natural phenomenon"
     ],
     [
-      0.823,
+      0.75,
       [
         "supper",
         "meal",
@@ -1631,16 +1631,16 @@
       "meals"
     ],
     [
-      0.276,
+      0.172,
       [
         "bar",
         "cage",
         2.8
       ],
-      "architectural structure"
+      "landform"
     ],
     [
-      0.581,
+      0.407,
       [
         "water",
         "salt",
@@ -1649,16 +1649,16 @@
       "chemical compound"
     ],
     [
-      0.113,
+      0.334,
       [
         "sense",
         "intuition",
         7.68
       ],
-      "biological process"
+      "psychology terminology"
     ],
     [
-      0.542,
+      0.503,
       [
         "situation",
         "condition",
@@ -1667,7 +1667,7 @@
       "condition"
     ],
     [
-      0.655,
+      0.578,
       [
         "crime",
         "theft",
@@ -1676,13 +1676,13 @@
       "crime"
     ],
     [
-      0.169,
+      0.348,
       [
         "style",
         "fashion",
         8.5
       ],
-      "behavior"
+      "culture"
     ],
     [
       1.0,
@@ -1694,7 +1694,7 @@
       "border"
     ],
     [
-      0.511,
+      0.387,
       [
         "arm",
         "body",
@@ -1703,7 +1703,7 @@
       "anatomical structure"
     ],
     [
-      0.39,
+      0.337,
       [
         "boat",
         "car",
@@ -1712,7 +1712,7 @@
       "mode of transport"
     ],
     [
-      0.091,
+      0.1,
       [
         "sandwich",
         "lunch",
@@ -1721,7 +1721,7 @@
       "entity"
     ],
     [
-      0.652,
+      0.643,
       [
         "bride",
         "princess",
@@ -1739,7 +1739,7 @@
       "hero"
     ],
     [
-      0.203,
+      0.258,
       [
         "car",
         "gauge",
@@ -1748,7 +1748,7 @@
       "device"
     ],
     [
-      0.775,
+      0.65,
       [
         "insect",
         "bee",
@@ -1766,7 +1766,7 @@
       "infant bed"
     ],
     [
-      0.38,
+      0.291,
       [
         "animal",
         "person",
@@ -1784,7 +1784,7 @@
       "cannabis"
     ],
     [
-      0.365,
+      0.235,
       [
         "bed",
         "hospital",
@@ -1793,7 +1793,7 @@
       "facility"
     ],
     [
-      0.41,
+      0.297,
       [
         "cheek",
         "tongue",
@@ -1802,16 +1802,16 @@
       "anatomical structure"
     ],
     [
-      0.17,
+      0.362,
       [
         "disc",
         "computer",
         3.2
       ],
-      "product"
+      "computer hardware"
     ],
     [
-      0.468,
+      0.254,
       [
         "curve",
         "angle",
@@ -1820,7 +1820,7 @@
       "shape"
     ],
     [
-      0.478,
+      0.381,
       [
         "grass",
         "moss",
@@ -1829,16 +1829,16 @@
       "taxon"
     ],
     [
-      0.276,
+      0.167,
       [
         "school",
         "law",
         1.13
       ],
-      "legal concept"
+      "first-order metaclass"
     ],
     [
-      0.511,
+      0.387,
       [
         "foot",
         "head",
@@ -1847,16 +1847,16 @@
       "anatomical structure"
     ],
     [
-      0.114,
+      0.212,
       [
         "mother",
         "guardian",
         6.5
       ],
-      "concept"
+      "kinship"
     ],
     [
-      0.845,
+      0.833,
       [
         "orthodontist",
         "dentist",
@@ -1865,7 +1865,7 @@
       "dentist"
     ],
     [
-      0.411,
+      0.357,
       [
         "alcohol",
         "whiskey",
@@ -1874,16 +1874,16 @@
       "Q24700923"
     ],
     [
-      0.504,
+      0.819,
       [
         "mouth",
         "tooth",
         6.3
       ],
-      "animal structure"
+      "mouth"
     ],
     [
-      0.067,
+      0.077,
       [
         "breakfast",
         "bacon",
@@ -1892,7 +1892,7 @@
       "entity"
     ],
     [
-      0.638,
+      0.383,
       [
         "bathroom",
         "bedroom",
@@ -1901,7 +1901,7 @@
       "room"
     ],
     [
-      0.662,
+      0.625,
       [
         "plate",
         "bowl",
@@ -1910,25 +1910,25 @@
       "tableware"
     ],
     [
-      0.317,
+      0.631,
       [
         "meat",
         "bacon",
         5.8
       ],
-      "food"
+      "meat"
     ],
     [
-      0.215,
+      0.713,
       [
         "air",
         "helium",
         3.63
       ],
-      "first-order metaclass"
+      "lifting gas"
     ],
     [
-      0.295,
+      0.207,
       [
         "worker",
         "employer",
@@ -1937,7 +1937,7 @@
       "agent"
     ],
     [
-      0.511,
+      0.387,
       [
         "body",
         "chest",
@@ -1946,7 +1946,7 @@
       "anatomical structure"
     ],
     [
-      0.61,
+      0.35,
       [
         "son",
         "father",
@@ -1955,7 +1955,7 @@
       "kinship"
     ],
     [
-      0.215,
+      0.201,
       [
         "heart",
         "surgery",
@@ -1964,25 +1964,25 @@
       "first-order metaclass"
     ],
     [
-      0.17,
+      0.169,
       [
         "woman",
         "secretary",
         1.98
       ],
-      "concept"
+      "role"
     ],
     [
-      0.836,
+      0.623,
       [
         "man",
         "father",
         4.83
       ],
-      "man"
+      "male human"
     ],
     [
-      0.59,
+      0.342,
       [
         "beach",
         "island",
@@ -1991,16 +1991,16 @@
       "landform"
     ],
     [
-      0.333,
+      0.242,
       [
         "story",
         "topic",
         5.0
       ],
-      "list"
+      "literary element"
     ],
     [
-      0.16,
+      0.167,
       [
         "game",
         "fun",
@@ -2009,13 +2009,13 @@
       "work"
     ],
     [
-      0.078,
+      0.65,
       [
         "weekend",
         "week",
         4.0
       ],
-      "activity"
+      "week"
     ],
     [
       1.0,
@@ -2027,25 +2027,25 @@
       "ordered pair"
     ],
     [
-      0.789,
+      0.615,
       [
         "woman",
         "wife",
         5.72
       ],
-      "woman"
+      "female human"
     ],
     [
-      0.55,
+      0.454,
       [
         "sheep",
         "cattle",
         4.77
       ],
-      "polyphyletic common name"
+      "domesticated animal"
     ],
     [
-      0.845,
+      0.803,
       [
         "purse",
         "bag",
@@ -2054,16 +2054,16 @@
       "bag"
     ],
     [
-      0.145,
+      0.278,
       [
         "ceiling",
         "cathedral",
         2.42
       ],
-      "artificial physical object"
+      "building"
     ],
     [
-      0.436,
+      0.322,
       [
         "bean",
         "coffee",
@@ -2072,7 +2072,7 @@
       "food"
     ],
     [
-      0.281,
+      0.176,
       [
         "wood",
         "paper",
@@ -2081,7 +2081,7 @@
       "base material"
     ],
     [
-      0.823,
+      0.829,
       [
         "top",
         "side",
@@ -2090,7 +2090,7 @@
       "side"
     ],
     [
-      0.792,
+      0.732,
       [
         "crime",
         "fraud",
@@ -2099,7 +2099,7 @@
       "crime"
     ],
     [
-      0.207,
+      0.201,
       [
         "pain",
         "harm",
@@ -2108,7 +2108,7 @@
       "philosophical concept"
     ],
     [
-      0.662,
+      0.6,
       [
         "lover",
         "companion",
@@ -2117,16 +2117,16 @@
       "character type"
     ],
     [
-      0.576,
+      0.482,
       [
         "evening",
         "dusk",
         7.78
       ],
-      "time of the day"
+      "day"
     ],
     [
-      0.61,
+      0.35,
       [
         "father",
         "daughter",
@@ -2135,7 +2135,7 @@
       "kinship"
     ],
     [
-      0.675,
+      0.584,
       [
         "wine",
         "liquor",
@@ -2144,7 +2144,7 @@
       "alcoholic beverage"
     ],
     [
-      0.662,
+      0.555,
       [
         "cow",
         "goat",
@@ -2153,22 +2153,22 @@
       "productive animal"
     ],
     [
-      0.146,
+      0.167,
       [
         "belief",
         "opinion",
         7.7
       ],
-      "notion"
+      "conviction"
     ],
     [
-      0.146,
+      0.334,
       [
         "reality",
         "illusion",
         1.42
       ],
-      "concept"
+      "psychology terminology"
     ],
     [
       1.0,
@@ -2180,7 +2180,7 @@
       "agreement"
     ],
     [
-      0.37,
+      0.336,
       [
         "wealth",
         "poverty",
@@ -2189,13 +2189,13 @@
       "state"
     ],
     [
-      0.373,
+      0.202,
       [
         "accident",
         "emergency",
         4.93
       ],
-      "social issue"
+      "condition"
     ],
     [
       0.251,
@@ -2207,7 +2207,7 @@
       "occurrence"
     ],
     [
-      0.276,
+      0.173,
       [
         "friend",
         "teacher",
@@ -2216,7 +2216,7 @@
       "person"
     ],
     [
-      0.765,
+      0.664,
       [
         "illness",
         "infection",
@@ -2225,16 +2225,16 @@
       "disease"
     ],
     [
-      0.185,
+      0.311,
       [
         "game",
         "trick",
         2.32
       ],
-      "Wikidata metaclass"
+      "event"
     ],
     [
-      0.61,
+      0.35,
       [
         "brother",
         "son",
@@ -2243,7 +2243,7 @@
       "kinship"
     ],
     [
-      0.61,
+      0.35,
       [
         "aunt",
         "nephew",
@@ -2252,7 +2252,7 @@
       "kinship"
     ],
     [
-      0.53,
+      0.429,
       [
         "worker",
         "mechanic",
@@ -2261,7 +2261,7 @@
       "worker"
     ],
     [
-      0.39,
+      0.332,
       [
         "doctor",
         "orthodontist",
@@ -2270,7 +2270,7 @@
       "profession"
     ],
     [
-      0.731,
+      0.693,
       [
         "oak",
         "maple",
@@ -2279,7 +2279,7 @@
       "broadleaf tree"
     ],
     [
-      0.18,
+      0.167,
       [
         "bee",
         "queen",
@@ -2288,16 +2288,16 @@
       "first-order metaclass"
     ],
     [
-      0.46,
+      0.504,
       [
         "car",
         "bicycle",
         3.47
       ],
-      "mode of transport"
+      "transport"
     ],
     [
-      0.339,
+      0.334,
       [
         "goal",
         "quest",
@@ -2306,7 +2306,7 @@
       "concept"
     ],
     [
-      0.856,
+      0.77,
       [
         "august",
         "month",
@@ -2315,7 +2315,7 @@
       "calendar month"
     ],
     [
-      0.54,
+      0.433,
       [
         "army",
         "squad",
@@ -2324,7 +2324,7 @@
       "military unit"
     ],
     [
-      0.629,
+      0.411,
       [
         "cloud",
         "weather",
@@ -2342,7 +2342,7 @@
       "physician"
     ],
     [
-      0.845,
+      0.665,
       [
         "canyon",
         "valley",
@@ -2351,7 +2351,7 @@
       "valley"
     ],
     [
-      0.476,
+      0.257,
       [
         "river",
         "valley",
@@ -2360,13 +2360,13 @@
       "natural geographic object"
     ],
     [
-      0.187,
+      0.143,
       [
         "sun",
         "sky",
         2.27
       ],
-      "word"
+      "concept"
     ],
     [
       0.2,
@@ -2378,7 +2378,7 @@
       "entity"
     ],
     [
-      0.367,
+      0.262,
       [
         "chocolate",
         "pie",
@@ -2387,7 +2387,7 @@
       "food"
     ],
     [
-      0.191,
+      0.168,
       [
         "circumstance",
         "situation",
@@ -2396,16 +2396,16 @@
       "condition"
     ],
     [
-      0.194,
+      0.204,
       [
         "opinion",
         "choice",
         5.43
       ],
-      "Wikimedia internal item"
+      "statement"
     ],
     [
-      0.554,
+      0.5,
       [
         "rhythm",
         "melody",
@@ -2414,7 +2414,7 @@
       "aspect of music"
     ],
     [
-      0.343,
+      0.297,
       [
         "gut",
         "nerve",
@@ -2423,25 +2423,25 @@
       "anatomical structure"
     ],
     [
-      0.671,
+      0.65,
       [
         "day",
         "dawn",
         5.47
       ],
-      "time of the day"
+      "day"
     ],
     [
-      0.12,
+      0.112,
       [
         "cattle",
         "beef",
         7.03
       ],
-      "first-order metaclass"
+      "metaclass"
     ],
     [
-      0.485,
+      0.412,
       [
         "doctor",
         "professor",
@@ -2450,7 +2450,7 @@
       "title of honor"
     ],
     [
-      0.41,
+      0.297,
       [
         "arm",
         "vein",
@@ -2459,34 +2459,34 @@
       "anatomical structure"
     ],
     [
-      0.16,
+      0.143,
       [
         "room",
         "bath",
         3.33
       ],
-      "work"
+      "artificial entity"
     ],
     [
-      0.563,
+      0.383,
       [
         "corporation",
         "business",
         9.02
       ],
-      "business"
+      "company"
     ],
     [
-      0.158,
+      0.168,
       [
         "fun",
         "football",
         1.97
       ],
-      "creative work"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.59,
+      0.342,
       [
         "hill",
         "cliff",
@@ -2495,7 +2495,7 @@
       "landform"
     ],
     [
-      0.343,
+      0.297,
       [
         "bone",
         "ankle",
@@ -2504,7 +2504,7 @@
       "anatomical structure"
     ],
     [
-      0.317,
+      0.262,
       [
         "apple",
         "candy",
@@ -2513,34 +2513,34 @@
       "food"
     ],
     [
-      0.323,
+      0.33,
       [
         "helper",
         "maid",
         5.58
       ],
-      "person"
+      "position"
     ],
     [
-      0.621,
+      0.427,
       [
         "leader",
         "manager",
         7.27
       ],
-      "leader"
+      "profession"
     ],
     [
-      0.317,
+      0.255,
       [
         "lemon",
         "tea",
         1.6
       ],
-      "food"
+      "chemical compound"
     ],
     [
-      0.633,
+      0.482,
       [
         "bee",
         "ant",
@@ -2549,7 +2549,7 @@
       "insect"
     ],
     [
-      0.68,
+      0.667,
       [
         "basketball",
         "baseball",
@@ -2558,16 +2558,16 @@
       "ball"
     ],
     [
-      0.474,
+      0.322,
       [
         "rice",
         "bean",
         2.72
       ],
-      "food ingredient"
+      "food"
     ],
     [
-      0.785,
+      0.621,
       [
         "bed",
         "furniture",
@@ -2576,7 +2576,7 @@
       "furniture"
     ],
     [
-      0.771,
+      0.598,
       [
         "emotion",
         "passion",
@@ -2585,16 +2585,16 @@
       "emotion"
     ],
     [
-      0.339,
+      0.845,
       [
         "anarchy",
         "chaos",
         7.93
       ],
-      "concept"
+      "anarchy"
     ],
     [
-      0.284,
+      0.168,
       [
         "crime",
         "violation",
@@ -2603,7 +2603,7 @@
       "problem"
     ],
     [
-      0.707,
+      0.616,
       [
         "machine",
         "engine",
@@ -2612,7 +2612,7 @@
       "machine"
     ],
     [
-      0.38,
+      0.256,
       [
         "beach",
         "sea",
@@ -2621,16 +2621,16 @@
       "geographic location"
     ],
     [
-      0.22,
+      0.147,
       [
         "alley",
         "bowl",
         1.53
       ],
-      "type"
+      "artificial physical object"
     ],
     [
-      0.438,
+      0.546,
       [
         "jar",
         "bottle",
@@ -2639,25 +2639,25 @@
       "bin"
     ],
     [
-      0.233,
+      0.167,
       [
         "strength",
         "capability",
         5.28
       ],
-      "quality"
+      "system"
     ],
     [
-      0.436,
+      0.67,
       [
         "seed",
         "mustard",
         3.48
       ],
-      "food"
+      "seed"
     ],
     [
-      0.434,
+      0.389,
       [
         "guitar",
         "drum",
@@ -2666,16 +2666,16 @@
       "class of instruments"
     ],
     [
-      0.204,
+      0.201,
       [
         "opinion",
         "idea",
         5.7
       ],
-      "notion"
+      "philosophical concept"
     ],
     [
-      0.718,
+      0.729,
       [
         "north",
         "west",
@@ -2684,25 +2684,25 @@
       "cardinal direction"
     ],
     [
-      0.1,
+      0.112,
       [
         "diet",
         "salad",
         2.98
       ],
-      "entity"
+      "philosophical concept"
     ],
     [
-      0.652,
+      0.615,
       [
         "mother",
         "wife",
         3.02
       ],
-      "woman"
+      "female human"
     ],
     [
-      0.61,
+      0.35,
       [
         "dad",
         "mother",
@@ -2711,7 +2711,7 @@
       "kinship"
     ],
     [
-      0.814,
+      0.805,
       [
         "captain",
         "sailor",
@@ -2720,7 +2720,7 @@
       "sailor"
     ],
     [
-      0.652,
+      0.624,
       [
         "meter",
         "yard",
@@ -2729,25 +2729,25 @@
       "unit of length"
     ],
     [
-      0.087,
+      0.167,
       [
         "beer",
         "champagne",
         4.45
       ],
-      "philosophical concept"
+      "first-order metaclass"
     ],
     [
-      0.376,
+      0.338,
       [
         "motor",
         "boat",
         2.57
       ],
-      "machine"
+      "vehicle"
     ],
     [
-      0.254,
+      0.205,
       [
         "card",
         "bridge",
@@ -2756,7 +2756,7 @@
       "artificial physical object"
     ],
     [
-      0.337,
+      0.343,
       [
         "science",
         "psychology",
@@ -2765,16 +2765,16 @@
       "academic discipline"
     ],
     [
-      0.208,
+      0.173,
       [
         "sinner",
         "saint",
         1.6
       ],
-      "music term"
+      "person"
     ],
     [
-      0.335,
+      0.334,
       [
         "destruction",
         "construction",
@@ -2783,16 +2783,16 @@
       "occurrence"
     ],
     [
-      0.309,
+      0.259,
       [
         "crowd",
         "bunch",
         7.42
       ],
-      "group of humans"
+      "person"
     ],
     [
-      0.49,
+      0.257,
       [
         "beach",
         "reef",
@@ -2801,7 +2801,7 @@
       "landform"
     ],
     [
-      0.477,
+      0.299,
       [
         "man",
         "child",
@@ -2810,7 +2810,7 @@
       "human"
     ],
     [
-      0.436,
+      0.322,
       [
         "bread",
         "cheese",
@@ -2819,7 +2819,7 @@
       "food"
     ],
     [
-      0.856,
+      0.829,
       [
         "champion",
         "winner",
@@ -2828,7 +2828,7 @@
       "winner"
     ],
     [
-      0.597,
+      0.474,
       [
         "celebration",
         "ceremony",
@@ -2837,25 +2837,25 @@
       "event"
     ],
     [
-      0.146,
+      0.207,
       [
         "menu",
         "order",
         3.62
       ],
-      "term"
+      "communication"
     ],
     [
-      0.51,
+      0.638,
       [
         "king",
         "princess",
         3.27
       ],
-      "chess piece"
+      "monarch"
     ],
     [
-      0.204,
+      0.201,
       [
         "wealth",
         "prestige",
@@ -2864,25 +2864,25 @@
       "term"
     ],
     [
-      0.101,
+      0.112,
       [
         "endurance",
         "strength",
         6.58
       ],
-      "activity"
+      "abstract object"
     ],
     [
-      0.127,
+      0.143,
       [
         "danger",
         "threat",
         8.78
       ],
-      "knowledge"
+      "abstract object"
     ],
     [
-      0.17,
+      0.167,
       [
         "god",
         "priest",
@@ -2891,25 +2891,25 @@
       "concept"
     ],
     [
-      0.193,
+      0.212,
       [
         "men",
         "fraternity",
         3.13
       ],
-      "agent"
+      "social organization"
     ],
     [
-      0.346,
+      0.228,
       [
         "buddy",
         "companion",
         8.65
       ],
-      "class of fictional entities"
+      "position"
     ],
     [
-      0.52,
+      0.425,
       [
         "teacher",
         "helper",
@@ -2918,7 +2918,7 @@
       "position"
     ],
     [
-      0.511,
+      0.387,
       [
         "body",
         "stomach",
@@ -2927,7 +2927,7 @@
       "anatomical structure"
     ],
     [
-      0.511,
+      0.387,
       [
         "tongue",
         "throat",
@@ -2936,25 +2936,25 @@
       "anatomical structure"
     ],
     [
-      0.247,
+      0.198,
       [
         "house",
         "carpet",
         1.38
       ],
-      "architectural structure"
+      "work of art"
     ],
     [
-      0.314,
+      0.201,
       [
         "intelligence",
         "skill",
         5.35
       ],
-      "quality"
+      "property"
     ],
     [
-      0.335,
+      0.334,
       [
         "journey",
         "conquest",
@@ -2972,13 +2972,13 @@
       "entity"
     ],
     [
-      0.17,
+      0.208,
       [
         "brother",
         "soul",
         0.97
       ],
-      "concept"
+      "person"
     ],
     [
       1.0,
@@ -2990,34 +2990,34 @@
       "adversary"
     ],
     [
-      0.281,
+      0.251,
       [
         "death",
         "catastrophe",
         4.13
       ],
-      "state"
+      "occurrence"
     ],
     [
-      0.402,
+      0.508,
       [
         "monster",
         "demon",
         6.95
       ],
-      "mythical entity"
+      "mythical creature"
     ],
     [
-      0.671,
+      0.65,
       [
         "day",
         "morning",
         4.87
       ],
-      "time of the day"
+      "day"
     ],
     [
-      0.477,
+      0.299,
       [
         "man",
         "victor",
@@ -3026,16 +3026,16 @@
       "human"
     ],
     [
-      0.128,
+      0.242,
       [
         "friend",
         "guy",
         3.88
       ],
-      "concept"
+      "human"
     ],
     [
-      0.59,
+      0.382,
       [
         "song",
         "story",
@@ -3044,16 +3044,16 @@
       "literary work"
     ],
     [
-      0.22,
+      0.201,
       [
         "ray",
         "sunshine",
         6.83
       ],
-      "group"
+      "class"
     ],
     [
-      0.487,
+      0.455,
       [
         "guy",
         "stud",
@@ -3062,25 +3062,25 @@
       "sex"
     ],
     [
-      0.474,
+      0.322,
       [
         "chicken",
         "rice",
         1.43
       ],
-      "food ingredient"
+      "food"
     ],
     [
-      0.376,
+      0.292,
       [
         "box",
         "elevator",
         1.32
       ],
-      "machine"
+      "architectural element"
     ],
     [
-      0.474,
+      0.322,
       [
         "butter",
         "potato",
@@ -3089,25 +3089,25 @@
       "food ingredient"
     ],
     [
-      0.111,
+      0.125,
       [
         "apartment",
         "furniture",
         1.28
       ],
-      "entity"
+      "product"
     ],
     [
-      0.352,
+      0.206,
       [
         "lake",
         "swamp",
         4.92
       ],
-      "natural geographic object"
+      "landform"
     ],
     [
-      0.436,
+      0.322,
       [
         "salad",
         "vinegar",
@@ -3116,16 +3116,16 @@
       "food"
     ],
     [
-      0.533,
+      0.502,
       [
         "flower",
         "bulb",
         4.48
       ],
-      "plant organ"
+      "plant structure"
     ],
     [
-      0.548,
+      0.509,
       [
         "cloud",
         "mist",
@@ -3134,16 +3134,16 @@
       "cloud"
     ],
     [
-      0.81,
+      0.809,
       [
         "driver",
         "pilot",
         6.28
       ],
-      "vehicle operator"
+      "driver"
     ],
     [
-      0.575,
+      0.416,
       [
         "sugar",
         "honey",
@@ -3152,7 +3152,7 @@
       "food ingredient"
     ],
     [
-      0.41,
+      0.297,
       [
         "body",
         "shoulder",
@@ -3161,16 +3161,16 @@
       "anatomical structure"
     ],
     [
-      0.339,
+      0.334,
       [
         "idea",
         "image",
         3.55
       ],
-      "concept"
+      "idea"
     ],
     [
-      0.61,
+      0.35,
       [
         "father",
         "brother",
@@ -3179,16 +3179,16 @@
       "kinship"
     ],
     [
-      0.491,
+      0.657,
       [
         "moon",
         "planet",
         5.87
       ],
-      "substellar object"
+      "planetary system"
     ],
     [
-      0.353,
+      0.258,
       [
         "ball",
         "costume",
@@ -3197,7 +3197,7 @@
       "equipment"
     ],
     [
-      0.327,
+      0.231,
       [
         "rail",
         "fence",
@@ -3206,7 +3206,7 @@
       "artificial geographic entity"
     ],
     [
-      0.307,
+      0.204,
       [
         "room",
         "bed",
@@ -3215,7 +3215,7 @@
       "location"
     ],
     [
-      0.593,
+      0.57,
       [
         "flower",
         "bush",
@@ -3224,25 +3224,25 @@
       "heraldic plant"
     ],
     [
-      0.411,
+      0.287,
       [
         "bone",
         "knee",
         4.17
       ],
-      "biological material"
+      "tissue"
     ],
     [
-      0.386,
+      0.553,
       [
         "arm",
         "knee",
         2.75
       ],
-      "limb region"
+      "anatomical region"
     ],
     [
-      0.823,
+      0.829,
       [
         "bottom",
         "side",
@@ -3251,7 +3251,7 @@
       "side"
     ],
     [
-      0.731,
+      0.653,
       [
         "vessel",
         "vein",
@@ -3260,7 +3260,7 @@
       "vessel"
     ],
     [
-      0.55,
+      0.39,
       [
         "cat",
         "rabbit",
@@ -3269,7 +3269,7 @@
       "polyphyletic common name"
     ],
     [
-      0.436,
+      0.322,
       [
         "meat",
         "sandwich",
@@ -3278,7 +3278,7 @@
       "food"
     ],
     [
-      0.255,
+      0.251,
       [
         "belief",
         "concept",
@@ -3287,22 +3287,22 @@
       "concept"
     ],
     [
-      0.268,
+      0.167,
       [
         "intelligence",
         "insight",
         5.9
       ],
-      "quality"
+      "property"
     ],
     [
-      0.253,
+      0.334,
       [
         "attention",
         "interest",
         7.22
       ],
-      "mental process"
+      "psychology terminology"
     ],
     [
       0.167,
@@ -3314,7 +3314,7 @@
       "entity"
     ],
     [
-      0.253,
+      0.258,
       [
         "right",
         "justice",
@@ -3323,7 +3323,7 @@
       "academic discipline"
     ],
     [
-      0.511,
+      0.336,
       [
         "argument",
         "agreement",
@@ -3332,7 +3332,7 @@
       "Wikimedia disambiguation page"
     ],
     [
-      0.595,
+      0.532,
       [
         "depth",
         "magnitude",
@@ -3341,16 +3341,16 @@
       "scalar magnitude"
     ],
     [
-      0.145,
+      0.343,
       [
         "medium",
         "news",
         3.65
       ],
-      "communication medium"
+      "communication"
     ],
     [
-      0.389,
+      0.259,
       [
         "winner",
         "candidate",
@@ -3359,7 +3359,7 @@
       "person"
     ],
     [
-      0.823,
+      0.65,
       [
         "birthday",
         "date",
@@ -3368,7 +3368,7 @@
       "calendar date"
     ],
     [
-      0.334,
+      0.228,
       [
         "fee",
         "payment",
@@ -3377,7 +3377,7 @@
       "legal transaction"
     ],
     [
-      0.292,
+      0.207,
       [
         "bible",
         "hymn",
@@ -3395,16 +3395,16 @@
       "doorway"
     ],
     [
-      0.276,
+      0.203,
       [
         "man",
         "sentry",
         3.25
       ],
-      "person"
+      "fictional character"
     ],
     [
-      0.571,
+      0.292,
       [
         "aisle",
         "hall",
@@ -3413,7 +3413,7 @@
       "part of building"
     ],
     [
-      0.708,
+      0.657,
       [
         "whiskey",
         "gin",
@@ -3422,7 +3422,7 @@
       "liquor"
     ],
     [
-      0.436,
+      0.322,
       [
         "blood",
         "marrow",
@@ -3431,16 +3431,16 @@
       "food"
     ],
     [
-      0.18,
+      0.1,
       [
         "oil",
         "mink",
         1.23
       ],
-      "first-order metaclass"
+      "concept"
     ],
     [
-      0.731,
+      0.477,
       [
         "floor",
         "deck",
@@ -3449,7 +3449,7 @@
       "floor"
     ],
     [
-      0.568,
+      0.383,
       [
         "roof",
         "floor",
@@ -3458,7 +3458,7 @@
       "architectural element"
     ],
     [
-      0.568,
+      0.383,
       [
         "door",
         "floor",
@@ -3467,7 +3467,7 @@
       "architectural element"
     ],
     [
-      0.633,
+      0.65,
       [
         "shoulder",
         "head",
@@ -3476,25 +3476,25 @@
       "anatomical region"
     ],
     [
-      0.244,
+      0.673,
       [
         "wagon",
         "carriage",
         7.7
       ],
-      "vehicle"
+      "carriage"
     ],
     [
-      0.242,
+      0.406,
       [
         "car",
         "carriage",
         5.13
       ],
-      "mode of transport"
+      "wheeled vehicle"
     ],
     [
-      0.511,
+      0.387,
       [
         "elbow",
         "ankle",
@@ -3503,43 +3503,43 @@
       "anatomical structure"
     ],
     [
-      0.091,
+      0.111,
       [
         "wealth",
         "fame",
         4.02
       ],
-      "entity"
+      "variable-order metaclass"
     ],
     [
-      0.662,
+      0.334,
       [
         "sorrow",
         "shame",
         4.77
       ],
-      "negative emotion"
+      "psychology terminology"
     ],
     [
-      0.744,
+      0.555,
       [
         "administration",
         "management",
         7.25
       ],
-      "management"
+      "administration"
     ],
     [
-      0.254,
+      0.251,
       [
         "communication",
         "conversation",
         8.02
       ],
-      "communication"
+      "human communication"
     ],
     [
-      0.17,
+      0.167,
       [
         "pollution",
         "atmosphere",
@@ -3548,7 +3548,7 @@
       "concept"
     ],
     [
-      0.856,
+      0.758,
       [
         "anatomy",
         "biology",
@@ -3557,16 +3557,16 @@
       "biology"
     ],
     [
-      0.128,
+      0.272,
       [
         "college",
         "profession",
         3.12
       ],
-      "concept"
+      "profession"
     ],
     [
-      0.338,
+      0.351,
       [
         "book",
         "topic",
@@ -3575,7 +3575,7 @@
       "document"
     ],
     [
-      0.797,
+      0.747,
       [
         "formula",
         "equation",
@@ -3584,16 +3584,16 @@
       "formula"
     ],
     [
-      0.207,
+      0.335,
       [
         "book",
         "information",
         5.0
       ],
-      "object"
+      "information"
     ],
     [
-      0.17,
+      0.167,
       [
         "boy",
         "partner",
@@ -3602,52 +3602,52 @@
       "concept"
     ],
     [
-      0.156,
+      0.143,
       [
         "sky",
         "universe",
         4.68
       ],
-      "mathematical concept"
+      "concept"
     ],
     [
-      0.308,
+      0.252,
       [
         "population",
         "people",
         7.68
       ],
-      "group of living things"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.309,
+      0.207,
       [
         "college",
         "class",
         4.13
       ],
-      "group of humans"
+      "education"
     ],
     [
-      0.52,
+      0.427,
       [
         "chief",
         "mayor",
         4.85
       ],
-      "position"
+      "profession"
     ],
     [
-      0.538,
+      0.608,
       [
         "rabbi",
         "minister",
         7.62
       ],
-      "cleric"
+      "priest"
     ],
     [
-      0.652,
+      0.624,
       [
         "meter",
         "inch",
@@ -3656,16 +3656,16 @@
       "unit of length"
     ],
     [
-      0.64,
+      0.485,
       [
         "polyester",
         "cotton",
         5.63
       ],
-      "fiber"
+      "cloth"
     ],
     [
-      0.49,
+      0.427,
       [
         "lawyer",
         "banker",
@@ -3674,25 +3674,25 @@
       "profession"
     ],
     [
-      0.379,
+      0.45,
       [
         "violin",
         "instrument",
         6.58
       ],
-      "musical instrument"
+      "instrumentalist"
     ],
     [
-      0.365,
+      0.236,
       [
         "camp",
         "cabin",
         4.2
       ],
-      "facility"
+      "building"
     ],
     [
-      0.264,
+      0.206,
       [
         "pot",
         "appliance",
@@ -3701,7 +3701,7 @@
       "product"
     ],
     [
-      0.794,
+      0.74,
       [
         "linen",
         "fabric",
@@ -3710,16 +3710,16 @@
       "textile"
     ],
     [
-      0.07,
+      0.1,
       [
         "whiskey",
         "champagne",
         5.33
       ],
-      "metaclass"
+      "first-order metaclass"
     ],
     [
-      0.829,
+      0.795,
       [
         "girl",
         "child",
@@ -3728,16 +3728,16 @@
       "child"
     ],
     [
-      0.365,
+      0.31,
       [
         "cottage",
         "cabin",
         7.72
       ],
-      "facility"
+      "shelter"
     ],
     [
-      0.314,
+      0.235,
       [
         "bird",
         "hen",
@@ -3746,25 +3746,25 @@
       "taxon"
     ],
     [
-      0.17,
+      0.173,
       [
         "racket",
         "noise",
         8.1
       ],
-      "concept"
+      "academic discipline"
     ],
     [
-      0.671,
+      0.482,
       [
         "sunset",
         "evening",
         5.98
       ],
-      "time of the day"
+      "day"
     ],
     [
-      0.856,
+      0.833,
       [
         "drizzle",
         "rain",
@@ -3773,7 +3773,7 @@
       "rain"
     ],
     [
-      0.477,
+      0.299,
       [
         "adult",
         "baby",
@@ -3782,7 +3782,7 @@
       "human"
     ],
     [
-      0.7,
+      0.704,
       [
         "charcoal",
         "coal",
@@ -3791,7 +3791,7 @@
       "solid fuel"
     ],
     [
-      0.511,
+      0.387,
       [
         "body",
         "spine",
@@ -3800,7 +3800,7 @@
       "anatomical structure"
     ],
     [
-      0.511,
+      0.387,
       [
         "head",
         "nail",
@@ -3809,25 +3809,25 @@
       "anatomical structure"
     ],
     [
-      0.214,
+      0.21,
       [
         "log",
         "timber",
         8.05
       ],
-      "artificial physical object"
+      "base material"
     ],
     [
-      0.37,
+      0.322,
       [
         "spoon",
         "cup",
         2.02
       ],
-      "container"
+      "ingestion"
     ],
     [
-      0.343,
+      0.297,
       [
         "body",
         "nerve",
@@ -3836,16 +3836,16 @@
       "anatomical structure"
     ],
     [
-      0.836,
+      0.623,
       [
         "man",
         "husband",
         5.32
       ],
-      "man"
+      "male human"
     ],
     [
-      0.295,
+      0.24,
       [
         "bone",
         "neck",
@@ -3854,16 +3854,16 @@
       "anatomical structure"
     ],
     [
-      0.662,
+      0.334,
       [
         "frustration",
         "anger",
         6.5
       ],
-      "negative emotion"
+      "psychology terminology"
     ],
     [
-      0.581,
+      0.317,
       [
         "river",
         "sea",
@@ -3872,7 +3872,7 @@
       "land waters"
     ],
     [
-      0.253,
+      0.201,
       [
         "task",
         "job",
@@ -3881,7 +3881,7 @@
       "activity"
     ],
     [
-      0.823,
+      0.657,
       [
         "club",
         "society",
@@ -3890,7 +3890,7 @@
       "voluntary association"
     ],
     [
-      0.505,
+      0.511,
       [
         "reflection",
         "image",
@@ -3899,7 +3899,7 @@
       "image"
     ],
     [
-      0.829,
+      0.779,
       [
         "prince",
         "king",
@@ -3908,7 +3908,7 @@
       "monarch"
     ],
     [
-      0.803,
+      0.76,
       [
         "snow",
         "weather",
@@ -3917,7 +3917,7 @@
       "weather"
     ],
     [
-      0.489,
+      0.344,
       [
         "people",
         "party",
@@ -3926,7 +3926,7 @@
       "person"
     ],
     [
-      0.666,
+      0.623,
       [
         "boy",
         "brother",
@@ -3935,16 +3935,16 @@
       "male human"
     ],
     [
-      0.215,
+      0.522,
       [
         "root",
         "grass",
         3.55
       ],
-      "first-order metaclass"
+      "plant"
     ],
     [
-      0.675,
+      0.67,
       [
         "brow",
         "eye",
@@ -3953,7 +3953,7 @@
       "facial feature"
     ],
     [
-      0.165,
+      0.172,
       [
         "money",
         "pearl",
@@ -3962,34 +3962,34 @@
       "goods"
     ],
     [
-      0.187,
+      0.172,
       [
         "money",
         "diamond",
         3.42
       ],
-      "goods"
+      "economic concept"
     ],
     [
-      0.46,
+      0.405,
       [
         "vehicle",
         "bus",
         6.47
       ],
-      "mode of transport"
+      "vehicle"
     ],
     [
-      0.593,
+      0.49,
       [
         "cab",
         "bus",
         5.6
       ],
-      "motor vehicle"
+      "passenger transport"
     ],
     [
-      0.469,
+      0.34,
       [
         "house",
         "barn",
@@ -3998,25 +3998,25 @@
       "building"
     ],
     [
-      0.708,
+      0.695,
       [
         "finger",
         "palm",
         3.33
       ],
-      "segment of hand"
+      "human-based unit of measurement"
     ],
     [
-      0.146,
+      0.234,
       [
         "car",
         "bridge",
         0.95
       ],
-      "class"
+      "architectural structure"
     ],
     [
-      0.267,
+      0.251,
       [
         "effort",
         "difficulty",
@@ -4025,16 +4025,16 @@
       "property"
     ],
     [
-      0.13,
+      0.126,
       [
         "fact",
         "insight",
         4.77
       ],
-      "philosophical concept"
+      "abstract object"
     ],
     [
-      0.253,
+      0.201,
       [
         "job",
         "management",
@@ -4043,7 +4043,7 @@
       "activity"
     ],
     [
-      0.765,
+      0.664,
       [
         "cancer",
         "sickness",
@@ -4052,7 +4052,7 @@
       "disease"
     ],
     [
-      0.292,
+      0.207,
       [
         "word",
         "newspaper",
@@ -4061,7 +4061,7 @@
       "text"
     ],
     [
-      0.718,
+      0.508,
       [
         "composer",
         "writer",
@@ -4070,7 +4070,7 @@
       "author"
     ],
     [
-      0.39,
+      0.332,
       [
         "actor",
         "singer",
@@ -4079,7 +4079,7 @@
       "profession"
     ],
     [
-      0.823,
+      0.643,
       [
         "shelter",
         "hut",
@@ -4088,7 +4088,7 @@
       "shelter"
     ],
     [
-      0.638,
+      0.383,
       [
         "bathroom",
         "kitchen",
@@ -4097,7 +4097,7 @@
       "room"
     ],
     [
-      0.845,
+      0.793,
       [
         "cabin",
         "hut",
@@ -4106,16 +4106,16 @@
       "hut"
     ],
     [
-      0.305,
+      0.234,
       [
         "door",
         "kitchen",
         1.67
       ],
-      "architectural element"
+      "architectural structure"
     ],
     [
-      0.204,
+      0.201,
       [
         "value",
         "belief",
@@ -4124,16 +4124,16 @@
       "concept"
     ],
     [
-      0.268,
+      0.167,
       [
         "wisdom",
         "intelligence",
         7.47
       ],
-      "quality"
+      "property"
     ],
     [
-      0.207,
+      0.201,
       [
         "ignorance",
         "intelligence",
@@ -4142,7 +4142,7 @@
       "philosophical concept"
     ],
     [
-      0.125,
+      0.143,
       [
         "happiness",
         "luck",
@@ -4151,16 +4151,16 @@
       "entity"
     ],
     [
-      0.146,
+      0.201,
       [
         "idea",
         "scheme",
         6.75
       ],
-      "concept"
+      "idea"
     ],
     [
-      0.337,
+      0.334,
       [
         "mood",
         "emotion",
@@ -4169,31 +4169,31 @@
       "mental process"
     ],
     [
-      0.164,
+      0.167,
       [
         "happiness",
         "peace",
         6.03
       ],
-      "state"
+      "psychology terminology"
     ],
     [
-      0.115,
+      0.126,
       [
         "despair",
         "misery",
         7.22
       ],
-      "state"
+      "concept"
     ],
     [
-      0.718,
+      0.487,
       [
         "logic",
         "arithmetic",
         3.97
       ],
-      "area of mathematics"
+      "mathematics"
     ],
     [
       0.201,
@@ -4205,7 +4205,7 @@
       "occurrence"
     ],
     [
-      0.57,
+      0.541,
       [
         "argument",
         "criticism",
@@ -4214,7 +4214,7 @@
       "discourse"
     ],
     [
-      0.856,
+      0.84,
       [
         "aggression",
         "hostility",
@@ -4223,25 +4223,25 @@
       "aggression"
     ],
     [
-      0.51,
+      0.334,
       [
         "hysteria",
         "confusion",
         6.33
       ],
-      "health problem"
+      "psychology terminology"
     ],
     [
-      0.145,
+      0.144,
       [
         "chemistry",
         "theory",
         3.17
       ],
-      "knowledge"
+      "class (set theory)"
     ],
     [
-      0.335,
+      0.334,
       [
         "trial",
         "verdict",
@@ -4250,34 +4250,34 @@
       "occurrence"
     ],
     [
-      0.165,
+      0.167,
       [
         "comfort",
         "safety",
         5.8
       ],
-      "condition"
+      "psychology terminology"
     ],
     [
-      0.143,
+      0.201,
       [
         "confidence",
         "self",
         3.12
       ],
-      "entity"
+      "psychology terminology"
     ],
     [
-      0.253,
+      0.334,
       [
         "vision",
         "perception",
         6.88
       ],
-      "mental process"
+      "psychology terminology"
     ],
     [
-      0.563,
+      0.465,
       [
         "era",
         "decade",
@@ -4286,7 +4286,7 @@
       "time interval"
     ],
     [
-      0.582,
+      0.383,
       [
         "biography",
         "fiction",
@@ -4295,16 +4295,16 @@
       "literary genre"
     ],
     [
-      0.511,
+      0.173,
       [
         "discussion",
         "argument",
         5.48
       ],
-      "Wikimedia disambiguation page"
+      "communication"
     ],
     [
-      0.338,
+      0.341,
       [
         "code",
         "symbol",
@@ -4313,7 +4313,7 @@
       "sign"
     ],
     [
-      0.19,
+      0.168,
       [
         "danger",
         "disease",
@@ -4322,7 +4322,7 @@
       "state"
     ],
     [
-      0.8,
+      0.67,
       [
         "accident",
         "catastrophe",
@@ -4331,7 +4331,7 @@
       "disaster"
     ],
     [
-      0.144,
+      0.167,
       [
         "journey",
         "trip",
@@ -4340,7 +4340,7 @@
       "occurrence"
     ],
     [
-      0.336,
+      0.334,
       [
         "activity",
         "movement",
@@ -4349,34 +4349,34 @@
       "activity"
     ],
     [
-      0.145,
+      0.252,
       [
         "gossip",
         "news",
         5.22
       ],
-      "communication"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.17,
+      0.203,
       [
         "father",
         "god",
         3.57
       ],
-      "concept"
+      "fictional character"
     ],
     [
-      0.209,
+      0.334,
       [
         "action",
         "course",
         5.45
       ],
-      "geometric concept"
+      "activity"
     ],
     [
-      0.51,
+      0.397,
       [
         "fever",
         "illness",
@@ -4385,16 +4385,16 @@
       "health problem"
     ],
     [
-      0.253,
+      0.685,
       [
         "aviation",
         "flight",
         8.18
       ],
-      "activity"
+      "commercial aviation"
     ],
     [
-      0.336,
+      0.334,
       [
         "game",
         "action",
@@ -4403,16 +4403,16 @@
       "activity"
     ],
     [
-      0.329,
+      0.269,
       [
         "molecule",
         "air",
         3.05
       ],
-      "chemical substance"
+      "molecule"
     ],
     [
-      0.323,
+      0.207,
       [
         "home",
         "state",
@@ -4421,16 +4421,16 @@
       "legal concept"
     ],
     [
-      0.17,
+      0.207,
       [
         "word",
         "literature",
         4.77
       ],
-      "concept"
+      "text"
     ],
     [
-      0.14,
+      0.146,
       [
         "adult",
         "guardian",
@@ -4439,7 +4439,7 @@
       "Wikidata metaclass"
     ],
     [
-      0.272,
+      0.251,
       [
         "newspaper",
         "information",
@@ -4448,16 +4448,16 @@
       "information"
     ],
     [
-      0.254,
+      0.258,
       [
         "communication",
         "television",
         5.6
       ],
-      "industry"
+      "communication medium"
     ],
     [
-      0.61,
+      0.35,
       [
         "cousin",
         "uncle",
@@ -4466,7 +4466,7 @@
       "kinship"
     ],
     [
-      0.49,
+      0.427,
       [
         "author",
         "reader",
@@ -4475,7 +4475,7 @@
       "profession"
     ],
     [
-      0.17,
+      0.167,
       [
         "guy",
         "partner",
@@ -4484,7 +4484,7 @@
       "concept"
     ],
     [
-      0.17,
+      0.167,
       [
         "area",
         "corner",
@@ -4493,7 +4493,7 @@
       "concept"
     ],
     [
-      0.671,
+      0.46,
       [
         "ballad",
         "song",
@@ -4502,7 +4502,7 @@
       "musical composition"
     ],
     [
-      0.163,
+      0.147,
       [
         "wall",
         "decoration",
@@ -4511,7 +4511,7 @@
       "artificial physical object"
     ],
     [
-      0.452,
+      0.258,
       [
         "word",
         "page",
@@ -4520,7 +4520,7 @@
       "unit of measurement"
     ],
     [
-      0.39,
+      0.332,
       [
         "nurse",
         "scientist",
@@ -4529,7 +4529,7 @@
       "profession"
     ],
     [
-      0.755,
+      0.732,
       [
         "politician",
         "president",
@@ -4538,7 +4538,7 @@
       "politician"
     ],
     [
-      0.599,
+      0.563,
       [
         "president",
         "mayor",
@@ -4547,16 +4547,16 @@
       "public office"
     ],
     [
-      0.203,
+      0.173,
       [
         "book",
         "essay",
         4.72
       ],
-      "art"
+      "text"
     ],
     [
-      0.276,
+      0.173,
       [
         "man",
         "warrior",
@@ -4565,16 +4565,16 @@
       "person"
     ],
     [
-      0.486,
+      0.351,
       [
         "article",
         "journal",
         6.18
       ],
-      "publication"
+      "academic journal article"
     ],
     [
-      0.7,
+      0.6,
       [
         "breakfast",
         "supper",
@@ -4583,7 +4583,7 @@
       "meals"
     ],
     [
-      0.084,
+      0.111,
       [
         "crowd",
         "parade",
@@ -4592,7 +4592,7 @@
       "entity"
     ],
     [
-      0.268,
+      0.171,
       [
         "aisle",
         "hallway",
@@ -4601,7 +4601,7 @@
       "construction"
     ],
     [
-      0.39,
+      0.332,
       [
         "teacher",
         "rabbi",
@@ -4610,7 +4610,7 @@
       "profession"
     ],
     [
-      0.41,
+      0.297,
       [
         "hip",
         "lip",
@@ -4619,25 +4619,25 @@
       "anatomical structure"
     ],
     [
-      0.586,
+      0.343,
       [
         "book",
         "article",
         5.43
       ],
-      "publication"
+      "text"
     ],
     [
-      0.209,
+      0.167,
       [
         "room",
         "cell",
         4.58
       ],
-      "part"
+      "structure"
     ],
     [
-      0.364,
+      0.234,
       [
         "box",
         "booth",
@@ -4646,7 +4646,7 @@
       "architectural structure"
     ],
     [
-      0.477,
+      0.299,
       [
         "daughter",
         "kid",
@@ -4655,7 +4655,7 @@
       "human"
     ],
     [
-      0.845,
+      0.81,
       [
         "limb",
         "leg",
@@ -4664,7 +4664,7 @@
       "leg"
     ],
     [
-      0.643,
+      0.458,
       [
         "liver",
         "lung",
@@ -4673,7 +4673,7 @@
       "animal organ"
     ],
     [
-      0.522,
+      0.293,
       [
         "classroom",
         "hallway",
@@ -4682,7 +4682,7 @@
       "interior space"
     ],
     [
-      0.38,
+      0.256,
       [
         "mountain",
         "ledge",
@@ -4691,7 +4691,7 @@
       "geographic location"
     ],
     [
-      0.46,
+      0.404,
       [
         "car",
         "elevator",
@@ -4700,7 +4700,7 @@
       "mode of transport"
     ],
     [
-      0.646,
+      0.45,
       [
         "bed",
         "couch",
@@ -4709,7 +4709,7 @@
       "furniture"
     ],
     [
-      0.587,
+      0.704,
       [
         "clothes",
         "button",
@@ -4718,7 +4718,7 @@
       "clothing"
     ],
     [
-      0.587,
+      0.544,
       [
         "clothes",
         "coat",
@@ -4727,7 +4727,7 @@
       "clothing"
     ],
     [
-      0.511,
+      0.387,
       [
         "kidney",
         "organ",
@@ -4736,7 +4736,7 @@
       "anatomical structure"
     ],
     [
-      0.367,
+      0.262,
       [
         "apple",
         "sauce",
@@ -4745,7 +4745,7 @@
       "food"
     ],
     [
-      0.436,
+      0.416,
       [
         "chicken",
         "steak",
@@ -4754,7 +4754,7 @@
       "food"
     ],
     [
-      0.163,
+      0.205,
       [
         "car",
         "hose",
@@ -4763,16 +4763,16 @@
       "artificial physical object"
     ],
     [
-      0.193,
+      0.823,
       [
         "tobacco",
         "cigarette",
         7.5
       ],
-      "product"
+      "cigarette"
     ],
     [
-      0.484,
+      0.348,
       [
         "student",
         "professor",
@@ -4781,7 +4781,7 @@
       "occupation"
     ],
     [
-      0.406,
+      0.242,
       [
         "baby",
         "daughter",
@@ -4790,16 +4790,16 @@
       "human"
     ],
     [
-      0.718,
+      0.682,
       [
         "pipe",
         "cigar",
         6.03
       ],
-      "tobacco product"
+      "smoking"
     ],
     [
-      0.575,
+      0.416,
       [
         "milk",
         "juice",
@@ -4808,7 +4808,7 @@
       "food ingredient"
     ],
     [
-      0.17,
+      0.129,
       [
         "box",
         "cigar",
@@ -4817,7 +4817,7 @@
       "product"
     ],
     [
-      0.559,
+      0.375,
       [
         "apartment",
         "hotel",
@@ -4826,16 +4826,16 @@
       "residence"
     ],
     [
-      0.118,
+      0.204,
       [
         "cup",
         "cone",
         3.17
       ],
-      "abstract object"
+      "solid figure"
     ],
     [
-      0.314,
+      0.235,
       [
         "horse",
         "ox",
@@ -4844,7 +4844,7 @@
       "taxon"
     ],
     [
-      0.41,
+      0.297,
       [
         "throat",
         "nose",
@@ -4853,16 +4853,16 @@
       "anatomical structure"
     ],
     [
-      0.258,
+      0.36,
       [
         "bone",
         "teeth",
         4.17
       ],
-      "anatomical structure"
+      "animal organ"
     ],
     [
-      0.343,
+      0.297,
       [
         "bone",
         "elbow",
@@ -4871,7 +4871,7 @@
       "anatomical structure"
     ],
     [
-      0.317,
+      0.262,
       [
         "bacon",
         "bean",
@@ -4880,7 +4880,7 @@
       "food"
     ],
     [
-      0.44,
+      0.403,
       [
         "cup",
         "jar",
@@ -4889,34 +4889,34 @@
       "container"
     ],
     [
-      0.211,
+      0.254,
       [
         "proof",
         "fact",
         7.3
       ],
-      "abstract object"
+      "statement"
     ],
     [
-      0.168,
+      0.0,
       [
         "appointment",
         "engagement",
         6.75
       ],
-      "occurrence"
+      "sense"
     ],
     [
-      0.443,
+      0.48,
       [
         "birthday",
         "year",
         1.67
       ],
-      "unit of time"
+      "year"
     ],
     [
-      0.339,
+      0.334,
       [
         "word",
         "clue",
@@ -4925,7 +4925,7 @@
       "concept"
     ],
     [
-      0.772,
+      0.599,
       [
         "author",
         "creator",
@@ -4934,7 +4934,7 @@
       "creator"
     ],
     [
-      0.18,
+      0.167,
       [
         "atom",
         "carbon",
@@ -4943,7 +4943,7 @@
       "first-order metaclass"
     ],
     [
-      0.856,
+      0.78,
       [
         "archbishop",
         "bishop",
@@ -4952,7 +4952,7 @@
       "bishop"
     ],
     [
-      0.355,
+      0.258,
       [
         "letter",
         "paragraph",
@@ -4961,16 +4961,16 @@
       "text"
     ],
     [
-      0.133,
+      0.207,
       [
         "page",
         "paragraph",
         3.03
       ],
-      "abstract object"
+      "unit of measurement"
     ],
     [
-      0.364,
+      0.234,
       [
         "steeple",
         "chapel",
@@ -4979,7 +4979,7 @@
       "architectural structure"
     ],
     [
-      0.643,
+      0.458,
       [
         "muscle",
         "bone",
@@ -4988,7 +4988,7 @@
       "animal organ"
     ],
     [
-      0.41,
+      0.297,
       [
         "muscle",
         "tongue",
@@ -4997,7 +4997,7 @@
       "anatomical structure"
     ],
     [
-      0.17,
+      0.167,
       [
         "boy",
         "soldier",
@@ -5006,16 +5006,16 @@
       "concept"
     ],
     [
-      0.154,
+      0.202,
       [
         "belly",
         "abdomen",
         8.13
       ],
-      "first-order metaclass"
+      "anatomical structure"
     ],
     [
-      0.718,
+      0.631,
       [
         "guy",
         "girl",
@@ -5024,7 +5024,7 @@
       "gender identity"
     ],
     [
-      0.646,
+      0.45,
       [
         "bed",
         "chair",
@@ -5033,7 +5033,7 @@
       "furniture"
     ],
     [
-      0.587,
+      0.544,
       [
         "clothes",
         "jacket",
@@ -5042,16 +5042,16 @@
       "clothing"
     ],
     [
-      0.338,
+      0.167,
       [
         "gun",
         "knife",
         3.65
       ],
-      "weapon"
+      "class"
     ],
     [
-      0.818,
+      0.595,
       [
         "tin",
         "metal",
@@ -5060,25 +5060,25 @@
       "metal"
     ],
     [
-      0.539,
+      0.503,
       [
         "bottle",
         "container",
         7.93
       ],
-      "bin"
+      "container"
     ],
     [
-      0.314,
+      0.461,
       [
         "hen",
         "turkey",
         6.13
       ],
-      "taxon"
+      "meat"
     ],
     [
-      0.537,
+      0.416,
       [
         "meat",
         "bread",
@@ -5087,7 +5087,7 @@
       "food"
     ],
     [
-      0.343,
+      0.297,
       [
         "arm",
         "bone",
@@ -5096,16 +5096,16 @@
       "anatomical structure"
     ],
     [
-      0.686,
+      0.732,
       [
         "neck",
         "spine",
         5.32
       ],
-      "cellular component"
+      "neuron spine"
     ],
     [
-      0.581,
+      0.523,
       [
         "apple",
         "lemon",
@@ -5114,7 +5114,7 @@
       "fruit"
     ],
     [
-      0.145,
+      0.143,
       [
         "agony",
         "grief",
@@ -5123,16 +5123,16 @@
       "biological process"
     ],
     [
-      0.252,
+      0.251,
       [
         "assignment",
         "task",
         8.7
       ],
-      "action"
+      "activity"
     ],
     [
-      0.671,
+      0.481,
       [
         "night",
         "dawn",
@@ -5141,16 +5141,16 @@
       "time of the day"
     ],
     [
-      0.114,
+      0.608,
       [
         "dinner",
         "soup",
         3.72
       ],
-      "class"
+      "course"
     ],
     [
-      0.718,
+      0.666,
       [
         "calf",
         "bull",
@@ -5159,13 +5159,13 @@
       "cattle"
     ],
     [
-      0.168,
+      0.613,
       [
         "snow",
         "storm",
         4.8
       ],
-      "occurrence"
+      "weather"
     ],
     [
       0.7,
@@ -5177,7 +5177,7 @@
       "obsolete unit of length"
     ],
     [
-      0.55,
+      0.39,
       [
         "dog",
         "horse",
@@ -5186,7 +5186,7 @@
       "polyphyletic common name"
     ],
     [
-      0.633,
+      0.65,
       [
         "arm",
         "neck",
@@ -5195,7 +5195,7 @@
       "anatomical region"
     ],
     [
-      0.52,
+      0.531,
       [
         "ball",
         "glove",
@@ -5204,7 +5204,7 @@
       "sports equipment"
     ],
     [
-      0.439,
+      0.33,
       [
         "flu",
         "fever",
@@ -5213,7 +5213,7 @@
       "health problem"
     ],
     [
-      0.141,
+      0.126,
       [
         "fee",
         "salary",
@@ -5222,7 +5222,7 @@
       "technical term"
     ],
     [
-      0.258,
+      0.24,
       [
         "nerve",
         "brain",
@@ -5231,25 +5231,25 @@
       "anatomical structure"
     ],
     [
-      0.078,
+      0.112,
       [
         "beast",
         "animal",
         7.83
       ],
-      "symbol"
+      "abstract object"
     ],
     [
-      0.177,
+      0.262,
       [
         "dinner",
         "chicken",
         2.85
       ],
-      "creative work"
+      "food"
     ],
     [
-      0.856,
+      0.779,
       [
         "girl",
         "maid",
@@ -5258,7 +5258,7 @@
       "female"
     ],
     [
-      0.829,
+      0.795,
       [
         "child",
         "boy",
@@ -5267,7 +5267,7 @@
       "child"
     ],
     [
-      0.466,
+      0.41,
       [
         "alcohol",
         "wine",
@@ -5276,7 +5276,7 @@
       "Q24700923"
     ],
     [
-      0.692,
+      0.676,
       [
         "nose",
         "mouth",
@@ -5285,25 +5285,25 @@
       "subdivision of face"
     ],
     [
-      0.117,
+      0.234,
       [
         "street",
         "car",
         2.38
       ],
-      "metaclass"
+      "architectural structure"
     ],
     [
-      0.114,
+      0.148,
       [
         "bell",
         "door",
         2.2
       ],
-      "class"
+      "device"
     ],
     [
-      0.264,
+      0.206,
       [
         "box",
         "hat",
@@ -5312,7 +5312,7 @@
       "product"
     ],
     [
-      0.17,
+      0.167,
       [
         "belief",
         "impression",
@@ -5321,7 +5321,7 @@
       "term"
     ],
     [
-      0.563,
+      0.332,
       [
         "bias",
         "opinion",
@@ -5330,7 +5330,7 @@
       "point of view"
     ],
     [
-      0.337,
+      0.334,
       [
         "attention",
         "awareness",
@@ -5339,7 +5339,7 @@
       "cognition"
     ],
     [
-      0.203,
+      0.201,
       [
         "anger",
         "mood",
@@ -5348,16 +5348,16 @@
       "mental process"
     ],
     [
-      0.255,
+      0.201,
       [
         "elegance",
         "style",
         5.72
       ],
-      "concept"
+      "philosophical concept"
     ],
     [
-      0.359,
+      0.335,
       [
         "beauty",
         "age",
@@ -5366,25 +5366,25 @@
       "physical quantity"
     ],
     [
-      0.207,
+      0.251,
       [
         "book",
         "theme",
         2.58
       ],
-      "object"
+      "information"
     ],
     [
-      0.383,
+      0.242,
       [
         "friend",
         "mother",
         2.53
       ],
-      "social relation"
+      "human"
     ],
     [
-      0.329,
+      0.21,
       [
         "vitamin",
         "iron",
@@ -5393,16 +5393,16 @@
       "chemical substance"
     ],
     [
-      0.117,
+      0.366,
       [
         "car",
         "factory",
         2.75
       ],
-      "metaclass"
+      "market"
     ],
     [
-      0.228,
+      0.202,
       [
         "pact",
         "condition",
@@ -5411,16 +5411,16 @@
       "condition"
     ],
     [
-      0.183,
+      0.144,
       [
         "chapter",
         "choice",
         0.48
       ],
-      "information"
+      "part"
     ],
     [
-      0.168,
+      0.167,
       [
         "arithmetic",
         "rhythm",
@@ -5429,7 +5429,7 @@
       "process"
     ],
     [
-      0.146,
+      0.167,
       [
         "winner",
         "presence",
@@ -5438,16 +5438,16 @@
       "concept"
     ],
     [
-      0.102,
+      0.126,
       [
         "belief",
         "flower",
         0.4
       ],
-      "concept"
+      "biological process"
     ],
     [
-      0.17,
+      0.201,
       [
         "winner",
         "goal",
@@ -5456,7 +5456,7 @@
       "concept"
     ],
     [
-      0.185,
+      0.17,
       [
         "trick",
         "size",
@@ -5465,16 +5465,16 @@
       "Wikidata metaclass"
     ],
     [
-      0.168,
+      0.147,
       [
         "choice",
         "vein",
         0.98
       ],
-      "group"
+      "geographic location"
     ],
     [
-      0.187,
+      0.167,
       [
         "hymn",
         "conquest",
@@ -5483,7 +5483,7 @@
       "technical term"
     ],
     [
-      0.114,
+      0.112,
       [
         "endurance",
         "band",
@@ -5492,25 +5492,25 @@
       "concept"
     ],
     [
-      0.145,
+      0.207,
       [
         "jail",
         "choice",
         1.08
       ],
-      "artificial entity"
+      "human action"
     ],
     [
-      0.268,
+      0.201,
       [
         "condition",
         "boy",
         0.48
       ],
-      "quality"
+      "concept"
     ],
     [
-      0.093,
+      0.1,
       [
         "flower",
         "endurance",
@@ -5519,34 +5519,34 @@
       "concept"
     ],
     [
-      0.173,
+      0.201,
       [
         "hole",
         "agreement",
         0.3
       ],
-      "concrete object"
+      "philosophical concept"
     ],
     [
-      0.222,
+      0.252,
       [
         "doctor",
         "temper",
         0.48
       ],
-      "list"
+      "Wikimedia disambiguation page"
     ],
     [
-      0.13,
+      0.148,
       [
         "fraternity",
         "door",
         0.68
       ],
-      "concrete object"
+      "agent"
     ],
     [
-      0.146,
+      0.143,
       [
         "task",
         "woman",
@@ -5555,16 +5555,16 @@
       "concept"
     ],
     [
-      0.126,
+      0.144,
       [
         "fraternity",
         "baseball",
         0.88
       ],
-      "activity"
+      "human behaviour"
     ],
     [
-      0.296,
+      0.307,
       [
         "cent",
         "size",
@@ -5573,7 +5573,7 @@
       "type of number"
     ],
     [
-      0.146,
+      0.126,
       [
         "presence",
         "door",
@@ -5582,49 +5582,49 @@
       "concept"
     ],
     [
-      0.143,
+      0.207,
       [
         "mouse",
         "management",
         0.48
       ],
-      "entity"
+      "academic discipline"
     ],
     [
-      0.128,
+      0.143,
       [
         "task",
         "highway",
         0.48
       ],
-      "concept"
+      "activity"
     ],
     [
-      0.125,
+      0.126,
       [
         "liquor",
         "century",
         0.4
       ],
-      "entity"
+      "class"
     ],
     [
-      0.128,
+      0.167,
       [
         "task",
         "straw",
         0.68
       ],
-      "concept"
+      "activity"
     ],
     [
-      0.102,
+      0.101,
       [
         "island",
         "task",
         0.3
       ],
-      "concept"
+      "problem"
     ],
     [
       0.143,
@@ -5636,7 +5636,7 @@
       "entity"
     ],
     [
-      0.17,
+      0.167,
       [
         "pollution",
         "president",
@@ -5645,7 +5645,7 @@
       "concept"
     ],
     [
-      0.17,
+      0.167,
       [
         "gun",
         "trick",
@@ -5654,61 +5654,61 @@
       "class"
     ],
     [
-      0.125,
+      0.201,
       [
         "bath",
         "trick",
         0.58
       ],
-      "entity"
+      "activity"
     ],
     [
-      0.091,
+      0.126,
       [
         "diet",
         "apple",
         1.18
       ],
-      "entity"
+      "first-order metaclass"
     ],
     [
-      0.157,
+      0.167,
       [
         "cent",
         "wife",
         0.58
       ],
-      "physical quantity"
+      "artificial entity"
     ],
     [
-      0.209,
+      0.207,
       [
         "chapter",
         "tail",
         0.3
       ],
-      "part"
+      "character"
     ],
     [
-      0.241,
+      0.202,
       [
         "course",
         "stomach",
         0.58
       ],
-      "part"
+      "anatomical structure"
     ],
     [
-      0.15,
+      0.144,
       [
         "hymn",
         "straw",
         0.4
       ],
-      "metaclass"
+      "class"
     ],
     [
-      0.215,
+      0.201,
       [
         "dentist",
         "colonel",
@@ -5717,25 +5717,25 @@
       "first-order metaclass"
     ],
     [
-      0.166,
+      0.147,
       [
         "wife",
         "straw",
         0.4
       ],
-      "natural physical object"
+      "artificial physical object"
     ],
     [
-      0.146,
+      0.17,
       [
         "hole",
         "wife",
         0.68
       ],
-      "concept"
+      "concrete object"
     ],
     [
-      0.484,
+      0.348,
       [
         "pupil",
         "president",
@@ -5744,25 +5744,25 @@
       "occupation"
     ],
     [
-      0.133,
+      0.205,
       [
         "bath",
         "wife",
         0.48
       ],
-      "physical object"
+      "artificial physical object"
     ],
     [
-      0.135,
+      0.201,
       [
         "people",
         "cent",
         0.48
       ],
-      "first-order metaclass"
+      "artificial entity"
     ],
     [
-      0.17,
+      0.172,
       [
         "formula",
         "log",
@@ -5771,52 +5771,52 @@
       "product"
     ],
     [
-      0.186,
+      0.202,
       [
         "woman",
         "fur",
         0.58
       ],
-      "natural physical object"
+      "organism"
     ],
     [
-      0.163,
+      0.144,
       [
         "apple",
         "sunshine",
         0.58
       ],
-      "artificial physical object"
+      "class"
     ],
     [
-      0.117,
+      0.144,
       [
         "gun",
         "dawn",
         1.18
       ],
-      "metaclass"
+      "class"
     ],
     [
-      0.185,
+      0.129,
       [
         "meal",
         "waist",
         0.98
       ],
-      "part"
+      "product"
     ],
     [
-      0.146,
+      0.167,
       [
         "camera",
         "president",
         0.48
       ],
-      "concept"
+      "first-order metaclass"
     ],
     [
-      0.241,
+      0.167,
       [
         "liquor",
         "band",
@@ -5825,7 +5825,7 @@
       "part"
     ],
     [
-      0.41,
+      0.297,
       [
         "stomach",
         "vein",
@@ -5834,16 +5834,16 @@
       "anatomical structure"
     ],
     [
-      0.193,
+      0.169,
       [
         "gun",
         "fur",
         0.3
       ],
-      "product"
+      "human settlement"
     ],
     [
-      0.223,
+      0.172,
       [
         "couch",
         "baseball",
@@ -5852,61 +5852,61 @@
       "product"
     ],
     [
-      0.146,
+      0.167,
       [
         "worker",
         "camera",
         0.68
       ],
-      "concept"
+      "first-order metaclass"
     ],
     [
-      0.325,
+      0.171,
       [
         "deck",
         "mouse",
         0.48
       ],
-      "physical interface"
+      "artificial physical object"
     ],
     [
-      0.14,
+      0.147,
       [
         "rice",
         "boy",
         0.4
       ],
-      "Wikidata metaclass"
+      "artificial physical object"
     ],
     [
-      0.17,
+      0.172,
       [
         "people",
         "gun",
         0.68
       ],
-      "class"
+      "administrative territorial entity"
     ],
     [
-      0.166,
+      0.144,
       [
         "cliff",
         "tail",
         0.3
       ],
-      "natural physical object"
+      "first-order metaclass"
     ],
     [
-      0.12,
+      0.126,
       [
         "ankle",
         "window",
         0.3
       ],
-      "physical object"
+      "first-order metaclass"
     ],
     [
-      0.133,
+      0.113,
       [
         "princess",
         "island",
@@ -5915,22 +5915,22 @@
       "physical object"
     ],
     [
-      0.193,
+      0.206,
       [
         "container",
         "mouse",
         0.3
       ],
-      "tool"
+      "product"
     ],
     [
-      0.37,
+      0.404,
       [
         "wagon",
         "container",
         2.65
       ],
-      "container"
+      "transport"
     ],
     [
       0.204,
@@ -5939,19 +5939,19 @@
         "balloon",
         0.48
       ],
-      "concept"
+      "physical object"
     ],
     [
-      0.115,
+      0.125,
       [
         "dollar",
         "people",
         0.4
       ],
-      "object"
+      "entity"
     ],
     [
-      0.32,
+      0.288,
       [
         "bath",
         "balloon",
@@ -5960,7 +5960,7 @@
       "container"
     ],
     [
-      0.12,
+      0.102,
       [
         "stomach",
         "bedroom",
@@ -5969,31 +5969,31 @@
       "physical object"
     ],
     [
-      0.163,
+      0.202,
       [
         "bicycle",
         "bedroom",
         0.4
       ],
-      "artificial physical object"
+      "motion"
     ],
     [
-      0.185,
+      0.148,
       [
         "log",
         "bath",
         0.4
       ],
-      "artificial physical object"
+      "product"
     ],
     [
-      0.163,
+      0.148,
       [
         "bowl",
         "tail",
         0.48
       ],
-      "artificial physical object"
+      "tool"
     ]
   ]
 }

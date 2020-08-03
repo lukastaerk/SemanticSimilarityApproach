@@ -1,5 +1,5 @@
 {
-  "correlation": 0.859,
+  "correlation": 0.908,
   "similarities": [
     [
       1.0,
@@ -74,13 +74,13 @@
       "noon"
     ],
     [
-      0.25,
+      0.5,
       [
         "furnace",
         "stove",
         3.11
       ],
-      "construction"
+      "stove"
     ],
     [
       0.5,
@@ -146,13 +146,13 @@
       "tool"
     ],
     [
-      0.143,
+      0.5,
       [
         "journey",
         "car",
         1.16
       ],
-      "occurrence"
+      "travel"
     ],
     [
       0.25,
@@ -170,16 +170,16 @@
         "woodland",
         0.95
       ],
-      "geographic location"
+      "geographical object"
     ],
     [
-      0.111,
+      0.2,
       [
         "food",
         "rooster",
         0.89
       ],
-      "physical object"
+      "organism"
     ],
     [
       0.333,
@@ -224,7 +224,7 @@
         "forest",
         0.42
       ],
-      "physico-geographical object"
+      "first-order metaclass"
     ],
     [
       0.167,
@@ -236,22 +236,22 @@
       "person"
     ],
     [
-      0.111,
+      0.125,
       [
         "chord",
         "smile",
         0.13
       ],
-      "industry"
+      "class"
     ],
     [
-      0.125,
+      0.143,
       [
         "glass",
         "magician",
         0.11
       ],
-      "entity"
+      "first-order metaclass"
     ],
     [
       0.143,
@@ -269,7 +269,7 @@
         "string",
         0.008
       ],
-      "concept"
+      "text"
     ]
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "correlation": 0.76,
+  "correlation": 0.795,
   "similarities": [
     [
       1.0,
@@ -74,13 +74,13 @@
       "tool"
     ],
     [
-      0.2,
+      0.5,
       [
         "forest",
         "woodland",
         3.65
       ],
-      "territorial entity"
+      "woodland"
     ],
     [
       1.0,
@@ -164,13 +164,13 @@
       "magician in fantasy"
     ],
     [
-      0.25,
+      0.5,
       [
         "furnace",
         "stove",
         3.11
       ],
-      "construction"
+      "heating furnace"
     ],
     [
       1.0,
@@ -281,13 +281,13 @@
       "construction"
     ],
     [
-      0.143,
+      0.5,
       [
         "car",
         "journey",
         1.55
       ],
-      "action"
+      "travel"
     ],
     [
       0.167,
@@ -296,7 +296,7 @@
         "woodland",
         1.48
       ],
-      "geographic entity"
+      "geographic location"
     ],
     [
       0.167,
@@ -326,13 +326,13 @@
       "landform"
     ],
     [
-      0.091,
+      0.111,
       [
         "bird",
         "woodland",
         1.24
       ],
-      "class"
+      "metaclass"
     ],
     [
       0.125,
@@ -353,13 +353,13 @@
       "geographical object"
     ],
     [
-      0.111,
+      0.2,
       [
         "food",
         "rooster",
         1.09
       ],
-      "physical object"
+      "organism"
     ],
     [
       0.143,
@@ -389,13 +389,13 @@
       "geographical object"
     ],
     [
-      0.1,
+      0.167,
       [
         "automobile",
         "cushion",
         0.97
       ],
-      "entity"
+      "furnishing"
     ],
     [
       0.167,
@@ -404,7 +404,7 @@
         "sage",
         0.96
       ],
-      "role"
+      "taxon"
     ],
     [
       0.25,
@@ -425,13 +425,13 @@
       "geographical object"
     ],
     [
-      0.091,
+      0.111,
       [
         "grin",
         "lad",
         0.88
       ],
-      "concept"
+      "Wikidata metaclass"
     ],
     [
       0.143,
@@ -440,7 +440,7 @@
         "forest",
         0.85
       ],
-      "physico-geographical object"
+      "first-order metaclass"
     ],
     [
       0.2,
@@ -467,7 +467,7 @@
         "jewel",
         0.45
       ],
-      "physical object"
+      "artificial entity"
     ],
     [
       0.167,
@@ -479,13 +479,13 @@
       "polyphyletic common name"
     ],
     [
-      0.125,
+      0.143,
       [
         "glass",
         "magician",
         0.44
       ],
-      "entity"
+      "first-order metaclass"
     ],
     [
       0.167,
@@ -494,7 +494,7 @@
         "madhouse",
         0.44
       ],
-      "architectural structure"
+      "geographic location"
     ],
     [
       0.2,
@@ -515,13 +515,13 @@
       "term"
     ],
     [
-      0.091,
+      0.143,
       [
         "grin",
         "implement",
         0.18
       ],
-      "entity"
+      "goods"
     ],
     [
       0.25,
@@ -533,13 +533,13 @@
       "construction"
     ],
     [
-      0.125,
+      0.167,
       [
         "automobile",
         "wizard",
         0.11
       ],
-      "concept"
+      "activity"
     ],
     [
       0.167,
@@ -560,13 +560,13 @@
       "charge"
     ],
     [
-      0.2,
+      0.167,
       [
         "noon",
         "string",
         0.04
       ],
-      "series"
+      "text"
     ],
     [
       0.143,
@@ -578,13 +578,13 @@
       "Wikidata metaclass"
     ],
     [
-      0.077,
+      0.125,
       [
         "cord",
         "smile",
         0.02
       ],
-      "entity"
+      "goods"
     ]
   ]
 }

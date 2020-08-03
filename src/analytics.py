@@ -151,8 +151,6 @@ class DiGraph:
         return concept_keys
 
     def build_nx_graph(self, query = sql.query_ancestors):
-        if self._database == "babelnet":
-            return self.build_nx_graph_babelnet()
         start_t = time.time()
         concepts=self._init_concepts
         
@@ -171,8 +169,6 @@ class DiGraph:
         self.init_key2pos()
         self.write_to_file()
         return print("building the Graph from %s took: %s seconds." % (self._database,(time.time()-start_t)))
-
-    
 
 class DAC(DiGraph):
     def __init__(self, **kwargs):
@@ -247,6 +243,7 @@ def make_DAC(di_graph, concepts, root_id=entity):
     edge_herachy = sql.is_a_prop + ["all_other"]
     dac = nx.DiGraph()
     dac.add_nodes_from(di_graph.nodes(data=True))
+    concepts = sorted(concepts, key=lambda c: di_graph.in_degree(c))
     #dac.add_edges_from(di_graph.out_edges(root_id, data=True))
     for edgeType in edge_herachy:
         queue = list(concepts)
@@ -255,7 +252,7 @@ def make_DAC(di_graph, concepts, root_id=entity):
         while len(queue) != 0:
             n2 = queue.pop(0)
             past.append(n2)
-            for n1,n2, value in di_graph.in_edges(n2, data=True):
+            for n1,n2, value in sorted(di_graph.in_edges(n2, data=True), key=lambda x: x[0]):
                 if(value["value"] != edgeType and edgeType != "all_other"):
                     continue
                 if(edgeType=="all_other" and value["value"] in edge_herachy):

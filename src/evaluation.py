@@ -53,14 +53,15 @@ class WordSimEvaluation:
             return display(df_wpath)
         return cors
 
-    def evaluate_datasets_wpath_k(self, sim_name, datasets, display_table=False, **kwargs):
+    def evaluate_datasets_wpath_k(self, sim_name, datasets, range_k=[k/10 for k in range(1,11)],display_table=False, **kwargs):
         cors = []
         for d in datasets:
-            cors.append(self.evaluate_wpath_k(sim_name,d, **kwargs))
+            cors.append(self.evaluate_wpath_k(sim_name,d,range_k=range_k, **kwargs))
         
         if display_table:
-            k_index = ["k=%s"%(k/10) for k in range(1,11)]
+            k_index = ["k=%s"%k for k in range_k]
             df_wpath = pd.DataFrame(np.array(cors).T, index=k_index, columns=datasets)
+            df_wpath.to_csv("dataset/wordsim/results-csv/wpath_k.csv")
             return display(df_wpath)
         return cors
         
@@ -106,13 +107,17 @@ class WordSimEvaluation:
             sim_values.append(temp_sim[i,j])
         
         sim_values = [round(x, 3) for x in sim_values]
-        maxH = max(human)
+        maxH = round(max(human), 0)
         human = [x/maxH for x in human]
         cor = self._correlation(sim_values, human)[0]
         cor = round(cor, 3)
         if save_results:
-            results = list(zip(sim_values, word_pairs, lcs_values))
-            self._dataset.save_dataset(dict(zip(("correlation", "similarities"),(cor, results))), dataset_name+"_"+sim_name)
+            results = list(zip(map(lambda wp: wp[0],word_pairs), map(lambda wp: wp[1], word_pairs), map(lambda wp: round(wp[2], 2), word_pairs), [round(s*maxH,2) for s in sim_values],lcs_values))
+            csv = pd.DataFrame(columns=["wordone", "wordtwo", "mean", "sim", "LCS"], data=results)
+            k=""
+            if ("k" in kwargs): k=kwargs["k"]
+            csv.to_csv("dataset/wordsim/results-csv/%s_%s_%s_%s.csv"% (dataset_name,sim_name,lcs_pref_value, k))
+            #self._dataset.save_dataset(dict(zip(("correlation", "similarities"),(cor, results))), dataset_name+"_"+sim_name+"_"+lcs_pref_value)
         return cor
 
 class SentenceSimEvaluation(WordSimEvaluation):
@@ -128,7 +133,7 @@ class SentenceSimEvaluation(WordSimEvaluation):
             return display(df_wpath)
         return cors
 
-    def evaluate_sentence_similarity(self, dataset_name="MSRvid", metric = "wpath_graph", relatedness=False, save_results = False, database="wikidata"):
+    def evaluate_sentence_similarity(self, dataset_name="MSRvid", metric = "wpath_graph", relatedness=True, save_results = False, database="wikidata"):
         concepts, cc, texts = get_ideas_in_format(dataset_name, database=database)
         KG = DAC(concepts=concepts, dataset=dataset_name, relatedness=relatedness, database=database)
         if(KG.graph.__len__()==0):

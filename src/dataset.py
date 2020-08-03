@@ -49,7 +49,7 @@ class Dataset:
         except:
             concept_maping = self.match_noun_wikidata(name_re)
         concepts = [[r["item"]["value"].split("/")[-1] for r in results] for results in concept_maping.values()]
-        concepts = list(set(flatten_array(concepts)))
+        concepts = sorted(list(set(flatten_array(concepts))))
         return concepts, pairs, self.get_concepts_from_noun(concept_maping)
 
     def get_concepts_from_noun(self,maping):

@@ -1,0 +1,66 @@
+,wordone,wordtwo,mean,sim,LCS
+0,gem,jewel,3.94,4.0,gemstone
+1,midday,noon,3.94,4.0,noon
+2,automobile,car,3.92,4.0,car
+3,cemetery,graveyard,3.88,4.0,cemetery
+4,cushion,pillow,3.84,1.84,cushion
+5,boy,lad,3.82,4.0,boy
+6,cock,rooster,3.68,4.0,rooster
+7,implement,tool,3.66,4.0,tool
+8,forest,woodland,3.65,3.99,woodland
+9,coast,shore,3.6,4.0,bank
+10,autograph,signature,3.59,1.18,signature
+11,journey,voyage,3.58,0.72,travel
+12,serf,slave,3.46,0.89,enslaved person
+13,grin,smile,3.46,4.0,smile
+14,glass,tumbler,3.45,0.7,drinking vessel
+15,cord,string,3.41,3.11,cord
+16,hill,mound,3.29,0.37,geographic entity
+17,magician,wizard,3.21,4.0,magician in fantasy
+18,furnace,stove,3.11,1.9,stove
+19,asylum,madhouse,3.04,4.0,psychiatric hospital
+20,brother,monk,2.74,1.4,monk
+21,food,fruit,2.69,0.81,food
+22,bird,cock,2.63,0.77,heraldic bird
+23,bird,crane,2.63,0.2,equipment
+24,oracle,sage,2.61,0.13,first-order metaclass
+25,sage,wizard,2.46,0.46,character type
+26,brother,lad,2.41,0.54,male human
+27,crane,implement,2.37,0.49,tool
+28,magician,oracle,1.82,0.22,occupation
+29,glass,jewel,1.78,0.48,base material
+30,cemetery,mound,1.69,0.42,construction
+31,car,journey,1.55,3.88,travel
+32,hill,woodland,1.48,0.49,geographic location
+33,crane,rooster,1.41,0.14,entity
+34,furnace,implement,1.37,0.62,device
+35,coast,hill,1.26,0.32,geographic entity
+36,bird,woodland,1.24,0.23,metaclass
+37,shore,voyage,1.22,0.16,physical object
+38,cemetery,woodland,1.18,0.37,geographical object
+39,food,rooster,1.09,0.2,part
+40,forest,graveyard,1.0,0.37,geographical object
+41,lad,wizard,0.99,0.15,person
+42,mound,shore,0.97,0.22,geographical object
+43,automobile,cushion,0.97,0.64,furnishing
+44,boy,sage,0.96,0.19,role
+45,monk,oracle,0.91,0.22,occupation
+46,shore,woodland,0.9,0.26,geographical object
+47,grin,lad,0.88,0.13,Wikidata metaclass
+48,coast,forest,0.85,0.24,natural geographic object
+49,asylum,cemetery,0.79,0.27,geographic location
+50,monk,slave,0.57,0.22,position
+51,cushion,jewel,0.45,0.15,artificial entity
+52,boy,rooster,0.44,0.15,polyphyletic common name
+53,glass,magician,0.44,0.18,first-order metaclass
+54,graveyard,madhouse,0.44,0.27,geographic location
+55,asylum,monk,0.39,0.16,metaclass
+56,asylum,fruit,0.19,0.21,economic sector
+57,grin,implement,0.18,0.2,goods
+58,mound,stove,0.14,0.28,construction
+59,automobile,wizard,0.11,0.19,activity
+60,autograph,shore,0.06,0.16,physical object
+61,fruit,furnace,0.05,0.36,charge
+62,noon,string,0.04,0.14,text
+63,rooster,voyage,0.04,0.14,Wikidata metaclass
+64,cord,smile,0.02,0.14,goods

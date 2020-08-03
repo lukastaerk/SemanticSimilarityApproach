@@ -2,6 +2,22 @@ import pydot
 import networkx as nx
 from IPython.display import Image, display
 from sparql import relation_prop
+"""
+- Is-A herachic relation:
+wdt:P279: subclass of,
+wdt:P31: instance of,
+wdt:P171: parent taxon,
+wdt:P460: said to be the same as
+
+- some relation:
+wdt:P361: part of,
+wdt:P527, has part,
+wdt:P1542, has effect, 
+wdt:P1889: different from,
+wdt:P366: use, 
+wdt:P2283: uses,
+wdt:P1535: used by
+"""
 prefix = "http://www.wikidata.org/prop/direct/"
 color_map = {
     "P279": "blue",
@@ -11,7 +27,7 @@ color_map = {
     "P460": "orange"
 }
 for r in relation_prop:
-    color_map[r.split(":")[-1]]="black"
+    color_map[r.split(":")[-1]]="pink"
 
 def draw_graph(name, graph, concepts=[]):
     concepts_in_graph = [n for n in concepts if n in graph.nodes()]
@@ -21,25 +37,27 @@ def draw_graph(name, graph, concepts=[]):
     return display(im)
 
 
-def get_legend():
+def get_legend(G=None):
     legend = pydot.Cluster(graph_type="digraph",
-                           graph_name="Legend", label="Legend", )
-    colors = ["blue", "red", "green"]
-    labels = ["subclass of", "instance of", "part of"]
-    for i in range(3):
+                           graph_name="Legend", label="Legend", rankdir="LR")
+    colors = ["blue", "red", "black"]
+    labels = ["subclass of", "instance of", "traversal"]
+    for i in range(2, -1, -1):
         legend.add_node(pydot.Node(
             labels[i], shape="underline", color=colors[i]))
         # legend.add_node(pydot.Node(i, shape="point", color="white"))
         # legend.add_edge(pydot.Edge(labels[i], i, label = labels[i], color = colors[i]))
     legend.add_node(pydot.Node("concept", shape="ellipse",
+                               fillcolor="white", style="filled"))
+    legend.add_node(pydot.Node("idea \n concept", shape="ellipse",
                                fillcolor="yellow", style="filled"))
-    G = pydot.Dot()
+    if not G: G = pydot.Dot()
     G.add_subgraph(legend)
     return G
 
 
 def get_graphic_G(graph, concepts=[], name="Knowledge Graph"):
-    G = pydot.Dot(graph_type="digraph",
+    G = pydot.Cluster(graph_type="digraph",
                   graph_name="Knowledge Graph", label=name)
 
     for (k, v) in concepts:

@@ -33,7 +33,7 @@ class ConceptSimilarity:
         total = self.G.freq_by_value(self.entity, icfqvalue)
         vec_func = np.vectorize(lambda x: self.ic(self.G.freq_by_value(self.G.get_key(int(x)),icfqvalue), total))
         IC = vec_func(LCS)
-        similarities = 1/(1+SIM * (0.8 ** IC))
+        similarities = 1/(1+SIM * (0.9 ** IC))
         self._similarities = similarities
         return similarities
     

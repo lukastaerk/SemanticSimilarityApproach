@@ -30,20 +30,20 @@ relation_prop = rel.values()
 dbp_is_a = {"skos:broader", "rdf:type", "rdfs:subclassOf", "dcterms:subject"}
 
 
-def query_search_wikidata(item, limit=1000):
+def query_search_wikidata(item, limit=10):
     return """
     SELECT DISTINCT ?item ?itemLabel ?itemAltLabel WHERE {
-    SERVICE wikibase:mwapi {
-    bd:serviceParam wikibase:api "EntitySearch" .
-    bd:serviceParam wikibase:endpoint "www.wikidata.org" .
-    bd:serviceParam mwapi:search "%s" .
-    bd:serviceParam mwapi:language "en" .
-    ?item wikibase:apiOutputItem mwapi:item .
-    ?num wikibase:apiOrdinal true .
-}
-SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-?item (%s) ?i.
-} ORDER BY ASC(?num) LIMIT %s
+        SERVICE wikibase:mwapi {
+            bd:serviceParam wikibase:api "EntitySearch" .
+            bd:serviceParam wikibase:endpoint "www.wikidata.org" .
+            bd:serviceParam mwapi:search "%s" .
+            bd:serviceParam mwapi:language "en" .
+            ?item wikibase:apiOutputItem mwapi:item .
+            ?num wikibase:apiOrdinal true .
+        }
+        SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        ?item (%s) ?superItem.
+    } ORDER BY ASC(?num) LIMIT %s
     """ % (item, "|".join(is_a_prop) ,limit)
 
 def query_freq_dbpedia(item):

@@ -1,0 +1,66 @@
+,wordone,wordtwo,mean,sim,LCS
+0,gem,jewel,3.94,51.78,gemstone
+1,midday,noon,3.94,66.91,noon
+2,automobile,car,3.92,35.35,car
+3,cemetery,graveyard,3.88,26.15,cemetery
+4,cushion,pillow,3.84,53.44,cushion
+5,boy,lad,3.82,61.37,boy
+6,cock,rooster,3.68,66.91,rooster
+7,implement,tool,3.66,21.22,tool
+8,forest,woodland,3.65,26.54,woodland
+9,coast,shore,3.6,58.12,bank
+10,autograph,signature,3.59,57.32,signature
+11,journey,voyage,3.58,35.22,travel
+12,serf,slave,3.46,52.93,enslaved person
+13,grin,smile,3.46,62.52,smile
+14,glass,tumbler,3.45,46.46,drinking vessel
+15,cord,string,3.41,54.93,cord
+16,hill,mound,3.29,6.84,geographic entity
+17,magician,wizard,3.21,54.55,magician in fantasy
+18,furnace,stove,3.11,46.54,stove
+19,asylum,madhouse,3.04,42.98,psychiatric hospital
+20,brother,monk,2.74,49.86,monk
+21,food,fruit,2.69,32.66,food
+22,bird,cock,2.63,50.1,heraldic bird
+23,bird,crane,2.63,21.21,equipment
+24,oracle,sage,2.61,0.46,first-order metaclass
+25,sage,wizard,2.46,45.3,character type
+26,brother,lad,2.41,46.06,male human
+27,crane,implement,2.37,21.22,tool
+28,magician,oracle,1.82,18.18,occupation
+29,glass,jewel,1.78,28.69,base material
+30,cemetery,mound,1.69,14.82,construction
+31,car,journey,1.55,35.22,travel
+32,hill,woodland,1.48,7.1,geographic location
+33,crane,rooster,1.41,2.77,taxon
+34,furnace,implement,1.37,28.95,device
+35,coast,hill,1.26,12.21,landform
+36,bird,woodland,1.24,0.01,metaclass
+37,shore,voyage,1.22,1.86,physical object
+38,cemetery,woodland,1.18,6.89,geographical object
+39,food,rooster,1.09,10.83,part
+40,forest,graveyard,1.0,6.89,geographical object
+41,lad,wizard,0.99,4.11,person
+42,mound,shore,0.97,6.89,geographical object
+43,automobile,cushion,0.97,33.99,furnishing
+44,boy,sage,0.96,17.19,role
+45,monk,oracle,0.91,18.18,occupation
+46,shore,woodland,0.9,6.89,geographical object
+47,grin,lad,0.88,1.4,Wikidata metaclass
+48,coast,forest,0.85,10.42,natural geographic object
+49,asylum,cemetery,0.79,14.9,architectural structure
+50,monk,slave,0.57,20.4,position
+51,cushion,jewel,0.45,0.42,work
+52,boy,rooster,0.44,4.13,polyphyletic common name
+53,glass,magician,0.44,3.84,agent
+54,graveyard,madhouse,0.44,7.1,geographic location
+55,asylum,monk,0.39,0.44,concept
+56,asylum,fruit,0.19,14.87,economic sector
+57,grin,implement,0.18,3.28,goods
+58,mound,stove,0.14,14.82,construction
+59,automobile,wizard,0.11,2.89,activity
+60,autograph,shore,0.06,1.86,physical object
+61,fruit,furnace,0.05,41.72,charge
+62,noon,string,0.04,3.74,text
+63,rooster,voyage,0.04,1.4,Wikidata metaclass
+64,cord,smile,0.02,3.28,goods
