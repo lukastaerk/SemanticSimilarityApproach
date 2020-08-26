@@ -1,5 +1,6 @@
 # Semantic Similarity Approach
-## for Bachelor Thesis Recommender System for Idea-Clustering based on Semantic Similarity of Concepts in Knowledge Graphs
+## for Bachelor Thesis:
+## Recommender System for Idea-Clustering based on Semantic Similarity of Concepts in Knowledge Graphs
 
 /data
 + containes the idea datasets
