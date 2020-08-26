@@ -62,12 +62,12 @@ class DiGraph:
     def get_subgraph_from(self, node_id, depth=5):
         return nx.subgraph(self.graph, set(self.recursively_get_child_nodes(node_id, depth)))
 
-    def decendants_of(self, id):
-        queue = [id]
+    def decendants_of(self, cid):
+        queue = [cid]
         decendants = []
         while len(queue) > 0:
             q = queue.pop()
-            succ = [v for v in self.graph.successors(q) if not v in decendants and v != id]
+            succ = [v for v in self.graph.successors(q) if not v in decendants and v != cid]
             decendants.extend(succ)
             queue.extend(succ)
         return decendants
@@ -83,24 +83,24 @@ class DiGraph:
             self.decendants_freq(n)
         return sorted(self.graph.nodes("freq"), key=lambda x: x[1], reverse=True)
 
-    def decendants_freq(self, id):
-        if id == self._entity:
+    def decendants_freq(self, cid):
+        if cid == self._entity:
            return self.graph.__len__()
-        if not "freq" in self.graph.nodes[id] or self.graph.nodes[id]["freq"] == 0:
-            self.graph.nodes[id]["freq"] = len(self.decendants_of(id)) + 1
-        return self.graph.nodes[id]["freq"]
+        if not "freq" in self.graph.nodes[cid] or self.graph.nodes[cid]["freq"] == 0:
+            self.graph.nodes[cid]["freq"] = len(self.decendants_of(cid)) + 1
+        return self.graph.nodes[cid]["freq"]
 
     @functools.lru_cache(1050000)
-    def freq_by_value(self, id, value):
+    def freq_by_value(self, cid, value):
         if value == "freq":
-            if id == self._entity:
+            if cid == self._entity:
                 return self.graph.__len__()
-            return self.decendants_freq(id)
-        if id == self._entity:
+            return self.decendants_freq(cid)
+        if cid == self._entity:
             return sum([freq[1] for freq in self.graph.nodes(value)])
-        freq = self.graph.nodes[id][value] +1.0
-        for n in self.decendants_of(id):
-            freq += self.graph.nodes[n][value] + 1.0
+        freq = self.graph.nodes[cid][value] + 1.0
+        for n in self.decendants_of(cid):
+            freq += self.graph.nodes[n][value] #+ 1.0
         return freq
 
     def global_secondorder_freq(self, write_value="freq1"):
@@ -181,13 +181,14 @@ class DAC(DiGraph):
         return print("Function not available")
 
     def get_subgraph_from(self, node_id):
-        return nx.subgraph(self.graph, {*nx.descendants(self.graph, node_id), node_id})
+        subgraph = nx.subgraph(self.graph, {*nx.descendants(self.graph, node_id), node_id})
+        return subgraph
 
     def decendants_freq(self, node_id):
         if (not "freq" in self.graph.nodes[node_id]) or self.graph.nodes[node_id]["freq"] == 0:
             self.graph.nodes[node_id]["freq"]= len([*nx.descendants(self.graph, node_id), node_id])
         return self.graph.nodes[node_id]["freq"]
-
+    
     def decendants_of(self, node_id):
         return list(nx.descendants(self.graph, node_id))
 
@@ -240,10 +241,13 @@ def remove_backward_edges(di_graph, root_id=entity):
     return di_graph
 
 def make_DAC(di_graph, concepts, root_id=entity):
-    edge_herachy = sql.is_a_prop + ["all_other"]
+    taxonamic_rel = list(map(lambda p: p.split(":")[1], sql.is_a_prop))
+    traversal_rel = list(map(lambda p: p.split(":")[1], sql.relation_prop))
+    edge_herachy = [taxonamic_rel, traversal_rel]
     dac = nx.DiGraph()
     dac.add_nodes_from(di_graph.nodes(data=True))
     concepts = sorted(concepts, key=lambda c: di_graph.in_degree(c))
+    
     #dac.add_edges_from(di_graph.out_edges(root_id, data=True))
     for edgeType in edge_herachy:
         queue = list(concepts)
@@ -253,15 +257,12 @@ def make_DAC(di_graph, concepts, root_id=entity):
             n2 = queue.pop(0)
             past.append(n2)
             for n1,n2, value in sorted(di_graph.in_edges(n2, data=True), key=lambda x: x[0]):
-                if(value["value"] != edgeType and edgeType != "all_other"):
-                    continue
-                if(edgeType=="all_other" and value["value"] in edge_herachy):
+                if(value["value"] == "P1889"):#different from
                     continue
                 if(not n1 in nx.descendants(dac, n2) and n1 != n2):
                     dac.add_edge(n1, n2, value=value["value"])
                     if not n1 in past and not n1 in queue:
                         queue.append(n1)
-
     return dac
 
 

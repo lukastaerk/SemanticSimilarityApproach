@@ -1,31 +1,31 @@
 ,wordone,wordtwo,mean,sim,LCS
-0,car,automobile,3.92,34.94,car
+0,car,automobile,3.92,34.92,car
 1,gem,jewel,3.84,51.35,gemstone
-2,journey,voyage,3.84,34.82,travel
+2,journey,voyage,3.84,34.8,travel
 3,boy,lad,3.76,60.94,boy
 4,coast,shore,3.7,57.7,bank
 5,asylum,madhouse,3.61,42.55,psychiatric hospital
-6,magician,wizard,3.5,54.5,magician in fantasy
+6,magician,wizard,3.5,57.7,magician
 7,midday,noon,3.42,66.48,noon
-8,furnace,stove,3.11,47.65,Ofen
-9,food,fruit,3.08,32.76,food
-10,bird,cock,3.05,49.67,heraldic bird
-11,bird,crane,2.97,20.85,equipment
-12,tool,implement,2.95,20.87,tool
-13,brother,monk,2.82,49.22,monk
-14,lad,brother,1.66,45.87,male human
-15,crane,implement,1.68,20.87,tool
-16,journey,car,1.16,34.82,travel
-17,monk,oracle,1.1,17.75,occupation
-18,cemetery,woodland,0.95,6.46,geographical object
-19,food,rooster,0.89,10.4,part
+8,furnace,stove,3.11,14.41,construction
+9,food,fruit,3.08,32.77,food
+10,bird,cock,3.05,49.73,heraldic bird
+11,bird,crane,2.97,27.92,equipment
+12,tool,implement,2.95,28.02,tool
+13,brother,monk,2.82,49.73,monk
+14,lad,brother,1.66,50.68,male human
+15,crane,implement,1.68,28.02,tool
+16,journey,car,1.16,34.8,travel
+17,monk,oracle,1.1,19.67,occupation
+18,cemetery,woodland,0.95,9.95,geographical object
+19,food,rooster,0.89,21.9,part
 20,coast,hill,0.87,11.78,landform
-21,forest,graveyard,0.84,6.46,geographical object
-22,shore,woodland,0.63,6.46,geographical object
-23,monk,slave,0.55,19.97,position
-24,coast,forest,0.42,10.0,natural geographic object
+21,forest,graveyard,0.84,9.95,geographical object
+22,shore,woodland,0.63,9.95,geographical object
+23,monk,slave,0.55,19.98,position
+24,coast,forest,0.42,11.67,natural geographic object
 25,lad,wizard,0.42,3.68,person
-26,chord,smile,0.13,2.82,economic concept
-27,glass,magician,0.11,3.41,agent
-28,rooster,voyage,0.08,0.07,Wikidata metaclass
-29,noon,string,0.01,3.44,text
+26,chord,smile,0.13,25.64,industry
+27,glass,magician,0.11,3.6,agent
+28,rooster,voyage,0.08,1.04,Wikidata metaclass
+29,noon,string,0.01,1.02,concept

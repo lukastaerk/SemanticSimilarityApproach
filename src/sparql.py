@@ -9,10 +9,10 @@ wdt:P460: said to be the same as
 wdt:P361: part of,
 wdt:P527, has part,
 wdt:P1542, has effect, 
-wdt:P1889: different from,
-wdt:P366: use, 
-wdt:P2283: uses,
-wdt:P1535: used by
+wdt:P1889, different from,
+wdt:P366, use, 
+wdt:P2283, uses,
+wdt:P1535, used by
 """
 rel = {
     "part_of":"wdt:P361",

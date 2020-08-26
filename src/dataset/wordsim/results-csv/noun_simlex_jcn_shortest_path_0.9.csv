@@ -1,0 +1,667 @@
+,wordone,wordtwo,mean,sim,LCS
+0,wife,husband,2.3,1.94,affinity
+1,book,text,6.35,1.77,text
+2,groom,bride,3.17,0.28,Wikidata metaclass
+3,night,day,1.88,0.94,day
+4,south,north,2.2,2.37,cardinal direction
+5,plane,airport,3.65,0.53,geometric concept
+6,uncle,aunt,5.5,0.88,kinship
+7,horse,mare,8.33,1.16,horse
+8,bottom,top,0.7,3.13,down and up
+9,friend,buddy,8.78,0.79,companionship
+10,student,pupil,9.35,10.0,student
+11,world,globe,6.67,0.34,abstract object
+12,leg,arm,2.88,1.94,anatomical region
+13,plane,jet,8.1,3.53,powered aircraft
+14,woman,man,3.33,3.82,gender identity
+15,horse,colt,7.07,1.09,horse
+16,actress,actor,7.12,10.0,actor
+17,teacher,instructor,9.25,1.01,educator
+18,movie,film,8.87,10.0,film
+19,bird,hawk,7.85,0.31,class
+20,word,dictionary,3.68,1.26,sentence
+21,money,salary,7.88,0.39,term
+22,dog,cat,1.75,0.66,class
+23,area,region,9.47,10.0,zone
+24,navy,army,6.43,2.53,military branch
+25,book,literature,7.53,0.88,text
+26,clothes,closet,3.27,0.46,product
+27,sunset,sunrise,2.47,0.42,day
+28,child,adult,2.98,0.47,organism
+29,cow,cattle,9.52,10.0,cattle
+30,book,story,5.63,0.84,work
+31,winter,summer,2.38,0.48,recurring event
+32,taxi,cab,9.2,10.0,taxi
+33,tree,maple,5.53,0.74,charge
+34,bed,bedroom,3.4,1.84,sleeping place
+35,roof,ceiling,7.58,0.95,architectural element
+36,disease,infection,7.15,2.23,disease
+37,arm,shoulder,4.85,1.3,anatomical region
+38,sheep,lamb,8.42,2.11,domestic sheep
+39,lady,gentleman,3.42,1.61,adult
+40,boat,anchor,2.25,0.35,first-order metaclass
+41,priest,monk,6.28,1.67,religious occupation
+42,toe,finger,4.68,2.27,autopod region
+43,river,stream,7.3,10.0,watercourse
+44,anger,fury,8.73,0.28,psychology terminology
+45,date,calendar,4.42,1.3,calendar date
+46,sea,ocean,8.27,0.41,geographic location
+47,second,minute,4.62,5.91,second
+48,hand,thumb,3.88,3.22,hand
+49,wood,log,7.3,1.0,tree
+50,mud,dirt,7.32,0.35,base material
+51,hallway,corridor,9.28,10.0,corridor
+52,way,manner,7.62,10.0,means
+53,mouse,cat,1.12,0.55,artificial entity
+54,cop,sheriff,9.05,1.95,law enforcement officer
+55,death,burial,4.93,0.44,occurrence
+56,music,melody,6.98,0.91,musical work
+57,beer,alcohol,7.5,0.54,group or class of chemical substances
+58,mouth,lip,7.1,1.99,subdivision of face
+59,storm,hurricane,6.38,1.86,meteorological disaster
+60,tax,income,2.38,0.36,term
+61,flower,violet,6.95,0.38,anatomical structure
+62,paper,cardboard,5.38,2.78,paper
+63,floor,ceiling,1.73,0.95,architectural element
+64,beach,seashore,8.33,4.13,shore
+65,rod,curtain,3.03,0.32,artificial entity
+66,hound,fox,2.38,0.33,polyphyletic common name
+67,street,alley,5.48,1.31,street
+68,boat,deck,4.28,0.72,watercraft
+69,car,horn,2.57,0.64,transport
+70,friend,guest,4.25,0.29,subject
+71,employer,employee,3.65,0.59,concept
+72,hand,wrist,3.97,2.08,free upper limb segment
+73,ball,cannon,2.58,0.37,class
+74,alcohol,brandy,6.98,0.67,Q24700923
+75,victory,triumph,8.98,3.03,victory
+76,telephone,booth,3.63,0.32,work
+77,door,doorway,5.4,10.0,doorway
+78,motel,inn,8.17,1.21,hotel building
+79,clothes,cloth,5.47,1.9,clothing
+80,steak,meat,7.47,0.51,food
+81,nail,thumb,3.55,0.34,anatomical structure
+82,band,orchestra,7.08,2.1,musical group
+83,book,bible,5.0,0.44,text
+84,business,industry,7.02,1.54,economic activity
+85,winter,season,6.27,1.06,season
+86,decade,century,3.48,4.0,decade
+87,alcohol,gin,8.65,0.66,Q24700923
+88,hat,coat,2.67,0.88,clothing
+89,window,door,3.33,10.0,window
+90,arm,wrist,3.57,1.08,subdivision of cardinal body part
+91,house,apartment,5.8,1.04,house
+92,glass,crystal,6.27,1.35,solid
+93,wine,brandy,5.15,1.46,alcoholic beverage
+94,creator,maker,9.62,0.53,concept
+95,dinner,breakfast,3.33,0.9,meals
+96,arm,muscle,3.72,0.48,first-order metaclass
+97,bubble,suds,8.57,0.28,physical system
+98,bread,flour,3.33,9.09,flour
+99,death,tragedy,5.8,0.44,metaclass
+100,absence,presence,0.4,0.58,philosophical concept
+101,gun,cannon,5.68,3.07,weapon family
+102,grass,blade,4.57,0.33,product
+103,ball,basket,1.67,1.63,sports equipment
+104,hose,garden,1.67,0.37,artificial entity
+105,boy,kid,7.5,2.07,child
+106,church,choir,2.95,0.94,church building
+107,clothes,drawer,3.02,0.42,work
+108,tower,bell,1.9,3.7,bell tower
+109,father,parent,7.07,3.65,parent
+110,school,grade,4.42,0.47,first-order metaclass
+111,parent,adult,5.37,0.36,variable-order metaclass
+112,bar,jail,1.9,0.84,facility
+113,car,highway,3.4,0.45,classification system
+114,dictionary,definition,6.25,0.87,written work
+115,door,cellar,1.97,3.47,architectural element
+116,army,legion,5.95,4.88,army
+117,metal,aluminum,7.25,0.76,base material
+118,chair,bench,6.67,10.0,seat
+119,cloud,fog,6.0,3.39,cloud
+120,boy,son,6.75,0.87,male human
+121,water,ice,6.47,10.0,ice
+122,bed,blanket,3.02,1.86,sleep
+123,attorney,lawyer,9.35,10.0,lawyer
+124,area,zone,8.33,10.0,level
+125,business,company,9.02,8.29,company
+126,clothes,fabric,5.87,3.83,clothing
+127,sweater,jacket,7.15,0.78,clothing
+128,money,capital,6.67,0.48,goods
+129,hand,foot,4.17,3.84,autopod region
+130,alcohol,cocktail,6.73,0.86,Q24700923
+131,yard,inch,3.78,0.74,unit of length
+132,molecule,atom,6.45,10.0,atom
+133,lens,camera,4.28,1.98,objective
+134,meal,dinner,7.15,1.59,meals
+135,eye,tear,3.55,0.33,material anatomical entity
+136,god,devil,1.8,1.59,deity
+137,loop,belt,3.1,0.36,work
+138,rat,mouse,7.78,0.33,taxon
+139,motor,engine,8.65,10.0,engine
+140,car,cab,7.42,9.94,taxi
+141,cat,lion,6.75,0.56,list
+142,size,magnitude,6.33,10.0,magnitude
+143,reality,fantasy,1.03,0.32,entity
+144,door,gate,5.25,0.99,device
+145,cat,pet,5.95,4.02,pet
+146,tin,aluminum,6.42,0.53,chemical element
+147,bone,jaw,4.17,0.8,animal organ
+148,cereal,wheat,3.75,1.96,cereal
+149,house,key,1.9,0.65,tool
+150,blood,flesh,4.28,0.51,tissue
+151,door,corridor,3.73,0.81,architectural element
+152,god,spirit,7.3,0.62,abstract being
+153,capability,competence,7.62,6.24,capability
+154,abundance,plenty,8.97,0.28,unit of measurement
+155,sofa,chair,6.67,2.28,seat
+156,wall,brick,4.68,0.46,artificial entity
+157,horn,drum,2.68,0.77,class of instruments
+158,organ,liver,6.15,1.11,organ
+159,strength,might,7.07,0.35,visual artwork
+160,phrase,word,5.48,10.0,phrase
+161,band,parade,3.92,0.48,occurrence
+162,stomach,waist,5.9,0.32,anatomical structure
+163,cloud,storm,5.6,0.59,natural phenomenon
+164,joy,pride,5.0,0.48,emotion
+165,noise,rattle,6.17,0.43,music
+166,rain,mist,5.97,3.32,rain
+167,beer,beverage,5.42,1.27,drink
+168,man,uncle,3.92,0.33,concept
+169,apple,juice,2.88,2.33,fruit
+170,intelligence,logic,6.5,0.34,mental object
+171,communication,language,7.47,9.76,communication medium
+172,mink,fur,6.83,0.31,class
+173,mob,crowd,7.85,10.0,crowd
+174,shore,coast,8.83,10.0,bank
+175,wire,cord,7.62,3.96,cord
+176,bird,turkey,6.58,0.51,animal feed
+177,bed,crib,7.3,1.59,bed
+178,competence,ability,7.5,6.24,capability
+179,cloud,haze,7.32,0.43,natural phenomenon
+180,supper,meal,7.53,1.33,meals
+181,bar,cage,2.8,0.55,architectural structure
+182,water,salt,1.3,1.02,food ingredient
+183,sense,intuition,7.68,0.31,psychology terminology
+184,situation,condition,6.58,0.65,condition
+185,crime,theft,7.53,1.82,crime
+186,style,fashion,8.5,1.07,class
+187,boundary,border,9.08,10.0,border
+188,arm,body,4.05,1.1,weapon
+189,boat,car,2.37,1.02,mode of transport
+190,sandwich,lunch,6.3,0.33,entity
+191,bride,princess,2.8,1.4,woman
+192,heroine,hero,8.78,10.0,hero
+193,car,gauge,1.13,0.49,device
+194,insect,bee,6.07,2.18,insect
+195,crib,cradle,8.55,10.0,infant bed
+196,animal,person,3.05,5.89,taxon
+197,marijuana,herb,6.5,10.0,cannabis
+198,bed,hospital,0.92,0.78,facility
+199,cheek,tongue,4.52,0.54,first-order metaclass
+200,disc,computer,3.2,0.51,computer hardware
+201,curve,angle,3.33,0.6,shape
+202,grass,moss,5.0,0.32,taxon
+203,school,law,1.13,1.23,rule
+204,foot,head,2.3,0.38,anatomical structure
+205,mother,guardian,6.5,0.93,kinship
+206,orthodontist,dentist,8.27,3.32,dentist
+207,alcohol,whiskey,7.27,0.71,Q24700923
+208,mouth,tooth,6.3,8.59,mouth
+209,breakfast,bacon,4.37,0.31,entity
+210,bathroom,bedroom,3.4,0.43,room
+211,plate,bowl,5.23,2.8,tableware
+212,meat,bacon,5.8,2.12,meat
+213,air,helium,3.63,4.15,lifting gas
+214,worker,employer,5.37,0.59,agent
+215,body,chest,4.45,0.76,physical object
+216,son,father,3.82,0.84,kinship
+217,heart,surgery,1.08,0.33,first-order metaclass
+218,woman,secretary,1.98,0.36,Wikidata metaclass
+219,man,father,4.83,0.4,organization
+220,beach,island,5.6,1.26,landform
+221,story,topic,5.0,0.73,property
+222,game,fun,3.42,0.53,concept
+223,weekend,week,4.0,0.8,week
+224,couple,pair,8.33,10.0,ordered pair
+225,woman,wife,5.72,2.14,female human
+226,sheep,cattle,4.77,0.73,domesticated animal
+227,purse,bag,8.33,2.33,bag
+228,ceiling,cathedral,2.42,0.63,building
+229,bean,coffee,5.15,0.5,food
+230,wood,paper,2.88,1.61,activity
+231,top,side,1.9,2.65,side
+232,crime,fraud,5.65,1.99,crime
+233,pain,harm,5.38,0.33,philosophical concept
+234,lover,companion,5.97,0.62,character type
+235,evening,dusk,7.78,0.4,day
+236,father,daughter,2.62,0.81,kinship
+237,wine,liquor,7.85,2.3,alcoholic beverage
+238,cow,goat,2.93,1.06,productive animal
+239,belief,opinion,7.7,0.55,notion
+240,reality,illusion,1.42,0.31,philosophical concept
+241,pact,agreement,9.02,10.0,agreement
+242,wealth,poverty,1.27,0.32,state
+243,accident,emergency,4.93,0.44,condition
+244,battle,conquest,7.22,0.42,technical term
+245,friend,teacher,2.62,0.42,human behaviour
+246,illness,infection,6.9,2.23,disease
+247,game,trick,2.32,0.83,event
+248,brother,son,3.48,0.8,kinship
+249,aunt,nephew,3.1,0.83,kinship
+250,worker,mechanic,4.92,0.6,worker
+251,doctor,orthodontist,5.58,0.32,profession
+252,oak,maple,6.03,1.38,broadleaf tree
+253,bee,queen,3.27,0.32,first-order metaclass
+254,car,bicycle,3.47,0.87,transport
+255,goal,quest,5.83,0.51,quality
+256,august,month,5.53,7.61,calendar month
+257,army,squad,5.08,1.17,military unit size class
+258,cloud,weather,4.87,0.6,natural phenomenon
+259,physician,doctor,8.88,10.0,physician
+260,canyon,valley,6.75,2.18,valley
+261,river,valley,1.67,1.47,geographic region
+262,sun,sky,2.27,0.32,variable-order metaclass
+263,target,arrow,3.25,0.52,abstract object
+264,chocolate,pie,2.27,0.54,food
+265,circumstance,situation,7.85,0.3,condition
+266,opinion,choice,5.43,2.2,statement
+267,rhythm,melody,6.12,0.57,aspect of music
+268,gut,nerve,4.93,0.38,anatomical structure
+269,day,dawn,5.47,0.76,day
+270,cattle,beef,7.03,0.35,first-order metaclass
+271,doctor,professor,4.65,1.01,position
+272,arm,vein,3.65,0.45,first-order metaclass
+273,room,bath,3.33,0.47,structure
+274,corporation,business,9.02,3.21,company
+275,fun,football,1.97,0.31,class
+276,hill,cliff,4.28,1.29,landform
+277,bone,ankle,3.82,0.44,anatomical structure
+278,apple,candy,2.08,0.62,food
+279,helper,maid,5.58,0.31,profession
+280,leader,manager,7.27,0.56,position
+281,lemon,tea,1.6,0.4,chemical compound
+282,bee,ant,2.78,1.68,insect
+283,basketball,baseball,4.92,1.22,ball
+284,rice,bean,2.72,0.51,food
+285,bed,furniture,6.08,1.3,furniture
+286,emotion,passion,7.72,0.86,emotion
+287,anarchy,chaos,7.93,0.31,entity
+288,crime,violation,7.12,0.43,problem
+289,machine,engine,5.58,1.52,machine
+290,beach,sea,4.68,0.58,geographic location
+291,alley,bowl,1.53,0.4,artificial physical object
+292,jar,bottle,7.83,1.92,bin
+293,strength,capability,5.28,0.53,capability
+294,seed,mustard,3.48,2.89,seed
+295,guitar,drum,3.78,0.97,class of instruments
+296,opinion,idea,5.7,1.3,notion
+297,north,west,3.63,2.37,cardinal direction
+298,diet,salad,2.98,0.36,artificial entity
+299,mother,wife,3.02,1.31,female human
+300,dad,mother,3.55,0.98,kinship
+301,captain,sailor,5.0,2.71,sailor
+302,meter,yard,5.6,0.74,unit of length
+303,beer,champagne,4.45,0.34,first-order metaclass
+304,motor,boat,2.57,0.72,vehicle
+305,card,bridge,1.97,0.43,technological component
+306,science,psychology,4.92,6.43,academic discipline
+307,sinner,saint,1.6,0.34,name
+308,destruction,construction,0.98,0.51,variable-order metaclass
+309,crowd,bunch,7.42,0.29,person
+310,beach,reef,3.77,0.84,territorial entity
+311,man,child,4.13,0.41,organism
+312,bread,cheese,1.95,0.65,food
+313,champion,winner,8.73,4.88,winner
+314,celebration,ceremony,7.72,0.72,event
+315,menu,order,3.62,0.36,agent
+316,king,princess,3.27,1.35,chess piece
+317,wealth,prestige,6.07,0.31,term
+318,endurance,strength,6.58,0.28,abstract object
+319,danger,threat,8.78,0.62,abstract object
+320,god,priest,4.5,0.43,concept
+321,men,fraternity,3.13,0.54,social organization
+322,buddy,companion,8.65,0.41,fictional character
+323,teacher,helper,4.28,0.83,position
+324,body,stomach,3.93,0.66,anatomical structure
+325,tongue,throat,3.1,0.51,first-order metaclass
+326,house,carpet,1.38,0.57,architectural structure
+327,intelligence,skill,5.35,0.62,property
+328,journey,conquest,4.72,0.39,technical term
+329,god,prey,1.23,0.34,entity
+330,brother,soul,0.97,0.31,concept
+331,adversary,opponent,9.05,10.0,adversary
+332,death,catastrophe,4.13,0.7,occurrence
+333,monster,demon,6.95,1.46,mythical creature
+334,day,morning,4.87,0.76,day
+335,man,victor,1.9,0.31,variable-order metaclass
+336,friend,guy,3.88,0.33,abstract object
+337,song,story,3.97,0.93,literary work
+338,ray,sunshine,6.83,0.28,group
+339,guy,stud,5.83,2.3,sex
+340,chicken,rice,1.43,0.49,food
+341,box,elevator,1.32,0.63,tool
+342,butter,potato,1.22,0.49,food ingredient
+343,apartment,furniture,1.28,0.5,product
+344,lake,swamp,4.92,1.03,natural geographic object
+345,salad,vinegar,1.13,0.53,food
+346,flower,bulb,4.48,1.26,plant structure
+347,cloud,mist,6.67,1.81,cloud
+348,driver,pilot,6.28,4.77,vehicle operator
+349,sugar,honey,5.13,0.55,food ingredient
+350,body,shoulder,2.88,0.63,anatomical structure
+351,idea,image,3.55,5.93,concept
+352,father,brother,4.2,0.86,kinship
+353,moon,planet,5.87,3.74,planetary system
+354,ball,costume,2.32,0.47,product
+355,rail,fence,5.22,0.46,artificial geographic entity
+356,room,bed,2.35,0.77,location
+357,flower,bush,4.25,1.87,heraldic plant
+358,bone,knee,4.17,0.47,tissue
+359,arm,knee,2.75,1.43,anatomical region
+360,bottom,side,2.63,4.19,side
+361,vessel,vein,5.15,9.42,vessel
+362,cat,rabbit,2.37,0.51,class
+363,meat,sandwich,2.35,0.64,food
+364,belief,concept,5.08,0.88,concept
+365,intelligence,insight,5.9,0.3,property
+366,attention,interest,7.22,0.31,entity
+367,attitude,confidence,4.35,0.33,entity
+368,right,justice,7.05,0.47,first-order metaclass
+369,argument,agreement,1.45,0.46,abstract object
+370,depth,magnitude,6.12,1.13,scalar magnitude
+371,medium,news,3.65,1.18,communication
+372,winner,candidate,2.78,0.33,person
+373,birthday,date,5.08,1.0,calendar date
+374,fee,payment,7.15,1.04,legal transaction
+375,bible,hymn,5.15,0.36,text
+376,exit,doorway,5.5,10.0,doorway
+377,man,sentry,3.25,0.31,role
+378,aisle,hall,6.35,0.46,part of building
+379,whiskey,gin,6.28,1.79,liquor
+380,blood,marrow,3.4,0.37,food
+381,oil,mink,1.23,0.3,concept
+382,floor,deck,5.55,0.79,building
+383,roof,floor,2.62,3.45,architectural element
+384,door,floor,1.67,3.47,architectural element
+385,shoulder,head,3.42,1.48,anatomical region
+386,wagon,carriage,7.7,2.21,coachwork type
+387,car,carriage,5.13,1.76,wheeled vehicle
+388,elbow,ankle,3.13,0.37,anatomical structure
+389,wealth,fame,4.02,0.3,variable-order metaclass
+390,sorrow,shame,4.77,0.28,psychology terminology
+391,administration,management,7.25,9.94,management
+392,communication,conversation,8.02,1.0,human communication
+393,pollution,atmosphere,4.25,0.46,concept
+394,anatomy,biology,5.33,1.98,biology
+395,college,profession,3.12,1.0,concept
+396,book,topic,2.07,1.02,document
+397,formula,equation,7.95,6.95,formula
+398,book,information,5.0,1.61,information
+399,boy,partner,1.9,0.36,concept
+400,sky,universe,4.68,0.3,abstract object
+401,population,people,7.68,0.62,group of living things
+402,college,class,4.13,1.0,class
+403,chief,mayor,4.85,0.63,position
+404,rabbi,minister,7.62,2.12,cleric
+405,meter,inch,5.08,0.78,unit of length
+406,polyester,cotton,5.63,1.21,cloth
+407,lawyer,banker,1.88,0.32,profession
+408,violin,instrument,6.58,1.59,instrumentalist
+409,camp,cabin,4.2,0.53,building
+410,pot,appliance,2.53,0.46,tool
+411,linen,fabric,7.47,1.4,textile
+412,whiskey,champagne,5.33,0.32,first-order metaclass
+413,girl,child,5.38,1.61,child
+414,cottage,cabin,7.72,0.96,shelter
+415,bird,hen,7.03,0.37,taxon
+416,racket,noise,8.1,0.31,technical term
+417,sunset,evening,5.98,0.41,day
+418,drizzle,rain,9.17,3.32,rain
+419,adult,baby,2.22,0.41,organism
+420,charcoal,coal,7.63,3.34,solid fuel
+421,body,spine,4.78,0.65,biological component
+422,head,nail,2.47,0.37,anatomical structure
+423,log,timber,8.05,0.31,classification system
+424,spoon,cup,2.02,0.57,ingestion
+425,body,nerve,3.13,0.88,anatomical structure
+426,man,husband,5.32,0.39,concept
+427,bone,neck,2.53,0.38,anatomical structure
+428,frustration,anger,6.5,0.28,psychology terminology
+429,river,sea,5.72,1.01,land waters
+430,task,job,8.87,1.41,activity
+431,club,society,5.23,3.43,voluntary association
+432,reflection,image,7.27,0.57,image
+433,prince,king,5.92,1.62,monarch
+434,snow,weather,5.48,2.08,weather
+435,people,party,2.2,0.88,legal person
+436,boy,brother,6.67,0.89,male human
+437,root,grass,3.55,0.55,plant
+438,brow,eye,3.82,1.27,facial feature
+439,money,pearl,2.1,0.41,goods
+440,money,diamond,3.42,0.43,structure
+441,vehicle,bus,6.47,1.4,vehicle
+442,cab,bus,5.6,2.54,passenger transport
+443,house,barn,4.33,1.51,building
+444,finger,palm,3.33,2.22,hand
+445,car,bridge,0.95,0.83,architectural structure
+446,effort,difficulty,4.45,0.3,process
+447,fact,insight,4.77,0.4,mental state
+448,job,management,3.97,1.42,activity
+449,cancer,sickness,7.93,1.25,disease
+450,word,newspaper,2.47,1.12,concept
+451,composer,writer,6.58,1.48,author
+452,actor,singer,4.52,0.41,profession
+453,shelter,hut,6.47,1.23,shelter
+454,bathroom,kitchen,3.1,0.45,room
+455,cabin,hut,6.53,7.4,hut
+456,door,kitchen,1.67,0.47,structure
+457,value,belief,7.07,0.68,abstract object
+458,wisdom,intelligence,7.47,0.3,property
+459,ignorance,intelligence,1.5,0.3,philosophical concept
+460,happiness,luck,2.38,0.29,entity
+461,idea,scheme,6.75,1.63,abstract object
+462,mood,emotion,8.12,0.46,entity
+463,happiness,peace,6.03,0.3,process
+464,despair,misery,7.22,0.27,concept
+465,logic,arithmetic,3.97,0.49,mathematics
+466,denial,confession,1.03,0.52,psychology terminology
+467,argument,criticism,5.08,1.8,discourse
+468,aggression,hostility,8.48,4.19,aggression
+469,hysteria,confusion,6.33,0.29,psychology terminology
+470,chemistry,theory,3.17,0.47,variable-order metaclass
+471,trial,verdict,3.33,0.34,occurrence
+472,comfort,safety,5.8,0.31,condition
+473,confidence,self,3.12,0.27,entity
+474,vision,perception,6.88,0.86,psychology terminology
+475,era,decade,5.4,0.73,time interval
+476,biography,fiction,1.38,2.32,literary genre
+477,discussion,argument,5.48,0.36,communication
+478,code,symbol,6.03,2.86,sign
+479,danger,disease,3.0,10.0,sense
+480,accident,catastrophe,5.9,9.8,disaster
+481,journey,trip,8.88,0.35,occurrence
+482,activity,movement,7.15,1.63,process
+483,gossip,news,5.22,0.39,communication
+484,father,god,3.57,0.36,concept
+485,action,course,5.45,0.86,occurrence
+486,fever,illness,7.65,0.87,health problem
+487,aviation,flight,8.18,4.01,commercial aviation
+488,game,action,4.85,9.93,activity
+489,molecule,air,3.05,0.73,molecule
+490,home,state,2.58,1.03,concept
+491,word,literature,4.77,1.34,lexical item
+492,adult,guardian,6.9,0.33,entity
+493,newspaper,information,5.65,1.14,information
+494,communication,television,5.6,0.68,communication medium
+495,cousin,uncle,4.63,0.97,kinship
+496,author,reader,1.6,0.34,occupation
+497,guy,partner,3.57,0.36,concept
+498,area,corner,2.07,0.46,entity
+499,ballad,song,7.53,1.05,literary work
+500,wall,decoration,2.62,0.6,work
+501,word,page,2.92,1.65,object
+502,nurse,scientist,2.08,0.66,profession
+503,politician,president,7.38,3.12,politician
+504,president,mayor,5.68,1.75,public office
+505,book,essay,4.72,0.52,text
+506,man,warrior,4.72,0.38,concept
+507,article,journal,6.18,1.46,text
+508,breakfast,supper,4.4,0.81,meals
+509,crowd,parade,3.93,0.33,entity
+510,aisle,hallway,6.75,0.39,construction
+511,teacher,rabbi,4.37,0.44,profession
+512,hip,lip,1.43,0.33,anatomical structure
+513,book,article,5.43,1.76,text
+514,room,cell,4.58,0.54,part
+515,box,booth,3.8,0.43,artificial physical object
+516,daughter,kid,4.17,0.38,human
+517,limb,leg,6.9,5.91,leg
+518,liver,lung,2.7,0.59,animal organ
+519,classroom,hallway,2.0,0.45,interior space
+520,mountain,ledge,3.73,1.14,geographic location
+521,car,elevator,1.03,0.84,mode of transport
+522,bed,couch,3.42,0.62,furniture
+523,clothes,button,2.3,1.2,clothing
+524,clothes,coat,5.35,1.61,clothing
+525,kidney,organ,6.17,0.46,anatomical structure
+526,apple,sauce,1.43,0.65,food
+527,chicken,steak,3.73,0.43,food
+528,car,hose,0.87,0.47,economic branch
+529,tobacco,cigarette,7.5,4.56,tobacco
+530,student,professor,1.95,0.45,occupation
+531,baby,daughter,5.0,0.34,human
+532,pipe,cigar,6.03,2.69,smoking
+533,milk,juice,4.05,0.52,food ingredient
+534,box,cigar,1.25,0.45,product
+535,apartment,hotel,3.33,1.5,residence
+536,cup,cone,3.17,0.31,philosophical concept
+537,horse,ox,3.02,0.43,taxon
+538,throat,nose,2.8,0.32,anatomical structure
+539,bone,teeth,4.17,0.93,animal organ
+540,bone,elbow,3.78,0.39,anatomical structure
+541,bacon,bean,1.22,0.47,food
+542,cup,jar,5.13,0.64,container
+543,proof,fact,7.3,0.79,statement
+544,appointment,engagement,6.75,0.29,occurrence
+545,birthday,year,1.67,0.99,year
+546,word,clue,2.53,0.62,concept
+547,author,creator,8.02,0.83,creator
+548,atom,carbon,3.1,0.56,first-order metaclass
+549,archbishop,bishop,7.05,3.65,bishop
+550,letter,paragraph,4.0,0.38,text
+551,page,paragraph,3.03,0.48,unit of measurement
+552,steeple,chapel,7.08,0.75,architectural structure
+553,muscle,bone,3.65,1.37,animal organ
+554,muscle,tongue,5.0,0.78,first-order metaclass
+555,boy,soldier,2.15,0.37,concept
+556,belly,abdomen,8.13,0.32,anatomical structure
+557,guy,girl,3.33,3.82,gender identity
+558,bed,chair,3.5,0.79,furniture
+559,clothes,jacket,5.15,1.64,clothing
+560,gun,knife,3.65,0.38,class
+561,tin,metal,5.63,0.91,metal
+562,bottle,container,7.93,1.34,container
+563,hen,turkey,6.13,0.34,organism
+564,meat,bread,1.67,0.68,food
+565,arm,bone,3.83,0.62,animal product
+566,neck,spine,5.32,3.83,neuron spine
+567,apple,lemon,4.05,1.48,fruit
+568,agony,grief,7.63,0.41,biological process
+569,assignment,task,8.7,0.82,action
+570,night,dawn,2.95,0.44,day
+571,dinner,soup,3.72,1.39,course
+572,calf,bull,4.93,1.71,cattle
+573,snow,storm,4.8,2.02,weather
+574,nail,hand,3.42,1.34,obsolete unit of length
+575,dog,horse,2.38,0.6,polyphyletic common name
+576,arm,neck,1.58,1.24,anatomical region
+577,ball,glove,1.75,1.15,sports equipment
+578,flu,fever,6.08,0.51,health problem
+579,fee,salary,3.72,0.33,measure
+580,nerve,brain,3.88,0.43,anatomical structure
+581,beast,animal,7.83,0.57,abstract object
+582,dinner,chicken,2.85,0.45,food
+583,girl,maid,2.93,2.7,female
+584,child,boy,5.75,2.07,child
+585,alcohol,wine,7.42,1.02,Q24700923
+586,nose,mouth,3.73,1.85,subdivision of face
+587,street,car,2.38,1.09,architectural structure
+588,bell,door,2.2,0.63,philosophical concept
+589,box,hat,1.3,0.5,product
+590,belief,impression,5.95,0.35,mental state
+591,bias,opinion,5.6,0.71,point of view
+592,attention,awareness,8.73,0.45,cognition
+593,anger,mood,4.1,0.32,entity
+594,elegance,style,5.72,0.53,philosophical concept
+595,beauty,age,1.58,0.42,physical quantity
+596,book,theme,2.58,0.75,philosophical concept
+597,friend,mother,2.53,0.36,human
+598,vitamin,iron,5.55,0.41,chemical substance
+599,car,factory,2.75,1.34,market
+600,pact,condition,2.45,1.1,concept
+601,chapter,choice,0.48,0.61,term
+602,arithmetic,rhythm,2.35,0.32,process
+603,winner,presence,1.08,0.31,concept
+604,belief,flower,0.4,0.43,abstract object
+605,winner,goal,3.23,0.45,philosophical concept
+606,trick,size,0.48,0.42,concept
+607,choice,vein,0.98,0.51,entity
+608,hymn,conquest,0.68,0.4,technical term
+609,endurance,band,0.4,0.4,abstract object
+610,jail,choice,1.08,0.59,human action
+611,condition,boy,0.48,0.69,concept
+612,flower,endurance,0.4,0.33,abstract object
+613,hole,agreement,0.3,0.42,object
+614,doctor,temper,0.48,0.43,organization
+615,fraternity,door,0.68,0.55,agent
+616,task,woman,0.68,0.52,concept
+617,fraternity,baseball,0.88,0.35,agent
+618,cent,size,0.4,0.59,type of number
+619,presence,door,0.48,0.44,philosophical concept
+620,mouse,management,0.48,0.46,activity
+621,task,highway,0.48,0.55,activity
+622,liquor,century,0.4,0.38,class
+623,task,straw,0.68,0.42,activity
+624,island,task,0.3,0.76,philosophical concept
+625,night,chapter,0.48,0.39,entity
+626,pollution,president,0.68,0.46,concept
+627,gun,trick,0.48,0.35,class
+628,bath,trick,0.58,0.31,activity
+629,diet,apple,1.18,0.37,first-order metaclass
+630,cent,wife,0.58,0.31,class
+631,chapter,tail,0.3,0.56,collectible
+632,course,stomach,0.58,0.36,part
+633,hymn,straw,0.4,0.36,concept
+634,dentist,colonel,0.4,0.29,first-order metaclass
+635,wife,straw,0.4,0.3,artificial physical object
+636,hole,wife,0.68,0.32,concrete object
+637,pupil,president,0.78,0.39,occupation
+638,bath,wife,0.48,0.32,artificial physical object
+639,people,cent,0.48,0.53,class
+640,formula,log,1.77,0.35,mathematical concept
+641,woman,fur,0.58,0.45,organism
+642,apple,sunshine,0.58,0.32,group
+643,gun,dawn,1.18,0.32,class
+644,meal,waist,0.98,0.35,entity
+645,camera,president,0.48,0.4,concept
+646,liquor,band,0.68,0.49,activity
+647,stomach,vein,2.35,0.39,anatomical structure
+648,gun,fur,0.3,0.37,class
+649,couch,baseball,0.88,0.34,product
+650,worker,camera,0.68,0.7,concept
+651,deck,mouse,0.48,0.34,artificial physical object
+652,rice,boy,0.4,0.36,abstract object
+653,people,gun,0.68,0.65,class
+654,cliff,tail,0.3,0.44,natural physical object
+655,ankle,window,0.3,0.49,first-order metaclass
+656,princess,island,0.3,0.49,physical object
+657,container,mouse,0.3,0.64,abstract object
+658,wagon,container,2.65,1.05,container
+659,people,balloon,0.48,0.54,Wikidata metaclass
+660,dollar,people,0.4,0.58,entity
+661,bath,balloon,0.4,0.54,container
+662,stomach,bedroom,0.4,0.31,physical object
+663,bicycle,bedroom,0.4,0.5,motion
+664,log,bath,0.4,0.32,class
+665,bowl,tail,0.48,0.38,tool

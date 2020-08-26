@@ -1,0 +1,202 @@
+,wordone,wordtwo,mean,sim,LCS
+0,tiger,cat,7.35,5.52,mammal
+1,tiger,tiger,10.0,10.0,tiger
+2,plane,car,5.77,3.29,mode of transport
+3,train,car,6.31,4.83,motor vehicle
+4,television,radio,6.77,6.3,communication device
+5,media,radio,7.42,1.71,product
+6,bread,butter,6.19,4.5,food
+7,cucumber,potato,5.92,6.52,vegetable
+8,doctor,nurse,7.0,6.51,health professional
+9,professor,doctor,6.62,4.98,title of honor
+10,student,professor,6.81,3.39,occupation
+11,smart,stupid,5.81,3.81,Wikimedia disambiguation page
+12,wood,forest,7.73,10.0,forest
+13,money,cash,9.15,10.0,money
+14,king,queen,8.58,10.0,monarch
+15,king,rook,5.92,7.09,chess terminology
+16,bishop,rabbi,6.69,2.01,concept
+17,fuck,sex,9.44,2.48,word
+18,football,soccer,9.03,10.0,association football
+19,football,basketball,6.81,6.64,ball
+20,football,tennis,6.63,6.0,type of sport
+21,Arafat,Jackson,2.5,4.66,family name
+22,physics,chemistry,7.35,3.36,academic discipline
+23,vodka,gin,8.46,6.55,liquor
+24,vodka,brandy,8.13,6.55,liquor
+25,car,automobile,8.94,10.0,car
+26,gem,jewel,8.96,10.0,gemstone
+27,journey,voyage,9.29,7.43,travel
+28,boy,lad,8.83,10.0,boy
+29,coast,shore,9.1,10.0,bank
+30,asylum,madhouse,8.87,10.0,psychiatric hospital
+31,magician,wizard,9.02,10.0,magician in fantasy
+32,midday,noon,9.29,10.0,noon
+33,furnace,stove,8.79,3.35,construction
+34,food,fruit,7.52,7.1,food
+35,bird,cock,7.1,8.11,heraldic bird
+36,bird,crane,7.38,3.36,taxon
+37,food,rooster,4.42,3.51,organism
+38,money,dollar,8.42,6.15,money
+39,money,currency,9.04,7.62,money
+40,tiger,jaguar,8.0,3.36,taxon
+41,tiger,feline,8.0,1.26,concept
+42,tiger,carnivore,7.08,5.36,carnivore
+43,tiger,mammal,6.85,7.87,mammal
+44,tiger,animal,7.0,3.36,taxon
+45,tiger,organism,4.77,2.52,group of living things
+46,tiger,fauna,5.62,2.02,group of living things
+47,psychology,psychiatry,8.08,3.36,academic discipline
+48,psychology,science,6.71,3.36,academic discipline
+49,psychology,discipline,5.58,5.03,academic discipline
+50,planet,star,8.45,4.01,astronomical object type
+51,planet,moon,8.08,6.57,planetary system
+52,planet,sun,8.02,5.61,planetary system
+53,precedent,example,5.85,2.01,concept
+54,precedent,antecedent,6.04,2.53,legal concept
+55,cup,tableware,6.85,7.93,cup
+56,cup,artifact,2.92,2.56,artificial physical object
+57,cup,object,3.69,2.51,concrete object
+58,cup,entity,2.15,2.0,entity
+59,jaguar,cat,7.42,5.52,mammal
+60,jaguar,car,7.27,1.68,class
+61,mile,kilometer,8.66,6.26,unit of length
+62,skin,eye,6.22,6.81,animal organ
+63,Japanese,American,6.5,3.81,Wikimedia disambiguation page
+64,century,year,7.59,5.51,unit of time
+65,announcement,news,7.56,3.72,communication
+66,doctor,personnel,5.0,1.01,first-order metaclass
+67,Harvard,Yale,8.13,6.19,private university
+68,hospital,infrastructure,4.63,2.93,infrastructure
+69,life,death,7.88,7.4,life
+70,travel,activity,5.0,5.07,activity
+71,type,kind,8.97,10.0,type
+72,street,place,6.44,4.05,geographic location
+73,street,avenue,8.88,6.32,street
+74,street,block,6.88,4.3,architectural structure
+75,cell,phone,7.81,2.97,electrical element
+76,dividend,payment,7.63,1.12,concept
+77,calculation,computation,8.44,10.0,calculation
+78,profit,loss,7.63,5.0,result
+79,dollar,yen,7.78,6.16,currency
+80,dollar,buck,9.22,1.14,goods
+81,phone,equipment,7.13,4.41,equipment
+82,liquid,water,7.89,5.78,liquid
+83,marathon,sprint,7.47,6.16,sports discipline
+84,seafood,food,8.34,7.1,food
+85,seafood,lobster,8.7,8.13,seafood
+86,lobster,food,7.81,5.51,food
+87,lobster,wine,5.7,3.79,ingredient
+88,championship,tournament,8.36,7.32,championship
+89,man,woman,8.3,6.55,gender identity
+90,man,governor,5.25,1.7,role
+91,murder,manslaughter,8.53,4.9,homicide
+92,opera,performance,6.88,3.35,work of art
+93,Mexico,Brazil,7.44,7.42,Latin America
+94,glass,metal,5.56,4.54,base material
+95,aluminum,metal,7.83,4.54,base material
+96,rock,jazz,7.59,5.07,music genre
+97,museum,theater,7.19,2.39,location
+98,shower,thunderstorm,6.31,6.94,rain
+99,monk,oracle,5.0,2.55,occupation
+100,cup,food,5.0,2.05,physical object
+101,journal,association,4.97,4.37,organization
+102,street,children,4.94,1.97,social group
+103,car,flight,4.94,5.91,travel
+104,space,chemistry,4.88,1.68,classification system
+105,situation,conclusion,4.81,2.01,concept
+106,word,similarity,4.75,1.68,concept
+107,peace,plan,4.75,2.01,abstract object
+108,consumer,energy,4.75,5.19,energy
+109,ministry,culture,4.69,1.9,group of humans
+110,smart,student,4.62,2.53,human
+111,investigation,effort,4.59,1.7,human action
+112,image,surface,4.56,1.68,mathematical concept
+113,life,term,4.5,2.55,property
+114,start,match,4.47,2.52,occurrence
+115,computer,news,4.47,1.9,industry
+116,board,recommendation,4.47,1.44,first-order metaclass
+117,lad,brother,4.46,6.81,male human
+118,observation,architecture,4.38,2.81,industry
+119,coast,hill,4.38,4.4,landform
+120,deployment,departure,4.25,3.36,occurrence
+121,benchmark,index,4.25,2.01,work
+122,attempt,peace,4.25,2.01,philosophical concept
+123,consumer,confidence,4.13,1.43,entity
+124,start,year,4.06,2.02,temporal entity
+125,focus,life,4.06,2.55,property
+126,development,issue,3.97,2.28,social group
+127,theater,history,3.91,5.37,literary genre
+128,situation,isolation,3.88,2.52,situation
+129,profit,warning,3.88,1.44,abstract object
+130,media,trading,3.88,1.68,first-order metaclass
+131,chance,credibility,3.88,1.68,capability
+132,precedent,information,3.85,1.68,philosophical concept
+133,architecture,century,3.78,1.69,academic discipline
+134,population,development,3.75,2.01,concept
+135,peace,atmosphere,3.69,2.01,concept
+136,morality,marriage,3.69,1.68,concept
+137,minority,peace,3.69,2.51,philosophical concept
+138,atmosphere,landscape,3.69,2.01,part
+139,report,gain,3.63,1.26,first-order metaclass
+140,music,project,3.63,2.55,activity
+141,seven,series,3.56,1.68,series
+142,experience,music,3.47,2.53,knowledge
+143,school,center,3.44,1.73,geographic entity
+144,five,month,3.38,1.64,element
+145,announcement,production,3.38,2.04,activity
+146,morality,importance,3.31,2.51,concept
+147,money,operation,3.31,2.56,goods
+148,delay,news,3.31,1.44,industry
+149,governor,interview,3.25,1.7,activity
+150,practice,institution,3.19,3.77,institution
+151,century,nation,3.16,1.44,concept
+152,coast,forest,3.15,2.82,landform
+153,shore,woodland,3.08,2.13,geographical object
+154,drink,car,3.04,2.04,activity
+155,president,medal,3.0,3.15,award
+156,prejudice,recognition,3.0,1.7,human action
+157,viewer,serial,2.97,2.02,agent
+158,peace,insurance,2.94,1.68,concept
+159,Mars,water,2.94,3.48,type of food or dish
+160,media,gain,2.88,1.68,first-order metaclass
+161,precedent,cognition,2.81,1.68,occurrence
+162,announcement,effort,2.75,1.26,concept
+163,line,insurance,2.69,2.94,economic branch
+164,crane,implement,2.69,4.41,tool
+165,drink,mother,2.65,1.45,Wikidata metaclass
+166,opera,industry,2.63,2.01,concept
+167,volunteer,motto,2.56,1.68,concept
+168,listing,proximity,2.56,1.68,abstract object
+169,precedent,collection,2.5,2.82,element
+170,cup,article,2.4,1.7,activity
+171,sign,recess,2.38,1.44,philosophical concept
+172,problem,airport,2.38,1.43,entity
+173,reason,hypertension,2.31,2.02,state
+174,direction,combination,2.25,2.55,action
+175,Wednesday,news,2.22,1.65,communication
+176,glass,magician,2.08,1.26,agent
+177,cemetery,woodland,2.08,2.13,geographical object
+178,possibility,girl,1.94,2.04,quality
+179,cup,substance,1.92,1.71,product
+180,forest,graveyard,1.85,1.84,geographical object
+181,stock,egg,1.81,4.5,food
+182,month,hotel,1.81,1.68,spatio-temporal entity
+183,energy,secretary,1.81,1.68,first-order metaclass
+184,precedent,group,1.77,3.35,object of group
+185,production,hike,1.75,3.81,Wikimedia disambiguation page
+186,stock,phone,1.62,2.83,tool
+187,holy,sex,1.62,3.81,Wikimedia disambiguation page
+188,stock,CD,1.31,3.4,chemical compound
+189,drink,ear,1.31,2.59,biological component
+190,delay,racism,1.19,3.19,time interval
+191,stock,life,0.92,2.02,biological process
+192,stock,jaguar,0.92,1.68,first-order metaclass
+193,monk,slave,0.92,3.18,position
+194,lad,wizard,0.92,1.69,person
+195,sugar,approach,0.88,1.7,action
+196,rooster,voyage,0.62,1.45,Wikidata metaclass
+197,noon,string,0.54,1.68,concept
+198,chord,smile,0.54,1.28,industry
+199,professor,cucumber,0.31,1.26,first-order metaclass
+200,king,cabbage,0.23,1.68,first-order metaclass

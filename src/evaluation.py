@@ -19,7 +19,7 @@ class WordSimEvaluation:
         self._dataset = Dataset()
         self._correlation = spearmanr if correlation_metric == "spearman" else pearsonr
         self.simData = {}
-        self.dataset_names = ["noun_rg", "noun_mc", "noun_ws353", "noun_ws353-sim", "noun_simlex"]
+        self.dataset_names = ["noun_rg", "noun_mc", "ws353", "noun_ws353-sim", "noun_simlex"]
         self.metic_names = ["path", "wpath_graph","res", "lin", "jcn"]
 
     def evaluate_all(self):

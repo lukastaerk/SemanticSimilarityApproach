@@ -3,64 +3,64 @@
 1,midday,noon,3.94,4.0,noon
 2,automobile,car,3.92,4.0,car
 3,cemetery,graveyard,3.88,4.0,cemetery
-4,cushion,pillow,3.84,3.21,cushion
+4,cushion,pillow,3.84,3.22,cushion
 5,boy,lad,3.82,4.0,boy
 6,cock,rooster,3.68,4.0,rooster
 7,implement,tool,3.66,4.0,tool
-8,forest,woodland,3.65,2.67,forest
+8,forest,woodland,3.65,1.12,territorial entity
 9,coast,shore,3.6,4.0,bank
-10,autograph,signature,3.59,3.26,signature
+10,autograph,signature,3.59,3.29,signature
 11,journey,voyage,3.58,2.87,travel
-12,serf,slave,3.46,3.2,enslaved person
+12,serf,slave,3.46,3.21,enslaved person
 13,grin,smile,3.46,4.0,smile
 14,glass,tumbler,3.45,2.52,drinking vessel
 15,cord,string,3.41,3.24,cord
-16,hill,mound,3.29,0.66,geographic entity
+16,hill,mound,3.29,0.72,geographic entity
 17,magician,wizard,3.21,4.0,magician in fantasy
-18,furnace,stove,3.11,3.09,stove
+18,furnace,stove,3.11,1.33,construction
 19,asylum,madhouse,3.04,4.0,psychiatric hospital
-20,brother,monk,2.74,3.15,monk
-21,food,fruit,2.69,2.81,food
+20,brother,monk,2.74,3.16,monk
+21,food,fruit,2.69,2.82,food
 22,bird,cock,2.63,3.16,heraldic bird
 23,bird,crane,2.63,1.4,taxon
-24,oracle,sage,2.61,0.81,first-order metaclass
-25,sage,wizard,2.46,2.09,character type
-26,brother,lad,2.41,2.52,male human
-27,crane,implement,2.37,1.86,tool
-28,magician,oracle,1.82,1.79,occupation
-29,glass,jewel,1.78,1.66,base material
-30,cemetery,mound,1.69,1.08,construction
+24,oracle,sage,2.61,0.82,first-order metaclass
+25,sage,wizard,2.46,2.1,character type
+26,brother,lad,2.41,2.63,male human
+27,crane,implement,2.37,2.07,tool
+28,magician,oracle,1.82,1.84,occupation
+29,glass,jewel,1.78,1.75,base material
+30,cemetery,mound,1.69,1.09,construction
 31,car,journey,1.55,2.87,travel
-32,hill,woodland,1.48,0.78,geographic location
+32,hill,woodland,1.48,0.84,geographic entity
 33,crane,rooster,1.41,0.71,taxon
-34,furnace,implement,1.37,1.67,device
-35,coast,hill,1.26,1.63,landform
-36,bird,woodland,1.24,0.6,group of living things
-37,shore,voyage,1.22,0.52,physical object
-38,cemetery,woodland,1.18,0.77,geographical object
+34,furnace,implement,1.37,0.94,tool
+35,coast,hill,1.26,1.64,landform
+36,bird,woodland,1.24,0.46,metaclass
+37,shore,voyage,1.22,0.54,physical object
+38,cemetery,woodland,1.18,0.84,geographical object
 39,food,rooster,1.09,0.87,organism
-40,forest,graveyard,1.0,0.67,geographical object
+40,forest,graveyard,1.0,0.72,geographical object
 41,lad,wizard,0.99,0.73,person
-42,mound,shore,0.97,0.77,geographical object
-43,automobile,cushion,0.97,1.32,furnishing
-44,boy,sage,0.96,0.96,role
-45,monk,oracle,0.91,1.4,occupation
-46,shore,woodland,0.9,0.77,geographical object
-47,grin,lad,0.88,0.45,Wikidata metaclass
-48,coast,forest,0.85,0.72,natural geographic object
-49,asylum,cemetery,0.79,1.08,architectural structure
+42,mound,shore,0.97,0.84,geographical object
+43,automobile,cushion,0.97,0.48,activity
+44,boy,sage,0.96,0.71,taxon
+45,monk,oracle,0.91,1.44,occupation
+46,shore,woodland,0.9,0.84,geographical object
+47,grin,lad,0.88,0.38,concept
+48,coast,forest,0.85,0.75,natural geographic object
+49,asylum,cemetery,0.79,1.09,architectural structure
 50,monk,slave,0.57,1.2,position
-51,cushion,jewel,0.45,0.45,artificial entity
-52,boy,rooster,0.44,0.73,polyphyletic common name
-53,glass,magician,0.44,0.58,first-order metaclass
-54,graveyard,madhouse,0.44,0.78,geographic location
-55,asylum,monk,0.39,0.81,concept
-56,asylum,fruit,0.19,0.58,term
-57,grin,implement,0.18,0.62,goods
-58,mound,stove,0.14,1.32,construction
-59,automobile,wizard,0.11,0.71,activity
-60,autograph,shore,0.06,0.7,physical object
+51,cushion,jewel,0.45,0.46,artificial entity
+52,boy,rooster,0.44,1.65,sex
+53,glass,magician,0.44,0.55,agent
+54,graveyard,madhouse,0.44,0.84,geographic location
+55,asylum,monk,0.39,0.82,concept
+56,asylum,fruit,0.19,0.69,economic sector
+57,grin,implement,0.18,0.6,economic concept
+58,mound,stove,0.14,1.33,construction
+59,automobile,wizard,0.11,0.72,activity
+60,autograph,shore,0.06,0.72,physical object
 61,fruit,furnace,0.05,2.0,charge
-62,noon,string,0.04,0.72,text
-63,rooster,voyage,0.04,0.58,Wikidata metaclass
-64,cord,smile,0.02,0.54,goods
+62,noon,string,0.04,0.69,concept
+63,rooster,voyage,0.04,0.59,Wikidata metaclass
+64,cord,smile,0.02,0.55,economic concept
