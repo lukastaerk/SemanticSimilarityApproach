@@ -1,8 +1,10 @@
 **/.ipynb_checkpoints
 **/.vscode
-*.DS_Store
+**.DS_Store
 **/__pycache__
 src/data/
 src/pic
 old/
 *.ipynb
+*.zip
+*.mp4
