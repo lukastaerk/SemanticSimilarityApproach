@@ -7,7 +7,16 @@
 
 /dataset 
 + word similarty datasets
-+ results
++ /wordsim
+    * /results
+    * /results-csv
+    * R&G
+    * M&C
+    * WS353
+    * WS353-Sim
+    * SimLex
+
+
 
 main.py holds the procedure to generate a local knowledge graph
 
