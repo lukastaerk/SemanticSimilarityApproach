@@ -18,7 +18,6 @@
     * SimLex
 
 
-
 main.py holds the procedure to generate a local knowledge graph
 
 evaluation.py contains the evaluation functions of the different methods and datasets
